@@ -1,0 +1,1966 @@
+#AREADATA
+Name In the Air~
+Builders None~
+VNUMs 1000 1099
+Credits { 5 10} Copper  In the Air~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 1000
+Name oldstyle fairy dragon~
+Short A fairy dragon~
+Long A fairy dragon is fluttering around here looking for something to do...
+~
+Description It's a cute little multi-colored dragon...about 2 foot long.
+It gracefully dances around your head.
+~
+Race human~
+Act_flags AGR
+Aff DE
+Align 500
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d7+46
+Mana_dice 5d9+100
+Dam_dice 1d5+0
+Dam_type none
+Armor 6 6 6 8
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 1
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1001
+Name oldstyle griffin~
+Short A griffin~
+Long A large black winged griffin swoops into an attack.
+~
+Description Golden maned and black all over.  It's quite a beautiful creature if not
+for the fact it is hungry and is attacking you!
+~
+Race human~
+Act_flags AFG
+Aff 0
+Align 300
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 25
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 1001
+Name rose~
+Short a red rose~
+Desc A red rose is lying on the ground.~
+Material oldstyle~
+Item_type treasure
+Extra 0
+Extra2 0
+Wear AE
+Values BC 0 0 0 0
+Level 0
+Weight 80
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+rose~
+It's a beautiful red rose, with a soft and romantic fragrance.
+~
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 1024
+Name In the air ...~
+Desc You are flying!
+Currently you are about 60 meters above wall road.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1023
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1029
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1025
+0
+Exit
+5
+More of the same.
+~
+~
+0
+1004
+0
+EndRoom
+
+#ROOM
+Vnum 1025
+Name In the air ...~
+Desc You are flying!
+Currently you are about 60 meters above wall road.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1024
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1030
+0
+Exit
+5
+More of the same.
+~
+~
+0
+1005
+0
+EndRoom
+
+#ROOM
+Vnum 1026
+Name In the air ...~
+Desc You are flying!
+Currently you are about 60 meters above the ground north of Midgaard.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+More of the same.
+~
+~
+0
+1031
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1027
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1021
+0
+Exit
+5
+More of the same.
+~
+~
+0
+1006
+0
+EndRoom
+
+#ROOM
+Vnum 1027
+Name In the air ...~
+Desc You are flying!
+Currently you are about 40 meters above the magic shop.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1026
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1032
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1028
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1022
+0
+Exit
+5
+More of the same.
+~
+~
+0
+1007
+0
+EndRoom
+
+#ROOM
+Vnum 1028
+Name In the air ...~
+Desc You are flying!
+Currently you are about 60 meters above main street.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1027
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1033
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1029
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1023
+0
+Exit
+5
+More of the same.
+~
+~
+0
+1008
+0
+EndRoom
+
+#ROOM
+Vnum 1029
+Name In the air ...~
+Desc You are flying!
+Currently you are about 40 meters above the mage guild.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1028
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1034
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1030
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1024
+0
+Exit
+5
+More of the same.
+~
+~
+0
+1009
+0
+EndRoom
+
+#ROOM
+Vnum 1030
+Name In the air ...~
+Desc You are flying!
+Currently you are about 60 meters above poor alley.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1029
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1035
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1025
+0
+Exit
+5
+More of the same.
+~
+~
+0
+1010
+0
+EndRoom
+
+#ROOM
+Vnum 1031
+Name In the air ...~
+Desc You are flying!
+Currently you are about 60 meters above the ground north of Midgaard.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+More of the same.
+~
+~
+0
+1036
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1032
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1026
+0
+Exit
+5
+More of the same.
+~
+~
+0
+1011
+0
+EndRoom
+
+#ROOM
+Vnum 1032
+Name In the air ...~
+Desc You are flying!
+Currently you are about 40 meters above bakery and cleric guild.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1031
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1037
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1033
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1027
+0
+Exit
+5
+More of the same.
+~
+~
+0
+1012
+0
+EndRoom
+
+#ROOM
+Vnum 1033
+Name In the air ...~
+Desc You are flying!
+Currently you are about 60 meters above main street.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1032
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1038
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1034
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1028
+0
+Exit
+5
+More of the same.
+~
+~
+0
+1013
+0
+EndRoom
+
+#ROOM
+Vnum 1034
+Name In the air ...~
+Desc You are flying!
+Currently you are about 40 meters above the armoury.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1033
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1039
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1035
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1029
+0
+Exit
+5
+More of the same.
+~
+~
+0
+1014
+0
+EndRoom
+
+#ROOM
+Vnum 1035
+Name In the air ...~
+Desc You are flying!
+Currently you are about 60 meters above poor alley.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1034
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1040
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1030
+0
+Exit
+5
+More of the same.
+~
+~
+0
+1015
+0
+EndRoom
+
+#ROOM
+Vnum 1036
+Name In the air ...~
+Desc You are flying!
+Currently you are about 30 meters above the temple spire.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+More of the same.
+~
+~
+0
+1037
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1031
+0
+Exit
+4
+The rainbow leads onward and upward into the sky.
+It looks safe to travel on.
+~
+~
+0
+7700
+0
+Exit
+5
+More of the same.
+~
+~
+0
+1016
+0
+EndRoom
+
+#ROOM
+Vnum 1037
+Name In the air ...~
+Desc You are flying!
+Currently you are about 60 meters above the temple square.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1036
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1038
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1032
+0
+Exit
+5
+More of the same.
+~
+~
+0
+1017
+0
+EndRoom
+
+#ROOM
+Vnum 1038
+Name In the air ...~
+Desc You are flying!
+Currently you are about 60 meters above market square.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1037
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1039
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1033
+0
+Exit
+5
+More of the same.
+~
+~
+0
+1018
+0
+EndRoom
+
+#ROOM
+Vnum 1039
+Name In the air ...~
+Desc You are flying!
+Currently you are about 60 meters above market square and commons square.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1038
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1040
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1034
+0
+Exit
+5
+More of the same.
+~
+~
+0
+1019
+0
+EndRoom
+
+#ROOM
+Vnum 1040
+Name In the air ...~
+Desc You are flying!
+Currently you are about 60 meters above commoners square and the dump.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1039
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1035
+0
+Exit
+5
+More of the same.
+~
+~
+0
+1020
+0
+EndRoom
+
+#ROOM
+Vnum 1001
+Name In the air ...~
+Desc You are flying!
+Currently you are about 40 meters above the ground north of the city.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+More of the same.
+~
+~
+0
+1006
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1002
+0
+Exit
+4
+More of the same.
+~
+~
+0
+1021
+0
+EndRoom
+
+#ROOM
+Vnum 1002
+Name In the air ...~
+Desc You are flying!
+Currently you are about 20 meters above the inside wall of West Midgaard.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1001
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1007
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1003
+0
+Exit
+4
+More of the same.
+~
+~
+0
+1022
+0
+EndRoom
+
+#ROOM
+Vnum 1003
+Name In the air ...~
+Desc You are flying!
+Currently you are about 20 meters above the west gate of Midgaard.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1002
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1008
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1004
+0
+Exit
+4
+More of the same.
+~
+~
+0
+1023
+0
+EndRoom
+
+#ROOM
+Vnum 1004
+Name In the air ...~
+Desc You are flying!
+Currently you are about 40 meters above Wall Road.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1003
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1009
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1005
+0
+Exit
+4
+More of the same.
+~
+~
+0
+1024
+0
+EndRoom
+
+#ROOM
+Vnum 1005
+Name In the air ...~
+Desc You are flying!
+Currently you are about 40 meters above Wall Road.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1004
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1010
+0
+Exit
+4
+More of the same.
+~
+~
+0
+1025
+0
+EndRoom
+
+#ROOM
+Vnum 1006
+Name In the air ...~
+Desc You are flying!
+Currently you are about 40 meters above the ground north of Midgaard.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+More of the same.
+~
+~
+0
+1011
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1007
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1001
+0
+Exit
+4
+More of the same.
+~
+~
+0
+1026
+0
+EndRoom
+
+#ROOM
+Vnum 1007
+Name In the air ...~
+Desc You are flying!
+Currently you are about 20 meters above the magic shop.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1006
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1012
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1008
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1002
+0
+Exit
+4
+More of the same.
+~
+~
+0
+1027
+0
+EndRoom
+
+#ROOM
+Vnum 1008
+Name In the air ...~
+Desc You are flying!
+Currently you are about 40 meters above Main Street.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1007
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1013
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1009
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1003
+0
+Exit
+4
+More of the same.
+~
+~
+0
+1028
+0
+EndRoom
+
+#ROOM
+Vnum 1009
+Name In the air ...~
+Desc You are flying!
+Currently you are about 20 meters above the Mage Guild Hall.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1008
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1014
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1010
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1004
+0
+Exit
+4
+More of the same.
+~
+~
+0
+1029
+0
+EndRoom
+
+#ROOM
+Vnum 1010
+Name In the air ...~
+Desc You are flying!
+Currently you are about 40 meters above Poor Alley.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1009
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1015
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1005
+0
+Exit
+4
+More of the same.
+~
+~
+0
+1030
+0
+EndRoom
+
+#ROOM
+Vnum 1011
+Name In the air ...~
+Desc You are flying!
+Currently you are about 40 meters above the ground north of Midgaard.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+More of the same.
+~
+~
+0
+1016
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1012
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1006
+0
+Exit
+4
+More of the same.
+~
+~
+0
+1031
+0
+EndRoom
+
+#ROOM
+Vnum 1012
+Name In the air ...~
+Desc You are flying!
+Currently you are about 20 meters above the bakery.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1011
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1017
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1013
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1007
+0
+Exit
+4
+More of the same.
+~
+~
+0
+1032
+0
+EndRoom
+
+#ROOM
+Vnum 1013
+Name In the air ...~
+Desc You are flying!
+Currently you are about 40 meters above Main Street.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1012
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1018
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1014
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1008
+0
+Exit
+4
+More of the same.
+~
+~
+0
+1033
+0
+EndRoom
+
+#ROOM
+Vnum 1014
+Name In the air ...~
+Desc You are flying!
+Currently you are about 20 meters above Armoury.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1013
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1019
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1015
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1009
+0
+Exit
+4
+More of the same.
+~
+~
+0
+1034
+0
+EndRoom
+
+#ROOM
+Vnum 1015
+Name In the air ...~
+Desc You are flying!
+Currently you are about 40 meters above Poor Alley.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1014
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1020
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1010
+0
+Exit
+4
+More of the same.
+~
+~
+0
+1035
+0
+EndRoom
+
+#ROOM
+Vnum 1016
+Name In the air ...~
+Desc You are flying!
+Currently you are about 10 meters above the temple spire of Midgaard
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+More of the same.
+~
+~
+0
+1017
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1011
+0
+Exit
+4
+More of the same.
+~
+~
+0
+1036
+0
+EndRoom
+
+#ROOM
+Vnum 1017
+Name In the air ...~
+Desc You are flying!
+Currently you are about 40 meters above the Temple Square.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1016
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1018
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1012
+0
+Exit
+4
+More of the same.
+~
+~
+0
+1037
+0
+Exit
+5
+More of the same
+~
+~
+0
+3057
+0
+EndRoom
+
+#ROOM
+Vnum 1018
+Name In the air ...~
+Desc You are flying!
+Currently you are about 40 meters above Market Square.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1017
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1019
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1013
+0
+Exit
+4
+More of the same.
+~
+~
+0
+1038
+0
+EndRoom
+
+#ROOM
+Vnum 1019
+Name In the air ...~
+Desc You are flying!
+Currently you are about 40 meters above Market and Commons.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1018
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1020
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1014
+0
+Exit
+4
+More of the same.
+~
+~
+0
+1039
+0
+EndRoom
+
+#ROOM
+Vnum 1020
+Name In the air ...~
+Desc You are flying!
+Currently you are about 40 meters above ground, overlooking the Common Square.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1019
+0
+Exit
+3
+More of the same.
+~
+~
+0
+1015
+0
+Exit
+4
+More of the same.
+~
+~
+0
+1040
+0
+EndRoom
+
+#ROOM
+Vnum 1021
+Name In the air ...~
+Desc You are flying!
+Currently you are about 60 meters above the ground just north of Midgaard.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+More of the same.
+~
+~
+0
+1026
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1022
+0
+Exit
+5
+More of the same.
+~
+~
+0
+1001
+0
+EndRoom
+
+#ROOM
+Vnum 1022
+Name In the air ...~
+Desc You are flying!
+Currently you are about 40 meters above the west gate of Midgaard.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1021
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1027
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1023
+0
+Exit
+5
+More of the same.
+~
+~
+0
+1002
+0
+EndRoom
+
+#ROOM
+Vnum 1023
+Name In the air ...~
+Desc You are flying!
+Currently you are about 60 meters above west gate of Midgaard.
+It seems like you can see forever!
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+More of the same.
+~
+~
+0
+1022
+0
+Exit
+1
+More of the same.
+~
+~
+0
+1028
+0
+Exit
+2
+More of the same.
+~
+~
+0
+1024
+0
+Exit
+5
+More of the same.
+~
+~
+0
+1003
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 1000 spec_cast_mage
+S
+
+
+
+#RESETS
+M 0 1001 3 1034 3
+M 0 1000 10 1005 4
+M 0 1000 10 1019 4
+M 0 1000 10 1022 4
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,3775 @@
+#AREADATA
+Name Thalos~
+Builders None~
+VNUMs 5200 5299
+Credits {10 25} Drkside Thalos~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 5200
+Name oldstyle beholder~
+Short The mighty beholder~
+Long You meet a beholder's deadly gaze!
+~
+Description It has a large central eye that projects an anti-magic ray and ten
+eyestalks atop the round body which can do anything from charm you
+to disintegrate you.  Beholders are not known for their personality.
+~
+Race human~
+Act_flags ABFHR
+Aff D
+Align -870
+Group 0
+Level 25
+Hitroll 0
+Hit_dice 5d10+500
+Mana_dice 25d9+100
+Dam_dice 4d4+6
+Dam_type none
+Armor -6 -6 -6 2
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 1128
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5201
+Name oldstyle lamia beast~
+Short The lamia~
+Long A strange lamia stands here waiting for her next meal.
+~
+Description This is a creature with the upper torso of a beautiful woman, but the lower
+body of a four-legged beast.  She licks her lips as she looks at you greedily.
+~
+Race human~
+Act_flags ACFG
+Aff 0
+Align -999
+Group 0
+Level 9
+Hitroll 0
+Hit_dice 2d6+110
+Mana_dice 4d9+100
+Dam_dice 1d8+2
+Dam_type none
+Armor 2 2 2 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5202
+Name oldstyle mimic chest~
+Short The mimic~
+Long A strong chest lies in one corner of the room.
+~
+Description A strong, wooden chest bound with iron straps and a heavy pad-lock on the
+front.
+~
+Race human~
+Act_flags ABCFGH
+Aff P
+Align 10
+Group 0
+Level 11
+Hitroll 0
+Hit_dice 2d8+134
+Mana_dice 5d9+100
+Dam_dice 1d10+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5203
+Name oldstyle mimic boulder~
+Short The mimic~
+Long Two skeletons lie crushed under a large boulder.
+~
+Description ~
+Race human~
+Act_flags ABCFGH
+Aff P
+Align -10
+Group 0
+Level 11
+Hitroll 0
+Hit_dice 2d8+134
+Mana_dice 5d9+100
+Dam_dice 1d10+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5204
+Name oldstyle mimic floor~
+Short The mimic~
+Long The stone floor of this house has been ripped apart.
+~
+Description ~
+Race human~
+Act_flags ABCFGH
+Aff P
+Align -140
+Group 0
+Level 11
+Hitroll 0
+Hit_dice 2d8+134
+Mana_dice 5d9+100
+Dam_dice 1d10+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5205
+Name oldstyle mimic pottery~
+Short The mimic~
+Long Some broken shards of pottery lie strewn about the floor.
+~
+Description ~
+Race human~
+Act_flags ABCFGH
+Aff P
+Align 200
+Group 0
+Level 11
+Hitroll 0
+Hit_dice 2d8+134
+Mana_dice 5d9+100
+Dam_dice 1d10+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5206
+Name oldstyle mimic planks~
+Short The mimic~
+Long A few wooden planks lie stacked on a low shelf.
+~
+Description ~
+Race human~
+Act_flags ABCFGH
+Aff P
+Align 0
+Group 0
+Level 11
+Hitroll 0
+Hit_dice 2d8+134
+Mana_dice 5d9+100
+Dam_dice 1d10+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5207
+Name oldstyle lizard horned~
+Short The horned lizard~
+Long A small horned lizard flicks his tongue and slithers away.
+~
+Description A cute little lizard, that is, if you like reptiles!
+~
+Race lizard~
+Act_flags AH
+Aff 0
+Align 0
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d6+35
+Mana_dice 1d9+100
+Dam_dice 1d6+0
+Dam_type none
+Armor 7 7 7 10
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res L
+Vuln I
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGXc
+Parts ACDEFHKQV
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5208
+Name oldstyle golem stone~
+Short The stone golem~
+Long In the corner you see a large, stone golem faithfully standing watch.
+~
+Description It is a big chunk of rock that has been magically formed into a giant
+stone creature. He stands here still guarding the city.
+~
+Race human~
+Act_flags AB
+Aff N
+Align 600
+Group 0
+Level 25
+Hitroll 0
+Hit_dice 5d10+550
+Mana_dice 12d9+100
+Dam_dice 2d10+7
+Dam_type none
+Armor -7 -7 -7 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 212
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 5200
+Name mithril vest~
+Short a mithril vest~
+Desc A vest made of mithril plates lies heaped on the floor.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AD
+Values D D D B 0
+Level 26
+Weight 300
+Cost 7600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 1
+AffectObj
+1 2
+EndObj
+
+#OBJ
+Vnum 5201
+Name helm mithril~
+Short a mithril helm~
+Desc Here lies a large mithril helm.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AE
+Values D D D B 0
+Level 27
+Weight 100
+Cost 3400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 2
+EndObj
+
+#OBJ
+Vnum 5202
+Name gauntlets mithril~
+Short a pair of mithril gauntlets~
+Desc A pair of mithril gauntlets rests on the ground.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AH
+Values D D D B 0
+Level 25
+Weight 100
+Cost 2700
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 5203
+Name sleeves mithril~
+Short some mithril sleeves~
+Desc A set of mithril sleeves lies on the ground.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AI
+Values D D D B 0
+Level 25
+Weight 100
+Cost 2700
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 5204
+Name boots mithril~
+Short a pair of mithril boots~
+Desc A pair of mithril boots stands has been left here.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AG
+Values D D D B 0
+Level 25
+Weight 60
+Cost 3100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+AffectObj
+2 1
+EndObj
+
+#OBJ
+Vnum 5205
+Name leggings mithril~
+Short a set of mithril leggings~
+Desc A set of mithril leggings lie here unattended.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AF
+Values D D D B 0
+Level 25
+Weight 100
+Cost 3100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+AffectObj
+2 1
+EndObj
+
+#OBJ
+Vnum 5206
+Name girth mithril~
+Short a mithril girth~
+Desc A large iron girth lies at your feet.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AL
+Values D D D B 0
+Level 26
+Weight 60
+Cost 5200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+5 2
+EndObj
+
+#OBJ
+Vnum 5207
+Name breast plate iron~
+Short a battered iron breast plate~
+Desc A battered iron breast plate lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values AC AC AC 0 0
+Level 4
+Weight 450
+Cost 9100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 -6
+EndObj
+
+#OBJ
+Vnum 5208
+Name shield iron~
+Short a sturdy iron shield~
+Desc A small, but sturdy, iron shield has been left here.~
+Material oldstyle~
+Item_type armor
+Extra GJ
+Extra2 0
+Wear AJ
+Values ABC ABC ABC AB 0
+Level 24
+Weight 50
+Cost 4400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+20 -2
+AffectObj
+20 -2
+EndObj
+
+#OBJ
+Vnum 5210
+Name potion black~
+Short a black potion~
+Desc A jet black potion sits upright waiting to be taken.~
+Material oldstyle~
+Item_type potion
+Extra FG
+Extra2 0
+Wear A
+Values 16 'blindness' 'sanctuary' 'giant strength' ''
+Level 11
+Weight 50
+Cost 880
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5211
+Name potion orange~
+Short an orange potion~
+Desc A small orange potion lies here.~
+Material oldstyle~
+Item_type potion
+Extra FG
+Extra2 0
+Wear A
+Values 20 'detect hidden' '' '' ''
+Level 4
+Weight 100
+Cost 400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5214
+Name ball quartz~
+Short a smooth quartz ball~
+Desc A smooth quartz ball lies here gleaming.~
+Material oldstyle~
+Item_type light
+Extra G
+Extra2 0
+Wear AO
+Values 0 0 DG 0 0
+Level 0
+Weight 300
+Cost 50
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5215
+Name scroll tattered~
+Short a tattered scroll~
+Desc A worn and tattered scroll has been left here.~
+Material oldstyle~
+Item_type scroll
+Extra G
+Extra2 0
+Wear A
+Values 24 'enchant weapon' '' '' ''
+Level 8
+Weight 150
+Cost 1280
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5216
+Name scroll bound~
+Short a bound scroll~
+Desc A bound scroll of detection lies at your feet.~
+Material oldstyle~
+Item_type scroll
+Extra G
+Extra2 0
+Wear A
+Values 15 'detect evil' 'detect invis' 'detect magic' ''
+Level 0
+Weight 150
+Cost 500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5217
+Name flute silver~
+Short a silver flute~
+Desc A brilliant silver flute glimmers from beneath a rock.~
+Material oldstyle~
+Item_type staff
+Extra AG
+Extra2 0
+Wear AO
+Values 17 1 1 'charm person' 0
+Level 9
+Weight 10
+Cost 3300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+2 -2
+EndObj
+
+#OBJ
+Vnum 5218
+Name talisman demon~
+Short a demon-faced talisman~
+Desc A demon-faced talisman glares at you angrily.~
+Material oldstyle~
+Item_type jewelry
+Extra AG
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 0
+Weight 110
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+1 -10
+AffectObj
+2 -8
+EndObj
+
+#OBJ
+Vnum 5219
+Name venison chunk~
+Short a chunk of venison~
+Desc A large chunk of venison sits here ready to be eaten.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values DE DE 0 0 0
+Level 0
+Weight 200
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5220
+Name fountain water~
+Short a large cracked fountain~
+Desc Some stagnant water lies in the bottom of the fountain.~
+Material oldstyle~
+Item_type fountain
+Extra 0
+Extra2 0
+Wear 0
+Values 10 10 'water' 1 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5221
+Name two-handed two sword~
+Short a two-handed sword~
+Desc A nice two-handed sword hangs on a hook in the wall.~
+Material oldstyle~
+Item_type weapon
+Extra GK
+Extra2 0
+Wear AN
+Values sword 2 12 chop F
+Level 26
+Weight 240
+Cost 3300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 2
+AffectObj
+19 3
+EndObj
+
+#OBJ
+Vnum 5222
+Name robe black silk~
+Short a black silk robe~
+Desc A black silk robe lies heaped in one corner.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AK
+Values A A A AC 0
+Level 5
+Weight 60
+Cost 410
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 10
+EndObj
+
+#OBJ
+Vnum 5223
+Name cloak green~
+Short a dark green cloak~
+Desc A beautiful dark green cloak has been dropped by someone.~
+Material oldstyle~
+Item_type armor
+Extra GJ
+Extra2 0
+Wear AC
+Values ABC ABC ABC B 0
+Level 20
+Weight 120
+Cost 1600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 5
+EndObj
+
+#OBJ
+Vnum 5224
+Name seal ebony~
+Short an engraved ebony seal~
+Desc A small, engraved ebony seal is here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values BCDE 0 0 0 0
+Level 0
+Weight 20
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5225
+Name desk curved~
+Short the desk~
+Desc A dirty, crumbling curved desk is here.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 -1 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5226
+Name seal ivory~
+Short an engraved ivory seal~
+Desc A small, engraved ivory seal lies here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values ABCDE 0 0 0 0
+Level 0
+Weight 20
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5227
+Name cabinet glass~
+Short the glass cabinet~
+Desc A broken glass cabinet is here.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 -1 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5228
+Name arm rotted~
+Short a rotten arm~
+Desc A rotted arm floats lazily by your feet.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values BEF BEF 0 A 0
+Level 0
+Weight 200
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5230
+Name stone pale blue~
+Short a pale blue stone~
+Desc A pale blue stone sits here.~
+Material oldstyle~
+Item_type gem
+Extra G
+Extra2 0
+Wear AQ
+Values 0 0 0 0 0
+Level 5
+Weight 10
+Cost 550
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+1 1
+EndObj
+
+#OBJ
+Vnum 5231
+Name stone scarlet blue~
+Short a scarlet and blue stone~
+Desc A pretty scarlet and blue stone has been dropped here.~
+Material oldstyle~
+Item_type gem
+Extra G
+Extra2 0
+Wear AQ
+Values 0 0 0 0 0
+Level 5
+Weight 10
+Cost 550
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+3 1
+EndObj
+
+#OBJ
+Vnum 5232
+Name stone blue incandescent~
+Short an incandescent blue stone~
+Desc A small incandescent blue stone lies here.~
+Material oldstyle~
+Item_type gem
+Extra G
+Extra2 0
+Wear AQ
+Values 0 0 0 0 0
+Level 5
+Weight 10
+Cost 550
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+4 1
+EndObj
+
+#OBJ
+Vnum 5233
+Name stone red deep~
+Short a deep red stone~
+Desc Someone has left a deep red stone here.~
+Material oldstyle~
+Item_type gem
+Extra G
+Extra2 0
+Wear AQ
+Values 0 0 0 0 0
+Level 5
+Weight 10
+Cost 550
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+2 1
+EndObj
+
+#OBJ
+Vnum 5234
+Name stone pink~
+Short a pink stone~
+Desc A tiny pink stone lies at your feet.~
+Material oldstyle~
+Item_type gem
+Extra G
+Extra2 0
+Wear AQ
+Values 0 0 0 0 0
+Level 5
+Weight 10
+Cost 550
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+5 1
+EndObj
+
+#OBJ
+Vnum 5235
+Name stone pearly white~
+Short a pearly white stone~
+Desc This pearly white stone would probably sell for a good price.~
+Material oldstyle~
+Item_type gem
+Extra G
+Extra2 0
+Wear AQ
+Values 0 0 0 0 0
+Level 5
+Weight 10
+Cost 11
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 1
+EndObj
+
+#OBJ
+Vnum 5237
+Name stone lavender green~
+Short a lavender and green stone~
+Desc A stunning lavender and green stone rests on the ground.~
+Material oldstyle~
+Item_type gem
+Extra G
+Extra2 0
+Wear AQ
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 150
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+20 -1
+EndObj
+
+#OBJ
+Vnum 5239
+Name stone grey dull~
+Short a dull grey stone~
+Desc You can barely make out a dull grey stone on the ground.~
+Material oldstyle~
+Item_type gem
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 10
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5241
+Name stone pink green~
+Short a pink and green stone~
+Desc A bright pink and green stone has been left here.~
+Material oldstyle~
+Item_type gem
+Extra G
+Extra2 0
+Wear AQ
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 -5
+EndObj
+
+#OBJ
+Vnum 5243
+Name stone clear~
+Short a clear stone~
+Desc A odd clear stone lies at your feet.~
+Material oldstyle~
+Item_type gem
+Extra G
+Extra2 0
+Wear AQ
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 3
+EndObj
+
+#OBJ
+Vnum 5250
+Name mandolin~
+Short a mandolin~
+Desc A mandolin lies against the wall.~
+Material oldstyle~
+Item_type staff
+Extra G
+Extra2 0
+Wear AO
+Values 13 3 3 'cure critical' 0
+Level 9
+Weight 100
+Cost 2500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5251
+Name harp golden~
+Short a golden harp~
+Desc A battered golden harp has been tipped over.~
+Material oldstyle~
+Item_type instrument
+Extra G
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 7
+Weight 500
+Cost 2700
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+2 -2
+EndObj
+
+#OBJ
+Vnum 5252
+Name long dagger slim~
+Short a long slim dagger~
+Desc A long slim dagger has been left here.~
+Material oldstyle~
+Item_type weapon
+Extra G
+Extra2 0
+Wear AN
+Values dagger 2 5 pierce 0
+Level 8
+Weight 10
+Cost 590
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+AffectObj
+19 1
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 5200
+Name The Grand Gate of Thalos~
+Desc You stand in the archway of a gigantic stone archway. The two
+steel gates have been forced open and have rusted in place. A hollow
+gust of wind blows by you into the deserted, and seemingly destroyed,
+city.
+~
+Room_flags 4
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a trail out of this blasted place.
+~
+~
+0
+5256
+0
+Exit
+3
+You see devastation everywhere. Houses lie in ruin and skeletons litter
+the streets. You see strange beasts stalking the shadows.
+~
+~
+0
+5201
+0
+EndRoom
+
+#ROOM
+Vnum 5201
+Name Main Street~
+Desc This was once a magnificent street, but now is in total ruin. The
+streets are barren and windswept and the silence is unending.  A dark alley
+leads north and south.  Howls and screams echo through the deserted city.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+It's a dark alley.
+~
+~
+0
+5239
+0
+Exit
+1
+The entrance to the city lies this way.
+~
+~
+0
+5200
+0
+Exit
+2
+It's a dark alley.
+~
+~
+0
+5255
+0
+Exit
+3
+Main Street lies this way.
+~
+~
+0
+5202
+0
+EndRoom
+
+#ROOM
+Vnum 5202
+Name Main Street~
+Desc This was once a magnificent street, but now is in total ruin. The
+streets are barren and windswept and the silence is unending. On one
+side is a collapsed house while on the other is the entrance to a large
+ruined mansion. Eerie sounds echo within the mansion. Near the center of
+town you see a large domed building, relatively intact.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The remnants of a store lie this way.
+~
+~
+0
+5236
+0
+Exit
+1
+~
+~
+0
+5201
+0
+Exit
+2
+It looks like what used to be the main building in the city.
+~
+~
+0
+5232
+0
+Exit
+3
+A withered garden path lies this way.
+~
+~
+0
+5203
+0
+EndRoom
+
+#ROOM
+Vnum 5203
+Name A Garden Path~
+Desc A circular path surrounds a magnificent domed temple in the center of
+the city. Flowers have withered away and the once lush trees are bare.
+Vines and ivy snake up the sides of the temple and entangle themselves
+around your feet. A sudden volley of howls pierces the air.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The garden path continues around the building.
+~
+~
+0
+5204
+0
+Exit
+1
+This is the main street leading to the city's entrance
+~
+~
+0
+5202
+0
+Exit
+2
+The garden path continues around the building.
+~
+~
+0
+5206
+0
+Exit
+3
+Inside the temple, small patches of light shoot through each doorway as
+well as a few holes in the ceiling.
+~
+~
+0
+5250
+0
+EndRoom
+
+#ROOM
+Vnum 5204
+Name A Garden Path~
+Desc A circular path surrounds a magnificent domed temple in the center of
+the city. Flowers have withered away and the once lush trees are bare.
+Vines and ivy snake up the sides of the temple and entangle themselves
+around your feet. A sudden volley of howls pierces the air.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+A side street leads off to the northern half of the city.
+~
+~
+0
+5211
+0
+Exit
+2
+The garden path continues around the building.
+~
+~
+0
+5203
+0
+Exit
+3
+The garden path continues around the building.
+~
+~
+0
+5205
+0
+EndRoom
+
+#ROOM
+Vnum 5205
+Name A Garden Path~
+Desc A circular path surrounds a magnificent domed temple in the center of
+the city. Flowers have withered away and the once lush trees are bare.
+Vines and ivy snake up the sides of the temple and entangle themselves
+around your feet. A sudden volley of howls pierces the air.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The garden path continues around the building.
+~
+~
+0
+5204
+0
+Exit
+2
+Inside the temple, small patches of light shoot through each doorway as
+well as a few holes in the ceiling.
+~
+~
+0
+5250
+0
+EndRoom
+
+#ROOM
+Vnum 5206
+Name A Garden Path~
+Desc A circular path surrounds a magnificent domed temple in the center of
+the city. Flowers have withered away and the once lush trees are bare.
+Vines and ivy snake up the sides of the temple and entangle themselves
+around your feet. A sudden volley of howls pierces the air.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The garden path continues around the building.
+~
+~
+0
+5203
+0
+Exit
+2
+A small side street leads to the southern half of the city.
+~
+~
+0
+5212
+0
+EndRoom
+
+#ROOM
+Vnum 5207
+Name The market place~
+Desc You stand in the middle of a large square lined on each side with
+baskets, carts, and stands of all shapes and sizes. Abandoned, these
+little shops still contain some of their goods once sold to a demanding
+public.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+A small table has been toppled over, spilling fine jewelery and gems
+onto the ground.
+~
+~
+0
+5225
+0
+Exit
+2
+Rotted remains of fruits and vegetables lie strewn about.
+~
+~
+0
+5220
+0
+Exit
+3
+The market place continues.
+~
+~
+0
+5208
+0
+EndRoom
+
+#ROOM
+Vnum 5208
+Name The market place~
+Desc You stand at the end of the market square. Stands and carts line
+each side, filled with remnants of fine foods and exquisite goods.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Tattered carpets and ruined bales of silk sit idly by a run down stand.
+~
+~
+0
+5222
+0
+Exit
+1
+The center of the market lies this way.
+~
+~
+0
+5207
+0
+Exit
+2
+From the massive stench, this must have been a meat and poultry stand.
+It lies totally bare.
+~
+~
+0
+5217
+0
+EndRoom
+
+#ROOM
+Vnum 5209
+Name A Side Street~
+Desc This small side street leads east and west into back alleys while
+to the south you see the temple. The incessant howling tears at your mind.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5243
+0
+Exit
+2
+~
+~
+0
+5210
+0
+Exit
+3
+~
+~
+0
+5228
+0
+EndRoom
+
+#ROOM
+Vnum 5210
+Name A Side Street~
+Desc You are in the common section of the city. Ruined buildings made of
+clay and stone is all the view has to offer. Most of these homes are
+nothing but piles of rubble, but some look almost safe enough to venture
+into. The street continues north and south and buildings line the street.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5209
+0
+Exit
+1
+A small doorway leads into a partially collapsed house.
+~
+~
+-1
+5244
+A
+Exit
+2
+~
+~
+0
+5211
+0
+Exit
+3
+A small clay dwelling sits here.
+~
+~
+0
+5226
+0
+EndRoom
+
+#ROOM
+Vnum 5211
+Name A Side Street~
+Desc This small side street leads away from the garden path to the south.
+Around you stand large piles or rubble where the houses of commoners
+used to be. A lone howl makes you worry greatly about your safety here.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5210
+0
+Exit
+1
+An unusually tall dwelling stands looming over you.
+~
+~
+0
+5237
+0
+Exit
+2
+A garden path circles around the temple.
+~
+~
+0
+5204
+0
+Exit
+3
+Here lies a small stone house with a thatched roof.
+~
+~
+0
+5227
+0
+EndRoom
+
+#ROOM
+Vnum 5212
+Name A side street~
+Desc This small side street leads south away from the temple into the
+business section of town. The destruction that leveled this city was not
+biased; these important looking buildings have been almost totally
+destroyed. There is a hole in the wall of a very large structure to the
+east.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+A small garden path encircles the temple.
+~
+~
+0
+5206
+0
+Exit
+1
+This possibly could be the city hall.
+~
+~
+0
+5232
+0
+Exit
+2
+~
+~
+0
+5213
+0
+Exit
+3
+Inside the building you see long pieces of metal, an oven, and some
+anvils.
+~
+~
+0
+5221
+0
+EndRoom
+
+#ROOM
+Vnum 5213
+Name A side street~
+Desc This small side street is lined with the remains of once great
+buildings. To the north is a dark, foreboding structure while to the
+east lies the entrance to a small tavern. The street continues north
+and south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5212
+0
+Exit
+1
+From the looks of it, this was once a two story abode. The entire second
+floor has collapsed leaving a very little part of the bar still free
+from debris.
+~
+~
+0
+5230
+0
+Exit
+2
+~
+~
+0
+5214
+0
+Exit
+3
+This seems to be the only guild house in the entire city. Its dark nature
+makes you wonder about its origins.
+~
+~
+0
+5219
+0
+EndRoom
+
+#ROOM
+Vnum 5214
+Name A side street~
+Desc You are at the end of a long street leading to the center of the city.
+A long dark alley runs east and west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5213
+0
+Exit
+1
+~
+~
+0
+5251
+0
+Exit
+2
+~
+~
+0
+5229
+0
+Exit
+3
+~
+~
+0
+5218
+0
+EndRoom
+
+#ROOM
+Vnum 5215
+Name Under a ruined watchtower~
+Desc You stand at the base of a tall watchtower built to protect the city
+from invaders. From the looks of things, it did not do a good job.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5216
+0
+Exit
+1
+~
+~
+0
+5218
+0
+Exit
+4
+~
+~
+0
+5247
+0
+EndRoom
+
+#ROOM
+Vnum 5216
+Name A back alley~
+Desc This alley leads to the rear of what used to be a meat stand. You wince
+at the stench. South is one of the city watchtowers.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the back-side of the market place meat stand.
+~
+~
+0
+5217
+0
+Exit
+2
+A tall watchtower stands a silent vigil over the city.
+~
+~
+0
+5215
+0
+EndRoom
+
+#ROOM
+Vnum 5217
+Name The meat stand~
+Desc A large stand has been set up here with metal hooks and wooden racks
+in the background. Hanging on the hooks are very small scraps of meat
+and other game. This stand is relatively empty, and a sudden burst of
+howling and screaming makes you realize why this is so.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The market place lies this way.
+~
+~
+0
+5208
+0
+Exit
+1
+This is a cart full of rotted vegetables and fruits.
+~
+~
+0
+5220
+0
+Exit
+2
+~
+~
+0
+5216
+0
+EndRoom
+
+#ROOM
+Vnum 5218
+Name A back alley~
+Desc A narrow alley leads east to a wider street and west to one of
+the city watchtowers.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+A small side street greets you.
+~
+~
+0
+5214
+0
+Exit
+3
+A tall watchtower stands a silent vigil over the city.
+~
+~
+0
+5215
+0
+EndRoom
+
+#ROOM
+Vnum 5219
+Name The guild house~
+Desc You are standing in what once was this city's ONLY guild house.
+Tables and chairs have been smashed and broken weapons lie strewn about
+the floor as if some massive battle had taken place here. Draped along
+the back wall is a tattered, jet-black banner with the symbol of the
+Darkside set upon it.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+A small side street runs past the building.
+~
+~
+0
+5213
+0
+EndRoom
+
+#ROOM
+Vnum 5220
+Name The produce stand~
+Desc A large cart sits here carrying rotted fruit and vegetables. Flys
+swarm all about what seems to be the last remaining bits of food left
+in the city.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The market place is deserted.
+~
+~
+0
+5207
+0
+Exit
+3
+A strong stench emanates from the meat stand next to you.
+~
+~
+0
+5217
+0
+EndRoom
+
+#ROOM
+Vnum 5221
+Name The smithy~
+Desc In here you find tools and anvils used to make various weapons
+and items. The walls have been stripped clean and only a few incomplete
+pieces of armor and weaponry are left.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+A small side street runs past the building.
+~
+~
+0
+5212
+0
+EndRoom
+
+#ROOM
+Vnum 5222
+Name The tapestry stand~
+Desc Tattered and torn tapestries and rugs lie heaped in piles. Fancy
+robes and various articles of clothing are now just rags. You stare at
+the strange piles for a long time until a piercing howl makes you
+think these might be beds.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5223
+0
+Exit
+1
+A fine jewelry stand lies in ruin next to you.
+~
+~
+0
+5225
+0
+Exit
+2
+The market place is deserted.
+~
+~
+0
+5208
+0
+EndRoom
+
+#ROOM
+Vnum 5223
+Name A back alley~
+Desc A narrow alley leads north to one of the city watchtowers while
+to the south there lies a market stand full of torn clothes and rugs.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+A tall watchtower stands a silent vigil over the city.
+~
+~
+0
+5224
+0
+Exit
+2
+~
+~
+0
+5222
+0
+EndRoom
+
+#ROOM
+Vnum 5224
+Name Under the watchtower~
+Desc You stand under one of the city watchtowers built to protect
+the city from invaders. Obviously, it failed.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5228
+0
+Exit
+2
+~
+~
+0
+5223
+0
+Exit
+4
+Above you looms a tall watchtower.
+~
+~
+0
+5246
+0
+EndRoom
+
+#ROOM
+Vnum 5225
+Name The jewelery stand~
+Desc A table has been tipped over, spilling fine jewelery and gems
+across the market place. Most of these trinkets are battered and
+tarnished and few would have any value anymore.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+The market place is deserted.
+~
+~
+0
+5207
+0
+Exit
+3
+Next to you is a stand full of ruined clothes and rugs.
+~
+~
+0
+5222
+0
+EndRoom
+
+#ROOM
+Vnum 5226
+Name A ruined clay dwelling~
+Desc This was once a very plain house with nothing more than a few chairs
+and a bed. A cold fireplace suggests that the city has been abandoned
+for quite a while. Almost nothing remains of this humble abode.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+Outside is a small side street.
+~
+~
+0
+5210
+0
+EndRoom
+
+#ROOM
+Vnum 5227
+Name A collapsed stone dwelling~
+Desc This small house has completely collapsed upon itself leaving piles
+of debris here and there. A few rafters still stand with thatched straw
+hanging down and a hot wind gusts through the hollow dwelling.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+A small side street runs past the house.
+~
+~
+0
+5211
+0
+EndRoom
+
+#ROOM
+Vnum 5228
+Name A back alley~
+Desc A narrow alley leads east to one of the city watchtowers and west to
+a small side street.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5209
+0
+Exit
+3
+~
+~
+0
+5224
+0
+EndRoom
+
+#ROOM
+Vnum 5229
+Name An abandoned shop~
+Desc From the outside this place looks like an ordinary pile of rubble,
+but inside these cramped quarters you discover what used to be a shop
+filled with armor, weapons, and various other goods. A small sign flutters
+in the wind.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+A small side street runs past the shop.
+~
+~
+0
+5214
+0
+EndRoom
+
+#ROOM
+Vnum 5230
+Name The Tavern of the Sun~
+Desc A glorious place in it's prime, this tavern now lies in ruin; tables
+and chairs are broken scattered, bottles and glasses shattered, and
+a small performance stage crushed. Musical instruments and personal
+belongings lie under the rubble, but the people they once belonged to are
+not with them. Looking up you see that the entire second floor and roof
+has fallen in, leaving a gaping hole above.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+A small side street runs past the tavern.
+~
+~
+0
+5213
+0
+EndRoom
+
+#ROOM
+Vnum 5231
+Name South wing of the city hall~
+Desc You stand in a large room attached to this end of the hallway which
+leads back north to the reception area.  Pedestals and columns have fallen
+and most of the valuable items have been taken, leaving worthless debris.
+A few chairs have survived, as well as a large curved desk. To the east
+is a vine-covered archway leading out into a private courtyard.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The long hallway leads back to the main reception area of the city hall.
+~
+~
+0
+5232
+0
+Exit
+1
+~
+~
+0
+5234
+0
+EndRoom
+
+#ROOM
+Vnum 5232
+Name The city hall~
+Desc This is the main reception area of Thalos' city hall. The walls have
+been charred and scored massively and debris is spread from wall to wall.
+A large gaping hole in the west wall allows you to see out to one of
+the city's side streets. Obviously no one will be seeing you through today.
+Hallways lead south and east.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Main street runs past the city hall.
+~
+~
+0
+5202
+0
+Exit
+1
+A hallway leads to the east wing of the city hall.
+~
+~
+0
+5233
+0
+Exit
+2
+A hallway leads to the south wing of the city hall.
+~
+~
+0
+5231
+0
+Exit
+3
+~
+~
+0
+5212
+0
+EndRoom
+
+#ROOM
+Vnum 5233
+Name East wing of the city hall~
+Desc Here lies the remnants of a fancy office, possibly the mayor's. A few
+withered plants and broken pieces of furniture make this place anything
+but fancy, though. The only thing remaining intact here is a large
+glass cabinet. A long hallway leads west back to the reception area and
+an ivy-covered archway leads south into a private courtyard.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+5234
+0
+Exit
+3
+~
+~
+0
+5232
+0
+EndRoom
+
+#ROOM
+Vnum 5234
+Name The private gardens and courtyard of Thalos~
+Desc What a shame that this mass destruction also touched this once
+beautiful place. The temple's garden path has nothing on this garden.
+Flowers and trees have been smashed into the ground and lawn benches
+thrown through walls. A large marble fountain in the center of the
+courtyard still stands, though, defying any attempts to destroy its
+beauty. Above stands the remnants of one of the watchtowers. Archways
+north and west lead back into the city hall.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5233
+0
+Exit
+3
+~
+~
+0
+5231
+0
+EndRoom
+
+#ROOM
+Vnum 5235
+Name A small guard house~
+Desc This was once the barracks for Thalos' cityguards. Now just an empty
+shell, this small shack still stands guarding the entrance both to the
+city and to the city hall.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The alley runs by this building.
+~
+~
+0
+5255
+0
+EndRoom
+
+#ROOM
+Vnum 5236
+Name A collapsed home~
+Desc All that's left of this house is a few scattered piles of rubble
+and a very large blast crater. Obviously someone or something important
+was once housed here. A shrieking howl chills your blood.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+Main street runs past this ruined home.
+~
+~
+0
+5202
+0
+EndRoom
+
+#ROOM
+Vnum 5237
+Name A tall dwelling~
+Desc This seems to be the tallest structure remaining in the city. At
+one time this could have been an inn of some sort, but now it's just
+a mess. The back wall as been completely knocked down revealing an
+entrance into another building through yet another collapsed wall.
+Between the two buildings are a few blast craters and boulders. An old
+set of wooden steps leads up to a creaking second floor.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5238
+0
+Exit
+3
+A small side street winds past the dwelling.
+~
+~
+0
+5211
+0
+Exit
+4
+The stairs and even the entire second floor itself looks very unsafe
+for travel. Gusts of wind make them creak and shudder.
+~
+~
+0
+5245
+0
+EndRoom
+
+#ROOM
+Vnum 5238
+Name A small shack~
+Desc This cramped dwelling could not have housed more than one person. Now
+with the back wall missing, it could hold many more. Looking around you
+find broken shelves and workbenches with various vials and pouches spilling
+contents all across the floor. This was possibly the magic shop of the
+city. The doorway to the east is blocked, making the only exit back west.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+5237
+0
+EndRoom
+
+#ROOM
+Vnum 5239
+Name A back alley~
+Desc A narrow back alley goes south to main street and north towards
+a watchtower. A mass of howls catches you off guard.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5240
+0
+Exit
+2
+Main street runs past here.
+~
+~
+0
+5201
+0
+EndRoom
+
+#ROOM
+Vnum 5240
+Name A back alley~
+Desc A narrow back alley leads north to one of the city watchtowers
+and south towards main street. To the west is a doorway to a small
+house blocked by debris.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+A tall watchtower stands a silent vigil over the city.
+~
+~
+0
+5241
+0
+Exit
+2
+~
+~
+0
+5239
+0
+EndRoom
+
+#ROOM
+Vnum 5241
+Name Under a watchtower~
+Desc You stand under a tall watchtower. Narrow back alleys lead west and
+south and a very weak looking ladder leads up into the tower.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+5240
+0
+Exit
+3
+~
+~
+0
+5243
+0
+Exit
+4
+Winds howl high above your head in the tower above.
+~
+~
+0
+5248
+0
+EndRoom
+
+#ROOM
+Vnum 5242
+Name A bath house~
+Desc This was once the bath house for the commoners of the city. Hot
+steamy water still wells up from a hole in the floor. Obviously there
+is a hot spring located under the city (making the decision to put
+a city here seem much more reasonable). Closer inspection of the water
+yields a dead body floating around in it, skin melted away from months
+of floating in there. The west wall has collapsed revealing another
+collapsed house.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5243
+0
+Exit
+3
+The wall has collapsed on the adjoining house, creating a new opening
+in it.
+~
+~
+0
+5244
+0
+EndRoom
+
+#ROOM
+Vnum 5243
+Name A back alley~
+Desc A narrow back alley leads west to a small side street and east to one
+of the city watchtowers. Great amounts of steam issue forth from the
+building to the south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+A watchtower stands a silent vigil over the city.
+~
+~
+0
+5241
+0
+Exit
+2
+~
+~
+0
+5242
+0
+Exit
+3
+A side street runs by here.
+~
+~
+0
+5209
+0
+EndRoom
+
+#ROOM
+Vnum 5244
+Name An upright house~
+Desc This home is practically the only one around that is still standing.
+Except for the massive hole in the east wall, everything else looks
+intact, including the windows. Great amounts of steam issue forth from
+the hole in the east wall.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5242
+0
+Exit
+3
+A small side street runs past the house.
+~
+~
+0
+5210
+0
+EndRoom
+
+#ROOM
+Vnum 5245
+Name On the second floor~
+Desc The minute you step off onto this floor you realize it was a mistake.
+The old rotted floorboards suddenly give way and you fall down, impaling
+yourself on jagged boards below.
+
+You've fallen, and you can't get up!!!
+~
+Room_flags 4
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 5246
+Name The north-west watchtower~
+Desc You stand atop one of the city watchtowers. The view is magnificent
+from here and you can see all the way to the western mountains. No wonder
+this place stood for so long.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+The city lies below.
+~
+~
+0
+5224
+0
+EndRoom
+
+#ROOM
+Vnum 5247
+Name The south-west watchtower~
+Desc You stand atop one of the city watchtowers. The view is magnificent
+from here and you can see all the way to the western mountains. To the
+south the desert stretches to the horizon. No wonder this place stood
+for so long.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+The city lies below.
+~
+~
+0
+5215
+0
+EndRoom
+
+#ROOM
+Vnum 5248
+Name The north-east watchtower~
+Desc You stand atop one of the city watchtowers. The view is magnificent
+from here and you can see a great floating pyramid to the north-east.
+Desert sand stretches to the horizon. No wonder this place stood for so
+long.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+The city lies below.
+~
+~
+0
+5241
+0
+EndRoom
+
+#ROOM
+Vnum 5250
+Name The Temple of Thalos~
+Desc You stand within one of the most holy places in the realm. This
+stunning domed temple once housed the city's worshipers en masse.
+Unfortunately, it succumbed to the destruction brought on this city.
+Long benches lie toppled and the altar desecrated. Large chunks of stone
+have fallen from the walls and roof, sending sunlight streaming in on
+you. A few books lie about, conveying to you a holy message in a
+strange tongue.
+     Wind gusts through the four archways and howls and screams can be
+heard from all parts of the city.
+~
+Room_flags 136
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+A side street leads to the northern half of the city.
+~
+~
+0
+5205
+0
+Exit
+1
+Main street leads out to the main gate of the city.
+~
+~
+0
+5203
+0
+EndRoom
+
+#ROOM
+Vnum 5251
+Name A back alley~
+Desc A narrow alley leads east to a wider street and west to one of
+the city watchtowers.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+A tall watchtower stands a silent vigil over the city.
+~
+~
+0
+5252
+0
+Exit
+3
+A small side street greets you.
+~
+~
+0
+5214
+0
+EndRoom
+
+#ROOM
+Vnum 5252
+Name Under a ruined watchtower~
+Desc You stand at the base of a tall watchtower built to protect the city
+from invaders. From the looks of things, it did not do a good job.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5253
+0
+Exit
+3
+~
+~
+0
+5251
+0
+Exit
+4
+~
+~
+0
+5254
+0
+EndRoom
+
+#ROOM
+Vnum 5253
+Name A back alley~
+Desc A narrow alley leads south to one of the city watchtowers.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The alley continues to the north.
+~
+~
+0
+5255
+0
+Exit
+2
+A tall watchtower stands a silent vigil over the city.
+~
+~
+0
+5252
+0
+EndRoom
+
+#ROOM
+Vnum 5254
+Name The south-east watchtower~
+Desc You stand atop one of the city watchtowers. The view is magnificent
+from here and you can see all the way to the western mountains. To the
+south the desert stretches to the horizon. No wonder this place stood
+for so long.  There is a small plaque on the stones.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign plaque~
+This extension to Thalos, along with the dwarf forest, is made by Hatchet for
+any Merc Mud.
+copyright 1992
+~
+Exit
+5
+The city lies below.
+~
+~
+0
+5252
+0
+EndRoom
+
+#ROOM
+Vnum 5255
+Name A back alley~
+Desc A narrow alley leads north to the main street, and south toward a tall
+watchtower.  A ruined building is to the west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see main street.
+~
+~
+0
+5201
+0
+Exit
+2
+~
+~
+0
+5253
+0
+Exit
+3
+It looks in bad shape inside, but structurally intact.
+~
+~
+0
+5235
+0
+EndRoom
+
+#ROOM
+Vnum 5256
+Name A trail at the end of the dwarf forest~
+Desc The trail ends here, with short, dry stumps of trees all around you.
+To the west, you can see the ruins of a huge city.  Something about it gives
+you an uneasy feeling.  To the east is your way back to home and safety.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the trail.
+~
+~
+0
+5257
+0
+Exit
+3
+You see Thalos!
+~
+~
+0
+5200
+0
+EndRoom
+
+#ROOM
+Vnum 5257
+Name A trail at the end of the dwarf forest~
+Desc A side trail here leads from the dwarf forest.  It is definitely drier
+and hotter here.  The trail continues to the west, and to the east, you see
+the T-intersection.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the intersection.
+~
+~
+0
+5258
+0
+Exit
+3
+You see the trail continue on.
+~
+~
+0
+5256
+0
+EndRoom
+
+#ROOM
+Vnum 5258
+Name The dwarf forest~
+Desc You see more stunted trees here.  A side trail leads west from here.
+To the east, you THINK you see a trail, but you can never be sure.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the trail lead back north.
+~
+~
+0
+5259
+0
+Exit
+1
+You can't see into the gloom of this forest.
+~
+~
+0
+5262
+0
+Exit
+3
+You see the trail branch off.
+~
+~
+0
+5257
+0
+EndRoom
+
+#ROOM
+Vnum 5259
+Name The dwarf forest~
+Desc You see more stunted trees here.  It looks almost as if this place was
+cursed by a god to be short and dry.  The trail leads north and south.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the trail continue north.
+~
+~
+0
+5260
+0
+Exit
+2
+You see the trail continue south.
+~
+~
+0
+5258
+0
+EndRoom
+
+#ROOM
+Vnum 5260
+Name The dwarf forest~
+Desc You see more stunted trees here.  It looks almost as if this place was
+cursed by a god to be short and dry.  The trail leads north and south.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the trail continue north.
+~
+~
+0
+5261
+0
+Exit
+2
+You see the trail continue south.
+~
+~
+0
+5259
+0
+EndRoom
+
+#ROOM
+Vnum 5261
+Name The dwarf forest~
+Desc You see many stunted trees here.  You don't see any leaves on these barren
+trees.  No grass grows on the ground.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the trail continue north.
+~
+~
+0
+3502
+0
+Exit
+2
+You see the trail continue south.
+~
+~
+0
+5260
+0
+EndRoom
+
+#ROOM
+Vnum 5262
+Name The dwarf forest~
+Desc You see more stunted trees here.  It looks almost as if this place was
+cursed by a god to be short and dry.  The trail leads east and west.  It looks
+dark toward the east.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a darker part of the forest.
+~
+~
+0
+5263
+0
+Exit
+3
+You see the lighter forest and the T-intersection west.
+~
+~
+0
+5258
+0
+EndRoom
+
+#ROOM
+Vnum 5263
+Name The darker dwarf forest~
+Desc You see a more dense foliage in these stunted trees.  The gloom caused
+by them is enhanced by a draft coming from all around.  The trail turns south
+from the west.
+~
+Room_flags 1
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see nothing in the gloom south of you.
+~
+~
+0
+5264
+0
+Exit
+3
+You see the dwarf forest.
+~
+~
+0
+5262
+0
+EndRoom
+
+#ROOM
+Vnum 5264
+Name The darker dwarf forest~
+Desc You see a more dense foliage in these stunted trees.  The gloom caused
+by them is enhanced by a draft coming from all around.  The trail turns east
+from the north.
+~
+Room_flags 1
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see nothing in the gloom north of you.
+~
+~
+0
+5263
+0
+Exit
+1
+You see nothing in the gloom east of you.
+~
+~
+0
+5265
+0
+EndRoom
+
+#ROOM
+Vnum 5265
+Name The darker dwarf forest~
+Desc You see a more dense foliage in these stunted trees.  The gloom caused
+by them is enhanced by a draft coming from all around.  The trail leads
+east and west.
+~
+Room_flags 1
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see nothing in the gloom east of you.
+~
+~
+0
+5266
+0
+Exit
+3
+You see nothing in the gloom west of you.
+~
+~
+0
+5264
+0
+EndRoom
+
+#ROOM
+Vnum 5266
+Name The darker dwarf forest~
+Desc You see a more dense foliage in these stunted trees.  The gloom caused
+by them is enhanced by a draft coming from all around.  The trail leads
+down into a valley and west.
+~
+Room_flags 1
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see nothing in the gloom west of you.
+~
+~
+0
+5265
+0
+Exit
+5
+You see the trail lead down into gloom.
+~
+~
+0
+5267
+0
+EndRoom
+
+#ROOM
+Vnum 5267
+Name A valley in the dark dwarf forest~
+Desc You are in a valley in the dark dwarf forest.  Short black grass grows
+around you.  Trails lead in all directions.
+~
+Room_flags 1
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5271
+0
+Exit
+1
+~
+~
+0
+1701
+0
+Exit
+2
+You see a large mountain on the far side of a canyon.
+~
+~
+0
+9201
+0
+Exit
+3
+You see a dark fox hole.
+~
+hole fox~
+-1
+5268
+AB
+Exit
+4
+~
+~
+0
+5266
+0
+EndRoom
+
+#ROOM
+Vnum 5268
+Name A small ugly cave~
+Desc You see a small cave.  Skeletons of many types of creatures litter the area.
+Obviously, no fox lives here!  The oppression makes you want to leave and
+vomit.
+~
+Room_flags 1
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+skeleton skeletons~
+Something is strange about these skeletons.  Upon further investigation, these
+skeletons appear illusionary.
+~
+Exit
+1
+You see the exit from here!
+~
+fox hole~
+-1
+5267
+AB
+Exit
+2
+You see more of the cave.
+~
+~
+0
+5269
+0
+EndRoom
+
+#ROOM
+Vnum 5269
+Name A small ugly cave~
+Desc You are in a small ugly cave.  More skeletons lie around.  It is obvious
+that the owner doesn't want you here.  The exit north is still visible.
+Some writings are on this wall.
+~
+Room_flags 1
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+writings writing words~
+This cave along with the valley and dwarf forest is made by Hatchet for any
+Merc Mud.
+copyright 1992
+~
+ExtraDesc
+skeleton skeletons~
+Something is strange about these skeletons.  Upon further investigation, these
+skeletons appear illusionary.
+~
+Exit
+0
+You see more of the cave.
+~
+~
+0
+5268
+0
+Exit
+5
+You see a path leading down into the dark gloom.
+~
+~
+0
+5270
+0
+EndRoom
+
+#ROOM
+Vnum 5270
+Name Down the path into a dead end~
+Desc You are down the path.  There is no obvious exit in this place, exit the
+one back up north.  All around you, you see skeletons.
+~
+Room_flags 1
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+skeleton skeletons~
+Something is strange about these skeletons.  Upon further investigation, these
+skeletons appear illusionary.  In fact, through the skeletons, you see a
+secret door!!
+~
+Exit
+4
+You see your only way back up.
+~
+~
+0
+5269
+0
+Exit
+5
+You see nothing on the floor except skeletons.
+~
+secret~
+-1
+5100
+AB
+EndRoom
+
+#ROOM
+Vnum 5271
+Name The Valley in the dark dwarf forest~
+Desc You are in a valley in the forest.  To the north is a trail out of this
+dark valley.  South is more of this valley.
+~
+Room_flags 1
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a trail away from this gloomy valley.
+~
+~
+0
+5272
+0
+Exit
+2
+You see more of this gloomy valley.
+~
+~
+0
+5267
+0
+EndRoom
+
+#ROOM
+Vnum 5272
+Name A dim trail in the dwarf forest~
+Desc You are in a dim trail in the dwarf forest.  Not much light passes through
+here.  To the south is a gloomy valley, while to the north the light grows
+brighter.
+~
+Room_flags 1
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You can actually see the trail north of you!
+~
+~
+0
+5273
+0
+Exit
+2
+You can barely see the gloomy valley south of you.
+~
+~
+0
+5271
+0
+EndRoom
+
+#ROOM
+Vnum 5273
+Name A dim trail in the dwarf forest~
+Desc You are in a dim trail in the dwarf forest.  Not much light passes through
+here.  The trail runs north and south, and the light seems to come from the
+north.  To the east, you see a small path into darkness.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the dim trail lead north.
+~
+~
+0
+5274
+0
+Exit
+1
+You see the small path.
+~
+~
+0
+5280
+0
+Exit
+2
+You see the dim trail lead south.
+~
+~
+0
+5272
+0
+EndRoom
+
+#ROOM
+Vnum 5274
+Name A dim trail in the dwarf forest~
+Desc You are in a dim trail in the dwarf forest.  Not much light passes through
+here.  The trail runs north and south, and the light seems to come from the
+north.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the dim trail lead north.
+~
+~
+0
+5275
+0
+Exit
+2
+You see the dim trail lead south.
+~
+~
+0
+5273
+0
+EndRoom
+
+#ROOM
+Vnum 5275
+Name A bend in the dim trail in the dwarf forest~
+Desc You are in a dim trail in the dwarf forest.  Not much light passes through
+here.  The trail runs south and west.  The trail west looks much friendlier
+than the one leading south.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see the dim trail lead south.
+~
+~
+0
+5274
+0
+Exit
+3
+You see the trail lead west.
+~
+~
+0
+5276
+0
+EndRoom
+
+#ROOM
+Vnum 5276
+Name A trail in the dwarf forest~
+Desc You are in a trail in the dwarf forest.  The trees are stunted and it
+looks dry around here.  The trail leads east and west.  It looks dimmer to
+the east.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The trail continues east to the dimmer parts of the forest.
+~
+~
+0
+5275
+0
+Exit
+3
+The trail continues west.
+~
+~
+0
+5277
+0
+EndRoom
+
+#ROOM
+Vnum 5277
+Name A trail in the dwarf forest~
+Desc You are in a trail in the dwarf forest.  The trees are stunted and it
+looks dry around here.  The trail leads east and west.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The trail continues east.
+~
+~
+0
+5276
+0
+Exit
+3
+The trail continues west.
+~
+~
+0
+5278
+0
+EndRoom
+
+#ROOM
+Vnum 5278
+Name A trail in the dwarf forest~
+Desc You are in a trail in the dwarf forest.  The trees are stunted and it
+looks dry around here.  The trail leads east and west.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The trail continues east.
+~
+~
+0
+5277
+0
+Exit
+3
+The trail continues west.
+~
+~
+0
+5279
+0
+EndRoom
+
+#ROOM
+Vnum 5279
+Name The bend in the trail in the dwarf forest~
+Desc You are in a bend in the trail in the forest.  The trees are stunted, but
+not so dry around here.  The trail leads east, and to the south, you see a
+waterfall.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The trail continues east.
+~
+~
+-1
+5278
+0
+Exit
+2
+You see a beautiful waterfall.
+~
+~
+-1
+5281
+0
+EndRoom
+
+#ROOM
+Vnum 5280
+Name A dark bend in the forest~
+Desc You are in a dark bend in the forest.  To the west, you see the trail
+leading back to the dwarven forest, and to the south, you see a dark and
+dismal path.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see the dark path.
+~
+~
+0
+2300
+0
+Exit
+3
+You see the trail back to the Dwarven Forest.
+~
+~
+0
+5273
+0
+EndRoom
+
+#ROOM
+Vnum 5281
+Name By the beautiful waterfall~
+Desc You see a VERY beautiful waterfall here.  It looks almost as if diamonds are
+falling down the mountain.  (You reach out and grab and no, it IS only water.)
+It looks so nice here, you feel like taking a nap.
+The trail leads north and south.
+~
+Room_flags 0
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the trail leading north.
+~
+~
+0
+5279
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 5200 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 5267 3 1
+D 0 5268 1 1
+D 0 5270 5 1
+M 0 5201 12 5204 1
+E 0 5251 0 17
+E 0 5252 0 16
+M 0 5201 12 5205 1
+E 0 5230 0 17
+E 0 5252 0 16
+M 0 5201 12 5216 1
+E 0 5233 0 17
+E 0 5252 0 16
+O 0 5219 0 5217
+M 0 5207 4 5217 2
+M 0 5201 12 5218 1
+E 0 5250 0 17
+E 0 5252 0 16
+M 0 5201 12 5219 1
+E 0 5231 0 17
+E 0 5252 0 16
+M 0 5204 1 5219 1
+G 0 5218 0
+G 0 5211 0
+M 0 5201 12 5220 1
+E 0 5252 0 16
+M 0 5201 12 5224 1
+E 0 5243 0 17
+E 0 5252 0 16
+M 0 5201 12 5226 1
+E 0 5235 0 17
+E 0 5252 0 16
+M 0 5203 1 5226 1
+G 0 5215 0
+G 0 5239 0
+M 0 5207 4 5227 2
+O 0 5207 0 5229
+M 0 5202 1 5229 1
+G 0 5210 0
+E 0 5214 0 17
+O 0 5225 0 5231
+P 0 5215 4 5225 1
+P 0 5216 4 5225 1
+M 0 5201 12 5232 1
+E 0 5217 0 17
+E 0 5252 0 16
+M 0 5207 4 5232 2
+O 0 5227 0 5233
+P 0 3105 8 5227 1
+M 0 5201 12 5234 1
+E 0 5232 0 17
+E 0 5252 0 16
+O 0 5220 0 5234
+M 0 5201 12 5236 1
+E 0 5237 0 17
+E 0 5252 0 16
+M 0 5206 1 5236 1
+E 0 5222 0 12
+M 0 5205 1 5238 1
+E 0 5214 0 17
+M 0 5201 12 5240 1
+E 0 5241 0 17
+E 0 5252 0 16
+O 0 5228 0 5242
+M 0 5207 4 5244 1
+M 0 5208 8 5246 2
+E 0 5221 0 16
+E 0 5226 0 17
+E 0 5203 0 10
+M 0 5208 8 5247 2
+E 0 5221 0 16
+E 0 5224 0 17
+E 0 5200 0 5
+E 0 5204 0 8
+M 0 5208 8 5248 2
+E 0 5221 0 16
+E 0 5205 0 7
+E 0 5206 0 13
+M 0 5200 1 5250 1
+E 0 5208 0 11
+E 0 5223 0 3
+M 0 5208 8 5254 2
+E 0 5221 0 16
+E 0 5201 0 6
+E 0 5202 0 9
+M 0 5111 2 5267 1
+E 0 5100 0 16
+M 0 5110 2 5270 2
+E 0 5100 0 16
+M 0 5110 2 5270 2
+E 0 5100 0 16
+M 0 5111 2 5272 1
+E 0 5100 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,726 @@
+#AREADATA
+Name Troll Den~
+Builders None~
+VNUMs 2800 2899
+Credits {10 15} Merc    Troll Den~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 2800
+Name oldstyle guardian beast~
+Short the guardian beast~
+Long A guardian beast stares at you and snarls in rage.
+~
+Description Jet black fur covers this beast.  You stare at his two huge red eyes.  You can
+count at least 50 teeth on this monster.  You can't tell whether it is blood or
+saliva dripping from the beast's jaw.  The guardian beast snarls again.
+~
+Race human~
+Act_flags ABCFG
+Aff DPQ
+Align -200
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d6+85
+Mana_dice 3d9+100
+Dam_dice 1d8+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2801
+Name oldstyle young troll~
+Short the young troll~
+Long A young troll is sitting down, chewing on a bone.
+~
+Description He is a tall, wiry, furry humanoid.
+Your eyes lock with his.  He smiles, puts down his bone, and reaches for one
+of yours!!
+~
+Race human~
+Act_flags ACFG
+Aff P
+Align -500
+Group 0
+Level 6
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 3d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos stand
+Sex male
+Wealth 25
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2802
+Name oldstyle medium troll~
+Short the medium troll~
+Long A troll is grooming his pet, a guardian beast.
+~
+Description He is a tall, lean, furry humanoid.
+He is busy licking the ticks off of his beast.
+His eyes dart toward you, as he realizes you are one third his size.
+~
+Race human~
+Act_flags ABCFG
+Aff P
+Align -500
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 75
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2803
+Name oldstyle baby troll~
+Short a baby troll~
+Long A baby troll is playing Doctor with a cadaver.
+~
+Description He is a large, chubby, furry humanoid.
+He is trying to stuff an arm in a hole in the wall.
+He notices you and gargles "WANNA JOIN?".
+~
+Race human~
+Act_flags ABCF
+Aff P
+Align -100
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos stand
+Sex male
+Wealth 12
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2804
+Name oldstyle giant troll~
+Short the giant troll~
+Long A giant troll is lying on a pile of carnage, pleasing his mistress.
+~
+Description He is a gigantic, muscular, furry humanoid.
+He gasps as he notices your intrusion.
+You gasp as you realize you have intruded upon his acts of passion!
+~
+Race giant~
+Act_flags ABCFG
+Aff P
+Align -1000
+Group 0
+Level 13
+Hitroll 0
+Hit_dice 2d10+170
+Mana_dice 6d9+100
+Dam_dice 2d5+3
+Dam_type none
+Armor -1 -1 -1 8
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res HI
+Vuln JP
+Start_pos rest
+Default_pos stand
+Sex male
+Wealth 150
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2805
+Name oldstyle large troll female~
+Short the large female troll~
+Long A large female troll is lying on the pile of carnage, blissfully writhing.
+~
+Description She is a huge, grotesque, furry humanoid.
+She moans in passion but gasps as she notices you.
+Her smiles turn into snarls as she screams at you!
+~
+Race human~
+Act_flags ABCFG
+Aff P
+Align -800
+Group 0
+Level 11
+Hitroll 0
+Hit_dice 2d8+134
+Mana_dice 5d9+100
+Dam_dice 1d10+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos rest
+Default_pos stand
+Sex female
+Wealth 125
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2806
+Name oldstyle fat worm~
+Short a fat worm~
+Long A fat worm scurries around, looking for food.
+~
+Description It is thick and long.  You can't find a head on this thing.
+It moves quickly, from corpse to corpse.
+~
+Race human~
+Act_flags ACFH
+Aff PQ
+Align 0
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d6+35
+Mana_dice 1d9+100
+Dam_dice 1d6+0
+Dam_type none
+Armor 7 7 7 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2807
+Name oldstyle roving beast~
+Short the roving beast~
+Long A roving beast is searching for prey.
+~
+Description Jet black fur covers this beast.
+You stare at his two huge red eyes.  You can count at least 50 teeth on this
+beast.  You can't tell whether it is blood or saliva dripping from the beast's
+jaw.  The roving beast snarls at you.
+~
+Race human~
+Act_flags ABCFG
+Aff DP
+Align -200
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d6+85
+Mana_dice 3d9+100
+Dam_dice 1d8+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2808
+Name oldstyle medium troll~
+Short the medium troll~
+Long A troll is wandering around, attending to his duties.
+~
+Description He is a tall, lean, furry humanoid.
+He notices you, and is satisfied to find what he is looking for.
+He advances toward you.
+~
+Race human~
+Act_flags ACFG
+Aff P
+Align -500
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 75
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 2800
+Name corpse cadaver~
+Short the cadaver-toy~
+Desc A half eaten corpse is laying here~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 -1 0 0
+Level 0
+Weight 500
+Cost 1
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2801
+Name pile rotting heap bed~
+Short the heap of carnage~
+Desc There is a bed made of carnage here.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 -1 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2802
+Name trollskin troll skin~
+Short the troll skin~
+Desc The filthy hide of a beast is laying here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AK
+Values AC AC AC 0 0
+Level 12
+Weight 200
+Cost 1380
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+troll skin~
+This is the skin from a huge (and dead) beast.  It looks bad, smells bad,
+and feels bad.
+~
+AffectObj
+1 1
+EndObj
+
+#OBJ
+Vnum 2803
+Name ring opal~
+Short an opal ring~
+Desc A ring of black opal lies here gathering dust.~
+Material oldstyle~
+Item_type jewelry
+Extra G
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 20
+Weight 10
+Cost 1150
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+ring opal~
+It is a full circle of opal, smooth and simple.
+~
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 2804
+Name leather belt~
+Short a leather belt~
+Desc An old leather belt is left on the floor.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AL
+Values BC BC BC 0 0
+Level 15
+Weight 50
+Cost 1050
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+leather belt~
+This old, smelly belt looks like it is barely better than rotting cloth.
+~
+EndObj
+
+#OBJ
+Vnum 2805
+Name bone cracked~
+Short a cracked bone~
+Desc A cracked piece of bone lies here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values mace 3 3 pound 0
+Level 6
+Weight 30
+Cost 350
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+bone~
+This piece of bone looks sturdy enough to be used as a weapon, but you
+wouldn't want to entrust your life to it.
+~
+AffectObj
+18 -1
+AffectObj
+19 -1
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 2801
+Name Wastedump~
+Desc This room is filled with bone shards and fragments.  Something (or things)
+very big lives here.  A small plaque is on the wall.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+plaque~
+This zone (trollden) is created by MERC for any MERC Mud.
+copyright 1992
+~
+Exit
+0
+You reach civilization again.
+~
+~
+0
+6124
+0
+Exit
+2
+You find the stench is stronger inside.
+~
+~
+0
+2803
+0
+EndRoom
+
+#ROOM
+Vnum 2802
+Name Troll's Larder~
+Desc This room has blood and grime all over the walls.  You see maggots and other
+insects crawling up them.  The resident is definitely uncivilized.  Half-eaten
+and rotting body parts scatter the floor, each having its own colony of flies,
+worms, and maggots.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+Half-eaten body rotting corpse~
+YUCK!  You find worms crawling in and out this poor unfortunate former human.
+~
+Exit
+1
+You welcome the fresh breeze coming from the east, but wrinkle your nose when
+the stench bears down on you once more.
+~
+~
+0
+2803
+0
+EndRoom
+
+#ROOM
+Vnum 2803
+Name Troll's Living Room~
+Desc This small cave opens to the north, south, east, and west.  You are
+overcome by the stench and consider turning around.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+There is a trail of bone shards and fragments leading north.
+~
+~
+0
+2801
+0
+Exit
+1
+Good God!  You spy corpses all over the floor in there.  It looks like a
+virtual graveyard in there.
+~
+~
+0
+2804
+0
+Exit
+2
+Whoa!  You reel back from the stench.  You believe you have found the source
+of this bad smell.
+~
+~
+0
+2805
+0
+Exit
+3
+You puke as you watch worms crawl between this room and the room west of here
+as they bore new holes into a corpse laying on the far wall of the west room.
+~
+~
+0
+2802
+0
+EndRoom
+
+#ROOM
+Vnum 2804
+Name The Playpen~
+Desc The walls are covered with blood (and body parts!?!?).  Plastered on the far
+wall you see what looks like a human arm.  A half-eaten body lies here with
+its chest ripped out.  The predator seems disinterested in it.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+arm rotting~
+This reminds you of what a baby would do to its formula during dinnertime,
+plastering it on the wall.
+~
+Exit
+3
+You welcome the fresh breeze coming from the west, but wrinkle your nose when
+the stench bears down on you once more.
+~
+~
+0
+2803
+0
+EndRoom
+
+#ROOM
+Vnum 2805
+Name Troll's Bedroom~
+Desc Obviously something REALLY big lives here.  The stench is quite unbearable.
+There are piles and piles of rotten and half-eaten body parts of animals,
+orcs, (and humans?) strewn across the floor.  There is a larger, more
+prominent pile of rotten parts over in a corner.  It seems to have been
+flattened by something.
+~
+Room_flags 13
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You welcome the fresh breeze coming from the north, but wrinkle your nose when
+the stench bears down on you once more.
+~
+~
+0
+2803
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 2800 2 2801 1
+O 0 2805 0 2801
+M 0 2801 2 2802 2
+M 0 2801 2 2802 2
+M 0 2806 10 2802 4
+M 0 2806 10 2802 4
+M 0 2807 1 2802 1
+M 0 2802 1 2803 1
+M 0 2800 2 2803 1
+M 0 2806 10 2803 4
+M 0 2806 10 2803 4
+M 0 2808 1 2803 1
+O 0 2800 0 2804
+P 0 2804 -1 2800 1
+M 0 2803 4 2804 4
+M 0 2803 4 2804 4
+M 0 2803 4 2804 4
+M 0 2803 4 2804 4
+M 0 2806 10 2804 2
+M 0 2804 1 2805 1
+E 0 2802 0 12
+M 0 2805 1 2805 1
+O 0 2801 0 2805
+P 0 2803 5 2801 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

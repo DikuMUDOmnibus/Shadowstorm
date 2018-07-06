@@ -1,0 +1,3204 @@
+#AREADATA
+Name Gangland~
+Builders None~
+VNUMs 2100 2199
+Credits { 5 15} Raff    Dangerous Neighborhood~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 2101
+Name troll gang member~
+Short a troll gang member~
+Long A member of the Trolls wanders about here.
+~
+Description He's lived a life of violence ever since he was little.
+~
+Race human~
+Act_flags ACEG
+Aff 0
+Align -100
+Group 2100
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 1d1+99
+Dam_dice 1d6+1
+Dam_type punch
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off DFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 10
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2102
+Name ogre gang member~
+Short an ogre gang member~
+Long A member of the Ogres wanders about here.
+~
+Description He wants to rid the world of every last Troll gang member.
+~
+Race human~
+Act_flags ACEG
+Aff 0
+Align 100
+Group 2101
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 1d1+99
+Dam_dice 1d6+1
+Dam_type punch
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off FJNR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 10
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2103
+Name gang leader troll~
+Short the Troll gang leader~
+Long The gang leader is not pleased you found his hideout!
+~
+Description He's risen to be leader through brute force and cunning leadership, you'd
+guess mostly brute force from the size of his muscles.
+~
+Race human~
+Act_flags ABFGT
+Aff 0
+Align 0
+Group 2100
+Level 13
+Hitroll 0
+Hit_dice 2d20+170
+Mana_dice 1d1+99
+Dam_dice 2d5+5
+Dam_type punch
+Armor -1 -1 -1 8
+Clevel0
+Cability 0
+Off CDEKU
+Imm 0
+Res E
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 100
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2104
+Name bruiser troll~
+Short a bruiser~
+Long A big, mean bruiser is looking for limbs to break.
+~
+Description He's 6'6" 245 pounds and enough muscle to bash your head in. How like a Troll.
+~
+Race human~
+Act_flags ACFGHT
+Aff D
+Align -333
+Group 2100
+Level 11
+Hitroll 0
+Hit_dice 4d8+134
+Mana_dice 1d1+99
+Dam_dice 1d10+3
+Dam_type punch
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off CDKU
+Imm 0
+Res C
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 75
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2105
+Name gang doll~
+Short a doll~
+Long A gang doll looks naughty and nice.
+~
+Description She's a beauty (ok in RELATIVE terms) but you better not touch!
+~
+Race human~
+Act_flags ACGHS
+Aff 0
+Align 0
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d6+85
+Mana_dice 1d1+99
+Dam_dice 1d8+1
+Dam_type slap
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off FHNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2106
+Name patrolman patrol man~
+Short a patrolman~
+Long A patrolman is trying to keep the peace.
+~
+Description He'd rather be at the local pub then out here with these nasty kids.
+~
+Race human~
+Act_flags AGT
+Aff 0
+Align 700
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+115
+Mana_dice 1d1+99
+Dam_dice 1d7+2
+Dam_type punch
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off CKLU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 350
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2107
+Name vandal ogre~
+Short a vandal~
+Long A vandal is spray painting pro-gang slogans on the wall here.
+~
+Description He has a wary eye and a fine hand for art.
+~
+Race human~
+Act_flags AGHS
+Aff P
+Align -400
+Group 2101
+Level 10
+Hitroll 0
+Hit_dice 2d7+121
+Mana_dice 1d1+99
+Dam_dice 2d4+2
+Dam_type punch
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off FHJNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 25
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2108
+Name dog pit bull pitbull~
+Short a pitbull~
+Long A vicious pitbull is foaming at the mouth in rabid anticipation.
+~
+Description You get a nice close look at him while he's tearing at your throat.
+His fangs are blood-stained from hearty meals of ... steak?!
+~
+Race dog~
+Act_flags ABFG
+Aff DQ
+Align -100
+Group 0
+Level 5
+Hitroll 2
+Hit_dice 4d6+60
+Mana_dice 2d9+100
+Dam_dice 1d8+1
+Dam_type bite
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off CEGHQR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AGV
+Parts ACDEFHJKUV
+Size small
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2109
+Name punk troll~
+Short a punk~
+Long A punk is here, carving his initials into a wall.
+~
+Description He's a sterling example of rehabilitation at work.  Not nice.
+~
+Race human~
+Act_flags AFHS
+Aff P
+Align -400
+Group 2100
+Level 10
+Hitroll 0
+Hit_dice 2d7+121
+Mana_dice 1d1+99
+Dam_dice 2d4+2
+Dam_type punch
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off CDFJU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 25
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2110
+Name gang leader ogre~
+Short the Ogre gang leader~
+Long The Ogre gang leader snaps out his stiletto. "Care to dance?"
+~
+Description He's smaller, but undoubtably smarter, than the Troll's leader. 
+~
+Race human~
+Act_flags ABFGS
+Aff 0
+Align 0
+Group 2101
+Level 13
+Hitroll 0
+Hit_dice 2d10+160
+Mana_dice 1d1+99
+Dam_dice 2d5+3
+Dam_type punch
+Armor -1 -1 -1 8
+Clevel0
+Cability 0
+Off EFHJKNU
+Imm 0
+Res G
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 100
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2111
+Name thug~
+Short a thug~
+Long An ugly, scarred thug is here, looking for dogs to kick.
+~
+Description The thug isn't quite as big as the Troll's bruisers, but you can tell he loves
+breaking heads for the Ogres.
+~
+Race human~
+Act_flags ACFGHT
+Aff D
+Align -333
+Group 2101
+Level 11
+Hitroll 0
+Hit_dice 2d8+134
+Mana_dice 1d1+99
+Dam_dice 1d10+2
+Dam_type punch
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off JKNU
+Imm 0
+Res C
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 75
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 2101
+Name troll jacket~
+Short a Troll gang jacket~
+Desc A Troll gang jacket has been carelessly tossed here.~
+Material leather~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values AB AC C 0 0
+Level 5
+Weight 20
+Cost 970
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition A
+EndObj
+
+#OBJ
+Vnum 2102
+Name ogre jacket~
+Short an Ogre gang jacket~
+Desc An Ogre gang jacket has been carelessly tossed here.~
+Material leather~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values AC C AB 0 0
+Level 5
+Weight 20
+Cost 970
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition A
+EndObj
+
+#OBJ
+Vnum 2103
+Name chain~
+Short a hefty length of chain~
+Desc A hefty length of chain lies in a heap here on the floor.~
+Material iron~
+Item_type weapon
+Extra A
+Extra2 0
+Wear AN
+Values whip 2 6 whip 0
+Level 12
+Weight 100
+Cost 960
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition A
+AffectObj
+17 -2
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 2104
+Name metal cover shield~
+Short a metal shield~
+Desc A garbage can lid has been dropped on the floor.~
+Material steel~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AJ
+Values AB AB AB A 0
+Level 3
+Weight 30
+Cost 500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition A
+EndObj
+
+#OBJ
+Vnum 2105
+Name spray paint can~
+Short a spray paint can~
+Desc A can of spray paint has been discarded here.~
+Material aluminum~
+Item_type wand
+Extra B
+Extra2 0
+Wear AO
+Values 11 2 2 'colour spray' 0
+Level 12
+Weight 10
+Cost 2200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+EndObj
+
+#OBJ
+Vnum 2106
+Name stiletto~
+Short a stiletto~
+Desc A killer stiletto has been forgotten here.~
+Material steel~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values dagger 5 2 pierce 0
+Level 9
+Weight 20
+Cost 1090
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+AffectObj
+18 4
+AffectObj
+17 2
+EndObj
+
+#OBJ
+Vnum 2107
+Name spiked heel boots~
+Short spiked heeled boots~
+Desc A pair of black leather boots with 6 inch spikes have been left here.~
+Material leather~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AG
+Values AB AB AB 0 0
+Level 5
+Weight 40
+Cost 260
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+AffectObj
+2 -1
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 2108
+Name mirror~
+Short a mirror~
+Desc A small mirror has been left here.~
+Material glass~
+Item_type wand
+Extra AG
+Extra2 0
+Wear AO
+Values 20 10 10 'blindness' 0
+Level 8
+Weight 10
+Cost 1910
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2109
+Name gloves~
+Short comfortable leather gloves~
+Desc A pair of soft lined leather gloves lie here.~
+Material leather~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AH
+Values C AB C 0 0
+Level 7
+Weight 20
+Cost 1010
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+AffectObj
+1 1
+EndObj
+
+#OBJ
+Vnum 2110
+Name patrol club~
+Short a patrol club~
+Desc A patrolman's club has carelessly been forgotten here.~
+Material wood~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values mace 1 10 pound 0
+Level 9
+Weight 10
+Cost 980
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+AffectObj
+18 3
+AffectObj
+14 5
+EndObj
+
+#OBJ
+Vnum 2111
+Name signet ring~
+Short a troll signet ring~
+Desc A signet ring bearing the crest of a troll lies in the dust here.~
+Material bronze~
+Item_type jewelry
+Extra 0
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 10
+Weight 10
+Cost 1090
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -2
+AffectObj
+1 1
+EndObj
+
+#OBJ
+Vnum 2112
+Name knuckles brass~
+Short brass knuckles~
+Desc A set of brass knuckles left from a fight are here on the ground.~
+Material brass~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AH
+Values A A A 0 0
+Level 5
+Weight 10
+Cost 300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition A
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 2113
+Name pipe lead length~
+Short a lead pipe~
+Desc A length of lead pipe sits here, just right for bashing heads.~
+Material lead~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values mace 2 6 pound 0
+Level 11
+Weight 60
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition A
+AffectObj
+18 -1
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 2114
+Name troll jacket studded~
+Short a studded Troll gang jacket~
+Desc A Troll gang jacket with sewn-in metal studs waits for an owner.~
+Material leather~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values C BC AC 0 0
+Level 10
+Weight 30
+Cost 1470
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+EndObj
+
+#OBJ
+Vnum 2115
+Name ogre jacket studded~
+Short a studded Ogre gang jacket~
+Desc An Ogre gang jacket with sewn-in metal studs waits for an owner.~
+Material leather~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values BC AC C 0 0
+Level 10
+Weight 30
+Cost 1470
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2116
+Name whistle steel police~
+Short a police whistle~
+Desc You spot a steel whistle on a fine silver chain here.~
+Material steel~
+Item_type clothing
+Extra 0
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 0
+Weight 2
+Cost 100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+EndObj
+
+#OBJ
+Vnum 2117
+Name pants black leather~
+Short a pair of black leather pants~
+Desc You see some tight-fitting leather pants sitting on the ground.~
+Material leather~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AF
+Values AB C C 0 0
+Level 5
+Weight 0
+Cost 420
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+ExtraDesc
+pants black leather~
+They're worn, but they look suprisingly tough.
+~
+EndObj
+
+#OBJ
+Vnum 2118
+Name switchblade knife~
+Short a switchblade~
+Desc A strange looking knife is here.~
+Material steel~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values dagger 1 12 stab 0
+Level 9
+Weight 5
+Cost 760
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+AffectObj
+18 2
+EndObj
+
+#OBJ
+Vnum 2119
+Name bottle broken~
+Short a broken bottle~
+Desc Yowch! You cut your foot on a broken bottle.~
+Material glass~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values dagger 2 7 slash 0
+Level 11
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition W
+ExtraDesc
+bottle broken~
+It appears to be a broken wine bottle, but what do you know about brewing?
+~
+AffectObj
+18 -2
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 2101
+Name A Dark Alleyway~
+Desc The walls of the alleyway have been spray-painted over many times
+over the years.  One section of graffiti actually looks legible,
+it says:    This section has been designed for levels 5 through 10
+            If you are above level 15 please don't expect much fun.
+            If you are below level 5 enter at your own risk.
+Another section of graffiti says "Raff Rules!"
+There is a boulevard to the east and Emerald Avenue is visible to the west.
+~
+Room_flags 5
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2102
+0
+Exit
+3
+You can see Emerald Avenue, a much nicer place to be.
+~
+~
+-1
+3119
+0
+EndRoom
+
+#ROOM
+Vnum 2102
+Name Beginning of White Dragon Boulevard~
+Desc This section of town has been overrun by the Troll gang.  Even the
+police stay out of here for fear of being brutalized.  This was once
+a nice lower-middleclass neighborhood, but know the gangs run the
+streets.  All the shops and homes have been boarded up and abandoned.
+An alleyway is to the west and the street continues east.  An over-
+grown lot is to the south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2103
+0
+Exit
+2
+~
+~
+-1
+2109
+0
+Exit
+3
+~
+~
+-1
+2101
+0
+EndRoom
+
+#ROOM
+Vnum 2103
+Name Along White Dragon Boulevard~
+Desc Everywhere you look you see signs of recent violence.  Patches of blood
+lie everywhere and broken sticks and abandoned knifes are strewn here
+and there.  An over-grown lot is to the south.  White Dragon Boulevard leads
+east and west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2104
+0
+Exit
+2
+~
+~
+-1
+2110
+0
+Exit
+3
+~
+~
+-1
+2102
+0
+EndRoom
+
+#ROOM
+Vnum 2104
+Name White Dragon Boulevard at Armory~
+Desc Only gang members dare wander the streets here.
+What used to be the armory lies to the south.  White Dragon Boulevard
+leads east and west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2105
+0
+Exit
+2
+~
+~
+-1
+2111
+0
+Exit
+3
+~
+~
+-1
+2103
+0
+EndRoom
+
+#ROOM
+Vnum 2105
+Name White Dragon Blvd.~
+Desc Black Dragon Avenue used to run south from here but the way has been
+blocked by the toppling of a building into the street.  White Dragon
+boulevard continues east and west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2106
+0
+Exit
+3
+~
+~
+-1
+2104
+0
+EndRoom
+
+#ROOM
+Vnum 2106
+Name Corner of Ice and White Dragon~
+Desc Ice Dragon Way leads south from here.  It used to run the whole length
+of the neighborhood and way lined with beautiful crystal sculptures.
+White Dragon boulevard leads east and west from here.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2107
+0
+Exit
+2
+~
+~
+-1
+2113
+0
+Exit
+3
+~
+~
+-1
+2105
+0
+EndRoom
+
+#ROOM
+Vnum 2107
+Name White Dragon Boulevard~
+Desc A once majestic inn with a white marble facade lies to the south.
+Unfortunately, it has fallen into disrepair and decay.  You can continue
+east or west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2108
+0
+Exit
+3
+~
+~
+-1
+2106
+0
+EndRoom
+
+#ROOM
+Vnum 2108
+Name Corner of Bronze and White Dragon~
+Desc This is the north-east corner of the neighborhood. White Dragon
+boulevard heads west and Bronze Dragon street heads south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+2115
+0
+Exit
+3
+~
+~
+-1
+2107
+0
+EndRoom
+
+#ROOM
+Vnum 2109
+Name An over-grown lot~
+Desc A huge building was going to be built here, but they gave the
+project up when violence took over the town.  Now it is just a
+weed-strewn plot of land.  The lot continues east and there is a road north.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2102
+0
+Exit
+1
+~
+~
+-1
+2110
+0
+EndRoom
+
+#ROOM
+Vnum 2110
+Name East end of an over-grown plot of land~
+Desc This was planned to be a park, but the developer was scared out
+of town by the gang.  Now it is just a dusty square of land. The
+park was started to the south.  The lot continues west and there
+is a street to the north.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2103
+0
+Exit
+2
+~
+~
+-1
+2116
+0
+Exit
+3
+~
+~
+-1
+2109
+0
+EndRoom
+
+#ROOM
+Vnum 2111
+Name Armory~
+Desc Well actually, this is what USED to be the armory.  The equipment has
+all been stolen or broken beyond repair. The back wall of the
+building has been bashed down, allowing you to go south.  White
+Dragon Boulevard is north.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2104
+0
+Exit
+2
+~
+~
+-1
+2117
+0
+EndRoom
+
+#ROOM
+Vnum 2112
+Name A Bend in the Way~
+Desc Ice Dragon Way bends east and south from here.  You notice a lot of
+blood dried into the dirt here.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2113
+0
+Exit
+2
+~
+~
+-1
+2118
+0
+EndRoom
+
+#ROOM
+Vnum 2113
+Name Ice Dragon Bend~
+Desc Ice Dragon Way bends to the north and west here.  There are footprints
+here.  They seem to indicate a large struggle took place here
+recently.  What used to be the town Magic shop is to the east.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2106
+0
+Exit
+1
+~
+~
+-1
+2114
+0
+Exit
+3
+~
+~
+-1
+2112
+0
+EndRoom
+
+#ROOM
+Vnum 2114
+Name The remains of the magic shop~
+Desc The wizard was tough but he couldn't take on 50 of them at once.  So he
+died and they took all his stuff and used it on their fellowmen.
+The front door leads west back out to the street.  There is a back
+door leading to another street to the east.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2115
+0
+Exit
+3
+~
+~
+-1
+2113
+0
+EndRoom
+
+#ROOM
+Vnum 2115
+Name Bronze Dragon Street at wizard's back door~
+Desc Bronze Dragon street goes north and south.  The back door to what
+remains of the magic shop is west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2108
+0
+Exit
+2
+~
+~
+-1
+2120
+0
+Exit
+3
+~
+~
+-1
+2114
+0
+EndRoom
+
+#ROOM
+Vnum 2116
+Name Dracolich Plaza~
+Desc They began construction of a pleasant plaza here, though you wouldn't
+have known it if I hadn't told you.  It has been renamed in honor
+of the Dragon gang's idol, the Dracolich.  It has become sort of a
+training ground.  There is a short cut to the east and an overgrown
+lot of land to the north.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2110
+0
+Exit
+1
+~
+~
+-1
+2117
+0
+EndRoom
+
+#ROOM
+Vnum 2117
+Name Shortcut~
+Desc This is a shortcut between Dracolich Plaza and the center of town.
+Dracolich Plaza is to the west and the shortcut continues south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2111
+0
+Exit
+2
+~
+~
+-1
+2121
+0
+Exit
+3
+~
+~
+-1
+2116
+0
+EndRoom
+
+#ROOM
+Vnum 2118
+Name Ice Dragon Way~
+Desc Several smashed crystal statues line the Way here.  You begin to wonder
+who smashed them, and with what.  The Way bends out of sight to the north
+and continues south.  To the east is a courtyard.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2112
+0
+Exit
+1
+~
+~
+-1
+2119
+0
+Exit
+2
+~
+~
+-1
+2122
+0
+EndRoom
+
+#ROOM
+Vnum 2119
+Name Courtyard North~
+Desc Once it was the courtyard of a beautiful building complex.  But alas,
+someone forgot to water the plants and they all died.  Then again,
+you wonder how many people have died here too.  The courtyard extends
+to the south and there is a road to the west.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+2123
+0
+Exit
+3
+~
+~
+-1
+2118
+0
+EndRoom
+
+#ROOM
+Vnum 2120
+Name Bronze Dragon Street~
+Desc There used to be a gate out to the east here which led to the rest of Midgaard.
+The gate has rusted permanently shut.  The street goes north and south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2115
+0
+Exit
+2
+~
+~
+-1
+2125
+0
+EndRoom
+
+#ROOM
+Vnum 2121
+Name Shortcut~
+Desc The shortcut extends north.  There is a street to the east.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2117
+0
+Exit
+1
+~
+~
+-1
+2122
+0
+EndRoom
+
+#ROOM
+Vnum 2122
+Name Ice Dragon Way~
+Desc The Way continues north and intersects with Yellow Dragon Avenue
+to the south.  For some reason, you somehow realize that there is a
+shortcut to the west that leads to Dracolich Plaza.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2118
+0
+Exit
+2
+~
+~
+-1
+2127
+0
+Exit
+3
+~
+~
+-1
+2121
+0
+EndRoom
+
+#ROOM
+Vnum 2123
+Name Courtyard South~
+Desc Once full of lush green plants, it is now barren of growth.  A set of
+stairs used to extend up to a suite of rooms but the set is missing
+stairs 3-15.  The courtyard extends north and there is a street to
+the south.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2119
+0
+Exit
+2
+~
+~
+-1
+2128
+0
+EndRoom
+
+#ROOM
+Vnum 2124
+Name Old Abandoned Warehouse~
+Desc Once the center of a lucrative storage business, it has fallen to
+disrepair like everything else.  It is now the hideout of the
+Dragon gang.  The gang leader runs his reign of terror from here.
+There is a wooden door barely on the hinges to the east.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+wooden door east~
+-1
+2125
+AB
+EndRoom
+
+#ROOM
+Vnum 2125
+Name Bronze Dragon Street at Warehouse~
+Desc The street runs north and south.  There is an old wooden door leading
+to a warehouse to the west.  The warehouse LOOKS abandoned. . .
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2120
+0
+Exit
+2
+~
+~
+-1
+2130
+0
+Exit
+3
+~
+wooden door west~
+-1
+2124
+AB
+EndRoom
+
+#ROOM
+Vnum 2126
+Name Yellow Dragon Road~
+Desc Yellow Dragon Road is the southern boundary of Troll Territory.  The
+road extends east.  You enter "no-man's land" to the south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2127
+0
+Exit
+2
+~
+~
+-1
+2131
+0
+EndRoom
+
+#ROOM
+Vnum 2127
+Name Yellow Dragon Road~
+Desc The road runs east and west.  Ice Dragon Way leads north from here.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2122
+0
+Exit
+1
+~
+~
+-1
+2128
+0
+Exit
+3
+~
+~
+-1
+2126
+0
+EndRoom
+
+#ROOM
+Vnum 2128
+Name Yellow Dragon Road~
+Desc The roads continues east and west.  There is a courtyard to the north.
+You enter "no man's land" to the south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2123
+0
+Exit
+1
+~
+~
+-1
+2129
+0
+Exit
+2
+~
+~
+-1
+2133
+0
+Exit
+3
+~
+~
+-1
+2127
+0
+EndRoom
+
+#ROOM
+Vnum 2129
+Name Yellow Dragon Road~
+Desc There is a barred window to the north.  There appears to be a light
+coming from the cracks around it.  The road extends east and west
+from here.  Or you can enter "no man's land" south from here.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+window~
+Looking through the window, you see a gang leader plotting the demise of
+the ogres.
+~
+Exit
+1
+~
+~
+-1
+2130
+0
+Exit
+2
+~
+~
+-1
+2134
+0
+Exit
+3
+~
+~
+-1
+2128
+0
+EndRoom
+
+#ROOM
+Vnum 2130
+Name Yellow Dragon Road~
+Desc Bronze Dragon Street intersects here and runs north.  Yellow Dragon ends
+here but continues to the west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2125
+0
+Exit
+3
+~
+~
+-1
+2129
+0
+EndRoom
+
+#ROOM
+Vnum 2131
+Name NO MAN'S LAND~
+Desc This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues south
+and east; or there is a street to the north.
+~
+Room_flags 0
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2126
+0
+Exit
+1
+~
+~
+-1
+2132
+0
+Exit
+2
+~
+~
+-1
+2136
+0
+EndRoom
+
+#ROOM
+Vnum 2132
+Name NO MAN'S LAND~
+Desc This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues south
+east and west.
+~
+Room_flags 0
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2133
+0
+Exit
+2
+~
+~
+-1
+2137
+0
+Exit
+3
+~
+~
+-1
+2131
+0
+EndRoom
+
+#ROOM
+Vnum 2133
+Name NO MAN'S LAND~
+Desc This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues south,
+east and west; or there is a street to the north.
+~
+Room_flags 0
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2128
+0
+Exit
+1
+~
+~
+-1
+2134
+0
+Exit
+2
+~
+~
+-1
+2138
+0
+Exit
+3
+~
+~
+-1
+2132
+0
+EndRoom
+
+#ROOM
+Vnum 2134
+Name NO MAN'S LAND~
+Desc This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues south,
+east, and west; or there is a street to the north.
+~
+Room_flags 0
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2129
+0
+Exit
+1
+~
+~
+-1
+2135
+0
+Exit
+2
+~
+~
+-1
+2139
+0
+Exit
+3
+~
+~
+-1
+2133
+0
+EndRoom
+
+#ROOM
+Vnum 2135
+Name NO MAN'S LAND~
+Desc This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues south
+and west.
+~
+Room_flags 0
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+2140
+0
+Exit
+3
+~
+~
+-1
+2134
+0
+EndRoom
+
+#ROOM
+Vnum 2136
+Name NO MAN'S LAND~
+Desc This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues north
+and east; or there is a street to the south.
+~
+Room_flags 0
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2131
+0
+Exit
+1
+~
+~
+-1
+2137
+0
+Exit
+2
+~
+~
+-1
+2141
+0
+EndRoom
+
+#ROOM
+Vnum 2137
+Name NO MAN'S LAND~
+Desc This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues north,
+east and west.
+~
+Room_flags 0
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2132
+0
+Exit
+1
+~
+~
+-1
+2138
+0
+Exit
+3
+~
+~
+-1
+2136
+0
+EndRoom
+
+#ROOM
+Vnum 2138
+Name NO MAN'S LAND~
+Desc This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues north,
+east, and west; or there is a street to the south.
+~
+Room_flags 0
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2133
+0
+Exit
+1
+~
+~
+-1
+2139
+0
+Exit
+2
+~
+~
+-1
+2143
+0
+Exit
+3
+~
+~
+-1
+2137
+0
+EndRoom
+
+#ROOM
+Vnum 2139
+Name NO MAN'S LAND~
+Desc This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues north,
+east, and west.
+~
+Room_flags 0
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2134
+0
+Exit
+1
+~
+~
+-1
+2140
+0
+Exit
+3
+~
+~
+-1
+2138
+0
+EndRoom
+
+#ROOM
+Vnum 2140
+Name NO MAN'S LAND~
+Desc This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues south
+and west; or there is a street to the south.
+~
+Room_flags 0
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2135
+0
+Exit
+2
+~
+~
+-1
+2145
+0
+Exit
+3
+~
+~
+-1
+2139
+0
+EndRoom
+
+#ROOM
+Vnum 2141
+Name Bend in Hector Street~
+Desc Hector street bends to the east and the south here.  "No Man's Land"
+entrance is to the north.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2136
+0
+Exit
+1
+~
+~
+-1
+2142
+0
+Exit
+2
+~
+~
+-1
+2146
+0
+EndRoom
+
+#ROOM
+Vnum 2142
+Name Hector Street at Bakery~
+Desc Hector street runs east and west.  The Bakery used to be to the south
+but the entrance is sealed off.  Probably just a bunch of stale pies in
+there anyways.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2143
+0
+Exit
+3
+~
+~
+-1
+2141
+0
+EndRoom
+
+#ROOM
+Vnum 2143
+Name Another corner of Hector and Achilles streets~
+Desc Achilles street heads to the south and Hector runs east and west.
+There is an entrance to "No Man's Land" to the north.  On the
+southwest corner of this intersection, it looks like a building
+was recently burned down.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2138
+0
+Exit
+1
+~
+~
+-1
+2144
+0
+Exit
+2
+~
+~
+-1
+2147
+0
+Exit
+3
+~
+~
+-1
+2142
+0
+EndRoom
+
+#ROOM
+Vnum 2144
+Name Hector Street at Jeweler~
+Desc Once a bright spot in the town, it now looks like one of the
+hardest hit by the violence.  The building could collapse at any
+moment.  The street continues east and west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2145
+0
+Exit
+3
+~
+~
+-1
+2143
+0
+EndRoom
+
+#ROOM
+Vnum 2145
+Name Corner of Ajax and Hector~
+Desc There is a grand fountain to the east but the water doesn't
+look good to drink.  Ajax street heads south and Hector
+goes back west.  "No Man's Land" is to the north.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2140
+0
+Exit
+2
+~
+~
+-1
+2149
+0
+Exit
+3
+~
+~
+-1
+2144
+0
+EndRoom
+
+#ROOM
+Vnum 2146
+Name Hector Street~
+Desc The street is full of garbage here.  An odd building lies to the west,
+but you don't seem to be able to find a way into it.  The street
+runs north and south here.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2141
+0
+Exit
+2
+~
+~
+-1
+2150
+0
+EndRoom
+
+#ROOM
+Vnum 2147
+Name Achilles Avenue~
+Desc The town bards sang of the victory parades that used to pass along this
+route.  It was once a major way through the center of town.  The street
+goes south to a bend and north to an intersection.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2143
+0
+Exit
+2
+~
+~
+-1
+2152
+0
+EndRoom
+
+#ROOM
+Vnum 2148
+Name A small ruined chapel~
+Desc This was a small temple built to honor the minor gods and goddesses.
+It is now desecrated by graffiti and vandalism.  Perhaps its worst
+defilement is that it is the hangout of the Ogre gang.  There is a street to
+the east through a rusty metal door.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+rusted door metal~
+-1
+2149
+AB
+EndRoom
+
+#ROOM
+Vnum 2149
+Name Ajax Avenue at chapel~
+Desc The temple to honor the minor gods is through a rusty metal door
+to the west.  The street continues north and south.  You hear the
+muffled sounds of screams coming from the chapel.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2145
+0
+Exit
+2
+~
+~
+-1
+2154
+0
+Exit
+3
+~
+rusted door metal~
+-1
+2148
+AB
+EndRoom
+
+#ROOM
+Vnum 2150
+Name First intersection of Hector and Achilles~
+Desc There is a large statue here depicting a battle between two
+great warriors.  You think it's odd that it has not been defiled,
+but then you sense a aura protecting it.  Achilles runs east
+and south, while Hector heads out to the north.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2146
+0
+Exit
+1
+~
+~
+-1
+2151
+0
+Exit
+2
+~
+~
+-1
+2156
+0
+EndRoom
+
+#ROOM
+Vnum 2151
+Name Achilles Avenue~
+Desc A large open space, possibly a cemetery, lies to the south.
+There is a large wrought-iron fence with spikes on top
+which prevents you from entering the area.  The street
+continues east and west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2152
+0
+Exit
+3
+~
+~
+-1
+2150
+0
+EndRoom
+
+#ROOM
+Vnum 2152
+Name A bend in the road~
+Desc Achilles Avenue bends to the north and west here.  There
+is also a narrow alley to the south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2147
+0
+Exit
+2
+~
+~
+-1
+2157
+0
+Exit
+3
+~
+~
+-1
+2151
+0
+EndRoom
+
+#ROOM
+Vnum 2153
+Name What is left of the weaponshop~
+Desc It doesn't even look like those punks gave the weaponsmith a
+proper burial.  But what a going away present he seems to have
+received!  Blood is splattered and dried all over the walls here.
+It looks like a great deal of carnage happened here.  The way
+out to the east leads out onto a street.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2154
+0
+EndRoom
+
+#ROOM
+Vnum 2154
+Name Ajax street at Weaponshop (or whats left of it)~
+Desc The street goes north and south.  The stables used to be to the
+east, but I bet all the horses are dead or gone.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2149
+0
+Exit
+2
+~
+~
+-1
+2159
+0
+Exit
+3
+~
+~
+-1
+2153
+0
+EndRoom
+
+#ROOM
+Vnum 2155
+Name Khan Park~
+Desc Not really a "park" as you and i would think of it but
+it seems queerly peaceful here in comparison to the rest of
+the area.  There seems to be some kind of memorial to the
+great Mongol warrior Khan being crudely constructed here.
+There is a street to the east and another to the south.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2156
+0
+Exit
+2
+~
+~
+-1
+2162
+0
+EndRoom
+
+#ROOM
+Vnum 2156
+Name Achilles avenue at entrance to park~
+Desc A ... park?! lies to the west.  The street runs south to an
+intersection and curves to the north.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2150
+0
+Exit
+2
+~
+~
+-1
+2163
+0
+Exit
+3
+~
+~
+-1
+2155
+0
+EndRoom
+
+#ROOM
+Vnum 2157
+Name A bend in Ajax~
+Desc The roads bends south and east here.  You barely notice
+a small alley leading north.  Some kind of tunnel entrance
+is to the west but it has been crushed under its own weight.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2152
+0
+Exit
+1
+~
+~
+-1
+2158
+0
+Exit
+2
+~
+~
+-1
+2164
+0
+EndRoom
+
+#ROOM
+Vnum 2158
+Name Ajax street~
+Desc A once prideful guildhouse was on the northeast corner of
+this intersection.  Most of the walls and ceiling have long since
+been demolished.  An inn/pub is to the south.  The street bends
+to the east or west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2159
+0
+Exit
+2
+~
+~
+-1
+2165
+0
+Exit
+3
+~
+~
+-1
+2157
+0
+EndRoom
+
+#ROOM
+Vnum 2159
+Name Curve in the road~
+Desc The street goes north or west from here.  A narrow street once
+headed southeast from here.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2154
+0
+Exit
+3
+~
+~
+-1
+2158
+0
+EndRoom
+
+#ROOM
+Vnum 2160
+Name A wide alleyway~
+Desc The sides of the alleyway have been vandalized many times.
+One patch of graffiti actually looks readable:
+            This section has been designed for levels 5 through 10
+            If you are above level 10 please don't expect much.
+            If you are below level 5 enter at your own risk.
+In another spot it says "now entering Ogre territory..."
+A street lies to the west and a major road to the east.
+~
+Room_flags 5
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2161
+0
+Exit
+3
+You see the end of Elm street. Looks much safer.
+~
+~
+-1
+3144
+0
+EndRoom
+
+#ROOM
+Vnum 2161
+Name Alexander Road~
+Desc You see many gang members walking around looking for
+fights to pick and things to break.  It seems as if all of the
+other citizens have been run out of town.  All the former
+homes are boarded up and uninhabitable.  The road continues
+east and west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2162
+0
+Exit
+3
+~
+~
+-1
+2160
+0
+EndRoom
+
+#ROOM
+Vnum 2162
+Name Alexander Street at park entrance~
+Desc A park-looking area lies to the north and a passage between
+two buildings leads to another street to the south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2155
+0
+Exit
+2
+~
+~
+-1
+2166
+0
+Exit
+3
+~
+~
+-1
+2161
+0
+EndRoom
+
+#ROOM
+Vnum 2163
+Name Achilles Avenue~
+Desc The Avenue Runs north and south.  You sense you are deep within
+Ogre gang territory, and a chill goes up your spine.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2156
+0
+Exit
+2
+~
+~
+-1
+2167
+0
+EndRoom
+
+#ROOM
+Vnum 2164
+Name Ajax Street~
+Desc You can see a sinister black wrought-iron fence to the west.
+You wonder if it's keeping you out, or the ghouls in?
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2157
+0
+Exit
+2
+~
+~
+-1
+2169
+0
+EndRoom
+
+#ROOM
+Vnum 2165
+Name The inn/pub~
+Desc The inn actually looks fairly functional despite its lack
+of repair.  The boys come here to hoot it up and drink them selves
+into oblivion sometimes.  It looks as if the beer is still on tap!!!
+A hallway leads south and you spy a street through the doorway
+to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2158
+0
+Exit
+2
+~
+~
+-1
+2170
+0
+EndRoom
+
+#ROOM
+Vnum 2166
+Name Solomon Street~
+Desc This street forms the southern boundary of Ogre territory.  The
+street extends far to the east.  There is also a pathway between
+buildings which leads to another street to the north.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2162
+0
+Exit
+1
+~
+~
+-1
+2167
+0
+EndRoom
+
+#ROOM
+Vnum 2167
+Name Intersection of Achilles and Solomon~
+Desc Solomon street is to the east and west.  The other part of the
+T is Achilles Avenue, starting here and winding to the north.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2163
+0
+Exit
+1
+~
+~
+-1
+2168
+0
+Exit
+3
+~
+~
+-1
+2166
+0
+EndRoom
+
+#ROOM
+Vnum 2168
+Name Solomon Street~
+Desc A wrought-iron fence blocks off what used to be an entrance to the
+cemetery here to the north.  The evil just seems too strong to
+to consider entering.  You feel you should stick with the "lesser"
+evils along the road to the east and west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2169
+0
+Exit
+3
+~
+~
+-1
+2167
+0
+EndRoom
+
+#ROOM
+Vnum 2169
+Name Intersection of Ajax and Solomon~
+Desc The two roads meet at a corner here.  Ajax runs north and
+Solomon heads west.  An inn/pub is through a back doorway
+to the east.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2164
+0
+Exit
+1
+~
+~
+-1
+2170
+0
+Exit
+3
+~
+~
+-1
+2168
+0
+EndRoom
+
+#ROOM
+Vnum 2170
+Name Hallway~
+Desc The hallway heads back north to the main part of the inn/pub.
+The stairs leading up to the guest rooms here do not seem
+advisable to climb.  A doorway empties out into Solomon
+street to the west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2165
+0
+Exit
+3
+~
+~
+-1
+2169
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 2124 1 1
+D 0 2125 3 1
+D 0 2148 1 1
+D 0 2149 3 1
+M 0 2109 3 2102 1
+E 0 2105 0 17
+E 0 2114 0 5
+M 0 2101 25 2102 1
+E 0 2101 0 5
+M 0 2101 25 2103 1
+E 0 2101 0 5
+M 0 2101 25 2104 1
+E 0 2101 0 5
+M 0 2101 25 2105 1
+E 0 2101 0 5
+M 0 2101 25 2106 1
+E 0 2101 0 5
+M 0 2101 25 2107 1
+E 0 2101 0 5
+M 0 2104 5 2108 1
+E 0 2114 0 5
+E 0 2109 0 9
+E 0 2113 0 16
+M 0 2101 25 2108 1
+E 0 2101 0 5
+M 0 2101 25 2109 1
+E 0 2101 0 5
+M 0 2101 25 2110 1
+E 0 2101 0 5
+M 0 2101 25 2111 1
+E 0 2101 0 5
+M 0 2101 25 2112 1
+E 0 2101 0 5
+M 0 2101 25 2113 1
+E 0 2101 0 5
+M 0 2104 5 2114 1
+E 0 2114 0 5
+E 0 2111 0 1
+E 0 2103 0 16
+M 0 2109 3 2114 1
+E 0 2114 0 5
+E 0 2118 0 16
+M 0 2101 25 2114 1
+E 0 2101 0 5
+M 0 2101 25 2115 1
+E 0 2101 0 5
+M 0 2104 5 2116 1
+E 0 2114 0 5
+E 0 2104 0 11
+E 0 2103 0 16
+M 0 2101 25 2116 1
+E 0 2101 0 5
+M 0 2101 25 2117 1
+E 0 2101 0 5
+M 0 2101 25 2118 1
+E 0 2101 0 5
+M 0 2101 25 2119 1
+E 0 2101 0 5
+M 0 2101 25 2120 1
+E 0 2101 0 5
+M 0 2101 25 2121 1
+E 0 2101 0 5
+M 0 2101 25 2122 1
+E 0 2101 0 5
+M 0 2104 5 2123 1
+E 0 2114 0 5
+E 0 2113 0 16
+E 0 2117 0 7
+M 0 2105 10 2123 2
+E 0 2108 0 17
+M 0 2103 1 2124 1
+E 0 2119 0 16
+E 0 2111 0 1
+E 0 2114 0 5
+M 0 2108 12 2124 6
+M 0 2108 12 2124 6
+M 0 2108 12 2124 6
+M 0 2108 12 2124 6
+M 0 2105 10 2125 2
+E 0 2108 0 17
+E 0 2107 0 8
+M 0 2109 3 2128 1
+E 0 2114 0 5
+E 0 2105 0 17
+E 0 2118 0 16
+M 0 2101 25 2128 1
+E 0 2101 0 5
+M 0 2101 25 2130 1
+E 0 2101 0 5
+M 0 2101 25 2131 1
+E 0 2101 0 5
+M 0 2106 10 2131 1
+E 0 2110 0 16
+E 0 2116 0 3
+M 0 2105 10 2132 2
+E 0 2107 0 8
+M 0 2106 10 2132 1
+E 0 2110 0 16
+M 0 2106 10 2133 1
+E 0 2110 0 16
+E 0 2116 0 3
+M 0 2101 25 2134 1
+E 0 2101 0 5
+M 0 2106 10 2134 1
+E 0 2110 0 16
+M 0 2104 5 2135 1
+E 0 2114 0 5
+E 0 2104 0 11
+E 0 2111 0 1
+M 0 2106 10 2135 1
+E 0 2110 0 16
+M 0 2106 10 2136 1
+E 0 2110 0 16
+E 0 2116 0 3
+M 0 2102 25 2137 1
+E 0 2102 0 5
+M 0 2106 10 2137 1
+E 0 2110 0 16
+M 0 2111 5 2138 1
+E 0 2115 0 5
+E 0 2103 0 16
+E 0 2109 0 9
+M 0 2106 10 2138 1
+E 0 2110 0 16
+E 0 2116 0 3
+M 0 2106 10 2139 1
+E 0 2110 0 16
+E 0 2116 0 3
+M 0 2102 25 2140 1
+M 0 2106 10 2140 1
+E 0 2110 0 16
+M 0 2102 25 2142 1
+E 0 2102 0 5
+M 0 2107 3 2143 1
+E 0 2118 0 16
+E 0 2115 0 5
+M 0 2102 25 2145 1
+E 0 2102 0 5
+M 0 2102 25 2146 1
+E 0 2102 0 5
+M 0 2111 5 2147 1
+E 0 2115 0 5
+E 0 2103 0 16
+E 0 2112 0 9
+M 0 2110 1 2148 1
+E 0 2115 0 5
+E 0 2106 0 16
+E 0 2112 0 9
+M 0 2108 12 2148 6
+M 0 2108 12 2148 6
+M 0 2108 12 2148 6
+M 0 2108 12 2148 6
+M 0 2105 10 2149 2
+E 0 2107 0 8
+E 0 2108 0 17
+M 0 2102 25 2150 1
+E 0 2102 0 5
+M 0 2102 25 2151 1
+E 0 2102 0 5
+M 0 2102 25 2152 1
+E 0 2102 0 5
+M 0 2105 10 2152 2
+E 0 2108 0 17
+M 0 2111 5 2153 1
+E 0 2115 0 5
+E 0 2113 0 16
+E 0 2117 0 7
+M 0 2102 25 2153 1
+E 0 2102 0 5
+M 0 2102 25 2154 1
+E 0 2102 0 5
+M 0 2111 5 2155 1
+E 0 2115 0 5
+E 0 2104 0 11
+E 0 2109 0 9
+M 0 2102 25 2155 1
+E 0 2102 0 5
+M 0 2102 25 2156 1
+E 0 2102 0 5
+M 0 2102 25 2157 1
+E 0 2102 0 5
+M 0 2102 25 2158 1
+E 0 2102 0 5
+M 0 2102 25 2159 1
+E 0 2102 0 5
+M 0 2102 25 2160 1
+E 0 2102 0 5
+M 0 2107 3 2161 1
+E 0 2105 0 17
+E 0 2115 0 5
+M 0 2102 25 2161 1
+E 0 2102 0 5
+M 0 2102 25 2162 1
+E 0 2102 0 5
+M 0 2102 25 2163 1
+E 0 2102 0 5
+M 0 2102 25 2164 1
+E 0 2102 0 5
+M 0 2107 3 2165 1
+E 0 2105 0 17
+E 0 2118 0 16
+E 0 2115 0 5
+M 0 2102 25 2165 1
+E 0 2102 0 5
+M 0 2102 25 2166 1
+E 0 2102 0 5
+M 0 2102 25 2167 1
+E 0 2102 0 5
+M 0 2102 25 2169 1
+E 0 2102 0 5
+M 0 2111 5 2170 1
+E 0 2115 0 5
+E 0 2104 0 11
+E 0 2117 0 7
+M 0 2102 25 2170 1
+E 0 2102 0 5
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

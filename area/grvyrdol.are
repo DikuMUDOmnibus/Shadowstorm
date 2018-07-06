@@ -1,0 +1,815 @@
+#AREADATA
+Name The Graveyard Of Lost Souls~
+Builders Gretago~
+VNUMs 6700 6824
+Credits (null)~
+Security 9
+Soundfile (null)~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 6700
+Name Before the old gates~
+Desc Before the old rusty gates there is a sign that says "The Graveyard Of
+Lost Souls."  One of the gates looks like its going to fall of its hinges...
+It must be old.  The walls surrounding the graveyard are covered in cracks
+and there are some loose bricks.  On the other side of the gates there is a
+dark dirt trail.  
+~
+Room_flags 67108868
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+{xgates~
+0
+6701
+AB
+EndRoom
+
+#ROOM
+Vnum 6701
+Name A dark dirt trail~
+Desc Along the side of the dirt trail the grass is long and there are lots of
+weeds growing.  This trail has been walked on many times.  A faint sound is
+coming from the north.  Maybe the dead are coming to attack.  The dark dirt
+trail continues north and before the gates is south.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+6702
+0
+Exit
+2
+~
+{xgates~
+0
+6700
+AB
+EndRoom
+
+#ROOM
+Vnum 6702
+Name A dark dirt trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+6703
+0
+Exit
+2
+~
+~
+0
+6701
+0
+EndRoom
+
+#ROOM
+Vnum 6703
+Name An intersection in the trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+6705
+0
+Exit
+2
+~
+~
+0
+6702
+0
+Exit
+3
+~
+~
+0
+6704
+0
+EndRoom
+
+#ROOM
+Vnum 6704
+Name A dark dirt trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+6703
+0
+Exit
+3
+~
+~
+0
+6706
+0
+EndRoom
+
+#ROOM
+Vnum 6705
+Name A dark dirt trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+6720
+0
+Exit
+3
+~
+~
+0
+6703
+0
+EndRoom
+
+#ROOM
+Vnum 6706
+Name A dark dirt trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+6707
+0
+Exit
+1
+~
+~
+0
+6704
+0
+EndRoom
+
+#ROOM
+Vnum 6707
+Name A dark dirt trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+6710
+0
+Exit
+2
+~
+~
+0
+6706
+0
+Exit
+3
+~
+~
+0
+6708
+0
+EndRoom
+
+#ROOM
+Vnum 6708
+Name At an open grave~
+Desc This grave is open and there are no signs of a headstone.  Its probably
+been dug ready so they can just chuck the dead person in.  The grass looks
+like it hasn't been cut for a while and there are weeds everywhere.  The
+dark dirt trail is back to the east.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+6707
+0
+Exit
+5
+~
+~
+0
+6709
+0
+EndRoom
+
+#ROOM
+Vnum 6709
+Name Inside a grave~
+Desc Inside a grave its a little bit dark and only a few rays of light manage
+to get down.  The walls are too unstable to climb up.  There is no way to
+get out of here.  The grave is empty accept for a few worms,flies and weeds.
+There is a small pile of stones in the corner that have fallen from above.  
+~
+Room_flags 67108868
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 6710
+Name A dark dirt trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+6711
+0
+Exit
+1
+~
+~
+0
+6732
+0
+Exit
+2
+~
+~
+0
+6707
+0
+EndRoom
+
+#ROOM
+Vnum 6711
+Name A dark dirt trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+6710
+0
+Exit
+3
+~
+~
+0
+6712
+0
+EndRoom
+
+#ROOM
+Vnum 6712
+Name A dark dirt trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+6711
+0
+Exit
+3
+~
+~
+0
+6713
+0
+EndRoom
+
+#ROOM
+Vnum 6713
+Name A dark dirt trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+6714
+0
+Exit
+1
+~
+~
+0
+6712
+0
+EndRoom
+
+#ROOM
+Vnum 6714
+Name A dark dirt trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+6715
+0
+Exit
+2
+~
+~
+0
+6713
+0
+EndRoom
+
+#ROOM
+Vnum 6715
+Name A dark dirt trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+6716
+0
+Exit
+2
+~
+~
+0
+6714
+0
+EndRoom
+
+#ROOM
+Vnum 6716
+Name A dark dirt trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+6717
+0
+Exit
+3
+~
+~
+0
+6715
+0
+EndRoom
+
+#ROOM
+Vnum 6717
+Name A dark dirt trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+6718
+0
+Exit
+3
+~
+~
+0
+6716
+0
+EndRoom
+
+#ROOM
+Vnum 6718
+Name A dark dirt trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+6717
+0
+Exit
+1
+~
+~
+0
+6719
+0
+EndRoom
+
+#ROOM
+Vnum 6719
+Name A dark dirt trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+6718
+0
+EndRoom
+
+#ROOM
+Vnum 6720
+Name A dark dirt trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+6721
+0
+Exit
+3
+~
+~
+0
+6705
+0
+EndRoom
+
+#ROOM
+Vnum 6721
+Name A dark spooky trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+6722
+0
+Exit
+2
+~
+~
+0
+6720
+0
+EndRoom
+
+#ROOM
+Vnum 6722
+Name A dark spooky trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+6723
+0
+Exit
+3
+~
+~
+0
+6721
+0
+EndRoom
+
+#ROOM
+Vnum 6723
+Name A dark spooky trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+6724
+0
+Exit
+3
+~
+~
+0
+6722
+0
+EndRoom
+
+#ROOM
+Vnum 6724
+Name A dark spooky trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+6725
+0
+Exit
+3
+~
+~
+0
+6723
+0
+EndRoom
+
+#ROOM
+Vnum 6725
+Name A dark spooky trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+6726
+0
+Exit
+3
+~
+~
+0
+6724
+0
+EndRoom
+
+#ROOM
+Vnum 6726
+Name A dark spooky trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+6730
+0
+Exit
+1
+~
+~
+0
+6727
+0
+Exit
+3
+~
+~
+0
+6725
+0
+EndRoom
+
+#ROOM
+Vnum 6727
+Name A dark spooky trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+6728
+0
+Exit
+3
+~
+~
+0
+6726
+0
+EndRoom
+
+#ROOM
+Vnum 6728
+Name A dark spooky trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+6729
+0
+Exit
+3
+~
+~
+0
+6727
+0
+EndRoom
+
+#ROOM
+Vnum 6729
+Name A dark spooky trail~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+6728
+0
+EndRoom
+
+#ROOM
+Vnum 6730
+Name At an open grave~
+Desc The grass here is quite long and there are weeds growing around the grave
+There is an open grave in the center of the room.  It looks big enough for a
+few people to fit inside.  The soil around the grave is loose and bits fall
+in every now and then.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+6726
+0
+Exit
+5
+~
+~
+0
+6731
+0
+EndRoom
+
+#ROOM
+Vnum 6731
+Name Inside a grave~
+Desc There is no way to get out of this grave.  There are no hand holes or
+vines on the walls.  There are some dead weeds in the corners of the grave. 
+There is a black coffin in the center of the room.  It looks like a person
+could get inside it.  
+~
+Room_flags 67108868
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 6732
+Name At a grave~
+Desc At a grave there are only a few weeds and the grass isn't as long as the
+rest.  There is a little mound in the center of the room where someones been
+burried.  At the top of the mound there is a little headstone.  But the top
+right hand corner has been smashed off and there is a small vine growing on
+it.  The dark dirt trail is to the west.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+6710
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 6700 0 1
+D 0 6701 2 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

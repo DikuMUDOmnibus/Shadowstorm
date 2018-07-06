@@ -1,0 +1,1128 @@
+#AREADATA
+Name Valhalla~
+Builders None~
+VNUMs 1200 1299
+Credits {51 60} ROM     Immortal Zone~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 1200
+Name Heimdall~
+Short Heimdall~
+Long Heimdall, guardian of Bifrost, stands guard over the Rainbow Bridge.
+~
+Description Standing over 7 feet tall and muscled as only a god can be, Heimdall keeps
+his unsleeping gaze over the Rainbow bridge.  His trusty Gjallor-horn never
+leaves his side, and shall remain unwinded until the dread ship Naglfar sails
+towards Valhalla on the dawn of Ragnarok.
+~
+Race human~
+Act_flags ABETV
+Aff CDFJZ
+Align 1000
+Group 0
+Level 57
+Hitroll 30
+Hit_dice 1d1+19999
+Mana_dice 1d1+499
+Dam_dice 5d4+40
+Dam_type crush
+Armor -20 -20 -20 -10
+Clevel0
+Cability 0
+Off ACDEFHIKLNOT
+Imm ABP
+Res CD
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size large
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 1200
+Name Barrel'O whiskey~
+Short a Barrel'O Whiskey~
+Desc A Barrel'O whiskey lays here.~
+Material unknown~
+Item_type fountain
+Extra 0
+Extra2 0
+Wear AO
+Values -1 -1 'whisky' 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1222
+Name no name~
+Short (no short description)~
+Desc (no description)~
+Material unknown~
+Item_type trash
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 1200
+Name The Chat Room~
+Desc You are lounging in a quiet cosy parlour, warmed by a gentle magical fire
+which twinkles happily in a warm fireplace.  This is one of the many rooms
+where the heroes and gods come to socialize.  It is by far one of the most
+comfortable! 
+~
+Room_flags 67174920
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+Asgard lies to the south.
+~
+~
+-1
+1213
+0
+EndRoom
+
+#ROOM
+Vnum 1201
+Name Moses' Hangout~
+Desc You see here a cozy little room with a fireplace.  You can tell it is Moses'
+room by the two stone tablets and a bible on a small ledge near the fireplace.
+This room was designed for total relaxation.  You can watch television, listen
+to the stereo, even soak in a hot tub.
+There is a bell here for the butler.
+~
+Room_flags 67174408
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Asgard lies to the north.
+~
+~
+-1
+1213
+0
+EndRoom
+
+#ROOM
+Vnum 1202
+Name The Center of the Universe~
+Desc You are at the centre of the universe, everything is filled with bright
+light in all colors. You feel time and space no longer exist here.
+Exits fill the room in all 42 dimensions, leading everywhere.
+~
+Room_flags 67174920
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+Asgard lies to the east.
+~
+~
+-1
+1213
+0
+EndRoom
+
+#ROOM
+Vnum 1203
+Name Valhalla~
+Desc This is the huge Hall of Valhalla, where the Gods rule supreme.  The
+cavernous building stretches infinitely in all directions.  Valhalla 
+continues to the east, and the gods make their homes north and south of
+the halls.  The golden gates are to the west.  You know not what lies 
+upward...
+~
+Room_flags 67141640
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Alander's workroom is to the north.
+~
+door~
+-1
+1209
+AB
+Exit
+1
+Valhalla continues east.
+~
+~
+-1
+1217
+0
+Exit
+2
+A sea cave is south of here.
+~
+door~
+-1
+1208
+AB
+Exit
+3
+The entrance to Valhalla is to the west.
+~
+~
+-1
+1216
+0
+Exit
+4
+If you want to know what is up there, you shall have to go look...
+~
+~
+-1
+1
+0
+EndRoom
+
+#ROOM
+Vnum 1204
+Name Priscilla's Pleasure Palace ~
+Desc As you look around you, you see the largest collection of erotic toys
+in the world!!!  On a table in the middle of the room lies a book titled :
+"All You Ever Wanted to Know About Sex..But Were Afraid to Ask"
+There are things here that you never even imagined in your wildest dreams!
+~
+Room_flags 201359872
+Sector_type 0
+X 30 10 20 0 0 10 0 0 0 10 50
+Exit
+0
+Valhalla is to the north.
+~
+door~
+-1
+1218
+AB
+Exit
+2
+~
+~
+0
+1222
+0
+Mine
+Name New Mine~
+Door 5
+Shaft
+Cord 12 12 0
+Desc This is the entrance to a mine.
+~
+X 30 10 20 0 0 10 0 0 0 10 50 0 
+Flags 0~
+Exit
+1
+ToCord 13 12 0
+Exit
+4
+ToVnum -3308
+Exit
+5
+ToCord 12 12 1
+ENDSHAFT
+Shaft
+Cord 13 12 0
+Desc This is a shaft in the mine.
+~
+X 30 10 20 0 0 10 0 0 0 10 50 0 
+Flags 0~
+Exit
+3
+ToCord 12 12 0
+ENDSHAFT
+Shaft
+Cord 12 12 1
+Desc This is a shaft in the mine.
+~
+X 30 10 20 0 0 10 0 0 0 10 50 0 
+Flags 0~
+Exit
+3
+ToCord 11 12 1
+Exit
+4
+ToCord 12 12 0
+ENDSHAFT
+Shaft
+Cord 11 12 1
+Desc This is a shaft in the mine.
+~
+X 30 10 20 0 0 10 0 0 0 10 50 0 
+Flags 0~
+Exit
+1
+ToCord 12 12 1
+ENDSHAFT
+End
+
+EndRoom
+
+#ROOM
+Vnum 1205
+Name The Eye of the Hurricane~
+Desc The shrieking winds of a monstrous storm surround you, spinning you around
+in an endless web of fury. But then, in the middle of turmoil, you find a
+strange calm. You find yourself hovering in the calm eye of a hurricane. All
+around you you can see the desruction caused by the powerful storm. White
+hot flashes of lightning flicker from the depths of the hurricane.  But
+everything is strangely peaceful in here, with the sun shining in from above
+and a flock of birds winging across the sky.  You stretch out and relax, this
+storm is going to be here a while.
+~
+Room_flags 25100
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 1206
+Name Walking on the Moon~
+Desc The proud and lonely silence of Mare Imbrium surrounds you, as you gaze upon
+the sterile splendor of the moon.  All around is the velvet curtain of night,
+studded with a thousand gleaming jewels.  Below you hangs the beautiful
+fields of Earth, looking fragile and far away, but full of hope.  A sense of
+wistful regret touches you, as you think about what might have been, and what
+will be.
+~
+Room_flags 25092
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+crater mare imbrium~
+A small shipping tag is pinned to the ground with a worn hunting knife.
+Upon it is a dedication to Robert Anson Heinlein, the father of the future.
+~
+EndRoom
+
+#ROOM
+Vnum 1207
+Name The Satin Memorial Reading Room~
+Desc Half read books lie everywhere: Yeats, Tennyson, Chandler, Barrie;
+a battered paperback de Laclos; a dusty leather-bound Donne.  A
+damp novel perches precariously on the edge of a large bathtub.
+As your eyes travel beyond the steam rising to the air toward the
+rose-brambled balcony railing, you notice a well-creased printout
+of a poem sitting on a the velvet cushions of a rosewood chair
+that has been set so as to see the stark black mountains
+from one angle, or the wine-dark sea from another.
+~
+Room_flags 67150344
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+dusty leather bound leather-bound Donne~
+.       `Cruel and sudden, hast thou since
+        Purpled thy nail in blood of innocence?
+        Wherein could this flea guilty be,
+        Except in the drop it sucked from thee?
+        Yet thou trimph'st and say'st that thou
+        Find'st not thyself, nor me the weaker now;
+          'Tis true, then learn how false fears be:
+          Just so much honour when thou yield'st to me
+          Will waste as this flea's death took life from thee.'
+~
+ExtraDesc
+battered paperback de Laclos~
+.       'One is very soon bored of everything, my angel; it is a law
+        of nature.  It is not my fault.
+        If, that is to say, that I am bored with an adventure that has
+        claimed my attentions for four mortal months, it is not my fault.
+        If, that is to say, my love is equal to your virtue - and that
+        is certainly saying a great deal - it is not surprising that
+        one should come to the end at the same time as the other.  It
+        is not my fault.
+        A woman that I love madly now insists that I give you up for
+        her.  It is not my fault.
+        I quite realize that this is the perfect opportunity to accuse
+        me of perjury: but if, where nature has gifted men with no
+        more than constancy, she has given women obstinacy, it is
+        not my fault.
+        Believe this, you should take another lover, even as I take
+        another mistress.  This is good, very good advice: if you
+        find it bad, it is not my fault.
+        Good-bye, my angel.  I took you with pleasure, I leave you
+        without regret.  I shall come back perhaps.  Such is life.
+        It is not my fault.
+~
+ExtraDesc
+tennyson~
+.       "My mariners
+         Souls that have toiled, and wrought, and thought with me -
+         The ever with a frolic welcome took
+         The thunder and the sunshine, and opposed
+         Free hearts, free foreheads - you and I are old;
+         Old age hath yet his honour and the toil
+         Death closes all; but something ere the end,
+         Some work of noble note, may yet be done,
+         Not unbecoming of men that strove with the gods.
+         The lights begin to twinkle from the rocks;
+         The long day wanes; the slow moon climbs; the deep
+         Moans round with many voices."
+~
+ExtraDesc
+barrie~
+A copy of Peter Pan is opened near the end:
+
+What sort of form was Hook showing?  Misguided man though he
+was, we may be glad, without sympathising with him, that in
+the end he stayed true to the traditions of his race.  The
+other boys were flying about him now, flouting, scornful; and
+as he staggered about the deck striking at them impotently, his
+mind was no longer with them; it was slouching in the playing
+fields of long ago, or being sent up for good, or watching
+the wall-game from a famous wall.  And his shoes were right,
+and his waistcoat was right, and his tie was right, and his
+socks were right.
+
+James Hook, thou not wholly unheroic figure, farewell.
+~
+ExtraDesc
+chandler~
+She has just started the Lady in the Lake:
+
+Gillerain Regal, the Champagne of Perfumes.  It was definitely
+the stuff to get.  One drop of that in the hollow of your
+throat and the matched pink pearls started falling off you like
+summer rain.
+~
+ExtraDesc
+yeats~
+The page it is flipped open to reads:
+
+A sudden blow: the great wings beating still
+Above the staggering girl, her thighs carressed
+By the dark webs, her nape caught in his bill,
+he holds her helpless breast upon his breast.
+How can those terrified vague fingers push
+The feathered glory from her loosening thighs?
+And how can body, laid in that white rush,
+But feel that strange heart beating where it lies?
+A shudder in the loins engenders there
+The broken wall, the burning roof and tower
+And Agammemnon dead.  Being so caught up,
+So mastered by this brute blood of the air,
+Did she put on his knowledge with his power
+Before his indifferent beak could let her drop?
+~
+ExtraDesc
+print out print-out creased well poem~
+This page has been read over so many times that you can barely discern
+the words, and in fact with much poring only the following becomes
+clear:
+        'I know that I am studly - Heck, I'm sexy, cute and cuddly
+         And I know that I'm extremely modest too.'
+~
+ExtraDesc
+stark black mountains wine wine-dark dark sea~
+The ocean is constantly smashing up against the cliffs and rending
+huge slabs from it.  The beach is scarcely a beach at all, more a
+collection of rough flakes varying in size from a small car to a
+small fist.  As the water comes up over the rocks and ebbs back
+down, it filters through the spaces and makes an unnerving rattling
+sound.
+~
+ExtraDesc
+rosewood chair~
+It looks comfortable, and the cushions are ivory velvet.
+~
+ExtraDesc
+rose rose-brambled balcony railing~
+Climbing white roses have swarmed over the original marble to obscure
+it almost completely.  The air is sweet not with roses, though,
+but with Satin's sandalwood perfume.
+~
+Exit
+2
+Valhalla is to the south.
+~
+door~
+-1
+1217
+AB
+EndRoom
+
+#ROOM
+Vnum 1208
+Name A Sea Cave~
+Desc You are in a small cave in a cliff next to a deep green sea.  Fine
+gold and pink sand blanket the floor.  Shells are scattered and strewn
+about.  A blow hole in the roof of the cave allows beams of light to stream
+in and illuminate the cave.  The wind blows outside the entrance, but
+you are protected from the weather in your cozy cave.  The foamy surf
+never seems to quite reach your feet.  Several boulders here have been
+worn by time into a shape similar to a comfortable chair.
+~
+Room_flags 67142152
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Valhalla lies to the north.
+~
+door~
+-1
+1203
+AB
+EndRoom
+
+#ROOM
+Vnum 1209
+Name The Archmage's Workroom~
+Desc This well-lit room is absolutely filled with clutter -- enchanting gear,
+reagents, spell components, ancient tomes, scrolls, braziers, exotic incense
+and countless other tools of the magical trade, all jumbled together with
+seemingly no attention paid to organization.  You have no doubts that Alander
+can find whatever he needs without delay, however.  A heavy oak door stands
+barred to the south, to discourage idle visitors, and Alander's quarters
+are east.
+~
+Room_flags 67109896
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+clutter mess~
+You notice Jimmy Hoffa's ring.
+~
+ExtraDesc
+tools scrolls braziers components~
+It's all worth a fortune, but you'd better not touch it.  Alander keeps
+inventory and holds grudges.
+~
+Exit
+2
+Valhalla is to the south.
+~
+door~
+-1
+1203
+AB
+EndRoom
+
+#ROOM
+Vnum 1210
+Name Office~
+Desc The first thing you notice about this office is the floor; it
+is a black & white checkerboard pattern, with 8 squares to a side.  The
+south wall is a HUGE picture window that produces a magnificent view of 
+the land.  In front of the window is a large desk.  Completely covering
+the east wall is a bookshelf, that is crammed full.  In the northwest
+corner, you notice a statue.
+~
+Room_flags 67142152
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+bookshelf~
+This is the most amazing collection of chess books you have ever seen.
+Everything from Damiano's manuscripts, to a complete collection of the
+Encyclopedia of Chess Openings, to the latest Imformants are all here.
+~
+ExtraDesc
+statue~
+You recognize this as a statue of Robert James Fischer, one of the most 
+creative, if not eccentric, players of all time.  The inscription on the
+base reads, "I like the moment when I crush a man's ego."
+~
+ExtraDesc
+desk~
+This desk is much larger than anyone could possibly need.  At one end you 
+notice a large, disorderly mass of papers; it must be all his immortal
+paperwork.  At the other end is a magnificent wooden inlaid board with
+handcrafted ebony and hardwood pieces.
+~
+Exit
+0
+Valhalla is to the north
+~
+door~
+-1
+1217
+AB
+EndRoom
+
+#ROOM
+Vnum 1211
+Name Arena of Judgement~
+Desc The scene lain before you is one that gives you the feeling of being placed
+under a higher authority.  The jury is out.  A statue of Pontius Pilate is
+in the aft of the Arena.  Staring balefully, the statue faces a distant
+hillside where many aged crosses still stand.  The Arena is set in a wide
+pit-like field of trampled bloodstained grass, and is guarded by high walls
+of veinous marble.  A bloodstone seat awaits the true paragon of Romanity.
+~
+Room_flags 67142152
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+statue~
+A statue of Pontius Pilate is here.  On it's face is the expression of some
+age old contemplation.  Standing at the statues bronzy feet is a Blood red
+shield that glimmers like a pool of blood.
+~
+Exit
+2
+Valhalla is to the south.
+~
+door~
+-1
+1218
+AB
+EndRoom
+
+#ROOM
+Vnum 1212
+Name The Realm of the Dead~
+Desc You are standing on an immense, grey stone floor that stretches as far as you
+can see in all directions.  Rough winds plunging from the dark, starless sky
+tear savagely at your fragile body.
+~
+Room_flags 67117064
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+floor~
+The stone floor is the same shade of grey as the sky and is completely plain
+and unscratched.  It is probably too hard for anything to leave as much as a
+scratch on it.
+~
+ExtraDesc
+sky wind winds~
+Cold winds plunge ceaselessly at you from the dark, cloudless sky.
+~
+Exit
+0
+The hard floor seems to go on forever.
+~
+~
+-1
+1212
+0
+Exit
+1
+The hard floor seems to go on forever.
+~
+~
+-1
+1212
+0
+Exit
+2
+The hard floor seems to go on forever.
+~
+~
+-1
+1212
+0
+Exit
+3
+The hard floor seems to go on forever.
+~
+~
+-1
+1212
+0
+EndRoom
+
+#ROOM
+Vnum 1213
+Name Asgard~
+Desc You stand on a huge expanse of glass.  Below you are clouds and the 
+pains of mortality.  As you stand in Asgard, home of the bravest of the
+brave, you are frozen in awe of the power held within these walls.  A 
+huge mansion lies to the east beyond a set of magnificent golden doors. 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The chat room is to the north.
+~
+~
+-1
+1200
+0
+Exit
+1
+The golden doors of Valhalla are to the east
+~
+~
+-1
+1216
+0
+Exit
+2
+Moses' hangout is to the south.
+~
+~
+-1
+1201
+0
+Exit
+3
+The center of the universe is to the west.
+~
+~
+-1
+1202
+0
+Exit
+5
+The Rainbow Bridge is below you.  You can barely see it through the clouds.
+~
+~
+-1
+1215
+0
+EndRoom
+
+#ROOM
+Vnum 1214
+Name The Room of Lost Souls~
+Desc This is the room full of souls that never made it to Asgard.  They are 
+trapped here eternally, left to wander about in misery.  They were infidels
+and cowards.  Their cries of misery send a shiver down your spine.
+~
+Room_flags 201326600
+Sector_type 0
+X 100 0 0 0 0 0 0 0 0 0 0
+Mine
+Name New Mine~
+Door 3
+Shaft
+Cord 24 12 0
+Desc This is the entrance to a mine.
+~
+X 100 0 0 0 0 0 0 0 0 0 0 0 
+Flags 0~
+Exit
+0
+ToCord 24 11 0
+Exit
+1
+ToVnum 19736
+ENDSHAFT
+Shaft
+Cord 24 11 0
+Desc This is a shaft in the mine.
+~
+X 100 0 0 0 0 0 0 0 0 0 0 0 
+Flags 0~
+Exit
+2
+ToCord 24 12 0
+Exit
+3
+ToCord 23 11 0
+ENDSHAFT
+Shaft
+Cord 23 11 0
+Desc This is a shaft in the mine.
+~
+X 100 0 0 0 0 0 0 0 0 0 0 0 
+Flags 0~
+Exit
+1
+ToCord 24 11 0
+ENDSHAFT
+End
+
+Exit
+5
+~
+~
+-1
+1219
+0
+EndRoom
+
+#ROOM
+Vnum 1215
+Name Head of the Rainbow Bridge~
+Desc Standing on the mortal end of the Rainbow Bridge, the bridge arches up 
+before you and seems to disappear into the clouds.  You wonder if it is 
+wise to venture upward into the realm of the gods.  But it seems so calm
+and peaceful here that it would be a shame to leave...
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+The Rainbow Bridge stretches ahead before you.
+~
+~
+-1
+1220
+0
+Exit
+5
+The altar of Midgaard is below you.
+~
+~
+-1
+3054
+0
+EndRoom
+
+#ROOM
+Vnum 1216
+Name The Entrance of Valhalla~
+Desc The huge ornate entrance of Valhalla is before you.  It seems as though
+atleast eight-hundred soldiers could walk abreast of one another through
+these doors. You stare in awe at the sparkling mansion before you.  You
+wonder what secrets are held behind these doors and long to hear the stories
+of bravery and glory that you know are kept within the walls of Valhalla.
+~
+Room_flags 67141632
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+Valhalla lies to the east.
+~
+~
+-1
+1203
+0
+Exit
+3
+Asgard lies to the west.
+~
+~
+-1
+1213
+0
+EndRoom
+
+#ROOM
+Vnum 1217
+Name Valhalla~
+Desc You are standing in the halls of Valhalla.  Pictures of Odin, Thor, Tyr,
+Loki, Freyr, Feyja, and Balder line the walls.  The cavernous hall extends
+to the east and west.  Rooms belonging to the gods lie to the north and 
+south.  There appears to be an exit above you, but you do not know what is
+up there...
+~
+Room_flags 67141632
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The Satin Memorial Reading Room is north of here.
+~
+door~
+-1
+1207
+AB
+Exit
+1
+Valhalla continues east.
+~
+~
+-1
+1218
+0
+Exit
+2
+Bigfoots' room is south of here.
+~
+door~
+-1
+1210
+AB
+Exit
+3
+Valhalla continues west.
+~
+~
+-1
+1203
+0
+Exit
+4
+If you want to know what is up there you shall have to go and look...
+~
+~
+-1
+1212
+0
+EndRoom
+
+#ROOM
+Vnum 1218
+Name Valhalla~
+Desc You are standing in the halls of Valhalla.  Tapestries of the gods line
+the walls.  A statue of Odin is here.  The halls continue to the east and
+west, and there are doors to the north and south of you.  There is some 
+sort of exit above you, but you do not know where it leads...
+~
+Room_flags 67141632
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+statue odin~
+The statue of Odin has been exquisitely crafted.  It is of white marble
+with black and gold veins.  It looks to be of magical origin.
+~
+Exit
+0
+Pontius' room is north of here.
+~
+door~
+-1
+1211
+AB
+Exit
+1
+Valhalla continues east.
+~
+~
+-1
+1219
+0
+Exit
+2
+Priscilla's Pleasure Palace is south of here.
+~
+door~
+-1
+1204
+AB
+Exit
+3
+Valhalla continues west.
+~
+~
+-1
+1217
+0
+Exit
+4
+If you want to know what is up there you shall have to go up and see...
+~
+~
+-1
+2
+0
+EndRoom
+
+#ROOM
+Vnum 1219
+Name Valhalla~
+Desc You have reached the end of the halls of Valhalla.  There are heavy doors
+on 3 walls.  They lead into the rooms of the gods.  The hall goes back to
+the west, and there is some sort of an exit above you.  Torches sputter
+softly and the scent of incense is strong here.
+~
+Room_flags 67141632
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Melancholys' room is north of here.
+~
+~
+-1
+3161
+0
+Exit
+1
+Kates' room is east of here.
+~
+~
+-1
+3150
+0
+Exit
+2
+The Temple of Stupid is south of here.
+~
+~
+-1
+3170
+0
+Exit
+3
+Valhalla goes back to the west.
+~
+~
+-1
+1218
+0
+Exit
+4
+If you want to know what is up from here, you shall have to go up and see...
+~
+~
+-1
+1214
+0
+EndRoom
+
+#ROOM
+Vnum 1220
+Name On the Rainbow Bridge~
+Desc You have reached the center of the Rainbow Bridge.  Clouds and mist swirl
+around your feet.  The view from here is incredible.  It is little wonder 
+that the heavens were saved for the gods personal pleasures.
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+clouds~
+The clouds are beautiful.  There are shades of gray, pink and purple swirled
+into the blue sky.
+~
+Exit
+4
+The Rainbow Bridge continues upwards into the heavens.
+~
+~
+-1
+1221
+0
+Exit
+5
+The Rainbow Bridge disappears down into the clouds.
+~
+~
+-1
+1215
+0
+EndRoom
+
+#ROOM
+Vnum 1221
+Name The End of the Rainbow Bridge~
+Desc You have reached the end of the Rainbow Bridge.  Asgard stretches out above 
+you.  Looking around, you search for the legendary guardian of Asgard.  The
+clouds are far below you and a sense of beauty and peacefulness surrounds you. 
+~
+Room_flags 67108864
+Sector_type -1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+Asgard is above you, spread out in all its glory.
+~
+~
+-1
+1213
+0
+Exit
+5
+Bifrost, the Rainbow Bridge leads down to the Temple of Midgaard.
+~
+~
+-1
+1220
+0
+EndRoom
+
+#ROOM
+Vnum 1222
+Name An empty room.~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1204
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 1203 0 1
+D 0 1203 2 1
+D 0 1204 0 1
+D 0 1207 2 1
+D 0 1208 0 1
+D 0 1209 2 1
+D 0 1210 0 1
+D 0 1211 2 1
+D 0 1217 0 1
+D 0 1217 2 1
+D 0 1218 0 1
+D 0 1218 2 1
+O 0 3135 0 1200
+O 0 3200 0 1200
+O 0 3135 0 1200
+O 0 3200 0 1200
+M 0 1200 1 1221 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

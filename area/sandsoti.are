@@ -1,0 +1,92 @@
+#AREADATA
+Name Sands Of Time~
+Builders Jade~
+VNUMs 8800 8899
+Credits (null)~
+Security 5
+Soundfile (null)~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 8800
+Name Edge of the desert~
+Desc The sands of time are a dangerous place to be. As far as the 
+eye can see there is nothing but sand. There seems to be a 
+slight breeze in the air, with little dust tornadoes swirling
+about. There is lush green grass all around, right up to the edge
+of the desert it self, that just seems to stop right at the sand.
+ The sand its self looks to be a golden color with no sign of
+life of any kind. There is an old sign posted at the end of the
+trail.
+~
+Room_flags 4
+Sector_type 10
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+8801
+0
+EndRoom
+
+#ROOM
+Vnum 8801
+Name On the desert path~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+8800
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

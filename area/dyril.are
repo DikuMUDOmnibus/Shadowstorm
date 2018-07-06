@@ -1,0 +1,88 @@
+#AREADATA
+Name Hills of Dessolation~
+Builders Dyril~
+VNUMs 2900 2999
+Credits (null)~
+Security 5
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 2900
+Name Hills of Desolation~
+Desc A small road sign is visible to the left of the beaten dirt road.  It
+reads abandon all hope of leaving here alive with out the fabled orb of ages
+and the map of time.  Below that it reads north 1 mile cavern of tears. 
+Water water every where but not a saltless drop to drink 
+~
+Room_flags 33554433
+Sector_type 4
+X 100 100 100 100 100 100 100 50 100 50 100
+Exit
+1
+~
+~
+0
+2901
+0
+EndRoom
+
+#ROOM
+Vnum 2901
+Name Hills of Desolation~
+Desc ~
+Room_flags 0
+Sector_type 4
+X 100 100 100 100 100 100 100 0 100 0 100
+Exit
+3
+~
+~
+0
+2900
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

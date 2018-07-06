@@ -1,0 +1,3019 @@
+#AREADATA
+Name Dragon Tower~
+Builders None~
+VNUMs 2200 2299
+Credits { 5 30} Wench   Dragon Tower~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 2200
+Name oldstyle hatchling dragon baby~
+Short the dragon hatchling~
+Long A dragon hatchling is here, chewing on a bone.
+~
+Description This small dragon hisses at you as you enter the room.  Although it is only a
+few feet long, its sharp teeth make you think twice about petting it.
+~
+Race dragon~
+Act_flags ABG
+Aff JT
+Align -900
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d6+85
+Mana_dice 3d9+100
+Dam_dice 1d8+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res BE
+Vuln F
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 100
+Form AHZ
+Parts ACDEFGHIJKPQUVX
+Size medium
+Material unknown
+Aggression 0
+Fres H
+Fvul I
+EndMob
+
+#MOB
+Vnum 2201
+Name oldstyle draconian~
+Short the Draconian~
+Long The Draconian is standing here.
+~
+Description This horrible creature is a bizarre cross between a man and a dragon.  He 
+has black scales and a seven foot wingspan.  He scowls at you and hefts his 
+spear as you enter the room.
+~
+Race human~
+Act_flags ABCF
+Aff D
+Align -900
+Group 0
+Level 13
+Hitroll 0
+Hit_dice 2d10+170
+Mana_dice 6d9+100
+Dam_dice 2d5+3
+Dam_type none
+Armor -1 -1 -1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 100
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2202
+Name oldstyle lord crypt master~
+Short the dragon master~
+Long The lord of this crypt is here.
+~
+Description He doesn't look happy to see you.
+~
+Race human~
+Act_flags ABCF
+Aff T
+Align -1000
+Group 0
+Level 27
+Hitroll 0
+Hit_dice 5d10+650
+Mana_dice 13d9+100
+Dam_dice 5d4+7
+Dam_type none
+Armor -8 -8 -8 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1750
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2203
+Name oldstyle man mage wizard~
+Short a powerful mage~
+Long A man is here, studying some books.
+~
+Description A powerful looking mage is standing in this room studying his spells.  You are
+surprised at the fact that he is human, and realize that he must be very
+powerful to have been accepted by the creatures which live here.
+~
+Race human~
+Act_flags ABR
+Aff BDH
+Align -900
+Group 0
+Level 22
+Hitroll 0
+Hit_dice 4d10+360
+Mana_dice 22d9+100
+Dam_dice 2d7+5
+Dam_type none
+Armor -5 -5 -5 3
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 30
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2204
+Name oldstyle cleric draconian~
+Short the holy Draconian~
+Long A Draconian is here, deep in thought.          
+~
+Description A Draconian stands here, dressed in simple robes.  Around his neck you 
+notice a golden medallion in the shape of a five headed dragon.  
+~
+Race human~
+Act_flags ABCFQ
+Aff DH
+Align -900
+Group 0
+Level 22
+Hitroll 0
+Hit_dice 5d10+400
+Mana_dice 22d9+100
+Dam_dice 2d8+6
+Dam_type none
+Armor -5 -5 -5 5
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 20
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2205
+Name oldstyle king draconian~
+Short the Draconian King~
+Long A Draconian wearing fine clothes is here, pondering his greatness.          
+~
+Description The king of the draconians sits here on a golden throne.  He looks as 
+though he could crush your head with a single blow.  Yet you sense that he 
+is controlled by a greater power. 
+~
+Race human~
+Act_flags ABC
+Aff DH
+Align -900
+Group 0
+Level 26
+Hitroll 0
+Hit_dice 5d10+600
+Mana_dice 13d9+100
+Dam_dice 3d7+7
+Dam_type none
+Armor -7 -7 -7 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 40
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2206
+Name oldstyle concubine draconian~
+Short a concubine~
+Long A concubine is resting here. 
+~
+Description This is a concubine of the king.  She is lounging here, wearing nothing at 
+all.  You find yourself strangely repulsed as she draws a knife and 
+prepares to defend herself. 
+~
+Race human~
+Act_flags AB
+Aff 0
+Align -500
+Group 0
+Level 6
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 3d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 5
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2207
+Name oldstyle bodyguard draconian~
+Short A bodyguard~
+Long A bodyguard is here, staring at you menacingly. 
+~
+Description This creature has devoted its life to defending the king.  Your intrusion has
+not pleased it.
+~
+Race human~
+Act_flags ABF
+Aff CDF
+Align -800
+Group 0
+Level 18
+Hitroll 0
+Hit_dice 3d9+283
+Mana_dice 9d9+100
+Dam_dice 2d7+4
+Dam_type none
+Armor -3 -3 -3 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2220
+Name oldstyle tiamat dragon~
+Short Tiamat~
+Long A five headed dragon hisses at you as you enter this room.
+~
+Description You see before you the master of this Tower, Tiamat.  She frowns at you as she
+prepares to make you pay for your insolence ... with your lives!
+~
+Race human~
+Act_flags ABCF
+Aff DFTV
+Align -1000
+Group 0
+Level 52
+Hitroll 0
+Hit_dice 50d10+5500
+Mana_dice 26d9+100
+Dam_dice 6d7+20
+Dam_type none
+Armor -22 -22 -22 2
+Clevel0
+Cability 0
+Off EFNU
+Imm AB
+Res CD
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 2500
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2221
+Name oldstyle dragon red~
+Short the Great Red Dragon~
+Long A red dragon is here, contemplating your existence. 
+~
+Description This huge red dragon dominates the chamber.  As you turn to flee, he grins at
+you and invites you to stay ... forever! 
+~
+Race dragon~
+Act_flags ABCF
+Aff DFJT
+Align -1000
+Group 0
+Level 45
+Hitroll 0
+Hit_dice 25d10+3000
+Mana_dice 22d9+100
+Dam_dice 8d4+16
+Dam_type none
+Armor -15 -15 -15 4
+Clevel0
+Cability 0
+Off EFNR
+Imm H
+Res BE
+Vuln FI
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 500
+Form AHZ
+Parts ACDEFGHIJKPQUVX
+Size medium
+Material unknown
+Aggression 0
+Fres H
+EndMob
+
+#MOB
+Vnum 2222
+Name oldstyle dragon black~
+Short the Great Black Dragon~
+Long A black dragon is here, laughing at your insolence. 
+~
+Description This huge black wyrm laughs at your puny weapons.  You realize that he is not
+going to roll over and die for you.
+~
+Race dragon~
+Act_flags ABCF
+Aff DFJT
+Align -900
+Group 0
+Level 39
+Hitroll 0
+Hit_dice 15d10+1700
+Mana_dice 19d9+100
+Dam_dice 5d6+13
+Dam_type none
+Armor -13 -13 -13 5
+Clevel0
+Cability 0
+Off EFNR
+Imm K
+Res BE
+Vuln FJ
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1000
+Form AHZ
+Parts ACDEFGHIJKPQUVX
+Size medium
+Material unknown
+Aggression 0
+Fres H
+Fvul I
+EndMob
+
+#MOB
+Vnum 2223
+Name oldstyle dragon white~
+Short the Great White Dragon~
+Long A white dragon is here, waiting for you. 
+~
+Description This dragon towers over you.  Recalling your previous experiences with white
+dragons, you are not afraid.  She smiles at you and says 'I think you will find
+me a greater challenge than my offspring.'
+~
+Race dragon~
+Act_flags ABCF
+Aff DFJT
+Align -1000
+Group 0
+Level 37
+Hitroll 0
+Hit_dice 10d10+1500
+Mana_dice 18d9+100
+Dam_dice 3d10+12
+Dam_type none
+Armor -12 -12 -12 5
+Clevel0
+Cability 0
+Off EFNR
+Imm I
+Res BE
+Vuln FH
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 1750
+Form AHZ
+Parts ACDEFGHIJKPQUVX
+Size medium
+Material unknown
+Aggression 0
+Fres H
+Fvul I
+EndMob
+
+#MOB
+Vnum 2225
+Name oldstyle dragon green~
+Short the Ancient Green Dragon~
+Long A green dragon is here, looking distraught. 
+~
+Description This huge beast appears to be the most directly related to the draconians. 
+She looks at you with sorrow in her eyes and says 'You have slaughtered my 
+children.  Prepare to die.'
+~
+Race dragon~
+Act_flags ABCF
+Aff DFJT
+Align -1000
+Group 0
+Level 41
+Hitroll 0
+Hit_dice 25d10+2000
+Mana_dice 20d9+100
+Dam_dice 4d8+14
+Dam_type none
+Armor -14 -14 -14 4
+Clevel0
+Cability 0
+Off EFNR
+Imm L
+Res BE
+Vuln FP
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 1000
+Form AHZ
+Parts ACDEFGHIJKPQUVX
+Size medium
+Material unknown
+Aggression 0
+Fres H
+Fvul I
+EndMob
+
+#MOB
+Vnum 2226
+Name oldstyle hydra~
+Short a large hydra~
+Long A hydra is here, blocking the doorway. 
+~
+Description A hydra is here, guarding the entrance to a sealed vault.  You have the feeling
+it isn't happy to see you.
+~
+Race human~
+Act_flags ABCF
+Aff DF
+Align -800
+Group 0
+Level 18
+Hitroll 0
+Hit_dice 3d9+283
+Mana_dice 9d9+100
+Dam_dice 2d7+4
+Dam_type none
+Armor -3 -3 -3 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2227
+Name oldstyle slave human~
+Short A human slave~
+Long A Human slave is here, hard at work.          
+~
+Description He looks like he's under a lot of stress.  He would probably like it if you
+left him alone.
+~
+Race human~
+Act_flags ABS
+Aff DF
+Align 0
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d7+46
+Mana_dice 2d9+100
+Dam_dice 1d5+1
+Dam_type none
+Armor 6 6 6 9
+Clevel0
+Cability 0
+Off BEFJNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2240
+Name oldstyle zombie draconian~
+Short a Draconian zombie~
+Long A Draconian zombie is here, staring at nothing in particular.
+~
+Description This used to be one of the warriors of this tribe.  He was denied his final
+rest, however, and now guards this corridor tirelessly as a zombie.
+~
+Race human~
+Act_flags ABCF
+Aff DF
+Align -400
+Group 0
+Level 9
+Hitroll 0
+Hit_dice 2d6+110
+Mana_dice 4d9+100
+Dam_dice 1d8+2
+Dam_type none
+Armor 2 2 2 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 75
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2241
+Name oldstyle dragon phase~
+Short the phase dragon~
+Long A Phase Dragon is darting around the room.          
+~
+Description This small dragon looks like he's up to no good. 
+~
+Race dragon~
+Act_flags ACFGH
+Aff DFJT
+Align -300
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d7+121
+Mana_dice 5d9+100
+Dam_dice 2d4+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res BEH
+Vuln FI
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 250
+Form AHZ
+Parts ACDEFGHIJKPQUVX
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2242
+Name oldstyle fool draconian~
+Short the draconian fool~
+Long A Fool is here, making fun of you.          
+~
+Description This dragon man looks VERY foolish, dressed in a green and blue striped 
+suit.  As you enter the room, he points at you and laughs. 
+~
+Race human~
+Act_flags AGHS
+Aff DF
+Align 0
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d7+46
+Mana_dice 2d9+100
+Dam_dice 1d5+1
+Dam_type none
+Armor 6 6 6 9
+Clevel0
+Cability 0
+Off BEFJNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 25
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2243
+Name oldstyle queen draconian~
+Short the Draconian Queen~
+Long A Female Draconian sits, here, looking very important.          
+~
+Description This draconian looks VERY busy as she orders her slaves around.  You think 
+it might be a good idea to leave her alone. 
+~
+Race human~
+Act_flags ABC
+Aff DFH
+Align -600
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 500
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 2200
+Name spear jagged~
+Short a jagged spear~
+Desc A jagged spear has been left here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values exotic 2 6 thrust 0
+Level 10
+Weight 150
+Cost 153
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2201
+Name dagger silver~
+Short a silver dagger~
+Desc A silver dagger is lying here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values dagger 3 6 pierce 0
+Level 22
+Weight 10
+Cost 2000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+20 -2
+EndObj
+
+#OBJ
+Vnum 2202
+Name knife tooth dragon~
+Short a dragon's tooth knife~
+Desc A dangerous looking knife made from a dragon's tooth has been left here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values dagger 5 5 pierce 0
+Level 30
+Weight 80
+Cost 3200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+2 1
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 2203
+Name bracelet dragon~
+Short a dragon skin bracelet~
+Desc A scaly bracelet lies on the ground.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AM
+Values BC BC BC AB 0
+Level 15
+Weight 100
+Cost 1170
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2204
+Name belt silk black~
+Short a black silk belt~
+Desc A black belt made of the finest silk is hanging here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AL
+Values BC BC BC B 0
+Level 17
+Weight 250
+Cost 3900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+5 2
+EndObj
+
+#OBJ
+Vnum 2210
+Name belt silk white~
+Short a white silk belt~
+Desc A white belt made of the finest silk is hanging here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AL
+Values BC BC BC B 0
+Level 17
+Weight 250
+Cost 3900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+1 2
+EndObj
+
+#OBJ
+Vnum 2211
+Name bracelet platinum~
+Short a platinum bracelet.~
+Desc A tarnished platinum bracelet has been dropped here.~
+Material oldstyle~
+Item_type armor
+Extra A
+Extra2 0
+Wear AM
+Values ABC ABC ABC 0 0
+Level 20
+Weight 50
+Cost 1450
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2220
+Name symbol holy~
+Short a holy symbol~
+Desc A golden holy symbol is here.~
+Material oldstyle~
+Item_type jewelry
+Extra A
+Extra2 0
+Wear ACO
+Values 0 0 0 0 0
+Level 10
+Weight 20
+Cost 270
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 15
+EndObj
+
+#OBJ
+Vnum 2221
+Name robe black~
+Short a plain black robe~
+Desc A black robe is hanging on a hook on the wall.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AK
+Values AC AC AC 0 0
+Level 21
+Weight 30
+Cost 2000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 2222
+Name sword emerald~
+Short an emerald sword~
+Desc An emerald long sword is leaning against the wall.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values sword 4 6 slash D
+Level 28
+Weight 240
+Cost 2300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2223
+Name club stone~
+Short a stone club~
+Desc A heavy looking stone club is here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values mace 3 6 crush 0
+Level 18
+Weight 180
+Cost 940
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2224
+Name ring diamond~
+Short a diamond ring~
+Desc A diamond ring lies gleaming on the ground.~
+Material oldstyle~
+Item_type jewelry
+Extra 0
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 37
+Weight 60
+Cost 6800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 3
+AffectObj
+19 3
+EndObj
+
+#OBJ
+Vnum 2230
+Name ring copper~
+Short a copper ring~
+Desc A copper ring is here.~
+Material oldstyle~
+Item_type jewelry
+Extra 0
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 15
+Weight 10
+Cost 2600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+4 2
+EndObj
+
+#OBJ
+Vnum 2231
+Name key steel~
+Short a steel key~
+Desc A steel key.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2232
+Name key ruby~
+Short a ruby key~
+Desc A ruby key.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2233
+Name key white~
+Short a white key~
+Desc A white key.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2234
+Name key grey~
+Short a grey key~
+Desc A grey key is resting on the ground here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2237
+Name key stone~
+Short a stone key~
+Desc A stone key.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2240
+Name key black~
+Short a black key~
+Desc A black key.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2241
+Name key platinum~
+Short a platinum key~
+Desc A platinum key.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2242
+Name shield crested~
+Short a crested shield~
+Desc A large crested shield draws your attention.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AJ
+Values D D D AB 0
+Level 25
+Weight 200
+Cost 3900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+5 1
+EndObj
+
+#OBJ
+Vnum 2243
+Name wand golden~
+Short a golden wand~
+Desc A golden wand has been dropped here.~
+Material oldstyle~
+Item_type wand
+Extra A
+Extra2 0
+Wear AO
+Values 25 10 10 'dispel magic' 0
+Level 14
+Weight 50
+Cost 5500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2244
+Name staff silver~
+Short a silver staff~
+Desc A silver staff.~
+Material oldstyle~
+Item_type staff
+Extra AG
+Extra2 0
+Wear AO
+Values 25 20 20 'faerie fog' 0
+Level 14
+Weight 50
+Cost 11700
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2245
+Name staff dragon~
+Short the staff of the dragon~
+Desc A powerful oak staff has been left here.~
+Material oldstyle~
+Item_type staff
+Extra AG
+Extra2 0
+Wear AO
+Values 25 10 10 'call lightning' 0
+Level 15
+Weight 50
+Cost 10200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2246
+Name mail scale~
+Short scale mail~
+Desc A set of scale mail has been abandoned here.~
+Material oldstyle~
+Item_type armor
+Extra A
+Extra2 0
+Wear AD
+Values D D D 0 0
+Level 25
+Weight 200
+Cost 3900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2250
+Name staff black~
+Short a black staff~
+Desc You notice the faint outline of a staff.~
+Material oldstyle~
+Item_type staff
+Extra AJ
+Extra2 0
+Wear AO
+Values 30 3 3 'energy drain' 0
+Level 14
+Weight 250
+Cost 5300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2251
+Name potion cyan~
+Short a cyan potion~
+Desc A small cyan potion has been left here.~
+Material oldstyle~
+Item_type potion
+Extra 0
+Extra2 0
+Wear A
+Values 30 'blindness' 'harm' '' ''
+Level 9
+Weight 10
+Cost 1060
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2252
+Name potion magenta~
+Short a magenta potion~
+Desc A magenta potion.~
+Material oldstyle~
+Item_type potion
+Extra H
+Extra2 0
+Wear A
+Values 30 'cure critical' 'protection evil' '' ''
+Level 7
+Weight 10
+Cost 600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2254
+Name gauntlets spiked~
+Short a pair of spiked gauntlets~
+Desc A pair of spiked gauntlets.~
+Material oldstyle~
+Item_type armor
+Extra AG
+Extra2 0
+Wear AH
+Values C C C 0 0
+Level 20
+Weight 100
+Cost 2500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+AffectObj
+1 1
+EndObj
+
+#OBJ
+Vnum 2260
+Name scimitar golden~
+Short a golden scimitar~
+Desc A golden scimitar.~
+Material oldstyle~
+Item_type weapon
+Extra A
+Extra2 0
+Wear AN
+Values sword 3 5 slash 0
+Level 16
+Weight 100
+Cost 2500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+3 1
+AffectObj
+4 1
+EndObj
+
+#OBJ
+Vnum 2261
+Name brooch diamond~
+Short a diamond brooch~
+Desc A diamond brooch.~
+Material oldstyle~
+Item_type jewelry
+Extra G
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 25
+Weight 20
+Cost 980
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 25
+EndObj
+
+#OBJ
+Vnum 2270
+Name scroll~
+Short a runed scroll~
+Desc A runed scroll.~
+Material oldstyle~
+Item_type scroll
+Extra G
+Extra2 0
+Wear AO
+Values 30 'armor' 'protection evil' 'shield' ''
+Level 12
+Weight 10
+Cost 1960
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2271
+Name gloves dragon~
+Short a pair of dragon skin gloves~
+Desc A pair of dragon skin gloves are lying on the ground.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AH
+Values BC BC BC AB 0
+Level 17
+Weight 50
+Cost 4000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+2 2
+EndObj
+
+#OBJ
+Vnum 2275
+Name helm dragon~
+Short a helm of dragon kind~
+Desc A helm made of a dragon's skull is lying on the ground.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AE
+Values BD BD BD AC 0
+Level 35
+Weight 150
+Cost 4100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 15
+EndObj
+
+#OBJ
+Vnum 2276
+Name fur cloak~
+Short a fur cloak~
+Desc A large mound of fur is lying here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AK
+Values BC BC BC A 0
+Level 16
+Weight 100
+Cost 1910
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+1 1
+AffectObj
+13 10
+EndObj
+
+#OBJ
+Vnum 2280
+Name leggings dragon scale~
+Short a pair of dragon scale leggings~
+Desc A pair of dragon scale leggings is lying on the ground.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AF
+Values ABC ABC ABC AB 0
+Level 20
+Weight 150
+Cost 1590
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2281
+Name sleeves dragon scale~
+Short a set of dragon scale sleeves~
+Desc A set of dragon scale sleeves is lying on the ground.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AI
+Values ABC ABC ABC AB 0
+Level 20
+Weight 120
+Cost 1590
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2285
+Name whip dragon tail~
+Short a dragon tailed whip~
+Desc A dragon tailed whip is lying on the ground.~
+Material oldstyle~
+Item_type weapon
+Extra BJ
+Extra2 0
+Wear AN
+Values whip 4 5 whip 0
+Level 24
+Weight 140
+Cost 1530
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 2
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 2286
+Name hammer copper~
+Short a copper hammer~
+Desc A copper hammer is lying on the ground.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values mace 3 5 crush 0
+Level 15
+Weight 120
+Cost 750
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2287
+Name dagger silver~
+Short a silver dagger~
+Desc A silver dagger is lying here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values dagger 2 4 pierce 0
+Level 5
+Weight 10
+Cost 360
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2299
+Name key gold tarnished~
+Short a tarnished gold key~
+Desc A tarnished gold key lies here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 2201
+Name The Tower Gates~
+Desc You are at the entrance to a tall tower.  Lightning flashes periodically and
+it is raining.  You think it might be a good idea to turn back into the grove.
+~
+Room_flags 1
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+gate~
+The gate is tall and secure.  Whoever built it values privacy.
+~
+Exit
+0
+You see a large steel gate.  Beyond is the Foyer of the Tower.
+~
+gate steel~
+2231
+2202
+ABC
+Exit
+1
+The shadows cloud your vision.
+~
+~
+0
+1304
+0
+EndRoom
+
+#ROOM
+Vnum 2202
+Name The Foyer~
+Desc This is the entrance to the Tower.  The hallway continues to the north,
+leading towards a staircase.  You notice a grim painting on the wall,  and 
+quickly look away.
+~
+Room_flags 12
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+painting~
+This painting depicts the grisly death of a foolish human.  You hope you do 
+not share his fate.
+~
+Exit
+0
+You see a long hallway. 
+~
+~
+-1
+2203
+0
+Exit
+2
+You see the gate. 
+~
+~
+-1
+2201
+0
+EndRoom
+
+#ROOM
+Vnum 2203
+Name Hallway~
+Desc This hallway seems to stretch on forever.  You notice a stairway in  
+the distance. 
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The hall continues. 
+~
+~
+-1
+2204
+0
+Exit
+2
+You see the foyer. 
+~
+~
+-1
+2202
+0
+EndRoom
+
+#ROOM
+Vnum 2204
+Name Hallway~
+Desc You trudge down the hallway.  You notice doors to the east and west. 
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+The sign says "NURSERY" in bold letters.     
+~
+ExtraDesc
+inscription~
+It says "STORAGE"
+~
+Exit
+0
+The hall continues. 
+~
+~
+-1
+2207
+0
+Exit
+1
+You see a door.  You notice a sign. 
+~
+door~
+-1
+2205
+A
+Exit
+2
+The hall continues.
+~
+~
+-1
+2203
+0
+Exit
+3
+You see an oak door.  There is an inscription on it. 
+~
+oak~
+-1
+2206
+A
+EndRoom
+
+#ROOM
+Vnum 2205
+Name Nursery~
+Desc It looks like a tornado has been through here.  Toys are scattered everywhere,
+and a small group of dragon hatchlings are fighting over a bone. 
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a large stone door.
+~
+door stone~
+2297
+2223
+AF
+Exit
+3
+You see the hallway. 
+~
+~
+-1
+2204
+A
+EndRoom
+
+#ROOM
+Vnum 2206
+Name Storage Room~
+Desc This room is covered with dust, it looks as if no one has been here in ages.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+dust~
+As you look closely at the dust, you notice the outline of a trapdoor!       
+~
+Exit
+1
+You see the hallway. 
+~
+~
+-1
+2204
+A
+Exit
+5
+You see nothing special. 
+~
+trapdoor~
+-1
+2208
+A
+EndRoom
+
+#ROOM
+Vnum 2207
+Name End of the Hallway~
+Desc You have finally reached the end of the hallway.  A huge staircase leads up.
+You see a sign at the base of the staircase. 
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+The sign reads:
+    This area is kind of tough.  You probably shouldn't go up these stairs 
+    alone if you are under 18th level, or at all if you under 14th level.  
+    Have fun! -- Wench
+~
+Exit
+2
+The hall continues. 
+~
+~
+-1
+2204
+0
+Exit
+4
+The second floor.
+~
+~
+-1
+2210
+0
+EndRoom
+
+#ROOM
+Vnum 2208
+Name Guardian's Room~
+Desc You climb down the rickety stairs and find yourself face to face with a 
+gargantuan hydra.  How fast can you climb UP stairs? 
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+A large grey door.
+~
+grey~
+2234
+2209
+A
+Exit
+4
+You see the storage room. 
+~
+door trap trapdoor~
+-1
+2206
+A
+EndRoom
+
+#ROOM
+Vnum 2209
+Name The Treasure Room~
+Desc You have made it past the hydra into the vault.  You are astounded by 
+the treasure here.  Not only are you now rich, you can probably rest here
+safely.  The west wall seems to have a large door made entirely of ruby.
+~
+Room_flags 12
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see nothing special. 
+~
+grey~
+2234
+2208
+AF
+Exit
+3
+You see a ruby door!
+~
+door ruby~
+2232
+2218
+ABCF
+EndRoom
+
+#ROOM
+Vnum 2210
+Name The Second Floor~
+Desc You have made it up to the second floor.  You hear hissing and see several
+dragon men rushing you.  You wonder how long you will be staying here.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see the court.
+~
+~
+1
+2211
+0
+Exit
+5
+You see the first floor.
+~
+~
+-1
+2207
+0
+EndRoom
+
+#ROOM
+Vnum 2211
+Name The Court~
+Desc You have entered what seems to be a large court.  The people guarding it
+don't seem happy to see you ...
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see nothing special.
+~
+~
+-1
+2210
+0
+Exit
+1
+You see a wooden door. 
+~
+door wooden~
+-1
+2212
+A
+Exit
+2
+You see the court.
+~
+~
+-1
+2213
+0
+EndRoom
+
+#ROOM
+Vnum 2212
+Name Hall O' Pleasure~
+Desc You stop dead in your tracks as you enter this ornately decorated room - it
+is populated with the king's harem.  
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see the Court.
+~
+~
+-1
+2211
+0
+EndRoom
+
+#ROOM
+Vnum 2213
+Name The Court~
+Desc You are continuing down the hall.  To the east and west you see ornate doors.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the court.
+~
+~
+-1
+2211
+0
+Exit
+1
+You see a black door.
+~
+door black~
+2240
+2214
+A
+Exit
+2
+You see the court.
+~
+~
+-1
+2216
+0
+Exit
+3
+You see a white door.
+~
+door white~
+2233
+2215
+A
+EndRoom
+
+#ROOM
+Vnum 2214
+Name The Library~
+Desc You have entered a huge room, filled with books.  A peaceful man is
+sitting at a table, studying.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see the court.
+~
+door black~
+2240
+2213
+A
+EndRoom
+
+#ROOM
+Vnum 2215
+Name The Sanctum~
+Desc This small room is modestly decorated with small dragon icons.  Its sole
+occupant is deep in thought.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the Court.
+~
+door white~
+2233
+2213
+A
+EndRoom
+
+#ROOM
+Vnum 2216
+Name The Court Ends~
+Desc You have reached the end of the court.  A huge Draconian is sitting in a
+chair here.  As you enter, he motions with his hand and you are rushed by three
+of his bodyguards.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the court.
+~
+~
+-1
+2213
+0
+Exit
+1
+You see a private chamber.
+~
+~
+-1
+2217
+0
+EndRoom
+
+#ROOM
+Vnum 2217
+Name bedroom~
+Desc This is the personal room of the draconian king.  It is not empty.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see Court.
+~
+~
+-1
+2216
+0
+EndRoom
+
+#ROOM
+Vnum 2218
+Name Entrance to the Crypt~
+Desc You have entered a large room which smells heavily of reptile.  You wonder
+what awaits you here.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the Treasure Vault.
+~
+door ruby~
+2232
+2209
+ABCF
+Exit
+3
+You see the Crypt.
+~
+~
+-1
+2219
+0
+EndRoom
+
+#ROOM
+Vnum 2219
+Name Crypt~
+Desc You are in a large room which continues to the west.  You notice many
+coffins here.  Open coffins reveal remains of something other than man.  
+The smell of reptile is very strong here.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the entrance.
+~
+~
+-1
+2218
+0
+Exit
+3
+You see nothing special.
+~
+~
+-1
+2222
+0
+EndRoom
+
+#ROOM
+Vnum 2220
+Name The Lair~
+Desc You have entered a large room dominated by a great white dragon.  It growls
+at you before it attacks.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You the cave opening.
+~
+~
+0
+2235
+0
+EndRoom
+
+#ROOM
+Vnum 2221
+Name A Lair~
+Desc You have entered a large room dominated by a great black dragon.  It looks
+as though it is amused by your presence.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You the cave opening.
+~
+~
+0
+2241
+0
+EndRoom
+
+#ROOM
+Vnum 2222
+Name The Crypt Ends~
+Desc You have come to the end of the Crypt.  It seems deserted.  There is a 
+strange coffin lying against the wall.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+coffin~
+A coffin lies a against the east wall.  It is closed.
+~
+Exit
+1
+You see the Crypt.
+~
+~
+-1
+2219
+0
+Exit
+3
+~
+coffin~
+0
+2232
+ABC
+EndRoom
+
+#ROOM
+Vnum 2223
+Name Entrance to the Great Hall~
+Desc You have entered a huge hall.  It has been carefully decorated with
+beautiful tapestries depicting a great battle between dragons and men.  The
+dragons appear to be the victors.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The Hall continues.
+~
+~
+-1
+2224
+0
+Exit
+3
+You see the Nursery.
+~
+door stone~
+2297
+2205
+A
+EndRoom
+
+#ROOM
+Vnum 2224
+Name The Great Hall~
+Desc You are working your way down the Hall.  To the north, you notice a smaller
+passageway, while the main hall continues to the east.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a narrow passageway.
+~
+~
+-1
+2225
+0
+Exit
+1
+You see the Hall.
+~
+~
+-1
+2229
+0
+EndRoom
+
+#ROOM
+Vnum 2225
+Name A Narrow Passageway~
+Desc This Passageway branches off from the main hall and leads somewhere ... where?
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a large Lair.  It looks dangerous.
+~
+~
+-1
+2226
+0
+Exit
+2
+You see the great hall.
+~
+~
+-1
+2224
+0
+EndRoom
+
+#ROOM
+Vnum 2226
+Name Lair~
+Desc You have entered a large lair with bones strewn about the ground.  You
+notice the source of these as you come face to face with a rather large red
+dragon.  You notice a trap door in the floor.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+The narrow passageway.
+~
+~
+-1
+2225
+0
+Exit
+5
+You see a trap door.
+~
+door trap trapdoor~
+-1
+2227
+A
+EndRoom
+
+#ROOM
+Vnum 2227
+Name Underground Tunnel~
+Desc You have entered an underground tunnel.  It is dark and dirty, and you find
+yourself wishing you were back in Midgaard.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the tunnel.
+~
+~
+-1
+2228
+0
+Exit
+4
+You see the red dragon's lair.
+~
+door trap trapdoor~
+-1
+2226
+A
+EndRoom
+
+#ROOM
+Vnum 2228
+Name Underground Tunnel~
+Desc This tunnel has come to a dead end.  You feel nervous about being trapped here.
+~
+Room_flags 13
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see the tunnel.
+~
+~
+-1
+2227
+0
+EndRoom
+
+#ROOM
+Vnum 2229
+Name The Great Hall Ends.~
+Desc You have come to the end of the great hall.  You see before you a huge
+golden door, it must be at least twenty feet tall!  It has beautiful etchings
+of dragons.  You see a sign on the door.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+Congratulations on making it this far!  Watch out, it gets a little
+    nasty here... :) - Wench
+~
+Exit
+1
+You see a great golden door.
+~
+door great golden~
+2299
+2230
+ABCF
+Exit
+3
+You see the hall.
+~
+~
+-1
+2224
+0
+EndRoom
+
+#ROOM
+Vnum 2230
+Name THE Lair~
+Desc You have entered a huge lair.  You feel that something big lives here or at least did.  The golden door lies back to the west.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see a great golden door.
+~
+door golden great~
+2299
+2229
+ABCF
+EndRoom
+
+#ROOM
+Vnum 2231
+Name The End...~
+Desc You have reached the final lair.  It is dominated by a huge five headed
+dragon.  You suddenly realize that you have SERIOUS problems...
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see the top of the mountain.
+~
+~
+2241
+2243
+AF
+EndRoom
+
+#ROOM
+Vnum 2232
+Name Stairwell~
+Desc This is an old decrepit stairwell that leads to the wine cellar.  It looks
+like it hasn't been used for decades.  Well, at least not by anything living.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The crypt~
+~
+0
+2222
+0
+Exit
+5
+A wine cellar~
+~
+0
+2233
+0
+EndRoom
+
+#ROOM
+Vnum 2233
+Name Wine cellar~
+Desc This is the old wine cellar of the Dragon Tower.  The shelves are empty.
+Nothing living has been in here for a long time.  You see a tunnel leading
+off to the east and boy does it smell bad.  Kinda of like rotting flesh.
+~
+Room_flags 1
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+A tunnel
+~
+~
+0
+2234
+0
+Exit
+4
+The stairwell
+~
+~
+0
+2232
+0
+EndRoom
+
+#ROOM
+Vnum 2234
+Name Tunnel~
+Desc This tunnel seems to stretch for miles.  You try to distinguish the end but
+your eyes soon tire from the strain.  The smell here has increased two fold.
+The tunnel continues to go to the east.  The wine cellar lies back to the 
+west.
+~
+Room_flags 257
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+A cave opening
+~
+~
+0
+2235
+0
+Exit
+1
+A tunnel
+~
+~
+0
+2236
+0
+Exit
+3
+A tunnel
+~
+~
+0
+2233
+0
+EndRoom
+
+#ROOM
+Vnum 2235
+Name A cave opening~
+Desc You stand at the opening of a giant cave.  There are many bones strewn across
+the room.  Some human, some indistinguishable.  It smells very bad in here.
+You can hear movement in the cave to the north.  The tunnel goes back to the
+south.
+~
+Room_flags 257
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The lair
+~
+~
+0
+2220
+0
+Exit
+2
+The tunnel
+~
+~
+0
+2234
+0
+EndRoom
+
+#ROOM
+Vnum 2236
+Name The End of the tunnel~
+Desc You have finally come to the end of the tunnel.  Back to the west lies
+the miles of tunnels you have walked through.  You see the faint outline of
+a trapdoor above you.  A bridge over an underground river lies to the south.
+~
+Room_flags 257
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+bridge
+~
+~
+0
+2237
+0
+Exit
+3
+The tunnel
+~
+~
+0
+2234
+0
+Exit
+4
+trapdoor
+~
+~
+0
+2202
+0
+EndRoom
+
+#ROOM
+Vnum 2237
+Name The Bridge~
+Desc You are walking along an old wooden bridge.  Its not that secure.  You 
+might want to hurry along.  To the south, on the other side of the bridge,
+lies a small opening.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The tunnel end
+~
+~
+0
+2236
+0
+Exit
+2
+A small opening
+~
+~
+0
+2238
+0
+EndRoom
+
+#ROOM
+Vnum 2238
+Name A small opening~
+Desc You are standing in a small opening.  To the north lies the old wooden
+bridge.  To your south the you can see a clearing.  You can see sunlight
+again.  What a welcome relief!
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+bridge
+~
+~
+0
+2237
+0
+Exit
+2
+clearing
+~
+~
+0
+2239
+0
+EndRoom
+
+#ROOM
+Vnum 2239
+Name Clearing~
+Desc You stand out in a clearing.  Mountains are all around you.  There is a 
+well in the middle of the clearing.  Lying against the well is a sign.  A
+path leads up the mountain.  The small opening is back to the north.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+well~
+You peer over the side of the well.  It looks VERY, VERY deep.  It appears
+to be ENDLESS.
+~
+ExtraDesc
+sign~
+The sign reads:
+         This is a bottomless pit cleverly disguised as a well.  People have
+fallen in and never been heard from again.  Trust me, you don't want to go 
+down there.
+                        The All Powerful Well Keeper
+~
+Exit
+0
+the small opening
+~
+~
+0
+2238
+0
+Exit
+4
+A path
+~
+~
+0
+2240
+0
+Exit
+5
+The well
+~
+~
+0
+2244
+0
+EndRoom
+
+#ROOM
+Vnum 2240
+Name A path~
+Desc This path leads up the side of the mountain.  A clearing lies below you.
+There is a cave opening to the west.  The path continues up the mountain.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+cave opening
+~
+~
+0
+2241
+0
+Exit
+4
+the path continues
+~
+~
+0
+2242
+0
+Exit
+5
+clearing
+~
+~
+0
+2239
+0
+EndRoom
+
+#ROOM
+Vnum 2241
+Name A cave opening~
+Desc You stand before a huge cave opening.  You hearing heavy breathing from
+within the cave.  There are a few skeletons lying about.  The cave lies to 
+the south.  The path is back to the east.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+the path
+~
+~
+0
+2240
+0
+Exit
+2
+A lair
+~
+~
+0
+2221
+0
+EndRoom
+
+#ROOM
+Vnum 2242
+Name The path continues~
+Desc The path continues up the mountain to the top.  The path also goes down.
+Thats it, nothing more to see.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+top of the mountain
+~
+~
+0
+2243
+0
+Exit
+5
+path
+~
+~
+0
+2240
+0
+EndRoom
+
+#ROOM
+Vnum 2243
+Name The top of the mountain~
+Desc You are standing at the top of the mountain.  It feels more like the top of
+the world.  To your north lies a huge platinum door.  You hear very pronounced
+grumbling from behind the doors.  It sounds like something huge and hungry.
+But if you don't have the key you don't have to worry because you can't get in.
+If you do have the key I would suggest not going in.  Some believe the Five
+Headed dragon Tiamat was imprisoned here by the gods.  But who believes in 
+fairy tales.  Well, if you're scared, you can always go down the mountain.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+door platinum~
+A huge platinum door separates you from harm~
+Exit
+0
+The platinum door
+~
+door platinum~
+2241
+2231
+ABCF
+Exit
+5
+The path continues
+~
+~
+0
+2242
+0
+EndRoom
+
+#ROOM
+Vnum 2244
+Name Well~
+Desc O
+ h
+   !
+
+     N
+      o
+       !
+
+   I warned you!  You have fallen into the bottomless pit.  You life flashes
+right before your eyes.  Pretty pathetic isn't it?  Next time you'll know
+to listen to the God of Laughs.
+~
+Room_flags 6
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 2200 spec_breath_any
+M 2203 spec_cast_mage
+M 2204 spec_cast_cleric
+M 2205 spec_breath_any
+M 2220 spec_breath_any
+M 2221 spec_breath_fire
+M 2222 spec_breath_acid
+M 2223 spec_breath_frost
+M 2225 spec_breath_gas
+M 2226 spec_poison
+M 2227 spec_thief
+M 2240 spec_cast_undead
+M 2241 spec_breath_gas
+M 2242 spec_thief
+M 2243 spec_breath_any
+S
+
+
+
+#RESETS
+D 0 2201 0 2
+D 0 2209 3 2
+D 0 2218 1 2
+D 0 2222 3 2
+D 0 2229 1 2
+D 0 2230 3 2
+D 0 2243 0 2
+M 0 2200 12 2201 1
+G 0 2231 0
+M 0 2200 12 2202 1
+M 0 2200 12 2203 2
+M 0 2200 12 2203 2
+M 0 2201 7 2203 2
+E 0 2200 0 16
+M 0 2201 7 2204 3
+E 0 2200 0 16
+M 0 2201 7 2204 3
+E 0 2200 0 16
+M 0 2201 7 2204 3
+E 0 2200 0 16
+M 0 2200 12 2205 4
+M 0 2200 12 2205 4
+M 0 2200 12 2205 4
+M 0 2200 12 2205 4
+M 0 2200 12 2206 1
+M 0 2200 12 2207 1
+M 0 2227 5 2207 2
+M 0 2226 1 2208 1
+G 0 2234 0
+G 0 2243 0
+G 0 2223 0
+E 0 2244 0 17
+M 0 2201 7 2210 2
+E 0 2200 0 16
+M 0 2207 20 2210 5
+E 0 2286 0 16
+M 0 2207 20 2211 5
+E 0 2286 0 16
+M 0 2207 20 2211 5
+E 0 2260 0 16
+M 0 2206 5 2212 5
+E 0 2287 0 16
+M 0 2206 5 2212 5
+G 0 2233 0
+E 0 2287 0 16
+M 0 2206 5 2212 5
+G 0 2240 0
+E 0 2287 0 16
+M 0 2206 5 2212 5
+E 0 2287 0 16
+M 0 2203 1 2214 1
+E 0 2223 0 12
+E 0 2250 0 17
+G 0 2251 0
+E 0 2261 0 3
+M 0 2242 5 2214 1
+M 0 2204 1 2214 1
+E 0 2220 0 3
+E 0 2211 0 14
+E 0 2210 0 13
+G 0 2270 0
+G 0 2252 0
+M 0 2205 1 2216 1
+E 0 2222 0 16
+E 0 2276 0 12
+E 0 2242 0 11
+E 0 2254 0 9
+G 0 2232 0
+M 0 2207 20 2216 5
+M 0 2207 20 2216 5
+M 0 2207 20 2216 5
+M 0 2242 5 2216 4
+M 0 2242 5 2216 4
+M 0 2243 1 2217 1
+E 0 2203 0 14
+E 0 2204 0 13
+E 0 2201 0 16
+M 0 2227 5 2217 4
+M 0 2227 5 2217 4
+M 0 2241 2 2217 2
+M 0 2240 8 2218 2
+M 0 2240 8 2218 2
+M 0 2240 8 2219 2
+M 0 2240 8 2219 2
+M 0 2223 1 2220 1
+E 0 2246 0 5
+M 0 2222 1 2221 1
+E 0 2280 0 7
+M 0 2202 1 2222 1
+E 0 2202 0 16
+E 0 2281 0 10
+E 0 2271 0 9
+M 0 2221 1 2226 1
+E 0 2275 0 6
+E 0 2245 0 17
+G 0 2299 0
+M 0 2225 1 2230 1
+G 0 2241 0
+G 0 2285 0
+E 0 2261 0 3
+M 0 2220 1 2231 1
+M 0 2240 8 2232 1
+M 0 2240 8 2233 1
+M 0 2240 8 2234 1
+M 0 2240 8 2236 1
+M 0 2200 12 2239 1
+M 0 2200 12 2241 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

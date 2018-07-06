@@ -1,0 +1,3512 @@
+#AREADATA
+Name Shire~
+Builders None~
+VNUMs 1100 1199
+Credits { 5 35} Poohb   The Shire~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 1100
+Name oldstyle elven wizard~
+Short the Elven Wizard~
+Long An Elven Wizard is here, creating fireworks for the festivities.
+~
+Description The Elven Wizard looks at you in a solemn sort of way.  His gaze seems to
+penetrate through your innermost being.  He is wearing a silvery cloak
+and holding a multi-colored staff.  Although he appears to be older
+than the oldest man, he seems to have an inner strength which most mortals
+cannot overcome.
+~
+Race human~
+Act_flags ABGR
+Aff D
+Align 500
+Group 0
+Level 18
+Hitroll 0
+Hit_dice 3d9+258
+Mana_dice 18d9+100
+Dam_dice 2d6+3
+Dam_type none
+Armor -3 -3 -3 4
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 105
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1101
+Name oldstyle ring keeper~
+Short the Keeper of the Ring~
+Long The Keeper of the Ring is here, guarding his treasure jealously.
+~
+Description The Ring Keeper is a rather big but short halfling.  His short stature and
+bulbous nose belie his true nature.  An elven sword that glows with a blue
+light hangs from his belt, and on his finger you see the One Ring.  Although
+usually a halfling of peace, he will fight you to the death if you attempt
+to take away that which belongs to him.
+~
+Race human~
+Act_flags ABGS
+Aff BDF
+Align 0
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+308
+Mana_dice 10d9+100
+Dam_dice 2d7+5
+Dam_type none
+Armor -4 -4 -4 6
+Clevel0
+Cability 0
+Off BEFJNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 61
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1102
+Name oldstyle farmer gamgee~
+Short Farmer Gamgee~
+Long Farmer Gamgee sniffs the air, wondering if harvest time is near.
+~
+Description Farmer Gamgee is a short, stout halfling of thirty years.  His skin has
+been tanned from working the fields night and day.  He's quite a jolly
+chap, always ready to befriend an injured bunny rabbit.
+~
+Race human~
+Act_flags ABH
+Aff 0
+Align 350
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d6+85
+Mana_dice 3d9+100
+Dam_dice 1d8+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos rest
+Default_pos rest
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1103
+Name oldstyle toddler~
+Short a toddler~
+Long A toddler crawls about, looking for something to chew on.
+~
+Description The toddler is dressed in nothing but his birthday suit.  He crawls about
+for he hasn't learned to walk yet.  He peers up at you and asks "da da?"
+~
+Race human~
+Act_flags ABH
+Aff 0
+Align 100
+Group 0
+Level 2
+Hitroll 0
+Hit_dice 2d7+21
+Mana_dice 1d9+100
+Dam_dice 1d5+0
+Dam_type none
+Armor 8 8 8 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos sit
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1104
+Name oldstyle nursemaid~
+Short a nursemaid~
+Long A nursemaid wanders about, trying to keep track of all the toddlers.
+~
+Description The nursemaid looks rather tired and worn out.  Taking care of so many
+toddlers for too long has evidently taken its toll.  She looks to you and
+in her eyes you can see her longing for a better life.
+~
+Race human~
+Act_flags AB
+Aff 0
+Align 100
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 1
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1105
+Name oldstyle cow~
+Short a cow~
+Long A cow is here, chewing her cud.
+~
+Description The cow looks like it hasn't been milked in quite some time.  Although she
+is past her prime, you see that she still has a lot of years left, and that
+if provoked, her rear kick can be quite deadly.
+~
+Race human~
+Act_flags AGI
+Aff 0
+Align 0
+Group 0
+Level 4
+Hitroll 0
+Hit_dice 2d7+46
+Mana_dice 2d9+100
+Dam_dice 1d5+1
+Dam_type none
+Armor 6 6 6 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos rest
+Default_pos rest
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1106
+Name oldstyle pig~
+Short a pig~
+Long A pig wallows in the mud and oinks in contentment.
+~
+Description The pig appears quite happy to be a pig.  He is oblivious to your presence
+and cares only for the care-free life that he leads.  It is enormously fat
+and consequently cannot move around very quickly.
+~
+Race pig~
+Act_flags AGI
+Aff 0
+Align 0
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d6+35
+Mana_dice 1d9+100
+Dam_dice 1d6+0
+Dam_type none
+Armor 7 7 7 10
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res 0
+Vuln 0
+Start_pos rest
+Default_pos rest
+Sex none
+Wealth 0
+Form AGV
+Parts ACDEFHJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1107
+Name oldstyle chicken~
+Short a chicken~
+Long A chicken sits on her nest.
+~
+Description The chicken is bright and healthy.  She has no weapons but her beak.
+~
+Race human~
+Act_flags AGI
+Aff 0
+Align 0
+Group 0
+Level 2
+Hitroll 0
+Hit_dice 2d7+21
+Mana_dice 1d9+100
+Dam_dice 1d5+0
+Dam_type none
+Armor 8 8 8 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos sit
+Sex female
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1108
+Name oldstyle bull~
+Short a bull~
+Long A bull scratches at the ground and lowers his head.
+~
+Description The bull is in top condition.  He looks like quite a fighter, nothing to be
+reckoned with.  With his horns and his hooves he can attack just about
+anything.
+~
+Race human~
+Act_flags ABF
+Aff 0
+Align 0
+Group 0
+Level 6
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 3d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1109
+Name oldstyle horse~
+Short a horse~
+Long A horse becomes frightened by your presence.
+~
+Description The horse looks at you and turns away.  You can tell that it is afraid of you.
+~
+Race human~
+Act_flags ABGI
+Aff 0
+Align 0
+Group 0
+Level 4
+Hitroll 0
+Hit_dice 2d7+46
+Mana_dice 2d9+100
+Dam_dice 1d5+1
+Dam_type none
+Armor 6 6 6 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1110
+Name oldstyle shiriff~
+Short a shiriff~
+Long A shiriff of the Shire looks for signs of trouble.
+~
+Description The shiriff is over waist high, quite tall for a halfling.  His eyes are
+ever roaming, looking for signs of trouble from riff-raff like you.  In
+his belt is a thin dagger, and on his body he wears a suit of leather armor.
+This is one halfling you don't want to mess with.
+~
+Race human~
+Act_flags ACGT
+Aff 0
+Align 150
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d6+110
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off CDEIKLU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos sit
+Sex male
+Wealth 2
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1111
+Name oldstyle shiriff~
+Short a shiriff~
+Long A shiriff of the Shire looks for signs of trouble.
+~
+Description The shiriff is over waist high, quite tall for a halfling.  His eyes are
+ever roaming, looking for signs of trouble from riff raff like you.  In
+his belt is a thin dagger, and on his body he wears a suit of leather armor.
+This is one halfling you don't want to mess with.
+~
+Race human~
+Act_flags ACGT
+Aff 0
+Align 150
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d6+110
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off CDEIKLU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos sit
+Sex male
+Wealth 2
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1112
+Name oldstyle thain~
+Short the Thain~
+Long The Thain commands respect from all Shire folk.
+~
+Description A personable yet serious halfling, the Thain looks at you and yells a
+deep 'Hullo'.  He walks about comfortably, secure in the knowledge that
+as long as he's in office, the Shire will always remain a safe haven for
+Shire folk.
+~
+Race human~
+Act_flags AGT
+Aff 0
+Align 400
+Group 0
+Level 14
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 7d9+100
+Dam_dice 1d12+3
+Dam_type none
+Armor -1 -1 -1 8
+Clevel0
+Cability 0
+Off CDEIKLU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos sit
+Sex male
+Wealth 25
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1113
+Name oldstyle innkeeper~
+Short the Innkeeper~
+Long The Innkeeper stands here awaiting your order.
+~
+Description The Innkeeper is a jolly old halfling who spends his days eavesdropping on
+local gossip.  In his younger days, he was quite a seasoned traveller.
+~
+Race human~
+Act_flags ABG
+Aff 0
+Align 200
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 6d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor 0 0 0 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 35
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1114
+Name oldstyle miller~
+Short the Miller~
+Long The Miller is here, overseeing his busy mill workers.
+~
+Description The Miller is an impatient young halfling, always trying to command more
+respect from his workers than he can get.  He looks like the type of person
+who deserves a spanking but never got one.
+~
+Race human~
+Act_flags ACGH
+Aff 0
+Align 50
+Group 0
+Level 6
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 3d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 10
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1115
+Name oldstyle mill worker~
+Short the mill worker~
+Long The mill worker runs to and fro.
+~
+Description The mill worker is in fine shape from the hard labor that he does at the
+mill.  He doesn't notice your presence, but he looks like he could break you
+in two without thinking about it.
+~
+Race human~
+Act_flags AB
+Aff 0
+Align 0
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 2
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1116
+Name oldstyle elven warrior~
+Short the elven warrior~
+Long The elven warrior watches you solemnly.
+~
+Description The tall elven warrior is light and fair-skinned.  The expression that he wears
+on his countenance is solemn and tragic.  He cares not for this world any
+longer and wearies of it.
+~
+Race human~
+Act_flags ABR
+Aff 0
+Align 600
+Group 0
+Level 17
+Hitroll 0
+Hit_dice 3d9+233
+Mana_dice 17d9+100
+Dam_dice 1d12+3
+Dam_type none
+Armor -2 -2 -2 4
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos sit
+Sex male
+Wealth 25
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1117
+Name oldstyle dwarven prince~
+Short the dwarven prince~
+Long The dwarven prince sits here patiently for the return of his king.
+~
+Description Grim and cold, the dwarven prince is quite strong and bulky, even for the
+dwarves of his land.  His glowing eyes peer out of his bushy face and stare
+beyond your gaze.
+~
+Race human~
+Act_flags ABQ
+Aff 0
+Align 200
+Group 0
+Level 17
+Hitroll 0
+Hit_dice 3d9+258
+Mana_dice 17d9+100
+Dam_dice 2d6+4
+Dam_type none
+Armor -3 -3 -3 6
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos sit
+Sex male
+Wealth 35
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1118
+Name oldstyle shopkeeper~
+Short the shopkeeper~
+Long The shopkeeper smiles and patiently waits for you to buy something.
+~
+Description The shopkeeper will fight like a madman to protect his store from riff-raff
+like you.
+~
+Race human~
+Act_flags AB
+Aff 0
+Align 600
+Group 0
+Level 21
+Hitroll 0
+Hit_dice 4d10+360
+Mana_dice 10d9+100
+Dam_dice 4d4+5
+Dam_type none
+Armor -5 -5 -5 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 600
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1119
+Name oldstyle grocer~
+Short the grocer~
+Long The grocer offers you the finest breads in all the land.
+~
+Description The grocer is a large, jovial halfling who knows how to enjoy his pipeweed.
+However, he also knows that it's worth protecting and so will do everything
+in his power to prevent riff-raff like you from stealing it.
+~
+Race human~
+Act_flags AB
+Aff 0
+Align 600
+Group 0
+Level 21
+Hitroll 0
+Hit_dice 4d10+360
+Mana_dice 10d9+100
+Dam_dice 4d4+5
+Dam_type none
+Armor -5 -5 -5 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 75
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1120
+Name oldstyle blacksmith~
+Short the blacksmith~
+Long The blacksmith bids you welcome to his humble store.
+~
+Description The blacksmith is a lean and mean fighting machine.  His knowledge of weapons
+and armour would certainly help him in any fight against riff-raff like you.
+~
+Race human~
+Act_flags AB
+Aff 0
+Align 600
+Group 0
+Level 50
+Hitroll 0
+Hit_dice 50d10+4500
+Mana_dice 25d9+100
+Dam_dice 5d8+19
+Dam_type none
+Armor -20 -20 -20 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 900
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1121
+Name oldstyle battle master~
+Short the battle master~
+Long The battle master offers you the services of his fine trainees.
+~
+Description The battle master is a wizened fighter, with many scars to prove his worth.
+~
+Race human~
+Act_flags ABT
+Aff 0
+Align 350
+Group 0
+Level 25
+Hitroll 0
+Hit_dice 5d10+600
+Mana_dice 12d9+100
+Dam_dice 2d10+7
+Dam_type none
+Armor -7 -7 -7 6
+Clevel0
+Cability 0
+Off CDEIKLU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 75
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1122
+Name oldstyle halfling youth~
+Short a halfling youth~
+Long A halfling youth stands here, waiting for nothing in particular.
+~
+Description The halfling youth is not yet quite in the prime of his youth.  He's knee
+high and you get the sudden urge to step on him.
+~
+Race human~
+Act_flags AGHS
+Aff DF
+Align 0
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d7+21
+Mana_dice 1d9+100
+Dam_dice 1d5+0
+Dam_type none
+Armor 8 8 8 10
+Clevel0
+Cability 0
+Off BEFJNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1123
+Name oldstyle seasoned adventurer~
+Short a seasoned adventurer~
+Long A seasoned adventurer sits here, telling tales of fame and fortune.
+~
+Description The seasoned adventurer has seen his share of glory days.  Although he is
+past his prime, he still looks like he could put up more than his share of
+a good fight.
+~
+Race human~
+Act_flags AB
+Aff 0
+Align 100
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos sit
+Sex male
+Wealth 8
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1124
+Name oldstyle local gossip~
+Short a local gossip~
+Long A local gossip asks you, "Have you heard the latest?"
+~
+Description The gossip is all talk and no action.  You're transfixed by her ability to
+talk so much so quickly.
+~
+Race human~
+Act_flags ABH
+Aff 0
+Align 0
+Group 0
+Level 4
+Hitroll 0
+Hit_dice 2d7+46
+Mana_dice 2d9+100
+Dam_dice 1d5+1
+Dam_type none
+Armor 6 6 6 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos sit
+Sex female
+Wealth 1
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1125
+Name oldstyle halfling beauty~
+Short a halfling beauty~
+Long A halfling beauty stares dreamily into your eyes.
+~
+Description She is the most beautiful creature you've seen in quite some time.  As you
+stare at her, thoughts of all else vanish.  You get the sudden urge to grovel
+at her feet, hoping she'll take you in like a lost puppy.  You wouldn't dare
+harm a hair on her precious little head.
+~
+Race human~
+Act_flags AB
+Aff 0
+Align 1000
+Group 0
+Level 6
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 3d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 3
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1126
+Name oldstyle trainee~
+Short a trainee~
+Long A trainee screams a death cry as he delivers the fatal blow to a dummy.
+~
+Description The trainee smiles smugly, aware of your interest in him.  He's a little
+fresh, but his enthusiasm and desire to please more than make up for what
+he lacks in skill.
+~
+Race human~
+Act_flags AB
+Aff 0
+Align 0
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1127
+Name oldstyle chic urbanite~
+Short a chic urbanite~
+Long A chic urbanite sits here, enjoying his class status.
+~
+Description The urbanite seems very much at home in his surroundings.  His clothes are
+all of the latest fashions and his manners impeccable.  He offers you some
+coins if you'd be so good as to order a drink for him.
+~
+Race human~
+Act_flags ABH
+Aff 0
+Align 0
+Group 0
+Level 4
+Hitroll 0
+Hit_dice 2d7+46
+Mana_dice 2d9+100
+Dam_dice 1d5+1
+Dam_type none
+Armor 6 6 6 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos sit
+Sex male
+Wealth 5
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1128
+Name oldstyle country bumpkin~
+Short a country bumpkin~
+Long A country bumpkin dreams of pipeweed and its many uses.
+~
+Description The country bumpkin snores noisily.
+~
+Race human~
+Act_flags AB
+Aff 0
+Align 0
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sleep
+Default_pos sleep
+Sex male
+Wealth 3
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1130
+Name oldstyle innkeeper~
+Short the Innkeeper~
+Long The Innkeeper stands here awaiting your order.
+~
+Description The Innkeeper is a jolly old halfling who spends his days eavesdropping on
+local gossip.  In his younger days, he was quite a seasoned traveller.
+~
+Race human~
+Act_flags AB
+Aff 0
+Align 200
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 6d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor 0 0 0 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1131
+Name oldstyle receptionist~
+Short the receptionist~
+Long The receptionist sits here, signing forms.
+~
+Description He is a very professional looking type.
+~
+Race human~
+Act_flags AB
+Aff 0
+Align 200
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 6d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor 0 0 0 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 3
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1132
+Name oldstyle shiriff~
+Short a shiriff~
+Long A shiriff of the Shire looks for the lost halfling youth.
+~
+Description The shiriff is over waist high, quite tall for a halfling.
+He looks at you, smiles and asks you if you have seen a halfling youth
+somewhere outside the shire.
+~
+Race human~
+Act_flags ABT
+Aff 0
+Align 150
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d6+110
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off CDEIKLU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 2
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 1100
+Name rainbow staff~
+Short the rainbow staff~
+Desc The rainbow staff lies here.~
+Material oldstyle~
+Item_type light
+Extra G
+Extra2 0
+Wear A
+Values 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+Level 5
+Weight 80
+Cost 550
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+4 1
+EndObj
+
+#OBJ
+Vnum 1101
+Name sting~
+Short sting~
+Desc Sting lies here.~
+Material mithril~
+Item_type weapon
+Extra ABK
+Extra2 0
+Wear AN
+Values dagger 2 7 bite 0
+Level 17
+Weight 10
+Cost 3500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+2 2
+EndObj
+
+#OBJ
+Vnum 1102
+Name sign~
+Short a sign~
+Desc A sign demands your attention.~
+Material oldstyle~
+Item_type furniture
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+sign~
+Welcome to the Shire.  As you enter the Shire from Haon-Dor you come under
+the jurisdiction of the Thain, the peacekeeper of the Shire.  Consequently,
+by entering these lands you agree to obey our laws.  If you break these laws,
+you will be severely punished.  We do not like riff raff in our peaceful
+town.
+
+					The Thain
+					Peacekeeper of the Shire
+
+~
+EndObj
+
+#OBJ
+Vnum 1103
+Name pipeweed bread~
+Short a pipeweed bread~
+Desc A loaf of pipeweed bread arouses your hunger.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values BCDE DE 0 0 0
+Level 0
+Weight 10
+Cost 15
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1104
+Name silvery cloak~
+Short a silvery cloak~
+Desc A silvery cloak lies here.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AK
+Values BC BC BC B 0
+Level 15
+Weight 30
+Cost 1320
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+20 -1
+EndObj
+
+#OBJ
+Vnum 1105
+Name one ring~
+Short the One Ring~
+Desc The One Ring is here.~
+Material oldstyle~
+Item_type jewelry
+Extra G
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 20
+Weight 30
+Cost 1660
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+F
+Faff 0 0 B
+AffectObj
+1 -1
+EndObj
+
+#OBJ
+Vnum 1106
+Name elven spear~
+Short an elven spear~
+Desc An elven spear lies here.~
+Material wood~
+Item_type weapon
+Extra BGK
+Extra2 0
+Wear AN
+Values exotic 2 8 thrust 0
+Level 16
+Weight 50
+Cost 500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 2
+EndObj
+
+#OBJ
+Vnum 1107
+Name mithril axe~
+Short a mithril axe~
+Desc A mithril axe lies here.~
+Material mithril~
+Item_type weapon
+Extra ACMO
+Extra2 0
+Wear AN
+Values axe 2 8 chop 0
+Level 17
+Weight 120
+Cost 1440
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 1108
+Name thain girth~
+Short the thain girth~
+Desc The girth of the thain lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AL
+Values AC AC AC 0 0
+Level 17
+Weight 40
+Cost 3600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+4 2
+EndObj
+
+#OBJ
+Vnum 1109
+Name tiny dagger~
+Short a tiny dagger~
+Desc A tiny dagger lies here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values dagger 1 6 pierce 0
+Level 1
+Weight 30
+Cost 230
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1110
+Name egg~
+Short an egg~
+Desc An egg lies here.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values CD CD 0 0 0
+Level 0
+Weight 10
+Cost 2
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1111
+Name bag~
+Short a bag~
+Desc A bag is on the floor.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 -1 0 0
+Level 0
+Weight 10
+Cost 11
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1112
+Name lantern~
+Short a lantern~
+Desc A lantern is on the floor.~
+Material oldstyle~
+Item_type light
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 DGH 0 0
+Level 0
+Weight 40
+Cost 60
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1113
+Name bardiche~
+Short a bardiche~
+Desc A long weapon with a sharp end is on the floor.~
+Material wood~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values polearm 2 11 cleave F
+Level 21
+Weight 100
+Cost 1810
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 4
+EndObj
+
+#OBJ
+Vnum 1114
+Name flail~
+Short a flail~
+Desc A flail is on the floor.~
+Material iron~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values flail 2 4 smash 0
+Level 5
+Weight 80
+Cost 390
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1115
+Name wooden bardiche~
+Short a wooden bardiche~
+Desc A long weapon with a wooden blade is on the floor.~
+Material wood~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values polearm 2 3 pound F
+Level 3
+Weight 100
+Cost 980
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 4
+EndObj
+
+#OBJ
+Vnum 1116
+Name dagger shiriff~
+Short a shiriff's dagger~
+Desc A tiny but very sharp dagger lies here.~
+Material steel~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values dagger 2 4 pierce 0
+Level 6
+Weight 10
+Cost 480
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 1
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 1117
+Name club heavy~
+Short the Thain's club~
+Desc You see see a heavy club. Looks just right for whomping heads.~
+Material wood~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values mace 2 7 pound 0
+Level 12
+Weight 30
+Cost 620
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 1100
+Name A dimly lit path~
+Desc You tread through the deep, dark forest on a dimly lit path.  Up ahead you
+can hear the faint sounds of a village.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The dimly lit path leads north through the dense forest.
+~
+~
+-1
+1101
+0
+Exit
+2
+The dimly lit path leads south through the light forest.
+~
+~
+-1
+6000
+0
+EndRoom
+
+#ROOM
+Vnum 1101
+Name A dimly lit path~
+Desc You tread through the deep, dark forest on a dimly lit path.  Up ahead you
+can hear the faint sounds of a village.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The dimly lit path leads north through the dense forest.
+~
+~
+-1
+1102
+0
+Exit
+2
+The dimly lit path leads south through the dense forest.
+~
+~
+-1
+1100
+0
+EndRoom
+
+#ROOM
+Vnum 1102
+Name A dimly lit path~
+Desc You tread through the deep, dark forest on a dimly lit path.  The forest
+here seems less dense than to the south.  Northward you see the faint outline
+of a village.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The dimly lit path leads to a village.
+~
+~
+-1
+1103
+0
+Exit
+2
+The dimly lit path leads south through the dense forest.
+~
+~
+-1
+1101
+0
+EndRoom
+
+#ROOM
+Vnum 1103
+Name Entrance to the Shire~
+Desc You stand at the entrance to the Shire.  You see halflings, no more than
+wee tall, every which way you look. Bywater Road leads east and west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+To the east runs Bywater Road.
+~
+~
+-1
+1104
+0
+Exit
+2
+To the south you see a dimly lit path which leads to a dense forest.
+~
+~
+-1
+1102
+0
+Exit
+3
+To the west runs Bywater Road.
+~
+~
+-1
+1118
+0
+EndRoom
+
+#ROOM
+Vnum 1104
+Name Bywater Road~
+Desc You stand on Bywater Road, the busiest street in all of Shiredom.  The road
+continues to the east and west while to the north lies the general store.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The general store lies to the north.
+~
+~
+-1
+1105
+0
+Exit
+1
+To the east runs Bywater Road.
+~
+~
+-1
+1106
+0
+Exit
+3
+To the west you see the entrance to the Shire.
+~
+~
+-1
+1103
+0
+EndRoom
+
+#ROOM
+Vnum 1105
+Name The General Store~
+Desc You are inside the general store.  All sorts of goodies are stacked on the
+many shelves.  Your local friendly shopkeeper is smiling patiently, waiting to 
+serve you to the best of his abilities.  The only exit is to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+The only exit lies to the south.
+~
+~
+-1
+1104
+0
+EndRoom
+
+#ROOM
+Vnum 1106
+Name Bywater Road~
+Desc You stand on Bywater Road, the busiest street in all of Shiredom.  The road
+continues to the east and west.  To the north, steps lead to a friendly looking
+weaponry/armory while a nursery lies to the south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Steps lead to a friendly looking weaponry and armory.
+~
+~
+-1
+1107
+0
+Exit
+1
+To the east runs Bywater Road.
+~
+~
+-1
+1109
+0
+Exit
+2
+To the south lies Kid'n Keep, the local nursery.
+~
+~
+-1
+1108
+0
+Exit
+3
+To the west runs Bywater Road.
+~
+~
+-1
+1104
+0
+EndRoom
+
+#ROOM
+Vnum 1107
+Name The House of Arms~
+Desc You are inside the finest weapons and armour shop in all of Shiredom.  The
+shopkeeper proudly displays his fine wares and humbly offers the best daggers
+that you have ever laid eyes on.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+The only exit lies to the south.
+~
+~
+-1
+1106
+0
+EndRoom
+
+#ROOM
+Vnum 1108
+Name Kid'n Keep~
+Desc You are inside Kid'n Keep, the convenient one-stop nursery that maintains
+the youth of the Shire.  Toddlers run every which way while their nursemaids
+sigh in exasperation.  The only exit lies to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The only exit lies to the north.
+~
+~
+-1
+1106
+0
+EndRoom
+
+#ROOM
+Vnum 1109
+Name A bend in the road~
+Desc Bywater Road continues west and south.  A large, imposing building lies
+to the east.  Farther to the south, you can see an Inn of some sort.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+A large, imposing building lies to the east.  A sign reads 'Shiriff Post'.
+~
+~
+-1
+1110
+0
+Exit
+2
+To the south runs Bywater Road.
+~
+~
+-1
+1112
+0
+Exit
+3
+To the west runs Bywater Road.
+~
+~
+-1
+1106
+0
+EndRoom
+
+#ROOM
+Vnum 1110
+Name Shiriff Post of the Eastern Shire~
+Desc You are in the Shiriff Post which acts as the nucleus for the three shiriffs
+of the Eastern Shire.  As you examine the shiriffs on duty, you come to realize
+that the halflings of the Shire are not to be reckoned with.  You cower with 
+awe.  A door offers passage to the east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+A door offers passage to the office of the Thain.
+~
+door~
+0
+1111
+A
+Exit
+3
+To the west you can see Bywater Road.
+~
+~
+-1
+1109
+0
+EndRoom
+
+#ROOM
+Vnum 1111
+Name Thain's Office~
+Desc You stand inside the office of the Thain, the police protectorate of the
+great Shire.  The Thain has sworn to protect the Shire from all thieves and
+murderers with his life, and so eyes you suspiciously.  A door to the west
+leads to the Shiriff Post.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+A door offers passage to the Shiriff Post.
+~
+door~
+0
+1110
+A
+EndRoom
+
+#ROOM
+Vnum 1112
+Name Bywater Road~
+Desc You stand on Bywater Road, the busiest street in all of Shiredom.  The road
+continues to the north and south.  To the east you spy the training grounds for
+shiriffs in training.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+To the north runs Bywater Road.
+~
+~
+-1
+1109
+0
+Exit
+1
+The Shiriff Training Grounds lies to the east.
+~
+~
+-1
+1117
+0
+Exit
+2
+To the south runs Bywater Road.
+~
+~
+-1
+1113
+0
+EndRoom
+
+#ROOM
+Vnum 1113
+Name Bywater Road~
+Desc You stand on Bywater Road, the busiest street in all of Shiredom.  The road
+continues to the north.  The private residences of Shire inhabitants are to
+the east and west while to the south lies the Ivy Bush, second only to the
+Green Dragon for its hospitality and service.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+To the north runs Bywater Road.
+~
+~
+-1
+1112
+0
+Exit
+1
+You spy the private dwelling of a Shire folk to the east.
+~
+~
+-1
+1115
+0
+Exit
+2
+To the south you see the Ivy Bush, a favorite haunt of Shire urbanites and
+seasoned travelers.
+~
+~
+-1
+1116
+0
+Exit
+3
+You spy the private dwelling of a Shire folk to the west.
+~
+~
+-1
+1114
+0
+EndRoom
+
+#ROOM
+Vnum 1114
+Name A smial~
+Desc You are inside a smial, a hole in the ground which serves as the proper
+dwelling place for halflings.  As you look around this private abode, you feel
+as if you were intruding and so quickly cover your eyes.  The only exit lies
+to the east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The only exit lies to the east.
+~
+~
+-1
+1113
+0
+EndRoom
+
+#ROOM
+Vnum 1115
+Name A smial~
+Desc You are inside a smial, a hole in the ground which serves as the proper
+dwelling place for halflings.  As you look around this private abode, you feel
+as if you were intruding and so quickly cover your eyes.  The only exit lies
+to the west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+The only exit lies to the west.
+~
+~
+-1
+1113
+0
+EndRoom
+
+#ROOM
+Vnum 1116
+Name The Ivy Bush~
+Desc You are in the Ivy Bush, one of the most famous inns in all of Shiredom.
+Chique Shire urbanites and seasoned travelers fill the confines of the room
+with gay and lively talk.  A jovial innkeeper stops all that he is doing to
+await your command.  The only exit lies to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The only exit lies to the north.
+~
+~
+-1
+1113
+0
+EndRoom
+
+#ROOM
+Vnum 1117
+Name Shiriff Training Grounds~
+Desc The sounds of mock battle and feigned death cries fill your ears.  Every
+which way you turn you see halfling trainees at the prime of their youth.  A
+wizened old battle instructor meets your gaze and asks if he may be of 
+service.  The only exit lies to the west.
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+The only exit lies to the west.
+~
+~
+-1
+1112
+0
+EndRoom
+
+#ROOM
+Vnum 1118
+Name Bywater Road~
+Desc You stand on Bywater Road, the busiest street in all of Shiredom.  The road
+continues to the east and west.  A large, imposing building lies to the south.
+You catch a glimpse of the Brandywine River to the north.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+To the east you see the entrance to the Shire.
+~
+~
+-1
+1103
+0
+Exit
+2
+A large, imposing building lies to the south.  A sign reads 'Shiriff Post'.
+~
+~
+-1
+1119
+0
+Exit
+3
+To the west runs Bywater Road.
+~
+~
+-1
+1120
+0
+EndRoom
+
+#ROOM
+Vnum 1119
+Name Shiriff Post of the Bridge~
+Desc You are in the Shiriff Post which acts as the nucleus for the three shiriffs
+of the Bridge.  As you examine the shiriffs on duty, you come to realize that
+the halflings of the Shire are not to be reckoned with.  You cower with awe.
+The only exit is to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The only exit is to the north.
+~
+~
+-1
+1118
+0
+EndRoom
+
+#ROOM
+Vnum 1120
+Name Bywater Road~
+Desc You stand on Bywater Road, the busiest street in all of Shiredom.  The road
+continues to the east and west.  To the south you spy the Grocer's Delight,
+the premium grocer's shop in all the realm while to the north lies Brandywine
+Bridge.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Brandywine Bridge offers safe passage across the tumultuous river.
+~
+~
+-1
+1131
+0
+Exit
+1
+To the east runs Bywater Road.
+~
+~
+-1
+1118
+0
+Exit
+2
+You see the Grocer's Delight to the south.
+~
+~
+-1
+1121
+0
+Exit
+3
+To the west runs Bywater Road.
+~
+~
+-1
+1122
+0
+EndRoom
+
+#ROOM
+Vnum 1121
+Name The Grocer's Delight~
+Desc You tremble with ecstasy as the tempting odors of freshly made pipeweed
+bread fill your lungs.  Rumor has it that the pipeweed bread sold here can
+restore vitality.  You look around but find no one to take your order.  
+You then peep over the counter and discover a friendly grocer who is too 
+short to be seen over the counter.  The only exit is to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The only exit is to the north.
+~
+~
+-1
+1120
+0
+EndRoom
+
+#ROOM
+Vnum 1122
+Name Bywater Road~
+Desc You stand on Bywater Road, the busiest street in all of Shiredom.  The road
+continues to the east.  A small hill lies to the west while you can see a
+watermill to the far south.  You catch a glimpse of the Brandywine River to
+the north.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+To the east runs Bywater Road.
+~
+~
+-1
+1120
+0
+Exit
+2
+An entrance to the watermill lies to the south.
+~
+~
+-1
+1123
+0
+Exit
+3
+A small hill to the west blocks your view.
+~
+~
+-1
+1126
+0
+EndRoom
+
+#ROOM
+Vnum 1123
+Name Entrance to Watermill~
+Desc You stand at the entrance to a watermill.  You hear the bustle of busy
+workers and the sound of a creaking mill.  Bywater Road is to the north while
+the watermill continues to the south.
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see Bywater Road to the north.
+~
+~
+-1
+1122
+0
+Exit
+2
+A watermill meets your gaze.
+~
+~
+-1
+1124
+0
+EndRoom
+
+#ROOM
+Vnum 1124
+Name The Watermill~
+Desc Halfling workers are scattered everywhere, busy at work.  You see the river
+to the west and get a compelling urge to grab the nearest worker and to toss
+him into the river.  The entrance stands to the north while a door offers
+passage to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the entrance.
+~
+~
+-1
+1123
+0
+Exit
+2
+A wooden door leads to the rear of the watermill.
+~
+door~
+0
+1125
+A
+EndRoom
+
+#ROOM
+Vnum 1125
+Name Rear of watermill~
+Desc You stand in a damp, dimly lit room.  Mildew clings to the walls and it
+appears as if you were the first person to enter the room in ages.  A barely
+visible portal in the ground catches your eye.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+A watermill meets your gaze.
+~
+~
+-1
+1124
+0
+Exit
+5
+A hidden portal reveals a passageway down.
+~
+~
+-1
+1146
+0
+EndRoom
+
+#ROOM
+Vnum 1126
+Name Took Hill~
+Desc You stand on top of Took Hill, named after the legendary Bandobras Took.
+You feel honored to be standing on a hill named after your hero.  From this
+vantage point you can see all of shiredom.  You get the feeling that with
+one stomp you could eliminate their great city.  You can see the outline of
+Midgaard to the far east.  Sounds of joyful celebration are heard from the
+fields west of here.  The Brandywine flows by lazily nearby.
+~
+Room_flags 0
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+To the east runs Bywater Road.
+~
+~
+-1
+1122
+0
+Exit
+3
+You see a grassy field to the west.
+~
+~
+-1
+1128
+0
+EndRoom
+
+#ROOM
+Vnum 1127
+Name Northern end of grassy field~
+Desc You stand in a grassy field--nothing to get too excited about.  The field
+extends toward the south and the west.  To the east you see Took Hill.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see a grassy field.
+~
+~
+-1
+1128
+0
+EndRoom
+
+#ROOM
+Vnum 1128
+Name A grassy field~
+Desc You stand in the center of a grassy field.  A great birthday party appears
+to be taking place.  Great tables of food are spread out and a young halfling
+beauty offers you welcome.  You are enticed by her generosity and suggestive
+winks.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a grassy field.
+~
+~
+-1
+1127
+0
+Exit
+1
+A small hill to the east blocks your view.
+~
+~
+-1
+1126
+0
+Exit
+2
+You see a grassy field.
+~
+~
+-1
+1129
+0
+Exit
+3
+You see a grassy field.
+~
+~
+-1
+1130
+0
+EndRoom
+
+#ROOM
+Vnum 1129
+Name Southern end of grassy field~
+Desc You stand in a grassy field--nothing to get too excited about.  The field
+extends toward the north and the west.  To the east you see Took Hill.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a grassy field.
+~
+~
+-1
+1128
+0
+EndRoom
+
+#ROOM
+Vnum 1130
+Name Western end of grassy field~
+Desc You stand in a grassy field--nothing to get too excited about.  The field
+extends every which way but west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a grassy field.
+~
+~
+-1
+1128
+0
+EndRoom
+
+#ROOM
+Vnum 1131
+Name Brandywine Bridge~
+Desc You stand on a solidly built bridge.  As you look down you spy gaily
+colored fish swimming with the current of Brandywine River.  The cool water
+looks invitingly refreshing and you get a sudden urge to strip and bathe in
+the river, but you hear the laughter of women nearby and so resist the urge.
+Delving Lane extends to the north while Bywater Road can be seen to the south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see Delving Lane.
+~
+~
+-1
+1132
+0
+Exit
+2
+To the south runs Bywater Road.
+~
+~
+-1
+1120
+0
+EndRoom
+
+#ROOM
+Vnum 1132
+Name Delving Lane~
+Desc Delving Lane runs north and south in this small borough of the Shire.  To 
+the south stands Brandywine Bridge.  The Green Dragon, the undisputed leader
+in the art of innkeeping, offers rest and comfort to the east.  You hear the
+bray of horses from the west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see Delving Lane.
+~
+~
+-1
+1133
+0
+Exit
+1
+The Green Dragon offers food, drink, and above all hospitality for mere gold.
+~
+~
+-1
+1144
+0
+Exit
+2
+Brandywine Bridge offers safe passage across the tumultuous river.
+~
+~
+-1
+1131
+0
+EndRoom
+
+#ROOM
+Vnum 1133
+Name Delving Lane~
+Desc Delving Lane runs north and south in this small borough of the Shire.  A 
+large, imposing building lies to the east.  You hear the bray of horses from
+the west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see Delving Lane.
+~
+~
+-1
+1134
+0
+Exit
+1
+A large, imposing building lies to the east.  A sign reads 'Shiriff Post'.
+~
+~
+-1
+1145
+0
+Exit
+2
+You see Delving Lane.
+~
+~
+-1
+1132
+0
+Exit
+3
+You see a grassy field.
+~
+~
+-1
+1138
+0
+EndRoom
+
+#ROOM
+Vnum 1134
+Name Delving Lane~
+Desc Delving Lane runs north and south in this small borough of the Shire. There
+is a small house to the west, nothing to the east, and up ahead you see a round
+door which leads to a rather impressive abode.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+A large, magnificent house meets your steady gaze.  Above the round door a
+sign reads 'Bag End'.
+~
+~
+-1
+1135
+A
+Exit
+2
+You see Delving Lane.
+~
+~
+-1
+1133
+0
+EndRoom
+
+#ROOM
+Vnum 1135
+Name Bag End~
+Desc You stand in a comfortably well-equipped house, a palace by humble halfling
+standards.  On the wall you see a banner which reads "Home Sweet Home".
+A solid oak door to the east leads to a pantry while you see a cozy bedroom
+to the west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+Through the keyhole you see what looks like a well stocked pantry.
+~
+door~
+-1
+1137
+A
+Exit
+2
+You see Delving Lane.
+~
+~
+-1
+1134
+0
+Exit
+3
+You see a bedroom.  It looks like the beds have recently been slept in.
+~
+~
+-1
+1136
+0
+EndRoom
+
+#ROOM
+Vnum 1136
+Name Bedroom~
+Desc You stand in the private bedroom of Bag End.  There are two beds to the
+side, neither of which are made.  Portraits of halflings hang on the wall,
+and as you gaze upon them you come to the conclusion that the owner of
+Bag End comes from a long line of distinguished halflings.  A cozy fire
+in the fireplace keeps the room warm and comfortable.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+Through the doorway you see the main room of Bag End.
+~
+~
+-1
+1135
+0
+EndRoom
+
+#ROOM
+Vnum 1137
+Name Pantry~
+Desc You are inside the pantry.  Shelves filled with food and drink surround
+you on all sides.  You wonder why a halfling would need so much to eat.
+The presence of something unseen chills you to your bones.  On the floor
+you spy a trapdoor.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+Beyond the door you see the main room of Bag End.
+~
+door~
+-1
+1135
+A
+Exit
+5
+It's anyone's guess as to where the trapdoor leads.
+~
+~
+-1
+1156
+0
+EndRoom
+
+#ROOM
+Vnum 1138
+Name A grassy field~
+Desc You stand upon a grassy field.  A bull stands grazing not far away and
+out of the corner of your eye you can see him considering you.  The sound
+of animals fill the air from the north.  To the south you see a pig pen.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a large barn.
+~
+~
+-1
+1142
+0
+Exit
+1
+You see Delving Lane.
+~
+~
+-1
+1133
+0
+Exit
+2
+A rather large pig pen is to the south.
+~
+~
+-1
+1139
+0
+EndRoom
+
+#ROOM
+Vnum 1139
+Name Pig pen~
+Desc You feel your boots sinking into the mud.  Numerous pigs roam about,
+oblivious to your company.  A grassy field is to the north while you see
+a small path winding to the west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a grassy field.
+~
+~
+-1
+1138
+0
+Exit
+3
+A small path winds its way eastward.
+~
+~
+-1
+1140
+0
+EndRoom
+
+#ROOM
+Vnum 1140
+Name A stony path~
+Desc You walk on a stony path which leads to a small residence to the north.
+From the east you hear the noisy din of pigs.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+To the north you see a modest house.
+~
+~
+-1
+1141
+0
+Exit
+1
+A rather large pig pen is to the east.
+~
+~
+-1
+1139
+0
+EndRoom
+
+#ROOM
+Vnum 1141
+Name Gamgee Residence~
+Desc You stand inside a modest home.  You deduce that this is indeed the home
+of whomever owns the surrounding lands.  The air is somewhat musty and 
+the smell reminds you of a stable.  As you look around disdainfully, you
+think to yourself that this is more of a shack than a proper residence and
+you long for the urban riches of the Shire proper.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see a small path winding its way southward.
+~
+~
+-1
+1140
+0
+EndRoom
+
+#ROOM
+Vnum 1142
+Name A barn~
+Desc Animals of every sort fill the small barn.  You feel the hot breath of
+horses and cows on your neck and you feel the sudden need for fresh air.
+Other than that, you feel cozy and protected and don't mind staying for a
+bit longer.  All the warmth and good vibes remind you of the days when your
+mother would hold you in her arms and sing you to sleep.  You find yourself
+wanting to cradle all the animals.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a chicken coop to the north.
+~
+~
+-1
+1143
+0
+Exit
+2
+You see a grassy field.
+~
+~
+-1
+1138
+0
+EndRoom
+
+#ROOM
+Vnum 1143
+Name A chicken coop~
+Desc You stand inside a rather crowded chicken coop.  The cackle of hens fill
+the air.  The only exit is to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see a large barn.
+~
+~
+-1
+1142
+0
+EndRoom
+
+#ROOM
+Vnum 1144
+Name The Green Dragon~
+Desc Welcome to the Green Dragon, the undisputed leader in the art of
+innkeeping.  A rather charming and friendly hostess stands to the side,
+ready to offer you food and drink.  While most of the patrons are halfling
+locals, you spy an occasional human or two.  As you listen more closely
+to the conversations that fill the inn, you hear the tales of great and
+seasoned adventurers as well as the usual gossip.  You feel as if you've
+found your second home in the Green Dragon.  You see a stairway leading
+upwards.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see Delving Lane.
+~
+~
+-1
+1132
+0
+Exit
+4
+You see the reception.
+~
+~
+-1
+1157
+0
+EndRoom
+
+#ROOM
+Vnum 1145
+Name Shiriff Post of Delving Lane~
+Desc You are in the Shiriff Post which acts as the nucleus for the three shiriffs
+of Delving Lane.  As you examine the shiriffs on duty, you come to realize
+that the halflings of the Shire are not to be reckoned with.  You cower with
+awe.  The only exit is to the west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see Delving Lane.
+~
+~
+-1
+1133
+0
+EndRoom
+
+#ROOM
+Vnum 1146
+Name A dark tunnel~
+Desc You stand inside a small underground tunnel.  The ceiling is so low that
+you must crouch to avoid hitting your head.  You see light from a small
+hole in the ceiling while to the east you see nothing but darkness.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a dark tunnel.
+~
+~
+-1
+1147
+0
+Exit
+4
+You see a portal which leads to a small room.
+~
+~
+-1
+1125
+0
+EndRoom
+
+#ROOM
+Vnum 1147
+Name A dark tunnel~
+Desc You stand inside a small underground tunnel.  The ceiling is so low that
+you must crouch to avoid hitting your head.  The tunnel continues east and
+west.  All you can see is darkness.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a dark tunnel.
+~
+~
+-1
+1148
+0
+Exit
+3
+You see a dark tunnel.
+~
+~
+-1
+1146
+0
+EndRoom
+
+#ROOM
+Vnum 1148
+Name A dark tunnel~
+Desc You stand inside a small underground tunnel.  The ceiling is so low that
+you must crouch to avoid hitting your head.  The tunnel continues east and
+west.  All you can see is darkness.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a dark tunnel.
+~
+~
+-1
+1149
+0
+Exit
+3
+You see a dark tunnel.
+~
+~
+-1
+1147
+0
+EndRoom
+
+#ROOM
+Vnum 1149
+Name A three way intersection~
+Desc You stand at an intersection.  The tunnel continues east and west while
+to the north you can barely make out a smaller trail.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a dark tunnel.
+~
+~
+-1
+1151
+0
+Exit
+1
+You see a dark tunnel.
+~
+~
+-1
+1150
+0
+Exit
+3
+You see a dark tunnel.
+~
+~
+-1
+1148
+0
+EndRoom
+
+#ROOM
+Vnum 1150
+Name End of a dark tunnel~
+Desc You stand at the end of a dark tunnel.  The underground tunnel continues
+to the west.  From a trapdoor in the ceiling you can hear the din of
+adventurers.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see a dark tunnel.
+~
+~
+-1
+1149
+0
+Exit
+4
+You hear the din of adventurers.
+~
+~
+-1
+3001
+0
+EndRoom
+
+#ROOM
+Vnum 1151
+Name A dark tunnel~
+Desc You stand inside a small underground tunnel.  The ceiling is so low that
+you must crouch to avoid hitting your head.  The tunnel continues north and
+south.  To the west you see a Shirriff Post while to the east lies a small
+home.  All you can see is darkness.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a dark tunnel.
+~
+~
+-1
+1152
+0
+Exit
+1
+You see a halfling hole.
+~
+~
+-1
+1154
+0
+Exit
+2
+You see a dark tunnel.
+~
+~
+-1
+1149
+0
+Exit
+3
+Above a great oak door you see a sign which reads 'Shirriff Post'.
+~
+~
+-1
+1153
+0
+EndRoom
+
+#ROOM
+Vnum 1152
+Name A dark tunnel~
+Desc You stand inside a small underground tunnel.  The ceiling is so low that 
+you must crouch to avoid hitting your head.  The tunnel continues north and
+south.  To the west lies a small home.  All you can see is darkness.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a dark tunnel.
+~
+~
+-1
+1156
+0
+Exit
+2
+You see a dark tunnel.
+~
+~
+-1
+1151
+0
+Exit
+3
+You see a halfling hole.
+~
+~
+-1
+1155
+0
+EndRoom
+
+#ROOM
+Vnum 1153
+Name Shiriff Post of the Lower Shire~
+Desc You are in the shiriff Post which acts as the nucleus for the three shiriffs 
+of the Lower Shire.  As you examine the shiriffs on duty, you come to realize
+that the halflings of the Shire are not to be reckoned with.  You cower with
+awe.  The only exit is to the east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a dark tunnel.
+~
+~
+-1
+1151
+0
+EndRoom
+
+#ROOM
+Vnum 1154
+Name A halfling hole~
+Desc You stand inside a rather crudely built halfling hole.  The many passageways
+and winding paths remind you of a rodent's lair.  The air is musty and damp
+and you feel the need for fresh air.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see a dark tunnel.
+~
+~
+-1
+1151
+0
+EndRoom
+
+#ROOM
+Vnum 1155
+Name A halfling hole~
+Desc You stand inside a rather crudely built halfling hole.  The many passageways
+and winding paths remind you of a rodent's lair.  The air is musty and damp
+and you feel the need for fresh air.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a dark tunnel.
+~
+~
+-1
+1152
+0
+EndRoom
+
+#ROOM
+Vnum 1156
+Name End of a dark tunnel~
+Desc You are at one end of a dark tunnel.  The tunnel continues to the south
+while on the ceiling you can make out a trapdoor.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see a dark tunnel.
+~
+~
+-1
+1152
+0
+Exit
+4
+A trapdoor on the ceiling reveals a passageway.
+~
+~
+-1
+1137
+0
+EndRoom
+
+#ROOM
+Vnum 1157
+Name The Inn of the Green Dragon~
+Desc You are standing in the Inn of the Green dragon.  Large paintings of 
+halflings at work, and halflings at play adorn the walls.  Comfortable 
+benches and seats line the walls.  A stairway leads down.
+~
+Room_flags 24
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+~
+~
+-1
+1144
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 1100 spec_cast_mage
+M 1101 spec_thief
+M 1110 spec_guard
+M 1111 spec_guard
+M 1112 spec_guard
+M 1116 spec_cast_mage
+M 1117 spec_cast_cleric
+M 1121 spec_guard
+M 1122 spec_thief
+M 1132 spec_guard
+S
+
+
+
+#RESETS
+O 0 1102 0 1103
+M 0 1118 1 1105 1
+G 0 1111 0
+G 0 1112 0
+M 0 1120 1 1107 1
+M 0 1104 2 1108 2
+M 0 1104 2 1108 2
+M 0 1103 6 1108 6
+M 0 1103 6 1108 6
+M 0 1103 6 1108 6
+M 0 1103 6 1108 6
+M 0 1103 6 1108 6
+M 0 1103 6 1108 6
+M 0 1110 8 1110 2
+E 0 1116 0 16
+E 0 616 0 5
+M 0 1110 8 1110 2
+E 0 616 0 5
+M 0 1111 4 1110 1
+E 0 616 0 5
+M 0 1112 1 1111 1
+E 0 1117 0 16
+E 0 616 0 5
+E 0 1108 0 13
+M 0 1128 4 1114 1
+G 0 1103 0
+M 0 1128 4 1115 1
+G 0 1103 0
+M 0 1113 1 1116 1
+G 0 1110 0
+G 0 648 0
+G 0 649 0
+G 0 650 0
+M 0 1123 5 1116 2
+M 0 1123 5 1116 2
+M 0 1124 2 1116 2
+M 0 1124 2 1116 2
+M 0 1127 7 1116 3
+M 0 1127 7 1116 3
+M 0 1127 7 1116 3
+O 0 3200 0 1116
+M 0 1121 1 1117 1
+E 0 1113 0 16
+M 0 1126 3 1117 3
+E 0 1115 0 16
+M 0 1126 3 1117 3
+E 0 1115 0 16
+M 0 1126 3 1117 3
+E 0 1115 0 16
+M 0 1110 8 1119 2
+E 0 1116 0 16
+E 0 616 0 5
+M 0 1110 8 1119 2
+E 0 616 0 5
+M 0 1111 4 1119 1
+E 0 616 0 5
+M 0 1119 1 1121 1
+G 0 1103 0
+M 0 1115 6 1123 6
+M 0 1115 6 1123 6
+M 0 1115 6 1124 6
+M 0 1115 6 1124 6
+M 0 1115 6 1124 6
+M 0 1114 1 1124 1
+M 0 1115 6 1125 6
+M 0 1122 9 1127 3
+M 0 1122 9 1127 3
+M 0 1122 9 1127 3
+M 0 1125 1 1128 1
+M 0 1100 1 1128 1
+E 0 1104 0 12
+E 0 1100 0 0
+M 0 1122 9 1129 3
+M 0 1122 9 1129 3
+M 0 1122 9 1129 3
+M 0 1122 9 1130 3
+M 0 1122 9 1130 3
+M 0 1122 9 1130 3
+M 0 1116 1 1136 1
+E 0 1106 0 16
+E 0 622 0 6
+M 0 1117 1 1136 1
+E 0 1107 0 16
+E 0 621 0 5
+M 0 1101 1 1137 1
+E 0 1101 0 16
+E 0 1105 0 1
+E 0 623 0 7
+M 0 1108 1 1138 1
+M 0 1106 5 1139 5
+M 0 1106 5 1139 5
+M 0 1106 5 1139 5
+M 0 1106 5 1139 5
+M 0 1106 5 1139 5
+M 0 1102 1 1141 1
+M 0 1105 3 1142 3
+M 0 1105 3 1142 3
+M 0 1105 3 1142 3
+M 0 1109 4 1142 4
+M 0 1109 4 1142 4
+M 0 1109 4 1142 4
+M 0 1109 4 1142 4
+M 0 1107 6 1143 6
+G 0 1110 0
+M 0 1107 6 1143 6
+G 0 1110 0
+M 0 1107 6 1143 6
+G 0 1110 0
+M 0 1107 6 1143 6
+G 0 1110 0
+M 0 1107 6 1143 6
+G 0 1110 0
+M 0 1107 6 1143 6
+G 0 1110 0
+M 0 1130 1 1144 1
+G 0 1110 0
+G 0 648 0
+G 0 649 0
+G 0 650 0
+M 0 1123 5 1144 3
+M 0 1123 5 1144 3
+M 0 1123 5 1144 3
+M 0 1127 7 1144 4
+M 0 1127 7 1144 4
+M 0 1127 7 1144 4
+M 0 1127 7 1144 4
+O 0 3200 0 1144
+M 0 1110 8 1145 2
+E 0 1116 0 16
+E 0 616 0 5
+M 0 1110 8 1145 2
+E 0 616 0 5
+M 0 1111 4 1145 1
+E 0 616 0 5
+M 0 1110 8 1153 2
+E 0 1116 0 16
+E 0 616 0 5
+M 0 1110 8 1153 2
+E 0 616 0 5
+M 0 1111 4 1153 1
+E 0 616 0 5
+M 0 1128 4 1154 1
+M 0 1128 4 1155 1
+M 0 1131 1 1157 1
+S
+
+
+
+#SHOPS
+1113 17 0 0 0 0 150 50 0 23
+1118 13 5 15 1 17 150 50 0 23
+1119 13 5 15 1 17 150 50 0 23
+1120 9 5 0 0 0 150 50 0 23
+1130 17 0 0 0 0 150 50 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,3266 @@
+#AREADATA
+Name Wyvern's Tower~
+Builders None~
+VNUMs 1600 1799
+Credits { 5 30} Tyrst   Wyvern's Tower~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 1601
+Name oldstyle killer frog~
+Short a killer frog~
+Long A killer frog rises up out of the water.
+~
+Description The killer frog looks ravenous.
+~
+Race human~
+Act_flags ABFG
+Aff 0
+Align -300
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 1
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1602
+Name oldstyle stone gargoyle~
+Short the stone gargoyle~
+Long A stone gargoyle looms over you.
+~
+Description As you look, the figure seems to shift and move ...
+~
+Race human~
+Act_flags ABFGH
+Aff 0
+Align -400
+Group 0
+Level 9
+Hitroll 0
+Hit_dice 2d6+110
+Mana_dice 4d9+100
+Dam_dice 1d8+2
+Dam_type none
+Armor 2 2 2 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 20
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1603
+Name oldstyle angry gargoyle~
+Short an angry gargoyle~
+Long An angry gargoyle glares at you.
+~
+Description He looks ready to attack!
+~
+Race human~
+Act_flags ACFG
+Aff 0
+Align -600
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d7+121
+Mana_dice 5d9+100
+Dam_dice 2d4+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 25
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1604
+Name oldstyle elite gargoyle~
+Short the elite gargoyle~
+Long An elite gargoyle guards this room against intrusion.
+~
+Description He snarls at you and says LEAVE OR DIE!
+~
+Race human~
+Act_flags ABC
+Aff 0
+Align -600
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 6d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor 0 0 0 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 40
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1605
+Name oldstyle gargoyle shaman~
+Short the gargoyle shaman~
+Long The gargoyle shaman is here, preparing to do battle.
+~
+Description She says 'I can SEE you! I have been waiting ...'.
+~
+Race human~
+Act_flags ABCGQ
+Aff DF
+Align -900
+Group 0
+Level 13
+Hitroll 0
+Hit_dice 2d10+170
+Mana_dice 13d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor -1 -1 -1 7
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 150
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1606
+Name oldstyle carnivorous plant~
+Short a carnivorous plant~
+Long Amidst the jungle here, a huge Carnivorous plant reaches out to grab you!
+~
+Description The plant looks something like a Venus fly-trap, only MUCH larger.
+~
+Race human~
+Act_flags ABFG
+Aff 0
+Align 0
+Group 0
+Level 9
+Hitroll 0
+Hit_dice 2d6+110
+Mana_dice 4d9+100
+Dam_dice 1d8+2
+Dam_type none
+Armor 2 2 2 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1607
+Name oldstyle gruesome ogre~
+Short a gruesome ogre~
+Long A huge, gruesome ogre is sprawled here, gnawing some strange meat.
+~
+Description It thinks that perhaps you would make a better meal.
+~
+Race human~
+Act_flags ABCFG
+Aff 0
+Align -200
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d7+121
+Mana_dice 5d9+100
+Dam_dice 2d4+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos stand
+Sex none
+Wealth 60
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1608
+Name oldstyle shadow~
+Short a shadow~
+Long A dark shadow moves about the room.
+~
+Description The Shadow is vaguely humanoid. Two glowing pinpoints look at you.
+~
+Race human~
+Act_flags ACFG
+Aff BDF
+Align -1000
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d7+121
+Mana_dice 5d9+100
+Dam_dice 2d4+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 45
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1609
+Name oldstyle evil wight~
+Short an evil wight~
+Long An evil wight lurks in the shadows!
+~
+Description He glares at you savagely and charges!
+~
+Race human~
+Act_flags ABCFG
+Aff DF
+Align -1000
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 6d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor 0 0 0 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 110
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1610
+Name oldstyle burly minotaur~
+Short A burly minotaur~
+Long A burly minotaur watches you solemnly.
+~
+Description This powerful creature wonders whether to kill you or not ...
+~
+Race human~
+Act_flags ACG
+Aff D
+Align -600
+Group 0
+Level 14
+Hitroll 0
+Hit_dice 2d10+190
+Mana_dice 7d9+100
+Dam_dice 1d12+3
+Dam_type none
+Armor -1 -1 -1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 75
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1612
+Name oldstyle savage minotaur~
+Short the savage minotaur~
+Long A bloodthirsty minotaur slowly counts his loot
+~
+Description He looks up at you and screams 'SO! Coming to steal my hoard!'
+~
+Race human~
+Act_flags ABCFG
+Aff D
+Align -600
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 7d9+100
+Dam_dice 2d6+3
+Dam_type none
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1613
+Name oldstyle minotaur captain~
+Short the captain~
+Long Sitting here in this room is the Minotaur Captain.
+~
+Description He looks at you, and a sinister grin slowly spreads on his face ...
+~
+Race human~
+Act_flags ABCFG
+Aff D
+Align -900
+Group 0
+Level 17
+Hitroll 0
+Hit_dice 3d9+258
+Mana_dice 8d9+100
+Dam_dice 3d4+4
+Dam_type none
+Armor -3 -3 -3 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1614
+Name oldstyle black pudding~
+Short the black pudding~
+Long A huge black pudding fills the center of the room!!
+~
+Description It is a huge black blob that oozes about the room. Its heading toward YOU!
+~
+Race human~
+Act_flags ACFG
+Aff 0
+Align -1000
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 7d9+100
+Dam_dice 2d6+3
+Dam_type none
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1615
+Name oldstyle lesser golem~
+Short a lesser golem~
+Long A lesser Golem stands guarding the entrance.
+~
+Description The golem appears to be made of some kind of clay, enchanted to come to life!
+~
+Race human~
+Act_flags ABG
+Aff D
+Align 0
+Group 0
+Level 16
+Hitroll 0
+Hit_dice 3d9+233
+Mana_dice 8d9+100
+Dam_dice 2d6+4
+Dam_type none
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1616
+Name oldstyle ancient wyvern~
+Short the ancient wyvern~
+Long An enormous, ancient wyvern stares down at your tiny form...
+~
+Description It thunders loudly 'I must protect my Master's wealth!'
+~
+Race human~
+Act_flags ACFG
+Aff DF
+Align -1000
+Group 0
+Level 18
+Hitroll 0
+Hit_dice 3d9+283
+Mana_dice 9d9+100
+Dam_dice 2d7+4
+Dam_type none
+Armor -3 -3 -3 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos rest
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1617
+Name oldstyle spectre~
+Short the spectre~
+Long A spectre has begun to materialize in front of you!
+~
+Description Terror fills your heart as you view this master of the undead.
+~
+Race human~
+Act_flags ACFG
+Aff BDH
+Align -1000
+Group 0
+Level 19
+Hitroll 0
+Hit_dice 3d9+308
+Mana_dice 9d9+100
+Dam_dice 2d7+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1702
+Name oldstyle trapper~
+Short a trapper~
+Long A trapper stands here, bartering his pelts.
+~
+Description The trapper is clad mostly in the fur of various animals he's caught.
+~
+Race human~
+Act_flags AC
+Aff 0
+Align 0
+Group 0
+Level 6
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 3d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 6
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1704
+Name oldstyle hunter~
+Short a hunter~
+Long A hunter rests in here, carrying a fresh kill.
+~
+Description The hunter is rugged and sturdy from his occupation.
+~
+Race human~
+Act_flags AC
+Aff 0
+Align 0
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos rest
+Default_pos stand
+Sex male
+Wealth 6
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1706
+Name oldstyle ranger~
+Short a ranger~
+Long A grim ranger reclines at a table.
+~
+Description The years of wanderings have left the ranger hardened and strong.
+~
+Race human~
+Act_flags ACG
+Aff D
+Align 200
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 6d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor 0 0 0 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos rest
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1707
+Name oldstyle ranger leader~
+Short a ranger leader~
+Long A leader of the Rangers is watching you solemnly.
+~
+Description This individual has quite a reputation at the local trading posts!
+~
+Race human~
+Act_flags ABC
+Aff D
+Align 300
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 7d9+100
+Dam_dice 2d6+3
+Dam_type none
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1708
+Name oldstyle ranger lord~
+Short the Lord of the Rangers~
+Long The Lord of the Rangers catches your eye.
+~
+Description ~
+Race human~
+Act_flags ABC
+Aff D
+Align 400
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1710
+Name oldstyle male centaur~
+Short a centaur~
+Long A male centaur wanders about this area.
+~
+Description The centaur has the upper torso of a man and lower body of a horse.
+~
+Race human~
+Act_flags AC
+Aff 0
+Align 200
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d6+85
+Mana_dice 3d9+100
+Dam_dice 1d8+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 6
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1711
+Name oldstyle female centaur~
+Short a centaur~
+Long A female centaur wanders about this area.
+~
+Description The centaur has the upper torso of a woman and lower body of a horse.
+~
+Race human~
+Act_flags AC
+Aff 0
+Align 200
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d6+85
+Mana_dice 3d9+100
+Dam_dice 1d8+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 5
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1712
+Name oldstyle old centaur~
+Short an old centaur~
+Long An old centaur is resting in a corner.
+~
+Description This centaur has lived a full life.
+~
+Race human~
+Act_flags AC
+Aff 0
+Align 200
+Group 0
+Level 6
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 3d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos rest
+Default_pos rest
+Sex male
+Wealth 5
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1714
+Name oldstyle centaur elder~
+Short an elder centaur~
+Long One of the centaur elders is here, watching you.
+~
+Description The elders act as counselors and advisors to the chief.
+~
+Race human~
+Act_flags ABC
+Aff B
+Align 200
+Group 0
+Level 9
+Hitroll 0
+Hit_dice 2d6+110
+Mana_dice 4d9+100
+Dam_dice 1d8+2
+Dam_type none
+Armor 2 2 2 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1715
+Name oldstyle centaur guard~
+Short a centaur guard~
+Long A strong centaur is standing guard here.
+~
+Description He appears to be blocking entrance to the next room.
+~
+Race human~
+Act_flags AB
+Aff B
+Align 200
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d7+121
+Mana_dice 5d9+100
+Dam_dice 2d4+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1716
+Name oldstyle centaur chief~
+Short the centaur chief~
+Long The chief of the centaur villagers reclines here.
+~
+Description He has been the leader of this tribe for many years, and has acquired much
+wisdom.
+~
+Race human~
+Act_flags ABC
+Aff B
+Align 200
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 6d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor 0 0 0 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos rest
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1720
+Name oldstyle displacer beast~
+Short a displacer beast~
+Long A displacer beast is grazing nearby.
+~
+Description As you watch this strange creature, its position seems to flicker and shift.
+~
+Race human~
+Act_flags AH
+Aff 0
+Align 0
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d7+121
+Mana_dice 5d9+100
+Dam_dice 2d4+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 1601
+Name rusty cleaver~
+Short a rusty cleaver~
+Desc A rusty cleaver lies on a counter top.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values dagger 1 6 chop 0
+Level 1
+Weight 20
+Cost 230
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1602
+Name fine mace~
+Short the fine mace~
+Desc There is a large mace of fine quality here.~
+Material oldstyle~
+Item_type weapon
+Extra G
+Extra2 0
+Wear AN
+Values mace 2 6 pound 0
+Level 10
+Weight 110
+Cost 570
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 1603
+Name elven dagger~
+Short a long elven dagger~
+Desc A long elven dagger made of adamantite is here.~
+Material oldstyle~
+Item_type weapon
+Extra AG
+Extra2 0
+Wear AN
+Values dagger 2 5 pierce 0
+Level 8
+Weight 20
+Cost 700
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 2
+EndObj
+
+#OBJ
+Vnum 1604
+Name steel broad sword~
+Short a steel broad sword~
+Desc A fine steel broad sword is lying on the ground.~
+Material oldstyle~
+Item_type weapon
+Extra AG
+Extra2 0
+Wear AN
+Values sword 2 6 slash 0
+Level 11
+Weight 120
+Cost 910
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 1605
+Name steel broad sword~
+Short a steel broad sword~
+Desc A very fine steel broad sword is lying on the ground.~
+Material steel~
+Item_type weapon
+Extra AG
+Extra2 0
+Wear AN
+Values sword 2 7 slash 0
+Level 15
+Weight 120
+Cost 1510
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 2
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 1606
+Name rod might~
+Short the rod of might~
+Desc A Rod of Might is lying here.~
+Material oldstyle~
+Item_type weapon
+Extra BG
+Extra2 0
+Wear AN
+Values mace 2 7 blast 0
+Level 14
+Weight 130
+Cost 1550
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 2
+AffectObj
+1 1
+EndObj
+
+#OBJ
+Vnum 1612
+Name black kite shield~
+Short a black kite shield~
+Desc There is a large black kite shield lying here.~
+Material oldstyle~
+Item_type armor
+Extra AG
+Extra2 0
+Wear AJ
+Values BC BC BC B 0
+Level 13
+Weight 60
+Cost 1530
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+20 1
+EndObj
+
+#OBJ
+Vnum 1614
+Name helm~
+Short a commander's helm~
+Desc A commander's helm rests on a table here.~
+Material oldstyle~
+Item_type armor
+Extra AG
+Extra2 0
+Wear AE
+Values ABC ABC ABC B 0
+Level 20
+Weight 40
+Cost 2300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+helm~
+This elegant helm is plated in mithril and silver.~
+AffectObj
+4 1
+EndObj
+
+#OBJ
+Vnum 1615
+Name bracer~
+Short a mithril bracer~
+Desc A magical bracer made from mithril lies on the ground!~
+Material oldstyle~
+Item_type armor
+Extra BG
+Extra2 0
+Wear AM
+Values C BC BC B 0
+Level 12
+Weight 20
+Cost 1540
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+1 1
+EndObj
+
+#OBJ
+Vnum 1616
+Name dark blue cloak~
+Short a dark blue cloak~
+Desc A valuable cloak of dark blue cloth lies on the floor.~
+Material oldstyle~
+Item_type clothing
+Extra AG
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 0
+Weight 20
+Cost 100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 6
+EndObj
+
+#OBJ
+Vnum 1621
+Name dark red potion~
+Short a dark red potion~
+Desc A dark red potion rests on the ground.~
+Material oldstyle~
+Item_type potion
+Extra AG
+Extra2 0
+Wear AO
+Values 9 'cure blindness' 'cure critical' '' ''
+Level 5
+Weight 10
+Cost 320
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1651
+Name bronze chest~
+Short a bronze chest~
+Desc There is a sturdy bronze chest in the corner.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 -1 0 0
+Level 0
+Weight 100
+Cost 100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1652
+Name ale barrel~
+Short a barrel of ale~
+Desc There is a small barrel in one corner.~
+Material oldstyle~
+Item_type drink
+Extra 0
+Extra2 0
+Wear A
+Values 150 2 'ale' 0 0
+Level 0
+Weight 80
+Cost 10
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1691
+Name key twin towers~
+Short the twin towers key~
+Desc There is a shiny skeleton key on the ground here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values A 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1692
+Name strange key~
+Short a strange key~
+Desc There is a very strange-looking key on the ground here.~
+Material oldstyle~
+Item_type key
+Extra AG
+Extra2 0
+Wear AO
+Values B 0 0 0 0
+Level 12
+Weight 10
+Cost 750
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+strange key~
+This key is of an unusual shape ... must go to an unusual lock!~
+AffectObj
+17 -3
+EndObj
+
+#OBJ
+Vnum 1701
+Name short bow~
+Short a short bow~
+Desc A short bow has been carelessly left here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values exotic 2 4 pierce 0
+Level 5
+Weight 50
+Cost 730
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+short bow~
+It looks like the bows used by rustin hunters.
+~
+EndObj
+
+#OBJ
+Vnum 1702
+Name long bow~
+Short a long bow~
+Desc A long bow has been foolishly abandoned here.~
+Material oldstyle~
+Item_type weapon
+Extra AG
+Extra2 0
+Wear AN
+Values exotic 2 6 pound 0
+Level 12
+Weight 70
+Cost 220
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 5
+EndObj
+
+#OBJ
+Vnum 1704
+Name ancient sword~
+Short an ancient long sword~
+Desc An ancient long sword has been left here.~
+Material oldstyle~
+Item_type weapon
+Extra BG
+Extra2 0
+Wear AN
+Values sword 2 8 slash 0
+Level 19
+Weight 100
+Cost 2500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 3
+AffectObj
+19 3
+EndObj
+
+#OBJ
+Vnum 1711
+Name fur cap~
+Short a fur cap~
+Desc A fur cap lies here on the ground.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AE
+Values B B B 0 0
+Level 0
+Weight 10
+Cost 168
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1712
+Name travelling boots~
+Short a pair of travelling boots~
+Desc A sturdy pair of travelling boots lies here.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AG
+Values AC AC AC 0 0
+Level 12
+Weight 20
+Cost 880
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+14 10
+EndObj
+
+#OBJ
+Vnum 1713
+Name bronze ring~
+Short a bronze ring~
+Desc A ring of etched bronze gleams dimly on the ground.~
+Material oldstyle~
+Item_type jewelry
+Extra G
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 5
+Weight 10
+Cost 55
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 5
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 1601
+Name Rough East-West Path~
+Desc You are on a very rough and overgrown path heading east-west over rugged
+terrain.  To the east the path passes between low hills.
+~
+Room_flags 0
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The road heads into low hills this way.
+~
+~
+0
+1602
+0
+Exit
+3
+The cross-roads and a trading post lie in this direction.
+~
+~
+0
+1702
+0
+EndRoom
+
+#ROOM
+Vnum 1602
+Name Rough Path Between the Hills~
+Desc Here the path passes between low hills. The going is very rough, but
+to the east the ground is smoother. In that direction a pair of tower
+looms above the hills.
+~
+Room_flags 0
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a pair of tall towers in the distance.
+~
+~
+0
+1603
+0
+Exit
+3
+The road continues.
+~
+~
+0
+1601
+0
+EndRoom
+
+#ROOM
+Vnum 1603
+Name Path through an Open Area~
+Desc You are on a path through an open area. East of here loom two tall towers,
+joined by a barbican and surrounded by a murky moat. West the path passes
+between low hills.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+Two fantastic towers surrounded by a moat rise before you.
+~
+~
+0
+1604
+0
+Exit
+3
+The road continues.
+~
+~
+0
+1602
+0
+EndRoom
+
+#ROOM
+Vnum 1604
+Name West Side of Moat~
+Desc You stand on the west side of a moat that encircles two towers, each
+over 50 feet high. You will need a boat to go east across the moat. A
+rugged path heads west, and another one heads north to a cluster of low 
+buildings.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+A worn path leads to a cluster of low buildings.
+~
+~
+0
+1605
+0
+Exit
+1
+The Towers loom directly over you, just beyond the moat.
+~
+~
+0
+1620
+0
+Exit
+3
+An old ill-kept roads leads away to the west.
+~
+~
+0
+1603
+0
+EndRoom
+
+#ROOM
+Vnum 1605
+Name Path North of Moat~
+Desc You walk on a faint path heading south toward the west side of the moat,
+and north to three small buildings.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Several low buildings lie this way.
+~
+~
+0
+1606
+0
+Exit
+2
+The path ends west of the moat.
+~
+~
+0
+1604
+0
+EndRoom
+
+#ROOM
+Vnum 1606
+Name Cluster of Buildings~
+Desc You are in the middle of a cluster of small buildings. There is a building
+to the north, east, and west.  A sign over the eastern building says
+'House of Pancakes'.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+There is an entrance to a building.
+~
+~
+0
+1609
+0
+Exit
+1
+A sign over the door reads 'House of Pancakes'.
+~
+~
+0
+1607
+0
+Exit
+2
+A path heads south toward the west side of the towers.
+~
+~
+0
+1605
+0
+Exit
+3
+There is an entrance to a building here.
+~
+~
+0
+1608
+0
+EndRoom
+
+#ROOM
+Vnum 1607
+Name House of Pancakes~
+Desc The moment you enter this room, the ceiling descends and crushes you
+into a pancake.  Don't you hate it when that happens?
+~
+Room_flags 6
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 1608
+Name Old Store Room~
+Desc You have entered what appears to be an old storeroom. Most of the items
+that were in here appear to have been ruined long ago.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1606
+0
+EndRoom
+
+#ROOM
+Vnum 1609
+Name Empty Room~
+Desc This room appears to be completely empty. The only exit seems to be the
+way you came.  There are some scratches around the floor.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+1606
+0
+Exit
+5
+You see a concealed opening leading down.
+~
+~
+0
+1610
+0
+EndRoom
+
+#ROOM
+Vnum 1610
+Name Minotaur's Room~
+Desc You have entered a secret chamber under the empty room. In this room is
+the worn but cared-for gear and trappings of some large humanoid.
+~
+Room_flags 13
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+0
+1609
+0
+EndRoom
+
+#ROOM
+Vnum 1620
+Name Western Moat~
+Desc You are in the middle of the moat, on the west side of the tower.  There is a
+landing on both sides of the moat.  Deep throated 'ribbids' come from the
+water all around you.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1621
+0
+Exit
+1
+~
+~
+0
+1623
+0
+Exit
+2
+~
+~
+0
+1622
+0
+Exit
+3
+~
+~
+0
+1604
+0
+EndRoom
+
+#ROOM
+Vnum 1621
+Name Northern Moat~
+Desc You are in the middle of the moat, on the north side of the tower.  There is
+no place to land here.  Deep throated 'ribbids' come from the water all
+around you.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+1620
+0
+EndRoom
+
+#ROOM
+Vnum 1622
+Name Southern Moat~
+Desc You are in the middle of the moat, on the south side of the tower.  There is
+no place to land here.  Deep throated 'ribbids' come from the water all
+around you.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1620
+0
+EndRoom
+
+#ROOM
+Vnum 1623
+Name Tower Foyer~
+Desc You are on a foyer on the west side of the structure. The moat is west of 
+here. There is also a large door eastward into the structure.  You notice that
+the walls are ornately decorated with very life-like stone gargoyles.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1624
+0
+Exit
+3
+~
+~
+0
+1620
+0
+EndRoom
+
+#ROOM
+Vnum 1624
+Name The Grand Lobby~
+Desc You have entered a vast lobby. This lobby appears to have once been very
+ornately furnished, but now everything is decayed and moldering.  A highly
+ornate balcony surrounds the lobby. To the east, below the balcony, is an
+opening. The door leading out is west.  You notice that the balcony is
+covered in highly ornate and life-like stone gargoyles.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1625
+0
+Exit
+3
+~
+~
+0
+1623
+0
+EndRoom
+
+#ROOM
+Vnum 1625
+Name Base of the Western Tower~
+Desc You stand in the center of the Western tower's base. Torch brackets occupy
+the four corners of this huge room. Above each torch is a lifelike ornate
+stone gargoyle.  There are doors north and south, and passages east and west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1627
+0
+Exit
+1
+~
+~
+0
+1626
+0
+Exit
+2
+~
+~
+0
+1628
+0
+Exit
+3
+~
+~
+0
+1624
+0
+EndRoom
+
+#ROOM
+Vnum 1626
+Name The Musty Corridor~
+Desc You are walking along a musty east-west corridor joining the two towers.
+There are room on each side of the corridor, and openings at each end.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1629
+0
+Exit
+1
+~
+~
+0
+1631
+0
+Exit
+2
+~
+~
+0
+1630
+0
+Exit
+3
+~
+~
+0
+1625
+0
+EndRoom
+
+#ROOM
+Vnum 1627
+Name Kitchen~
+Desc You have entered what must once have been a kitchen. The rusting remains of
+various utensils lie on countertops. There is also an old wash basin and a
+pot-belly stove.  There is a door south, and a serving hatch east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+1625
+0
+EndRoom
+
+#ROOM
+Vnum 1628
+Name Conservatory~
+Desc You are in the tower's private conservatory. However, through years of neglect,
+the plants have grown into a hideous jungle.  The only exit is north.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1625
+0
+EndRoom
+
+#ROOM
+Vnum 1629
+Name The Dining Hall~
+Desc You have entered a fabulous dining hall.  The wrecked remains of a long table
+dominate the room. A horrible odor pervades the room, like some foul-smelling
+beast has been eating and shitting in here.  There is a serving hatch west and
+a door south.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+1626
+0
+EndRoom
+
+#ROOM
+Vnum 1630
+Name Art Gallery~
+Desc You are in the ruined remains of an art gallery. Everything appears to
+have been stolen long ago, however.  The only exit is north.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1626
+0
+EndRoom
+
+#ROOM
+Vnum 1631
+Name Base of the Eastern Tower~
+Desc You stand in the center of the Eastern tower's base. Torch brackets occupy the
+four corners of this huge room.  Above each torch is a lifelike ornate stone
+gargoyle.  There are are open doors to the north and south, and passages east
+and west.  In addition, a spiral staircase leads up to the next level of this
+tower.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1632
+0
+Exit
+2
+~
+~
+0
+1633
+0
+Exit
+3
+~
+~
+0
+1626
+0
+Exit
+4
+You see a spiral staircase leading up.
+~
+~
+0
+1635
+0
+EndRoom
+
+#ROOM
+Vnum 1632
+Name The Common Room~
+Desc You are in what must once have been a common room for all residents of the
+tower. There is a huge fire pit with a chimney in the center, and the smashed
+remains of a great many table and chairs.  The exit is south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+1631
+0
+Exit
+5
+You notice a grate in the bottom of the fire pit.  Maybe it's an opening ...
+~
+~
+-1
+1634
+A
+EndRoom
+
+#ROOM
+Vnum 1633
+Name Servant's Quarters~
+Desc You are in what once was the servant's quarters, as evidenced by the shabby
+belongings and decor. What little remains is rotting and of little value
+anyway.  The only exit is north.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1631
+0
+EndRoom
+
+#ROOM
+Vnum 1634
+Name A Large Murky Cellar~
+Desc You are in a large, murky cellar. An almost tangible air of horror pervades
+the room.  A thin layer of nitre covers the walls and ceiling.  Rotting
+furniture looms obliquely about the room.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+-1
+1632
+A
+EndRoom
+
+#ROOM
+Vnum 1635
+Name On the First Staircase~
+Desc You are on a Spiral staircase connecting the first and second levels of
+the eastern tower. You can go up or down.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+0
+1636
+0
+Exit
+5
+~
+~
+0
+1631
+0
+EndRoom
+
+#ROOM
+Vnum 1636
+Name Second Level of the Eastern Tower~
+Desc You are in the center of the second level of the Eastern tower. This large
+room appears quite empty, except for the candle abras firmly fixed to the
+walls.  An opening leads westward, and a spiral staircase leads down.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+1637
+0
+Exit
+5
+~
+~
+0
+1635
+0
+EndRoom
+
+#ROOM
+Vnum 1637
+Name The Elegant Hall~
+Desc You are in what was once a elegant hall, although everything is moldering now.
+The rotted remains of a plush carpet covers the floor, while several moldy
+tapestries adorn the each side of the hall.  There are door north and south,
+and openings east and west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1638
+0
+Exit
+1
+~
+~
+0
+1636
+0
+Exit
+2
+~
+~
+0
+1639
+0
+Exit
+3
+~
+~
+0
+1640
+0
+EndRoom
+
+#ROOM
+Vnum 1638
+Name The Shaman's Room~
+Desc You have entered an elegantly furnished room that looks to be still in use!
+Costly paintings and pieces of furniture are tastefully situated.  On the
+north wall is an altar to Knar, the ghastly patron of Gargoyles.  The only
+exit is south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+1637
+0
+EndRoom
+
+#ROOM
+Vnum 1639
+Name The Library~
+Desc This room appears to have been a library.  Empty book shelves line each wall.
+The only exit is north.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1637
+0
+EndRoom
+
+#ROOM
+Vnum 1640
+Name Second Level of the Western Tower~
+Desc You are in the center of the western tower's second floor.  A large spiral 
+staircase of 29 steps connects this level with the third.  There are doors
+to the east and west.  Except for a torch bracket in each corner, the 
+room is barren.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1637
+0
+Exit
+3
+~
+~
+0
+1641
+0
+Exit
+4
+You see the spiral staircase leading up.
+~
+~
+0
+1642
+0
+EndRoom
+
+#ROOM
+Vnum 1641
+Name On the Balcony~
+Desc You are on the balcony overlooking the Grand lobby.  You have a fabulous
+view of the entire room.  The only exit is the way you came in.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1640
+0
+EndRoom
+
+#ROOM
+Vnum 1642
+Name The Spiral Stairs~
+Desc You are on a large spiral staircase of 29 steps, leading between the 
+second and third floors.  You can go up or down.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+0
+1643
+0
+Exit
+5
+~
+~
+0
+1640
+0
+EndRoom
+
+#ROOM
+Vnum 1643
+Name Third Level of Western Tower~
+Desc You stand in the center of the western tower's third floor.  This large room
+glows mysteriously with a strange light all its own.  From a door to the east
+comes a strange inky blackness.  A spiral staircase leads down.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1644
+A
+Exit
+5
+~
+~
+0
+1642
+0
+EndRoom
+
+#ROOM
+Vnum 1644
+Name It's too dark to see anything!~
+Desc ~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1645
+A
+Exit
+1
+~
+~
+-1
+1647
+A
+Exit
+2
+~
+~
+-1
+1646
+A
+Exit
+3
+~
+~
+-1
+1643
+A
+EndRoom
+
+#ROOM
+Vnum 1645
+Name The Armory~
+Desc In this room, which has somehow evaded the ravages of time, are neatly stored
+racks of common weapons.  They appear to be quite ordinary; however, a chest
+in one corner catches your eye.  The only exit is the way you came in.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+1644
+A
+EndRoom
+
+#ROOM
+Vnum 1646
+Name The Officer's Quarters~
+Desc You have entered a lavish but functional room decked out in a military style.
+Murals on the wall show battle scenes in gargoyles, minotaurs, and huge,
+flying snake-like reptiles with poisonous tails fight humans and dwarves.
+Various objects in the room give evidence that it is occupied by individuals
+of authority.  The only door is north.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1644
+A
+EndRoom
+
+#ROOM
+Vnum 1647
+Name Third Level of Eastern Tower~
+Desc You are in the center of the Eastern Tower's third floor.  The room you are in
+glows with a mysterious light that has no source.  In the center of the room a
+ladder climbs up to a hatchway in the ceiling.  The hatchway is a strange
+looking keyhole.  There is also a door to the west.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+1644
+A
+Exit
+4
+The hatchway appears securely fastened.  In it is a strange keyhole.
+~
+~
+-1
+1648
+A
+EndRoom
+
+#ROOM
+Vnum 1648
+Name Turret of the Eastern Tower~
+Desc You stand in the turret of the eastern tower.  A huge hole has been
+made in the roof by some enormous beast, letting the daylight (or moonlight)
+in.  There is a hatchway in the floor, and an opening to the west leading out
+onto a catwalk.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+There is a small opening this way.
+~
+~
+0
+1649
+0
+Exit
+5
+~
+~
+-1
+1647
+A
+EndRoom
+
+#ROOM
+Vnum 1649
+Name On the Catwalk~
+Desc You are outdoors on a catwalk between the turrets of the eastern and 
+western towers.  There is a 40 foot drop to the north and south.  You have
+a fabulous view of the surrounding countryside, which consists of a bleak
+wilderness.  At the east end of the catwalk is a small opening leading
+inside the eastern turret.  At the western end, a strange mirror-like portal
+leads into the western turret.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1648
+0
+Exit
+3
+A mirror-like portal glimmers, allowing entry into the western turret.
+~
+~
+0
+1650
+0
+EndRoom
+
+#ROOM
+Vnum 1650
+Name Turret of the Western Tower~
+Desc You are in the turret of the western tower.  You feel very strange here.
+Scattered about this room are a great many coins and valuable articles.
+Yet you can't get rid of a feeling of dread!  A mirror-like portal is in the
+western wall.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1649
+0
+Exit
+3
+A mirror-like portal glimmers in this wall.
+~
+~
+0
+1651
+0
+EndRoom
+
+#ROOM
+Vnum 1651
+Name On the Other Side~
+Desc You are outdoors on a catwalk between the turrets of the Eastern and Western
+towers.  There is no opening into the western tower of any kind.  You have a
+fabulous view of your surroundings, a murky city partially obscured by strange
+smoke that creeps along the ground instead of rising. The city stretches as far
+as the eye can see under the conditions.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1650
+0
+Exit
+3
+~
+~
+0
+1652
+0
+EndRoom
+
+#ROOM
+Vnum 1652
+Name The Chamber~
+Desc You are in a small carpeted chamber. The chamber is empty except for a single
+chair facing a mirror on the wall.
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1651
+0
+EndRoom
+
+#ROOM
+Vnum 1701
+Name Main Eastern Road~
+Desc You are on the old Eastern Road.  The crossroads to the east joins ANOTHER
+northern route to this road, which continues east.  South of the crossroads is
+an old building.  The area around here is lightly timbered.
+~
+Room_flags 4
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a cross roads and an old building.
+~
+~
+0
+1702
+0
+Exit
+3
+~
+~
+0
+5267
+0
+EndRoom
+
+#ROOM
+Vnum 1702
+Name Crossroads to the Wilderness~
+Desc You are at a crossroads to the wilderness areas east and north of here,
+and the more civilized areas to the west. The main road is west, an
+older road continues east, and a simple trail heads north.  To the south,
+an old ram-shackle building is being used as a trading post for the
+surrounding wilderness. 
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a trail leading north.
+~
+~
+0
+1704
+0
+Exit
+1
+The old Eastern road continues this way.
+~
+~
+0
+1601
+0
+Exit
+2
+An old, ram-shackle building serves as a trading post here.
+~
+~
+0
+1703
+0
+Exit
+3
+~
+~
+0
+1701
+0
+EndRoom
+
+#ROOM
+Vnum 1703
+Name Trading Post~
+Desc You are in a trading post just south of the crossroads, where rangers,
+trappers and hunters from the surrounding area come to buy, sell, and
+barter goods.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The door opens out on the crossroads.
+~
+~
+0
+1702
+0
+EndRoom
+
+#ROOM
+Vnum 1704
+Name Trail north of crossroads~
+Desc You are on a primitive north-south trail. South of here is a major cross-
+roads and an old building. To the north the trail continues toward a
+deep, dark forest.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The trail continues toward a deep, dark, forest.
+~
+~
+0
+1705
+0
+Exit
+2
+A major crossroads and a building lie in this direction.
+~
+~
+0
+1702
+0
+EndRoom
+
+#ROOM
+Vnum 1705
+Name Trail south of forest~
+Desc You are on a primitive north-south trail.  Just north of here looms the
+entrance to a deep, dark forest. To the south the trail continues.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The trail enters a dark forest of thick oaks this way.
+~
+~
+0
+1706
+0
+Exit
+2
+The trail continues.
+~
+~
+0
+1704
+0
+EndRoom
+
+#ROOM
+Vnum 1706
+Name Entrance to the forest~
+Desc You are at the entrance to dark forest comprised mostly of huge black oak
+and towering firs.  A trail from the south continues north on into the
+woods at this point.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the trail continuing into the forest.
+~
+~
+0
+1707
+0
+Exit
+2
+You see the trail head back on south.
+~
+~
+0
+1705
+0
+EndRoom
+
+#ROOM
+Vnum 1707
+Name Trail in Dark Oak Forest~
+Desc The trail here passes through groves of closely knit Black Oak. Some of
+these trees are of enormous size.  Rustling and other low noises come
+from the forest on either side of the trail.  The trail continues on north
+and south.
+~
+Room_flags 0
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the trail continue into thick, dark forest.
+~
+~
+0
+1708
+0
+Exit
+2
+The edge of the forest is visible in this direction.
+~
+~
+0
+1706
+0
+EndRoom
+
+#ROOM
+Vnum 1708
+Name Junction in Dark Forest~
+Desc You are in the midst of a deep dark forest of huge oak trees.  There is a
+junction of trails here, with paths leading south, west and east.
+~
+Room_flags 0
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+A path disappears into thick forest.
+~
+~
+0
+1720
+0
+Exit
+2
+A path disappears into thick forest.
+~
+~
+0
+1707
+0
+Exit
+3
+You see the path to the Centaur village.
+~
+~
+0
+1709
+0
+EndRoom
+
+#ROOM
+Vnum 1709
+Name Path to Centaur Village~
+Desc You are on an east-west path in the forest.  Here the forest is mostly
+towering firs, not quite as dense as the oak groves that can be seen eastward.
+Westward, the trail heads toward a small clearing.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+A path disappears into thick forest.
+~
+~
+0
+1708
+0
+Exit
+3
+There is a small clearing in this direction.
+~
+~
+0
+1710
+0
+EndRoom
+
+#ROOM
+Vnum 1710
+Name The East side of the Centaur Clearing~
+Desc You are on the east side of a clearing.  Small primitive huts are scattered
+about the edges of this clearing.  Beyond these on all sides are towering
+fir trees.  A path leads east out of the clearing. The clearing continues to
+the west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+There is a hut here.
+~
+~
+0
+1712
+0
+Exit
+1
+A path leads away through the forest.
+~
+~
+0
+1709
+0
+Exit
+2
+There is a hut here.
+~
+~
+0
+1713
+0
+Exit
+3
+You see the west side of the clearing.
+~
+~
+0
+1711
+0
+EndRoom
+
+#ROOM
+Vnum 1711
+Name West side of the Centaur Clearing~
+Desc You are on the west side of the clearing in the center of the Centaur village.
+Huts surround the clearing on all sides, and beyond are towering firs.  The
+clearing continues to the east.  To the west is a very large hut.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+There is a hut here.
+~
+~
+0
+1714
+0
+Exit
+1
+You see the east side of the clearing.
+~
+~
+0
+1710
+0
+Exit
+2
+There is a hut here.
+~
+~
+0
+1715
+0
+Exit
+3
+There is a hut here.
+~
+~
+0
+1716
+0
+EndRoom
+
+#ROOM
+Vnum 1712
+Name A Centaur's Hut~
+Desc You are inside a smallish hut, the home of a family of Centaurs.  The hut
+is sparsely furnished, mostly the trappings of survival.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+The opening leads out onto the clearing.
+~
+~
+0
+1710
+0
+EndRoom
+
+#ROOM
+Vnum 1713
+Name A Centaur's Hut~
+Desc You are inside a smallish hut, the home of a family of Centaurs.  The hut
+is sparsely furnished, mostly the trappings of survival.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The opening leads out onto the clearing.
+~
+~
+0
+1710
+0
+EndRoom
+
+#ROOM
+Vnum 1714
+Name A Centaur's Hut~
+Desc You are inside a smallish hut, the home of a family of Centaurs.  The hut
+is sparsely furnished, mostly the trappings of survival.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+The opening leads out onto the clearing.
+~
+~
+0
+1711
+0
+EndRoom
+
+#ROOM
+Vnum 1715
+Name A Centaur's Hut~
+Desc You are inside a smallish hut, the home of a family of Centaurs.  The hut
+is sparsely furnished, mostly the trappings of survival.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The opening leads out onto the clearing.
+~
+~
+0
+1711
+0
+EndRoom
+
+#ROOM
+Vnum 1716
+Name Entrance to a Large Hut~
+Desc You are in the entry foyer of a large hut.  A curtain separates this section
+of the hut from the next section to the west.  To the east is an opening out
+onto the clearing.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The opening leads out onto the clearing.
+~
+~
+0
+1711
+0
+Exit
+3
+There is a curtain here separating this section from the next.
+~
+~
+0
+1717
+0
+EndRoom
+
+#ROOM
+Vnum 1717
+Name Back of a Large Hut~
+Desc You are in the back of a large hut.  A curtain separates this section from
+the front of the hut to the east.  This room is finely decorated, if
+somewhat primitive.  The decor suggests someone of authority lives here.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+There is a curtain here separating this room from the front of the hut.
+~
+~
+0
+1716
+0
+EndRoom
+
+#ROOM
+Vnum 1720
+Name Eastern Path in Dark Forest~
+Desc You are on an east-west path through extremely old growths of oak.  The path
+is fairly faint here.  Undergrowth closes in so closely that little can
+be seen in any direction.
+~
+Room_flags 0
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+The path continues west through thick forest.
+~
+~
+0
+1708
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 1605 spec_cast_cleric
+M 1609 spec_cast_undead
+M 1614 spec_breath_acid
+M 1616 spec_breath_any
+M 1617 spec_cast_undead
+M 1716 spec_cast_undead
+S
+
+
+
+#RESETS
+O 0 1652 0 1608
+M 0 1612 1 1610 1
+E 0 1604 0 16
+E 0 1612 0 11
+M 0 1601 4 1620 2
+M 0 1601 4 1620 2
+M 0 1601 4 1621 2
+M 0 1601 4 1622 2
+M 0 1602 6 1623 2
+M 0 1602 6 1623 2
+M 0 1602 6 1624 2
+M 0 1602 6 1624 2
+M 0 1602 6 1625 1
+O 0 1601 0 1627
+M 0 1606 1 1628 1
+M 0 1607 1 1629 1
+M 0 1603 3 1630 1
+M 0 1602 6 1631 1
+M 0 1603 3 1632 1
+M 0 1609 1 1634 1
+E 0 1692 0 17
+M 0 1604 4 1636 2
+E 0 1604 0 16
+M 0 1604 4 1636 2
+E 0 1604 0 16
+M 0 1603 3 1637 1
+M 0 1605 1 1638 1
+E 0 1602 0 16
+E 0 1621 0 13
+M 0 1604 4 1639 2
+M 0 1604 4 1639 2
+M 0 1614 1 1643 1
+R 0 1644 0
+M 0 1608 4 1644 4
+O 0 1651 0 1645
+P 0 1603 1 1651 1
+M 0 1610 2 1645 2
+M 0 1610 2 1645 2
+M 0 1613 1 1646 1
+E 0 1605 0 16
+E 0 1614 0 6
+M 0 1615 2 1647 2
+E 0 1606 0 16
+M 0 1616 1 1648 1
+E 0 1615 0 14
+G 0 1621 0
+M 0 1617 1 1650 1
+E 0 1616 0 3
+M 0 1702 2 1703 2
+E 0 1711 0 6
+M 0 1702 2 1703 2
+E 0 1711 0 6
+M 0 1704 2 1703 2
+M 0 1704 2 1703 2
+E 0 1701 0 16
+M 0 1706 1 1703 1
+E 0 1702 0 16
+G 0 1621 0
+M 0 1710 3 1704 1
+E 0 1701 0 16
+M 0 1711 2 1706 1
+M 0 1710 3 1708 1
+E 0 1701 0 16
+M 0 1711 2 1709 1
+M 0 1710 3 1710 1
+M 0 1712 3 1710 1
+M 0 1714 3 1711 1
+M 0 1712 3 1712 1
+M 0 1712 3 1713 1
+M 0 1714 3 1714 1
+M 0 1714 3 1715 3
+M 0 1715 2 1716 2
+E 0 1604 0 16
+M 0 1715 2 1716 2
+E 0 1604 0 16
+M 0 1716 1 1717 1
+E 0 1713 0 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

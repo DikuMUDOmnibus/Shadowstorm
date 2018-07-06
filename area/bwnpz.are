@@ -1,0 +1,61 @@
+#AREADATA
+Name BW new player zone~
+Builders Khalandar~
+VNUMs 5801 5831
+Credits (null)~
+Security 5
+Soundfile (null)~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 5801
+Name Bridgewater trainign area~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,233 @@
+Additions for players:
+
+Added suppression to the code, allowing for several types of spam suppression during battle etc.
+
+Added the petcall command allowing players to call their pets to their side.
+
+Added the sstep command, it allows players to slip into the shadows and move instantly to an area.
+
+Added tally command. It helps you keep track of how many unique objects are in existance.
+
+We have a strap command, belt command, hood raise/lower, cloak command. we also have layered eq when you use the new wear locations we've added. E.g wearing something over 
+your leggings etc.
+
+Added the restring code, players go to a restringer mob, and for a price can restring their objects, short descs, name, and long desc.
+
+Added the petname code, allowing for players to change their pets short desc, name, and long desc.
+
+Added study code, allowing players to study books or potions and possibly to gain the knowledge from them.
+
+Added ohide and search commands allowing players to hide objects and the search command to find them.
+
+Added hometown to allow players to change their hometown for a price in gold.
+
+Added the forge command to allow players to add flags to their weapons for a price in questpoints. These are permanent changes.
+
+Added the push and drag commands to allow players to manipulate objects or mobs.
+
+Added the airmail code, to allow players to throw mobs or players from one place to another.
+
+We have object saving code so that if something you own gets left on the ground it will survive through a copyover.
+
+Created the auto afk code, if you are inactive for more than 12 ticks your automatically set as afk.
+
+Added the version command you can type version and see what version of Shadowstorm we are currently using.
+
+Added the mtsteal command. It allows players to steal a mount from someone else.
+
+Created sage code allowing a wondering sage mob to identify your items for a price in gold.
+
+Redid the healing code. Added some new options and made it look nicer.
+
+We have an away code, you type away and a message after it to set the message. Then you type afk and it will show your away message as your title. When you come back and type 
+afk it will automatically change back to your regular title.
+
+You can now choose your height, weight, size, hair color, eye color etc, whenever you create your character.
+
+Created the autoall command. It allows players to toggle all their auto options on or off.
+
+We have a war code that allows players to have race wars, class wars, level wars etc.
+
+A mail system allowing players to mail an object to someone. If they have a house it will be mailed there and can be picked up out of their mailbox, or if they don't have a 
+house it can be retrieved from the post office in their hometown.
+
+You have to choose a short description whenever you create this is what other people will see when they first meet you on the mud. This affects everyone but immortals, they 
+will see who you truly are. In order for people to know who you are, they must first introduce themselves, using the intro command.
+
+After a certain level, you will be required to wear objects that fit your body size. If you have an object that is to big or small you will have to get it resized by an 
+armorer, or from someone who has the resize skill.
+
+Davion's fantastic feature rich religion system.
+
+Added code so that objects, and armor will be damaged during battle. Players must repair their items if they wish to continue using them.
+
+Added the ability to repair all, and resize all. They will fix or resize anything in your inventory that needs resizing or fixing.
+
+Relic objects and armor now have the ability to level and gain stats.
+
+Added the relic flag only objects with the relic flag can level. unique items will automatically be given the relic flag and their xp to level will be to 2,000.
+
+Obj->xp_tolevel will now increase 1.5 times each time an object levels
+
+Created conversion code allowing you to allocate hp, mana, and move back and forth as you see fit.
+
+Made it so that your pets can be revived whenever they die
+
+Werewolf, and vampire code, allowing players to become werewolves and vampires, giving bonuses, and taking on some of their inherent attributes.
+
+Pets have the ability to level with you as you make kills. This can be toggled on or off with the petlevel command.
+
+You can also view your pets stats with the petshow command.
+
+Added new weather code, and completely redid it, all the weather descriptions are now stored within tables.
+
+Added autodamage code so that you can see your damage whenever you attack something and see the damage done to you. This can be toggled on and off with the autodamage command.
+
+Added the exchange command. It allows you to exchange your casino tokens for something of value. A practice token is worth 1 practice, a quest token is worth 50 quest points, 
+a train token is worth 1 train, and an exp token is worth 50 exp points.
+
+Created code to allow players to create their own houses. They can add mobs, objects, change descs, name the rooms, boot people out etc.
+
+You can wield secondary weapons using the second command.
+
+Added nforge code, it allows for items to be socketed, increasing stats power etc.
+
+When you die your hunger and thirst are reset to their full value.
+
+You can look at the sky when your outdoors and see stars, constellations etc.
+
+If your hitpoints get down to a fourth of your total you will leave a bloodtrail behind whenever you move from room to room.
+
+Added the hint channel, it offers valuable hints for newbies it can be turned on or off
+
+Added the penter command, it announces a message whenever someone logs on, it can be turned on or off.
+
+New characters automatically recieve a newbie pack.
+
+Added the istat command it allows a player to their racial stats and their max's.
+
+Added the newaff command, a better version of affect, also allows for you to see other peoples affects as well.
+
+Players can forge equipment out of minerals they have gathered from mining.
+
+Raised the regen of mana, hit, and move to about twice what it was before. It was just to slow
+
+We now have automated trivia code, it automatically asks questions, allows players to view who has the most points, and gives out rewards.
+
+Increased player stat maxes for int, wis, con etc. They now go up to 50.
+
+Davions channel code added allows for use of global socials, emotes on any channel etc.
+
+Automated global quest code added, allows players to kill a list of preset mobs for a reward, if you kill them all you get a big reward.
+
+Quest code added, sends you on quest to retrieve objects, or kill mobs. If you return in time you are rewarded. If you finish quickly you get a randomized bonus reward. 
+Questpoints have several uses on shadowstorm.
+
+Players can now use their quest points to purchase levelflux's, giving them increased damage, better level gains, and several other noteable things.
+
+Players can now use some of their questpoints to become members of the frequent questors club. This cuts your wait time in betwen quest in half.
+
+Added the double exp command, immortals can toggle exp on or off. As well as set a timer so it automatically turns off when the timer runs out.
+
+Added the pinfo command, to show info that isn't shown on score, whois etc.
+
+Added the finger command, allows you to see the last time a person was logged on, as well as a few other things.
+
+Added the mobkill and mobdeath commands. It allows players to view the most popular mobs, and the mobs who kill the most people.
+
+Added the showstat command it allows you to view the top players in several categories.
+
+Added stances, you can be in a neutral, aggressive, or defensive stance.
+
+Added new clan code, allows for online creation of clans, gives out skills at every rank of the clan, and allows for up to six ranks per clan etc.
+
+Added hundreds of new spells and skills.
+
+We have a mining code, allowing you create your own mines, once you've created a mine you can then begin to gather minerals using the dig command.
+
+Added four new classes, and plan on adding more soon.
+
+Redid the entire creation process, it is now a menu driven system.
+
+Redid the login process it is now a menu driven system.
+
+Redid the score command it now looks much nicer.
+
+Redid the whois command made the output look better.
+
+Redid the auto command, made it nicer.
+
+Redid the help command and made it look nicer.
+
+Redid the commands, command. Sorted commands into categories and made it look nicer.
+
+Added the bank code, and created several commands to use with it, such as transfer, allowing you to transfer money directly to someone elses account.
+
+Added the summoner code, it will allow players to travel to listed locations for a price in gold.
+
+Added the bounty code, it will allow players to set a bounty on someone. The person who kills them gets the reward.
+
+Added casino code, allowing for players to purchase tokens, insert the tokens into the slot machine, and recieve random tokens and rewards in return.
+
+Added the slot command, allowing players to use a slot machine and try and win some gold.
+
+Added the arshow command, it allows players to toggle their armor messages on or off in the score.
+
+Added the reclass code, it allows you to choose another class once you reach hero level, you can have the benefits of up to 8 classes at once.
+
+Created unique objects code, these objects will randomly spawn throughout the world. They are incredibly powerful and extremely rare.
+
+Newbie channel, hero channel, admin channel, god channel, imp channel, and race channel added.
+
+Removed donation pits, and changed it so that objects go to donation rooms, each hometown will have a donation room.
+
+Added locker code, allowing players to buy a locker where they can store some of their items for a price.
+
+Added room rental code, this allows players to rent a room in an inn and get an additional regen bonus.
+
+Additions for immortals:
+
+Made a new alist command it looks nicer, and has more information such as the number of descriptions completed.
+
+If someone is in olc it will now show up in the who command.
+
+The who command now displays more information, looks nicer, and is split into immortals and mortals.
+
+Added the copyover command.
+
+Astrip command allowing immortals to strip a character of all their affects.
+
+We have all the olc delete commands, aedit delete, oedit delete, redit delete, medit delete.
+
+We have autoset features, for mobs as well as objects.
+
+We have roomprogs, objprogs, and mobprogs.
+
+Created the signal handler code, if the mud crashes it will attempt to copyover saving it from a crash. Also made the isignal command which allows immortals to turn the signal 
+handler on or off.
+
+Added the olc autosave feature it automatically saves any changes made to several game functions.
+
+We have unlink code, this allows an immortal to log anyone who is link dead off the mud.
+
+Sorted all the immortal commands by level and made the wizhelp command look much nicer.
+
+Skills, spells, and classes are all editable online using the skedit command.
+
+We have instaroom code for builders. Allowing them to put what they want in their rooms, type instaroom and have it do their resets automatically.
+
+Added the ftick command, it allows immortals to force certain game functions to update, or update them all at once.
+
+Added openvlist command, allowing immortals to see which vnums are open for creating a new area.
+
+Added the wiznetall command. It allows immortals to toggle all their wiznet options as on, or off. 
+
+Added automap for room descriptions that shows only explored rooms
+
+Added waypoint finder to locate specific room vnums.
+
+Added automap config option in autoall
+
+Added waypoint to do_mset so immortals can set waypoints to any vnum on any player
+
+Mud now compiles under g++ 4.4.1

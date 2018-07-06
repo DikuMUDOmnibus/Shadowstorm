@@ -1,0 +1,63 @@
+#AREADATA
+Name The Immortal Tower~
+Builders Gretago~
+VNUMs 3800 3899
+Credits (null)~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 3800
+Name The entrance to the tower~
+Desc This is the entrance to the tower.
+The walls and the floors are all made out of stone.
+~
+Room_flags 67108868
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

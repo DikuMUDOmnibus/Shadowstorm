@@ -1,0 +1,8 @@
+[ 3001] Gretago: stat makes the mud crash
+[ 3037] Gretago: i tried to cast 'decay'  corpse decay and the mud crashed
+[ 3001] Synon: ead
+[ 3001] Synon: ead
+[  525] Gretago: clanstat
+[ 3713] Tatsumaki: cant go south here..
+[ 9529] Soth: the potion shop in thalos, elvira's, doesnt sell anything on the list, no matter what the keyword i used.
+[10606] Gretago: divine all

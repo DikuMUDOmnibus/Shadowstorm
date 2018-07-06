@@ -1,0 +1,3193 @@
+#AREADATA
+Name Fairfield Forest~
+Builders Tielee~
+VNUMs 700 799
+Credits (null)~
+Security 5
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 700
+Name tara ~
+Short Tara~
+Long Tara, Tielee's servant stands here.
+~
+Description Wearing a cute short cut white dress she quietly wanders around the room
+dusting and cleaning.  Tara apears unarmed yet at the same time she looks
+like she could handle herself in just about any fight that would come her
+way.  Long blonde hair flows down her back and bright blue eyes look back at
+you.  
+~
+Race human~
+Act_flags AQRST
+Aff CDEFGHJKMNOYZc
+Align 0
+Group 0
+Level 1000
+Hitroll 1040
+Hit_dice 2087d329+195040
+Mana_dice 2072d332+191954
+Dam_dice 1040d981+486
+Dam_type punch
+Armor -710 -709 -675 -647
+Clevel0
+Cability 10
+Off BCFHIKO
+Imm AB
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form H
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+Ffor AMV
+EndMob
+
+#MOB
+Vnum 710
+Name Ranger Rick~
+Short Ranger Rick~
+Long Ranger Rick is standing here.
+~
+Description ~
+Race human~
+Act_flags ABJKYae
+Aff 0
+Align 750
+Group 0
+Level 500
+Hitroll 10
+Hit_dice 500d100+500
+Mana_dice 500d100+500
+Dam_dice 500d100+500
+Dam_type punch
+Armor 0 0 0 0
+Clevel0
+Cability 10
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form V
+Parts 0
+Size medium
+Material unknown
+Aggression 0
+Ffor AHM
+Fpar ABCDEFGHIJK
+EndMob
+
+#MOB
+Vnum 711
+Name tom boy~
+Short a boy with a fishing pole~
+Long Tom, the fishing boy stands here.
+~
+Description ~
+Race human~
+Act_flags ABG
+Aff 0
+Align 0
+Group 0
+Level 1
+Hitroll 0
+Hit_dice 10d10+10
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm A
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1
+Form 0
+Parts ABCDEFGH
+Size small
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar IJK
+EndMob
+
+#MOB
+Vnum 712
+Name hen penny~
+Short Penny the hen~
+Long Penny the hen sits here clucking softly.
+~
+Description ~
+Race water fowl~
+Act_flags AB
+Aff Tb
+Align 0
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 50d10+50
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res R
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form AGW
+Parts ACDEFHKP
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 713
+Name Honey bee~
+Short a honey bee~
+Long A honey bee is here, going from flower to flower.
+~
+Description ~
+Race unique~
+Act_flags A
+Aff JT
+Align 0
+Group 0
+Level 30
+Hitroll 5
+Hit_dice 60d10+350
+Mana_dice 30d6+30
+Dam_dice 30d6+30
+Dam_type pierce
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off HU
+Imm L
+Res L
+Vuln I
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form ABGH
+Parts ADEFK
+Size small
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 714
+Name a quick fox~
+Short a quick fox~
+Long A quick fox plays here in the field.
+~
+Description ~
+Race dog~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level 32
+Hitroll 32
+Hit_dice 32d10+350
+Mana_dice 0d0+0
+Dam_dice 32d6+32
+Dam_type bite
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off H
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AGV
+Parts ACDEFHJKUV
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 715
+Name big brown bear~
+Short brown bear~
+Long A big brown bear wanders around looking for food.
+~
+Description ~
+Race bear~
+Act_flags AF
+Aff J
+Align 0
+Group 0
+Level 45
+Hitroll 45
+Hit_dice 45d15+400
+Mana_dice 0d0+0
+Dam_dice 45d10+45
+Dam_type bite
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off DEO
+Imm 0
+Res EI
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form AGV
+Parts ABCDEFHJKUV
+Size large
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 716
+Name butterfly~
+Short a butterfly~
+Long A {rc{bo{gl{mo{ru{br{gf{mu{rl {xbutterfly floats here in the flowers.
+~
+Description ~
+Race unique~
+Act_flags A
+Aff T
+Align 0
+Group 0
+Level 30
+Hitroll 1
+Hit_dice 30d6+60
+Mana_dice 1d1+1
+Dam_dice 30d6+30
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln E
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form O
+Parts ADEFP
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 717
+Name queen bee~
+Short queen bee~
+Long The Queen Bee of the Hive.
+~
+Description ~
+Race unique~
+Act_flags AG
+Aff CDGT
+Align 0
+Group 0
+Level 65
+Hitroll 9
+Hit_dice 65d12+650
+Mana_dice 1d1+1
+Dam_dice 65d12+100
+Dam_type sting
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm B
+Res 0
+Vuln H
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form O
+Parts AEFKP
+Size small
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 718
+Name Royal guard bee~
+Short Royal Guard Bee~
+Long Royal Guard Bee.
+~
+Description ~
+Race unique~
+Act_flags AG
+Aff CDGT
+Align 0
+Group 0
+Level 60
+Hitroll 9
+Hit_dice 60d12+600
+Mana_dice 1d1+1
+Dam_dice 60d12+80
+Dam_type sting
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off U
+Imm B
+Res 0
+Vuln H
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form O
+Parts AFP
+Size small
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 719
+Name hive bee~
+Short hive bee~
+Long Hive Bee.
+~
+Description ~
+Race unique~
+Act_flags A
+Aff DT
+Align 0
+Group 0
+Level 55
+Hitroll 0
+Hit_dice 55d10+500
+Mana_dice 1d1+1
+Dam_dice 50d10+50
+Dam_type sting
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm B
+Res 0
+Vuln H
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form O
+Parts AEFP
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 710
+Name bee hive~
+Short a bee hive~
+Desc A large beehive hangs from a tree~
+Material honeycomb~
+Item_type portal
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 A IJ 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 711
+Name a few words~
+Short a few words that have been etched into the honeycomb wall~
+Desc A few words that have been etched into the honeycomb wall.~
+Material unknown~
+Item_type trash
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+words~
+Warning! Once you go in to this place...the only way out is to enter the...
+~
+EndObj
+
+#OBJ
+Vnum 712
+Name bit of honey~
+Short bit of honey~
+Desc Some tasty honey lays here on the floor.~
+Material honey~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values A A 0 0 0
+Level 1
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 713
+Name fluffy fox tail~
+Short fluffy fox tail~
+Desc A fluffy fox tail from a quick fox~
+Material tail~
+Item_type treasure
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 1
+Weight 15
+Cost 20
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 714
+Name Crystal Statue~
+Short a crystal statue~
+Desc A Crystal Statue of a beautiful woman stands here~
+Material Crystal~
+Item_type portal
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 A CDEFHJ 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 715
+Name a pool of honey~
+Short a pool of honey~
+Desc A pool of honey is in the floor here~
+Material honey~
+Item_type portal
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 A BCGHJ 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 716
+Name Tielee's Statue~
+Short tielee's Statue~
+Desc Tielee's Statue stands here.~
+Material stone~
+Item_type portal
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 A ACDEGHJ 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 717
+Name Solid Gold Throne~
+Short solid Gold Throne~
+Desc A Solid Gold Throne sits here.~
+Material gold~
+Item_type furniture
+Extra 0
+Extra2 0
+Wear 0
+Values A 0 EHK A A
+Level 0
+Weight 10000
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 718
+Name rose bush~
+Short rose bush~
+Desc A {rrose {xbush grows here.~
+Material rose bush~
+Item_type trash
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 719
+Name flower~
+Short a flower~
+Desc A {rred {xflower grows here on the forest floor.~
+Material plant~
+Item_type trash
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 720
+Name flower~
+Short a flower~
+Desc A {bblue {xflower grows here on the forest floor.~
+Material plant~
+Item_type trash
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 798
+Name A Beautiful Rose~
+Short a Beautiful Rose~
+Desc A Beautiful Rose~
+Material flower~
+Item_type treasure
+Extra 0
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 799
+Name black dagger~
+Short a black dagger~
+Desc A black dagger rest here humming with a power all its own.~
+Material metal~
+Item_type weapon
+Extra G
+Extra2 AD
+Wear ANO
+Values dagger 10 19 pierce 0
+Level 1
+Weight 1
+Cost 1
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 700
+Name A Grand Entry Hall of a Temple~
+Desc This is the grand entry hall of the Temple of Tielee.  Rumors hold that
+Tielee ventures forth to this locale when he has to ponder on the fate of
+the mortal world.  Carvings of various other immortals are embeded in the
+walls, ceiling, and even the marble floors.  A sense of awe and power
+permenates in this room.  
+~
+Room_flags 1024
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+701
+0
+Exit
+1
+~
+~
+0
+703
+0
+Exit
+3
+~
+~
+0
+702
+0
+EndRoom
+
+#ROOM
+Vnum 701
+Name Tielee's Throne Room~
+Desc In the center of the north wall is a solid gold throne on a raised
+platform.  The floors are covered in mosaics of various places in the world
+of Shadowstorm.  Banners hang from the walls, showing scenes of various
+battles, and great wars.  A low chant is heard drifting from somewhere in
+the room, seemingly coming from all places at once.  A banner hangs above
+the throne, showing a great serpant in a circle, swallowing its own tail.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+700
+0
+EndRoom
+
+#ROOM
+Vnum 702
+Name Tielee's Statue Room~
+Desc A statue stands in the center of the room, its left arm at its side and
+its right arm reaching towards the heavens.  The floors are made of a
+mahogany wood, and the walls are made of a carved stonework.  The ceiling is
+made of some sort of crystals, which seem to ever be changing shape and
+color, almost as a living creature or lifeform.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+700
+0
+EndRoom
+
+#ROOM
+Vnum 703
+Name Tielee's Tribute Room~
+Desc A gem enlaid platinum altar rests in the middle of this room.  Its base
+has thousands of tiny emeralds spelling out the name Tielee.  The walls are
+covered in paintings showing off various planes of existence that Tielee has
+explored in the past.  The floors are made of a polished black stone, and
+the walls look like they are made of an exotic oak.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+700
+0
+EndRoom
+
+#ROOM
+Vnum 710
+Name Fairfield Forest Trail~
+Desc North is the large tree's of Fairfield Forest.  Sounds echo from the
+treetops and wind swirls the dust at your feet.  A worn trail winds its way
+north from here, disapearing into the forest.  
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+711
+0
+EndRoom
+
+#ROOM
+Vnum 711
+Name Fairfield Forest Trail~
+Desc All around is the large tree's of Fairfield Forest.  Sounds echo from the
+treetops and wind swirls the dust at your feet.  A worn trail winds its way
+west and south from here, disapearing into the forest.  
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+721
+0
+Exit
+1
+~
+~
+0
+712
+0
+Exit
+2
+~
+~
+0
+710
+0
+Exit
+3
+~
+~
+0
+713
+0
+EndRoom
+
+#ROOM
+Vnum 712
+Name Fairfield Forest~
+Desc The lush tree tops block most of the sunlight from reaching the forest
+floor in this area.  An owl hoots in the distance and is followed by a
+screech.  An erie feeling perminates in this area.  A small lodge of some
+sort is to the east.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+722
+0
+Exit
+1
+~
+{xdoor~
+0
+764
+AB
+Exit
+3
+~
+~
+0
+711
+0
+EndRoom
+
+#ROOM
+Vnum 713
+Name Fairfield Forest Trail~
+Desc All around is the large tree's of Fairfield Forest.  Sounds echo from the
+treetops and wind swirls the dust at your feet.  A worn trail winds its way
+east and west from here, disapearing into the forest.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+720
+0
+Exit
+1
+~
+~
+0
+711
+0
+Exit
+3
+~
+~
+0
+714
+0
+EndRoom
+
+#ROOM
+Vnum 714
+Name Fairfield Forest Trail~
+Desc All around is the large tree's of Fairfield Forest.  Sounds echo from the
+treetops and wind swirls the dust at your feet.  A worn trail winds its way
+east and west from here, disapearing into the forest.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+719
+0
+Exit
+1
+~
+~
+0
+713
+0
+Exit
+3
+~
+~
+0
+715
+0
+EndRoom
+
+#ROOM
+Vnum 715
+Name Fairfield Forest Trail~
+Desc All around is the large tree's of Fairfield Forest.  Sounds echo from the
+treetops and wind swirls the dust at your feet.  A worn trail winds its way
+north and east from here, disapearing into the forest.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+718
+0
+Exit
+1
+~
+~
+0
+714
+0
+Exit
+3
+~
+~
+0
+716
+0
+EndRoom
+
+#ROOM
+Vnum 716
+Name Fairfield Forest~
+Desc The lush tree tops block most of the sunlight from reaching the forest
+floor in this area.  An owl hoots in the distance and is followed by a
+screech.  An erie feeling perminates the entire area.  The rock face to the
+south apears distorted.  
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+south~
+A doorway is barely visible in the rock face to the south.
+~
+Exit
+0
+~
+~
+0
+717
+0
+Exit
+1
+~
+~
+0
+715
+0
+EndRoom
+
+#ROOM
+Vnum 717
+Name Fairfield Forest~
+Desc The lush tree tops block most of the sunlight from reaching the forest
+floor in this area.  An owl hoots in the distance and is followed by a
+screech.  An erie feeling perminates the entire area.  
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+723
+0
+Exit
+1
+~
+~
+0
+718
+0
+Exit
+2
+~
+~
+0
+716
+0
+EndRoom
+
+#ROOM
+Vnum 718
+Name Fairfield Forest Trail~
+Desc All around is the large tree's of Fairfield Forest.  Sounds echo from the
+treetops and wind swirls the dust at your feet.  A worn trail winds its way
+north and south from here, disapearing into the forest.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+724
+0
+Exit
+1
+~
+~
+0
+719
+0
+Exit
+2
+~
+~
+0
+715
+0
+Exit
+3
+~
+~
+0
+717
+0
+EndRoom
+
+#ROOM
+Vnum 719
+Name Edge of Crystal Lake~
+Desc The forest begins to thin out and to the northeast is the beautiful and
+mysterious Crystal Lake.  Squirels chatter from the treetops as if daring
+you to near the lake.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+725
+0
+Exit
+1
+~
+~
+0
+720
+0
+Exit
+2
+~
+~
+0
+714
+0
+Exit
+3
+~
+~
+0
+718
+0
+EndRoom
+
+#ROOM
+Vnum 720
+Name Edge of Crystal Lake~
+Desc The forest begins to thin out and to the north is the beautiful and
+mysterious Crystal Lake.  Squirels chatter from the treetops as if daring
+you to near the lake.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+726
+0
+Exit
+1
+~
+~
+0
+721
+0
+Exit
+2
+~
+~
+0
+713
+0
+Exit
+3
+~
+~
+0
+719
+0
+EndRoom
+
+#ROOM
+Vnum 721
+Name Edge of Crystal Lake~
+Desc The forest begins to thin out and to the north is the beautiful and
+mysterious Crystal Lake.  Squirels chatter from the treetops as if daring
+you to near the lake.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+727
+0
+Exit
+1
+~
+~
+0
+722
+0
+Exit
+2
+~
+~
+0
+711
+0
+Exit
+3
+~
+~
+0
+720
+0
+EndRoom
+
+#ROOM
+Vnum 722
+Name Edge of Crystal Lake~
+Desc The forest begins to thin out and to the north is the beautiful and
+mysterious Crystal Lake.  Squirels chatter from the treetops as if daring
+you to near the lake.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+728
+0
+Exit
+2
+~
+~
+0
+712
+0
+Exit
+3
+~
+~
+0
+721
+0
+EndRoom
+
+#ROOM
+Vnum 723
+Name Fairfield Forest~
+Desc The lush tree tops block most of the sunlight from reaching the forest
+floor in this area.  An owl hoots in the distance and is followed by a
+screech.  An erie feeling perminates the entire area.  
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+729
+0
+Exit
+1
+~
+~
+0
+724
+0
+Exit
+2
+~
+~
+0
+717
+0
+EndRoom
+
+#ROOM
+Vnum 724
+Name Fairfield Forest Trail~
+Desc All around is the large tree's of Fairfield Forest.  Sounds echo from the
+treetops and wind swirls the dust at your feet.  A worn trail winds its way
+north and south from here, disapearing into the forest.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+730
+0
+Exit
+1
+~
+~
+0
+725
+0
+Exit
+2
+~
+~
+0
+718
+0
+Exit
+3
+~
+~
+0
+723
+0
+EndRoom
+
+#ROOM
+Vnum 725
+Name Edge of Crystal Lake~
+Desc The forest begins to thin out and to the east is the beautiful and
+mysterious Crystal Lake.  Squirels chatter from the treetops as if daring
+you to near the lake.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+731
+0
+Exit
+1
+~
+~
+0
+726
+0
+Exit
+2
+~
+~
+0
+719
+0
+Exit
+3
+~
+~
+0
+724
+0
+EndRoom
+
+#ROOM
+Vnum 726
+Name Crystal Lake~
+Desc Fish skim along the surface and catch flies, causing slight ripples in
+the beautiful pond.  A frog jumps in the water making a noisy splash and
+scaring a duck.  Crickets sound in the distance.  
+~
+Room_flags 0
+Sector_type 6
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+732
+0
+Exit
+1
+~
+~
+0
+727
+0
+Exit
+2
+~
+~
+0
+720
+0
+Exit
+3
+~
+~
+0
+725
+0
+EndRoom
+
+#ROOM
+Vnum 727
+Name Crystal Lake~
+Desc Fish skim along the surface and catch flies, causing slight ripples in
+the beautiful pond.  A frog jumps in the water making a noisy splash and
+scaring a duck.  Crickets sound in the distance.  
+~
+Room_flags 0
+Sector_type 6
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+733
+0
+Exit
+1
+~
+~
+0
+728
+0
+Exit
+2
+~
+~
+0
+721
+0
+Exit
+3
+~
+~
+0
+726
+0
+EndRoom
+
+#ROOM
+Vnum 728
+Name Crystal Lake~
+Desc Fish skim along the surface and catch flies, causing slight ripples in
+the beautiful pond.  A frog jumps in the water making a noisy splash and
+scaring a duck.  Crickets sound in the distance.  
+~
+Room_flags 0
+Sector_type 6
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+734
+0
+Exit
+2
+~
+~
+0
+722
+0
+Exit
+3
+~
+~
+0
+727
+0
+EndRoom
+
+#ROOM
+Vnum 729
+Name Fairfield Forest~
+Desc The lush tree tops block most of the sunlight from reaching the forest
+floor in this area.  An owl hoots in the distance and is followed by a
+screech.  An erie feeling perminates the entire area.  
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+735
+0
+Exit
+1
+~
+~
+0
+730
+0
+Exit
+2
+~
+~
+0
+723
+0
+EndRoom
+
+#ROOM
+Vnum 730
+Name Fairfield Forest Trail~
+Desc All around is the large tree's of Fairfield Forest.  Sounds echo from the
+treetops and wind swirls the dust at your feet.  A worn trail winds its way
+north and south from here, disapearing into the forest.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+736
+0
+Exit
+1
+~
+~
+0
+731
+0
+Exit
+2
+~
+~
+0
+724
+0
+Exit
+3
+~
+~
+0
+729
+0
+EndRoom
+
+#ROOM
+Vnum 731
+Name Edge of Crystal Lake~
+Desc The forest begins to thin out and to the east is the beautiful and
+mysterious Crystal Lake.  Squirels chatter from the treetops as if daring
+you to near the lake.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+737
+0
+Exit
+1
+~
+~
+0
+732
+0
+Exit
+2
+~
+~
+0
+725
+0
+Exit
+3
+~
+~
+0
+730
+0
+EndRoom
+
+#ROOM
+Vnum 732
+Name Crystal Lake~
+Desc Fish skim along the surface and catch flies, causing slight ripples in
+the beautiful pond.  A frog jumps in the water making a noisy splash and
+scaring a duck.  Crickets sound in the distance.  
+~
+Room_flags 0
+Sector_type 6
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+738
+0
+Exit
+1
+~
+~
+0
+733
+0
+Exit
+2
+~
+~
+0
+726
+0
+Exit
+3
+~
+~
+0
+731
+0
+EndRoom
+
+#ROOM
+Vnum 733
+Name Island at the center of Crystal Lake~
+Desc A Small island rests at the center of this beautiful lake.  Rabbits and
+mice scurry around, and somewhere above an eagle cries out.  The tree's of
+Fairfield Forest are barely visible from the shores of this island, and a
+sense of peace and tranquility descend upon this area.  
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+739
+0
+Exit
+1
+~
+~
+0
+734
+0
+Exit
+2
+~
+~
+0
+727
+0
+Exit
+3
+~
+~
+0
+732
+0
+EndRoom
+
+#ROOM
+Vnum 734
+Name Crystal Lake~
+Desc Fish skim along the surface and catch flies, causing slight ripples in
+the beautiful pond.  A frog jumps in the water making a noisy splash and
+scaring a duck.  Crickets sound in the distance.  
+~
+Room_flags 0
+Sector_type 6
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+740
+0
+Exit
+2
+~
+~
+0
+728
+0
+Exit
+3
+~
+~
+0
+733
+0
+EndRoom
+
+#ROOM
+Vnum 735
+Name Fairfield Forest~
+Desc The lush tree tops block most of the sunlight from reaching the forest
+floor in this area.  An owl hoots in the distance and is followed by a
+screech.  An erie feeling perminates the entire area.  
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+741
+0
+Exit
+1
+~
+~
+0
+736
+0
+Exit
+2
+~
+~
+0
+729
+0
+EndRoom
+
+#ROOM
+Vnum 736
+Name Fairfield Forest Trail~
+Desc All around is the large tree's of Fairfield Forest.  Sounds echo from the
+treetops and wind swirls the dust at your feet.  A worn trail winds its way
+north and south from here, disapearing into the forest.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+742
+0
+Exit
+1
+~
+~
+0
+737
+0
+Exit
+2
+~
+~
+0
+730
+0
+Exit
+3
+~
+~
+0
+735
+0
+EndRoom
+
+#ROOM
+Vnum 737
+Name Edge of Crystal Lake~
+Desc The forest begins to thin out and to the east is the beautiful and
+mysterious Crystal Lake.  Squirels chatter from the treetops as if daring
+you to near the lake.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+743
+0
+Exit
+1
+~
+~
+0
+738
+0
+Exit
+2
+~
+~
+0
+731
+0
+Exit
+3
+~
+~
+0
+736
+0
+EndRoom
+
+#ROOM
+Vnum 738
+Name Crystal Lake~
+Desc Fish skim along the surface and catch flies, causing slight ripples in
+the beautiful pond.  A frog jumps in the water making a noisy splash and
+scaring a duck.  Crickets sound in the distance.  
+~
+Room_flags 0
+Sector_type 6
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+744
+0
+Exit
+1
+~
+~
+0
+739
+0
+Exit
+2
+~
+~
+0
+732
+0
+Exit
+3
+~
+~
+0
+737
+0
+EndRoom
+
+#ROOM
+Vnum 739
+Name Crystal Lake~
+Desc Fish skim along the surface and catch flies, causing slight ripples in
+the beautiful pond.  A frog jumps in the water making a noisy splash and
+scaring a duck.  Crickets sound in the distance.  
+~
+Room_flags 0
+Sector_type 6
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+745
+0
+Exit
+1
+~
+~
+0
+740
+0
+Exit
+2
+~
+~
+0
+733
+0
+Exit
+3
+~
+~
+0
+738
+0
+EndRoom
+
+#ROOM
+Vnum 740
+Name Crystal Lake~
+Desc Fish skim along the surface and catch flies, causing slight ripples in
+the beautiful pond.  A frog jumps in the water making a noisy splash and
+scaring a duck.  Crickets sound in the distance.  
+~
+Room_flags 0
+Sector_type 6
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+746
+0
+Exit
+2
+~
+~
+0
+734
+0
+Exit
+3
+~
+~
+0
+739
+0
+EndRoom
+
+#ROOM
+Vnum 741
+Name Fairfield Forest~
+Desc The lush tree tops block most of the sunlight from reaching the forest
+floor in this area.  An owl hoots in the distance and is followed by a
+screech.  An erie feeling perminates the entire area.  
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+748
+0
+Exit
+1
+~
+~
+0
+742
+0
+Exit
+2
+~
+~
+0
+735
+0
+EndRoom
+
+#ROOM
+Vnum 742
+Name Fairfield Forest Trail~
+Desc All around is the large tree's of Fairfield Forest.  Sounds echo from the
+treetops and wind swirls the dust at your feet.  A worn trail winds its way
+north and south from here, disapearing into the forest.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+749
+0
+Exit
+1
+~
+~
+0
+743
+0
+Exit
+2
+~
+~
+0
+736
+0
+Exit
+3
+~
+~
+0
+741
+0
+EndRoom
+
+#ROOM
+Vnum 743
+Name Edge of Crystal Lake~
+Desc The forest begins to thin out and to the southeast is the beautiful and
+mysterious Crystal Lake.  Squirels chatter from the treetops as if daring
+you to near the lake.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+750
+0
+Exit
+1
+~
+~
+0
+744
+0
+Exit
+2
+~
+~
+0
+737
+0
+Exit
+3
+~
+~
+0
+742
+0
+EndRoom
+
+#ROOM
+Vnum 744
+Name Edge of Crystal Lake~
+Desc The forest begins to thin out and to the south is the beautiful and
+mysterious Crystal Lake.  Squirels chatter from the treetops as if daring
+you to near the lake.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+751
+0
+Exit
+1
+~
+~
+0
+745
+0
+Exit
+2
+~
+~
+0
+738
+0
+Exit
+3
+~
+~
+0
+743
+0
+EndRoom
+
+#ROOM
+Vnum 745
+Name Edge of Crystal Lake~
+Desc The forest begins to thin out and to the south is the beautiful and
+mysterious Crystal Lake.  Squirels chatter from the treetops as if daring
+you to near the lake.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+747
+0
+Exit
+1
+~
+~
+0
+746
+0
+Exit
+2
+~
+~
+0
+739
+0
+Exit
+3
+~
+~
+0
+744
+0
+EndRoom
+
+#ROOM
+Vnum 746
+Name Edge of Crystal Lake~
+Desc The forest begins to thin out and to the south is the beautiful and
+mysterious Crystal Lake.  Squirels chatter from the treetops as if daring
+you to near the lake.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+752
+0
+Exit
+2
+~
+~
+0
+740
+0
+Exit
+3
+~
+~
+0
+745
+0
+EndRoom
+
+#ROOM
+Vnum 747
+Name Fairfield Forest Trail~
+Desc All around is the large tree's of Fairfield Forest.  Sounds echo from the
+treetops and wind swirls the dust at your feet.  A worn trail winds its way
+north and west from here, disapearing into the forest.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+753
+0
+Exit
+1
+~
+~
+0
+752
+0
+Exit
+2
+~
+~
+0
+745
+0
+Exit
+3
+~
+~
+0
+751
+0
+EndRoom
+
+#ROOM
+Vnum 748
+Name Base of a Tree House~
+Desc Standing at the base of a large tree you notice a rope ladder leading
+into the top of this tree.  The forest seems to crowd in and darken as you
+stand here.  An owl hoots in the distance.  
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+749
+0
+Exit
+2
+~
+~
+0
+741
+0
+Exit
+4
+~
+~
+0
+754
+0
+EndRoom
+
+#ROOM
+Vnum 749
+Name Fairfield Forest Trail~
+Desc All around is the large tree's of Fairfield Forest.  Sounds echo from the
+treetops and wind swirls the dust at your feet.  A worn trail winds its way
+east and south from here, disapearing into the forest.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+750
+0
+Exit
+2
+~
+~
+0
+742
+0
+Exit
+3
+~
+~
+0
+748
+0
+EndRoom
+
+#ROOM
+Vnum 750
+Name Fairfield Forest Trail~
+Desc All around is the large tree's of Fairfield Forest.  Sounds echo from the
+treetops and wind swirls the dust at your feet.  A worn trail winds its way
+east and west from here, disapearing into the forest.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+751
+0
+Exit
+2
+~
+~
+0
+743
+0
+Exit
+3
+~
+~
+0
+749
+0
+EndRoom
+
+#ROOM
+Vnum 751
+Name Fairfield Forest Trail~
+Desc All around is the large tree's of Fairfield Forest.  Sounds echo from the
+treetops and wind swirls the dust at your feet.  A worn trail winds its way
+east and west from here, disapearing into the forest.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+747
+0
+Exit
+2
+~
+~
+0
+744
+0
+Exit
+3
+~
+~
+0
+750
+0
+EndRoom
+
+#ROOM
+Vnum 752
+Name Fairfield Forest~
+Desc The lush tree tops block most of the sunlight from reaching the forest
+floor in this area.  An owl hoots in the distance and is followed by a
+screech.  An eerie feeling perminates in this area.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+746
+0
+Exit
+3
+~
+~
+0
+747
+0
+EndRoom
+
+#ROOM
+Vnum 753
+Name Fairfield Forest Trail~
+Desc South is the large tree's of Fairfield Forest.  Sounds echo from the
+treetops and wind swirls the dust at your feet.  A worn trail winds its way
+south into the forest and north towards a large castle.  
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+747
+0
+EndRoom
+
+#ROOM
+Vnum 754
+Name Fairfield Forest Tree House~
+Desc High up in this treehouse you can see all over Fairfield Forest.  To the
+south is a vast expanse of forests.  To the east is a small lake of some
+sort, and to the north is a large and magnificent castle.  
+~
+Room_flags 1024
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+east~
+To the east is a small beautiful lake.
+~
+ExtraDesc
+south~
+To the south is a huge expanse of lush forest.
+~
+ExtraDesc
+north~
+A large and magnificent castle is in the north.
+~
+Exit
+5
+~
+~
+0
+748
+0
+EndRoom
+
+#ROOM
+Vnum 764
+Name Ranger Rick's Home~
+Desc The entry way of this home has a very wood like apearance to it, almost
+as if the owner is at home in the woods.  Moss and vines cover most of the
+walls of the room, yet dont seem to damage anything.  The walls even seem to
+be made out of the a living tree, almost as if the tree itself shelters its
+ocupants.  It would seem that very strong nature magic was used at one time
+to create the home out of a huge tre, without bringing harm to the tree
+itself.  
+~
+Room_flags 1024
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+765
+0
+Exit
+1
+~
+~
+0
+766
+0
+Exit
+3
+~
+{xdoor~
+0
+712
+AB
+EndRoom
+
+#ROOM
+Vnum 765
+Name Ranger Rick's Study~
+Desc Book shelves line the walls with novels on the forests, animals, and
+woodland creatures of Fairfield Forest.  A plush, comfortable looking chair
+is in the middle of the room, with a small end table next to it.  A small
+fireplace in the northern wall holds a fire which crackles and pops as the
+wood burns.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+764
+0
+EndRoom
+
+#ROOM
+Vnum 766
+Name Ranger Rick's Kitchen~
+Desc This room also apears to be part of the center of a huge tree.  A table
+is in the center, and looks like it is carved, or maybe grown directly from
+the floor itself.  More moss and vines are on the walls of the room, and an
+almost audible sigh seems to come from the living tree itself.  
+~
+Room_flags 1024
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+767
+0
+Exit
+3
+~
+~
+0
+764
+0
+EndRoom
+
+#ROOM
+Vnum 767
+Name Penny's hen house~
+Desc This small hen house has feathers and dust all over.  A small nest sits
+in the corner.  A name plate is hanging on the wall labled Penny.  Her nest
+is made of alot of fresh straw, and a nice food bin is attatched to the
+wall.  
+~
+Room_flags 1024
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+766
+0
+EndRoom
+
+#ROOM
+Vnum 768
+Name Entrance of a large bee hive~
+Desc This room smells faintly of honey and there are buzzing sounds coming
+from all around.  A dark and looming honeycomb passageway winds its way
+north from here.  The buzzing seems to increase and get louder to the north.
+Strange words are etched into the honeycomb wall!  
+~
+Room_flags 67108868
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+769
+0
+EndRoom
+
+#ROOM
+Vnum 769
+Name A Dark and Twisting Passage~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+771
+0
+EndRoom
+
+#ROOM
+Vnum 770
+Name A Dark Chamber~
+Desc This room barely has enough light to see.  Nothing but bits of honey and
+castings lay on the floor.  A strong buzzing sound eminates from all around
+this room.  A strong and overwelming sweet smell of honey lingers in this
+area.  
+~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+771
+0
+EndRoom
+
+#ROOM
+Vnum 771
+Name A Dark and Twisting Passage~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+772
+0
+Exit
+2
+~
+~
+0
+769
+0
+Exit
+3
+~
+~
+0
+770
+0
+EndRoom
+
+#ROOM
+Vnum 772
+Name A Dark and Twisting Passage~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+777
+0
+Exit
+1
+~
+~
+0
+773
+0
+Exit
+3
+~
+~
+0
+771
+0
+EndRoom
+
+#ROOM
+Vnum 773
+Name A Dark Corner~
+Desc This room barely has enough light to see.  Nothing but bits of honey and
+castings lay on the floor.  A strong buzzing sound eminates from all around
+this room.  A strong and overwelming sweet smell of honey lingers in this
+area.  
+~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+772
+0
+EndRoom
+
+#ROOM
+Vnum 774
+Name Queen's Chamber Room~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+779
+0
+EndRoom
+
+#ROOM
+Vnum 775
+Name Honey Storage Chamber~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+776
+0
+EndRoom
+
+#ROOM
+Vnum 776
+Name A Dark and Twisting Passage~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+781
+0
+Exit
+1
+~
+~
+0
+777
+0
+Exit
+3
+~
+~
+0
+775
+0
+EndRoom
+
+#ROOM
+Vnum 777
+Name A Sharp Curve in the Passageway~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+772
+0
+Exit
+3
+~
+~
+0
+776
+0
+EndRoom
+
+#ROOM
+Vnum 778
+Name Passage to the Queen's Chamber~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+783
+0
+Exit
+1
+~
+~
+0
+779
+0
+EndRoom
+
+#ROOM
+Vnum 779
+Name Passage to the Queen's Chamber~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+774
+0
+Exit
+3
+~
+~
+0
+778
+0
+EndRoom
+
+#ROOM
+Vnum 780
+Name A Sharp Curve in the Passage~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+785
+0
+Exit
+1
+~
+~
+0
+781
+0
+EndRoom
+
+#ROOM
+Vnum 781
+Name A Dark and Twisting Passage~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+782
+0
+Exit
+2
+~
+~
+0
+776
+0
+Exit
+3
+~
+~
+0
+780
+0
+EndRoom
+
+#ROOM
+Vnum 782
+Name Honey Storage Chamber~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+781
+0
+EndRoom
+
+#ROOM
+Vnum 783
+Name A Dark and Twisting Passage~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+788
+0
+Exit
+1
+~
+~
+0
+784
+0
+Exit
+2
+~
+~
+0
+778
+0
+EndRoom
+
+#ROOM
+Vnum 784
+Name Royal Egg Chamber~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+783
+0
+EndRoom
+
+#ROOM
+Vnum 785
+Name A Dark and Twisting Passage~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+790
+0
+Exit
+1
+~
+~
+0
+786
+0
+Exit
+2
+~
+~
+0
+780
+0
+EndRoom
+
+#ROOM
+Vnum 786
+Name A Dark and Twisting Passage~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+791
+0
+Exit
+1
+~
+~
+0
+787
+0
+Exit
+3
+~
+~
+0
+785
+0
+EndRoom
+
+#ROOM
+Vnum 787
+Name A Dark and Twisting Passage~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+788
+0
+Exit
+3
+~
+~
+0
+786
+0
+EndRoom
+
+#ROOM
+Vnum 788
+Name A Dark and Twisting Passage~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+789
+0
+Exit
+2
+~
+~
+0
+783
+0
+Exit
+3
+~
+~
+0
+787
+0
+EndRoom
+
+#ROOM
+Vnum 789
+Name A Sharp Curve in the Passage~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+794
+0
+Exit
+3
+~
+~
+0
+788
+0
+EndRoom
+
+#ROOM
+Vnum 790
+Name Egg Chamber~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+785
+0
+EndRoom
+
+#ROOM
+Vnum 791
+Name A Sharp Curve in the Passage~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+792
+0
+Exit
+2
+~
+~
+0
+786
+0
+EndRoom
+
+#ROOM
+Vnum 792
+Name Honey Storage Chamber~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+791
+0
+EndRoom
+
+#ROOM
+Vnum 793
+Name Royal Egg Chamber~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+794
+0
+EndRoom
+
+#ROOM
+Vnum 794
+Name A Sharp Curve in the Passage~
+Desc ~
+Room_flags 67117056
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+789
+0
+Exit
+3
+~
+~
+0
+793
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 712 1 1
+D 0 764 3 1
+O 0 717 0 701
+O 0 716 0 702
+M 0 714 4 710 3
+O 0 719 0 710
+M 0 714 4 711 3
+M 0 713 7 714 3
+G 0 712 0
+O 0 718 0 715
+M 0 715 1 716 3
+M 0 713 6 717 3
+G 0 712 0
+O 0 720 0 720
+O 0 718 0 721
+M 0 714 4 722 3
+O 0 719 0 722
+M 0 714 3 723 3
+G 0 713 0
+M 0 716 2 728 3
+O 0 720 0 729
+O 0 719 0 730
+M 0 711 2 731 3
+M 0 716 3 733 3
+O 0 714 0 733
+O 0 718 0 736
+M 0 716 2 739 3
+M 0 713 6 741 3
+G 0 712 0
+O 0 720 0 741
+O 0 718 0 744
+M 0 713 3 745 3
+G 0 712 0
+M 0 713 4 746 3
+G 0 712 0
+M 0 713 2 747 3
+G 0 712 0
+O 0 718 0 748
+M 0 713 7 750 3
+G 0 712 0
+M 0 713 6 751 3
+G 0 712 0
+M 0 713 5 752 3
+G 0 712 0
+O 0 710 0 752
+M 0 710 1 764 3
+M 0 712 1 767 1
+O 0 711 0 768
+M 0 718 3 774 3
+M 0 718 3 774 3
+M 0 718 3 774 3
+M 0 717 1 774 3
+O 0 715 0 774
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

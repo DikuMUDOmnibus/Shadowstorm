@@ -1,0 +1,2254 @@
+#AREADATA
+Name Nirvana~
+Builders None~
+VNUMs 9000 9099
+Credits {30 35} Fstall  Nirvana~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 9000
+Name tridrone~
+Short the tridrone~
+Long A tridrone is here doing a menial task.
+~
+Description You see what appears to be a 3 sided pyramid with spidery arms and legs.
+~
+Race modron~
+Act_flags ACG
+Aff J
+Align 300
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 3d20+80
+Mana_dice 1d1+99
+Dam_dice 2d5+3
+Dam_type pound
+Armor 4 3 4 5
+Clevel0
+Cability 0
+Off NQR
+Imm BMNPQ
+Res HIK
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form H
+Parts ABCGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9001
+Name quadrone~
+Short the quadrone~
+Long A quadrone is here watching for trespassers.
+~
+Description A cubic creature, with spiny arms and legs.
+~
+Race modron~
+Act_flags AFGT
+Aff DJ
+Align 300
+Group 0
+Level 11
+Hitroll 3
+Hit_dice 14d10+70
+Mana_dice 1d1+99
+Dam_dice 3d4+2
+Dam_type beating
+Armor 1 0 1 2
+Clevel0
+Cability 0
+Off CEKQR
+Imm BMNPQ
+Res HIK
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form H
+Parts ABCGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9002
+Name pentadrone~
+Short the pentadrone~
+Long The pentadrone is here policing the area.
+~
+Description A five-armed creature which resembles a starfish on thin stilt-like legs.
+~
+Race modron~
+Act_flags ABFGT
+Aff DJ
+Align 300
+Group 0
+Level 14
+Hitroll 3
+Hit_dice 15d12+110
+Mana_dice 1d1+99
+Dam_dice 4d4+3
+Dam_type slap
+Armor -2 -2 0 -1
+Clevel0
+Cability 0
+Off CEFLNQR
+Imm BMNPQR
+Res HIK
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form H
+Parts ABCGHJKN
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9003
+Name decaton~
+Short the decaton~
+Long A decaton is here overseeing the other modrons.
+~
+Description The decaton is a large, ten-tentacled sphere on stumpy legs.
+~
+Race modron~
+Act_flags ABFGQT
+Aff DJ
+Align 300
+Group 0
+Level 17
+Hitroll 4
+Hit_dice 25d10+70
+Mana_dice 17d8+50
+Dam_dice 4d5+3
+Dam_type pound
+Armor -4 -4 0 -2
+Clevel0
+Cability 0
+Off ACEKNQR
+Imm BMNPQR
+Res HIK
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form HM
+Parts ABCGHJKN
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9004
+Name nonaton~
+Short the nonaton~
+Long A nonaton is here preserving law and order.
+~
+Description A cylidrical modron with 9 tentacles and stubby legs.
+~
+Race modron~
+Act_flags ABFGQT
+Aff DHJ
+Align 300
+Group 0
+Level 20
+Hitroll 5
+Hit_dice 11d8+250
+Mana_dice 20d8+75
+Dam_dice 4d6+4
+Dam_type pound
+Armor -4 -4 -2 -3
+Clevel0
+Cability 0
+Off AEFNQR
+Imm BMNPQR
+Res HIK
+Vuln G
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form HM
+Parts ABCGHJKN
+Size large
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9005
+Name octon~
+Short the octon~
+Long An octon is here governing his ward of responsilbility.
+~
+Description The octon has a collar at shoulder level with 8 tentacled arms growing out of
+it.
+~
+Race modron~
+Act_flags ABFGQ
+Aff DJ
+Align 300
+Group 0
+Level 22
+Hitroll 5
+Hit_dice 25d10+300
+Mana_dice 18d10+75
+Dam_dice 4d6+5
+Dam_type crush
+Armor -5 -5 -3 -4
+Clevel0
+Cability 0
+Off ACEHKQR
+Imm BMNPQR
+Res HIK
+Vuln G
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form HM
+Parts ABCGHJKN
+Size large
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9006
+Name septon~
+Short the septon~
+Long A septon is here preserving order.
+~
+Description The septon appears as a human with a large bald head. It has a shoulder collar
+with 7 tentacles coming from it.
+~
+Race modron~
+Act_flags ABFGQR
+Aff DJ
+Align 300
+Group 0
+Level 24
+Hitroll 5
+Hit_dice 30d10+350
+Mana_dice 20d10+100
+Dam_dice 6d4+5
+Dam_type beating
+Armor -6 -6 -6 -4
+Clevel0
+Cability 0
+Off AFKOQR
+Imm BMNPQR
+Res HIK
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form HM
+Parts ABCGHIJKN
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9007
+Name hexton~
+Short the hexton~
+Long A hexton is here watching over his armies.
+~
+Description A hexton appears as a humanoid with 6 arms: 2 large human arms with 6 fingers,
+and 4 tentacles below tipped with sharp claws.
+~
+Race modron~
+Act_flags ABFGQT
+Aff DFHJ
+Align 300
+Group 0
+Level 26
+Hitroll 7
+Hit_dice 35d20+300
+Mana_dice 20d10+75
+Dam_dice 4d8+6
+Dam_type slash
+Armor -8 -8 -8 -4
+Clevel0
+Cability 0
+Off ACEFHIKLNQR
+Imm ABMNPQR
+Res CHIK
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form HM
+Parts ABCGHIJKNP
+Size large
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9008
+Name quinton~
+Short the quinton~
+Long A quinton is here keeping records.
+~
+Description Quintons look like tall, stocky humanoids with 4 flexible arms jutting from the
+shoulders.  A prehensile tail serves as the creature's 5th arm, and they have
+fan-like wings attached to their shoulders.
+~
+Race modron~
+Act_flags ABFGQ
+Aff DJ
+Align 300
+Group 0
+Level 28
+Hitroll 6
+Hit_dice 10d100+150
+Mana_dice 20d12+100
+Dam_dice 4d8+7
+Dam_type beating
+Armor -7 -8 -6 -8
+Clevel0
+Cability 0
+Off AKMOQR
+Imm ABMNPQR
+Res HIK
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form HM
+Parts ABCGHIJKNPQ
+Size large
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9009
+Name tertian~
+Short the tertian~
+Long A tertian is here administering the law.
+~
+Description Tertians look very human, save for their 12 foot size, the horns jutting from
+the sides of their bald heads, and the long prehensile tail ending in a mace-
+like ball.
+~
+Race modron~
+Act_flags ABFGQRT
+Aff DJ
+Align 300
+Group 0
+Level 33
+Hitroll 12
+Hit_dice 1d1+999
+Mana_dice 20d20+50
+Dam_dice 8d6+12
+Dam_type pound
+Armor -11 -13 -10 -9
+Clevel0
+Cability 0
+Off CEFQR
+Imm ABMNPQR
+Res CHIK
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form HM
+Parts ABCGHIJKW
+Size huge
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9010
+Name secundus~
+Short secundus~
+Long A Secundus, one of the Viceroys of Nirvana, is here.
+~
+Description The secundi is an incredibly thin, tall humanoids with long, narrow faces
+and deepset eyes. It radiates intense power.
+~
+Race modron~
+Act_flags ABFGQRT
+Aff DFHJ
+Align 0
+Group 0
+Level 36
+Hitroll 15
+Hit_dice 1d1+1599
+Mana_dice 40d20+50
+Dam_dice 7d8+15
+Dam_type punch
+Armor -11 -14 -11 -12
+Clevel0
+Cability 0
+Off EFHIKNQR
+Imm ABHIKMNPQR
+Res CHIK
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form HM
+Parts ABCGHIJK
+Size huge
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9011
+Name Primus~
+Short Primus~
+Long Primus, ruler of the Plane of Nirvana, forms out of an energy pool.
+~
+Description Primus is a huge being who rises out of the energy pool and glares at you with
+violet eyes. His right hand is wreathed in darkness, his left in light, and
+he looks very displeased to see you.
+~
+Race modron~
+Act_flags ABFGQRT
+Aff DFHJ
+Align 0
+Group 0
+Level 40
+Hitroll 20
+Hit_dice 1d1+3999
+Mana_dice 1d1+3999
+Dam_dice 6d10+25
+Dam_type wrath
+Armor -15 -15 -15 -15
+Clevel0
+Cability 0
+Off AHQR
+Imm ABHIKMNPQRS
+Res CHIK
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form HM
+Parts ABCGHIJK
+Size giant
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 9000
+Name sword long the~
+Short THE long sword~
+Desc THE long sword of Primus is here.~
+Material adamantite~
+Item_type weapon
+Extra AGJK
+Extra2 0
+Wear AN
+Values exotic 0 0 none 0
+Level 39
+Weight 400
+Cost 8800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+sword long the~
+This is an extremely long and heavy sword, with many magical runes inscribed
+on it.  It glows with the power of Primus, Lord of the Plane of Nirvana.
+~
+AffectObj
+18 5
+AffectObj
+19 5
+EndObj
+
+#OBJ
+Vnum 9001
+Name moonstone moon stone white~
+Short a luminescent moonstone~
+Desc A softly glowing white stone rests on the floor.~
+Material gem~
+Item_type warp_stone
+Extra AT
+Extra2 0
+Wear AO
+Values DE 0 0 0 0
+Level 0
+Weight 0
+Cost 500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+moonstone moon stone white~
+Looking into the smooth surface of this moonstone, you feel strangely at 
+peace and balance with the world around you.
+~
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 9000
+Name Entrance to the Plane of Nirvana~
+Desc You stand before the entrance to a plane of absolute balance and order.  It is
+equally hot and cold, equally light and dark, and made of equal parts of solid
+and liquid.
+ 
+The plane extends to the west and east, while an exit lies downward.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+To the east, the plane extends for what seems to be forever.
+~
+~
+-1
+9001
+0
+Exit
+3
+To the west, the plane extends for what seems to be forever.
+~
+~
+-1
+9002
+0
+Exit
+5
+Downwards, you see the portal leading back to home.
+~
+~
+-1
+8905
+0
+EndRoom
+
+#ROOM
+Vnum 9001
+Name The Plane of Nirvana~
+Desc You are traveling the Plane of Nirvana.  It has endless boundaries to the east
+and west
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+To the east, there seems to be a bend in direction of travel.
+~
+~
+-1
+9003
+0
+Exit
+3
+To the west, the plane seems to extend forever.
+~
+~
+-1
+9000
+0
+EndRoom
+
+#ROOM
+Vnum 9002
+Name The Plane of Nirvana~
+Desc You are on a western strech of the plane.  Boundaries to the east and west seem 
+nonexistent.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The plane seems to strech forever to the east
+~
+~
+-1
+9000
+0
+Exit
+3
+The plane continues to the west where is appears to change direction
+~
+~
+-1
+9004
+0
+EndRoom
+
+#ROOM
+Vnum 9003
+Name A Change in Direction~
+Desc Here, the plane seems to direct you to the north.  Also, the plane continues 
+to the west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The plane continues to the north with no end in sight
+~
+~
+-1
+9005
+0
+Exit
+3
+The plane contiues to the west with no end in sight
+~
+~
+-1
+9001
+0
+EndRoom
+
+#ROOM
+Vnum 9004
+Name A Change in Direction~
+Desc Here, the plane goes to the north and bends to the east
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The vast plane seems to have no end to the north
+~
+~
+-1
+9006
+0
+Exit
+1
+To the east, the plane has no visible end
+~
+~
+-1
+9002
+0
+EndRoom
+
+#ROOM
+Vnum 9005
+Name A North-South direction of the plane~
+Desc The plane continues to the north and south
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+To the north, the plane stretches as far as the eye can see.
+~
+~
+-1
+9012
+0
+Exit
+2
+To the south, the plane stretches as far as the eye can see.
+~
+~
+-1
+9003
+0
+EndRoom
+
+#ROOM
+Vnum 9006
+Name A North-South stretch of the plane~
+Desc The plane continues to the north and the south
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+To the north, the plane stretches as far as the eye can see.
+~
+~
+-1
+9013
+0
+Exit
+2
+To the south, the plane stretches as far as the eye can see.
+~
+~
+-1
+9004
+0
+EndRoom
+
+#ROOM
+Vnum 9007
+Name In the Tower of Nirvana~
+Desc Entering the tower, there seems to be enough light to see by, but no source is 
+visible.  The hall continues to the east, while a door lies to the west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The hall continues east into oblivion.
+~
+~
+-1
+9010
+0
+Exit
+3
+A great door lies to the west
+~
+door~
+-1
+9013
+AF
+EndRoom
+
+#ROOM
+Vnum 9008
+Name A hallway in the Tower of Nirvana~
+Desc You are in a east-west hallway in the tower.  to the west, the hall continues 
+and a door lies to the east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+A great door lies to the east
+~
+door~
+-1
+9012
+AF
+Exit
+3
+the hallway continues west into oblivion.
+~
+~
+-1
+9009
+0
+EndRoom
+
+#ROOM
+Vnum 9009
+Name An east-west hallway in the Tower of Nirvana~
+Desc The hallway continues to the east, and stretches to the west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The hallway continues east into oblivion.
+~
+~
+-1
+9008
+0
+Exit
+3
+The Hallway continues west into oblivion.
+~
+~
+-1
+9011
+0
+EndRoom
+
+#ROOM
+Vnum 9010
+Name An east-west passage in the Tower of Nirvana~
+Desc ~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The Hallway contiues east into oblivion
+~
+~
+-1
+9011
+0
+Exit
+3
+The Hallway contiues west into oblivion
+~
+~
+-1
+9007
+0
+EndRoom
+
+#ROOM
+Vnum 9011
+Name An intersection in the Tower of Nirvana~
+Desc You are at an intersection where the east-west passage continues, but a large 
+passage leads to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The passage continues to the north where it seems to get wider.
+~
+~
+-1
+9023
+0
+Exit
+1
+The passage ontinues eastward into oblivion.
+~
+~
+-1
+9009
+0
+Exit
+3
+The passage continues westward into oblivion.
+~
+~
+-1
+9010
+0
+EndRoom
+
+#ROOM
+Vnum 9012
+Name At the door to the Tower of Nirvana~
+Desc You stand on the plane where a mighty door lies to the west.
+The plane also continues north and southward.  There is a large sign on the 
+door.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+The sign reads:
+                     WARNING
+Only those brave of heart and high of level should
+enter the Tower of Nirvana.
+~
+Exit
+0
+The plane continues northward as far as the eye can see.
+~
+~
+-1
+9014
+0
+Exit
+2
+The plane continues southward as far as the eye can see.
+~
+~
+-1
+9005
+0
+Exit
+3
+A mighty door lies to the west
+~
+door~
+-1
+9008
+AF
+EndRoom
+
+#ROOM
+Vnum 9013
+Name At the door to the Tower of Nirvana~
+Desc The plane continue to the north and south, while a mighty door lies to the 
+east.  There is a sign on the door.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+The sign reads:
+                  WARNING!
+Only those brave of heart and high of level
+should attempt to enter the Tower of Nirvana.
+~
+Exit
+0
+The plane stretches to the north as far as the eye can see.
+~
+~
+-1
+9015
+0
+Exit
+1
+A mighty door sits to the east
+~
+door~
+0
+9007
+AF
+Exit
+2
+The plane continues to the south as far as the eye can see
+~
+~
+-1
+9006
+0
+EndRoom
+
+#ROOM
+Vnum 9014
+Name A north-south area of the Plane of Nirvana~
+Desc The plane continues to the north and southward.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The plane continues endlessly to the north.
+~
+~
+-1
+9027
+0
+Exit
+2
+The plane continues endlessly to the south.
+~
+~
+-1
+9012
+0
+EndRoom
+
+#ROOM
+Vnum 9015
+Name A north-south area on the Plane of Nirvana~
+Desc the plane continues to the north and south
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The plane continues endlessly to the north
+~
+~
+-1
+9028
+0
+Exit
+2
+The plane continues endlessly to the south
+~
+~
+-1
+9013
+0
+EndRoom
+
+#ROOM
+Vnum 9016
+Name Dead End~
+Desc You stand at a dead end where the only exit appears to be west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+The passage continue to the west.
+~
+~
+-1
+9018
+0
+EndRoom
+
+#ROOM
+Vnum 9017
+Name Dead End~
+Desc You are at what appears to be a dead end.  The only exit is back east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The passage continues to the east.
+~
+~
+-1
+9019
+0
+EndRoom
+
+#ROOM
+Vnum 9018
+Name A Tertain's lair~
+Desc You quite possibly have made a terrible mistake coming in here.
+Exits lead east and west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The passage continues to the east
+~
+~
+-1
+9016
+0
+Exit
+3
+The passage leads west where you can see a bright light ahead.
+~
+~
+-1
+9020
+0
+EndRoom
+
+#ROOM
+Vnum 9019
+Name A Tertian's lair~
+Desc You might have made a terrible mistake coming into here.
+Exits lead east and west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The passage continues eastward where you can see a bright light.
+~
+~
+-1
+9020
+0
+Exit
+3
+The passage continues westward into oblivion.
+~
+~
+-1
+9017
+0
+EndRoom
+
+#ROOM
+Vnum 9020
+Name The Lair of Primus~
+Desc You are in a large hall, with a massive pool of what appears to be pure energy 
+in the center of the room.  Exits lead in all the cardinal directions.  From 
+the pool rises the master of the Plane of Nirvana....
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+A passage leads north into the unknown.
+~
+~
+-1
+9024
+0
+Exit
+1
+A passage leads east into the unknown.
+~
+~
+-1
+9018
+0
+Exit
+2
+A passage leads south into the unknown.
+~
+~
+-1
+9021
+0
+Exit
+3
+A passage leads west into the unknown.
+~
+~
+-1
+9019
+0
+EndRoom
+
+#ROOM
+Vnum 9021
+Name A Tertian's lair~
+Desc Maybe coming here wasn't such a hot idea.  You feel very unwelcome here.  
+Exits lead north and south
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The passage leads north where you can see a bright light.
+~
+~
+-1
+9020
+0
+Exit
+2
+The passage leads south into the unknown.
+~
+~
+-1
+9022
+0
+EndRoom
+
+#ROOM
+Vnum 9022
+Name The office of a Quinton~
+Desc You have stumbled upon the office of a page to Primus.
+Scrolls lie about the room along with many strange objects...you can't imagine 
+what kind of creature would use them.  Exits lead in all the cardinal 
+directions.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The passage heads northward where you can see nothing.
+~
+~
+-1
+9021
+0
+Exit
+1
+The passage goes east where you feel it might be bad to go.
+~
+~
+-1
+9046
+0
+Exit
+2
+The passage goes south into oblivion.
+~
+~
+-1
+9023
+0
+Exit
+3
+The passage heads westward into oblivion.
+~
+~
+-1
+9053
+0
+EndRoom
+
+#ROOM
+Vnum 9023
+Name A wide north-south passageway~
+Desc you find yourself in a passage where the exits are north and south
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+To the north, you spy an intersection of tunnels.
+~
+~
+-1
+9022
+0
+Exit
+2
+To the south you can barely make out a junction of passageways.
+~
+~
+-1
+9011
+0
+EndRoom
+
+#ROOM
+Vnum 9024
+Name A Tertian's lair~
+Desc You find yourself in a lair of a Tertian.  Exits lead north and south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+To the north, you can make out a intersection of tunnels.
+~
+~
+-1
+9025
+0
+Exit
+2
+To the south, you can see a bright light.
+~
+~
+-1
+9020
+0
+EndRoom
+
+#ROOM
+Vnum 9025
+Name A north south tunnel~
+Desc You are in a passage where the only exits are north and south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Far to the north you can see a door.
+~
+~
+-1
+9026
+0
+Exit
+2
+To the south you stare into darkness.
+~
+~
+-1
+9024
+0
+EndRoom
+
+#ROOM
+Vnum 9026
+Name An intersection of passages~
+Desc You stand at an intersection.  Exits lead off to the east and south. 
+A door lies to the north
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+you see a massive door
+~
+door~
+0
+9031
+AF
+Exit
+1
+To the east, you spy a dark passage
+~
+~
+-1
+9032
+0
+Exit
+2
+To the south you stare into oblivion.
+~
+~
+-1
+9025
+0
+EndRoom
+
+#ROOM
+Vnum 9027
+Name A change of direction~
+Desc The plane curves from the south to west
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+looking south, you see the plane extending beyond view.
+~
+~
+-1
+9014
+0
+Exit
+3
+looking west, you can't fathom how far the plane extends.
+~
+~
+-1
+9030
+0
+EndRoom
+
+#ROOM
+Vnum 9028
+Name A change of direction~
+Desc Here, the plane takes a turm from the south to heading east.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The plane heads east from here. You can't see the end of it.
+~
+~
+-1
+9029
+0
+Exit
+2
+Looking south, you view the plane extending for miles.
+~
+~
+-1
+9015
+0
+EndRoom
+
+#ROOM
+Vnum 9029
+Name An east-west route on the Plane of Nirvana~
+Desc Exits lead east and west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+looking east, you spy a door far off in the distance.
+~
+~
+-1
+9031
+0
+Exit
+3
+looking west, in the distance you can spy a curve south.
+~
+~
+-1
+9028
+0
+EndRoom
+
+#ROOM
+Vnum 9030
+Name An east-west route on The Plane of Nirvana~
+Desc Exits lead east and west
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+looking east, you can see a bend in the distance.
+~
+~
+-1
+9027
+0
+Exit
+3
+glancing west, you can spy a door far off in the distance.
+~
+~
+-1
+9031
+0
+EndRoom
+
+#ROOM
+Vnum 9031
+Name A large door in the passage~
+Desc The passages goes east and west, with a large door to the south.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+looking east, you see more of the passage.
+~
+~
+-1
+9030
+0
+Exit
+2
+A large door blocks the way to the south.
+~
+door~
+0
+9026
+AF
+Exit
+3
+looking west, you see more of the passage.
+~
+~
+-1
+9029
+0
+EndRoom
+
+#ROOM
+Vnum 9032
+Name A Junction in the passage~
+Desc Here, passages lead off in all cardinal directions.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Looking north, you spy a small room in the distance
+~
+~
+-1
+9033
+0
+Exit
+1
+Eastward, the passage continues in the darkness.
+~
+~
+-1
+9035
+0
+Exit
+2
+South of here is a small room.
+~
+~
+-1
+9034
+0
+Exit
+3
+West, you spy an intersection.
+~
+~
+-1
+9026
+0
+EndRoom
+
+#ROOM
+Vnum 9033
+Name The office of the Octon~
+Desc you are in a small room, the only exit is south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+looking south, you see an intersection.
+~
+~
+-1
+9032
+0
+EndRoom
+
+#ROOM
+Vnum 9034
+Name A small room~
+Desc The only exit is north
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Looking north, you spy an intersection.
+~
+~
+-1
+9032
+0
+EndRoom
+
+#ROOM
+Vnum 9035
+Name A passageway~
+Desc Exits lead in all cardinal directions.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Looking north you spy a average sized room.
+~
+~
+-1
+9036
+0
+Exit
+1
+Looking east, you can make out a large room
+~
+~
+-1
+9038
+0
+Exit
+2
+Looking south, you can see an average room.
+~
+~
+-1
+9037
+0
+Exit
+3
+Looking west, you can see an intersection ahead.
+~
+~
+-1
+9032
+0
+EndRoom
+
+#ROOM
+Vnum 9036
+Name Lair of a Hexton~
+Desc You are in a room that is in complete disrepair.  Items are thrown throughout 
+the room making them worthless piles of junk.
+The only exit is back south
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+Looking south, you can make out a passage.
+~
+~
+-1
+9035
+0
+EndRoom
+
+#ROOM
+Vnum 9037
+Name Office of a Hexton~
+Desc A makeshift desk forms the center of this room.  The only exit is north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Looking north, you can make out a hallway.
+~
+~
+-1
+9035
+0
+EndRoom
+
+#ROOM
+Vnum 9038
+Name Office of a Secundus~
+Desc You are standing in a office of one of the Viceroys of the Plane of Nirvana.  
+The occupant doesn't look real thrilled with your presence.  The only exits is 
+west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+Looking west you can see a long hallway
+~
+~
+-1
+9035
+0
+EndRoom
+
+#ROOM
+Vnum 9039
+Name A Junction in the hallway~
+Desc Your are standing in a junction, exits lead in all the cardinal directions.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+To the north, you spy a small room
+~
+~
+-1
+9040
+0
+Exit
+1
+To the east, you see a quadruple junction
+~
+~
+-1
+9025
+0
+Exit
+2
+To the south you see a small room
+~
+~
+-1
+9041
+0
+Exit
+3
+To the west, the passageway continues
+~
+~
+-1
+9042
+0
+EndRoom
+
+#ROOM
+Vnum 9040
+Name Office of an Octon~
+Desc You see a messy room with papers scattered everywhere.
+The only exit leads back to the south
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+To the south you can make out a junction.
+~
+~
+-1
+9039
+0
+EndRoom
+
+#ROOM
+Vnum 9041
+Name Office of a Septon~
+Desc A neat and tidy room, it appear to be inhabited my a neatenss freak.  The only 
+exit lies to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+To the north you see a junction.
+~
+~
+-1
+9039
+0
+EndRoom
+
+#ROOM
+Vnum 9042
+Name An east-west passage~
+Desc In east west passage is here with exits in all of the cardinal directions.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You can see a room to the north.
+~
+~
+-1
+9043
+0
+Exit
+1
+To the east you can see a junction
+~
+~
+-1
+9039
+0
+Exit
+2
+To the south you can make out a averaged sized room.
+~
+~
+-1
+9044
+0
+Exit
+3
+To the west you can see what appears to be a cavernous room.
+~
+~
+-1
+9045
+0
+EndRoom
+
+#ROOM
+Vnum 9043
+Name The Barracks~
+Desc A dusty room, with a almost untolerable odor, the barracks are being inspected 
+by a Hexton and his personal enterage.
+The only exit lies to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+To the south you can see junction
+~
+~
+-1
+9042
+0
+EndRoom
+
+#ROOM
+Vnum 9044
+Name The Commander's Post~
+Desc You have stumbled on to the office of the Commander of the forces in the Plane 
+Of Nirvana.  The room is well furnished and a sense of courage and bravery 
+overtakes you as you enter the room.  The only exit lies to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+To the north you can visualize a junction of passages.
+~
+~
+-1
+9042
+0
+EndRoom
+
+#ROOM
+Vnum 9045
+Name The chamber of the second Secundus~
+Desc This huge room is furnished with the finest, and a personal legion guards the 
+Secundus. the only exit is to the east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+To the east you can see a junction
+~
+~
+-1
+9042
+0
+EndRoom
+
+#ROOM
+Vnum 9046
+Name A Passageway~
+Desc You are in a well lit passage.  A sense of forboding danger envelopes you.  
+Exits lead in all cardinal directions.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+To the north you can see a small chamber
+~
+~
+-1
+9047
+0
+Exit
+1
+To the east, the passage continues,.
+~
+~
+-1
+9049
+0
+Exit
+2
+To the south, a chamber can be seen
+~
+~
+-1
+9048
+0
+Exit
+3
+To the west, a large tunnel can be found.
+~
+~
+-1
+9022
+0
+EndRoom
+
+#ROOM
+Vnum 9047
+Name Chamber of the Octon~
+Desc A small room, sparsely furnished, it leaves you with a sense of fear.  The 
+only exit is to the south
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+To the south you can see a passage.
+~
+~
+-1
+9046
+0
+EndRoom
+
+#ROOM
+Vnum 9048
+Name Chamber of the Nonaton~
+Desc You have entered the chamber of the principal law and order overseers.  The 
+only exit lies to the north
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+To the north you can see a passageway.
+~
+~
+-1
+9046
+0
+EndRoom
+
+#ROOM
+Vnum 9049
+Name End of the passageway~
+Desc You have reached the end of a long east-west passage.  The passage contiues to 
+the west, and rooms lie to the north, south, and east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+To the north you can see a room
+~
+~
+-1
+9050
+0
+Exit
+1
+To the east you can make out a large chamber
+~
+~
+-1
+9052
+0
+Exit
+2
+To the south, a room can be seen.
+~
+~
+-1
+9051
+0
+Exit
+3
+to the west, the passageway continues
+~
+~
+-1
+9046
+0
+EndRoom
+
+#ROOM
+Vnum 9050
+Name Chamber of a Hexton~
+Desc You have entered the chamber of a Hexton.  Trophies adorn the walls, some of 
+which are human. the only exit is to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+To the south you can see a passageway.
+~
+~
+-1
+9049
+0
+EndRoom
+
+#ROOM
+Vnum 9051
+Name Chamber of a Hexton~
+Desc You have entered a room where you are not very popular. The only exit lies 
+northbound.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+To the north you can see a passage.
+~
+~
+-1
+9049
+0
+EndRoom
+
+#ROOM
+Vnum 9052
+Name Chamber of the Secudus~
+Desc A large canvernous room, this chamber serves as the sleeping quarters for the 
+third Secudus, Viceroy to Primus. The only exit lies to the west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+To the west you can see a passageway.
+~
+~
+-1
+9049
+0
+EndRoom
+
+#ROOM
+Vnum 9053
+Name A passageway~
+Desc You are in a passagway where you may go in any cardinal direction.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+To the north lies a small chamber
+~
+~
+-1
+9054
+0
+Exit
+1
+To the east, a main passage forms a junction.
+~
+~
+-1
+9022
+0
+Exit
+2
+To the south, you can spot a small room
+~
+~
+-1
+9055
+0
+Exit
+3
+To the west, the passageway continues
+~
+~
+-1
+9059
+0
+EndRoom
+
+#ROOM
+Vnum 9054
+Name A small chamber~
+Desc You are in a small cramped chamber.  The only exit lies to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+To the south you can see a passage
+~
+~
+-1
+9053
+0
+EndRoom
+
+#ROOM
+Vnum 9055
+Name A cramped room~
+Desc You are in a small, crowded room.  The only exit appears to lie to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+To the north, you can see a passageway.
+~
+~
+-1
+9053
+0
+EndRoom
+
+#ROOM
+Vnum 9056
+Name A large room~
+Desc You have entered a room where you are not wanted.  The only exit lies to the 
+south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+To the south you can visualize a east-west passage.
+~
+~
+-1
+9059
+0
+EndRoom
+
+#ROOM
+Vnum 9057
+Name A room~
+Desc You have entered a room where there was obviously a hurried move going on.  
+The only exit lies to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+To the north you can make out a passageway.
+~
+~
+-1
+9059
+0
+EndRoom
+
+#ROOM
+Vnum 9058
+Name Chamber of The First Secundus~
+Desc You have disturbed the rest of the First Viceroy to Primus the Prime, The 
+Secundus.  He does not look like a happy camper. The only exit lies to the 
+east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+To the east you can spot a hallway
+~
+~
+-1
+9059
+0
+EndRoom
+
+#ROOM
+Vnum 9059
+Name Junction in the hallway~
+Desc Exits lead off in all of the cardinal directions
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+To the north lies a large chamber
+~
+~
+-1
+9056
+0
+Exit
+1
+To the east , the passage continues.
+~
+~
+-1
+9053
+0
+Exit
+2
+To the south, a small chamber can be found.
+~
+~
+-1
+9057
+0
+Exit
+3
+To the west, lies a monstrous room.
+~
+~
+-1
+9058
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 9001 9 9001 3
+M 0 9000 10 9002 2
+M 0 9000 10 9003 2
+M 0 9002 6 9011 1
+M 0 9001 9 9012 3
+M 0 9000 10 9013 2
+M 0 9008 4 9016 1
+M 0 9008 4 9017 1
+M 0 9009 4 9018 1
+M 0 9009 4 9019 1
+M 0 9011 1 9020 1
+E 0 9000 0 16
+M 0 9009 4 9021 1
+M 0 9008 4 9022 1
+M 0 9009 4 9024 1
+M 0 9008 4 9025 1
+M 0 9000 10 9027 2
+M 0 9001 9 9028 3
+M 0 9000 10 9029 2
+M 0 9002 6 9031 1
+M 0 9005 4 9033 1
+M 0 9006 2 9034 1
+M 0 9007 8 9036 1
+M 0 9007 8 9037 1
+M 0 9002 6 9038 1
+M 0 9010 4 9038 1
+M 0 9005 4 9040 1
+M 0 9006 2 9041 1
+M 0 9007 8 9043 1
+M 0 9007 8 9044 1
+M 0 9002 6 9045 1
+M 0 9010 4 9045 1
+M 0 9005 4 9047 1
+M 0 9004 1 9048 1
+G 0 9001 0
+M 0 9007 8 9050 1
+M 0 9007 8 9051 1
+M 0 9002 6 9052 1
+M 0 9010 4 9052 1
+M 0 9005 4 9054 1
+M 0 9003 1 9055 1
+M 0 9007 8 9056 1
+M 0 9007 8 9057 1
+M 0 9002 6 9058 1
+M 0 9010 4 9058 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

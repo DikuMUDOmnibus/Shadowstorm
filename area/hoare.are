@@ -1,0 +1,1179 @@
+#AREADATA
+Name House area~
+Builders None~
+VNUMs 10600 12600
+Credits Housing Synon ALL~
+Security 5
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 10600
+Name Davion's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+10602
+0
+Exit
+1
+~
+~
+0
+10603
+0
+Exit
+2
+~
+~
+0
+10604
+0
+Exit
+3
+~
+~
+0
+10601
+0
+EndRoom
+
+#ROOM
+Vnum 10601
+Name Davion's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+10600
+0
+EndRoom
+
+#ROOM
+Vnum 10602
+Name Davion's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+10600
+0
+EndRoom
+
+#ROOM
+Vnum 10603
+Name Davion's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+10600
+0
+EndRoom
+
+#ROOM
+Vnum 10604
+Name Davion's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+10600
+0
+EndRoom
+
+#ROOM
+Vnum 10605
+Name The Center of Gretago's Home~
+Desc This is the center of Gretago's home.  There is a wooden bench by the
+door to the west where people can sit while they wait to be called in to
+Gretago's office.  To the north is the chamber of peace and Gretago's
+bedroom is to the east.  The walls are painted blue and there is a red
+carpet on the floor.  There is a light hanging from the ceiling by a golden
+chain.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+{xdoor~
+0
+10607
+AB
+Exit
+1
+~
+{xdoor~
+0
+10608
+AB
+Exit
+2
+~
+{xdoor~
+0
+10609
+AB
+Exit
+3
+~
+{xdoor~
+0
+10606
+AB
+EndRoom
+
+#ROOM
+Vnum 10606
+Name Gretago's Office~
+Desc This is Gretago's Office.  There is a cabinet on the northern wall that
+holds files and other things.  There is a painting of Gretago on the western
+wall with a candle mounted on each side.  There is a desk near the western
+wall leaving a gap for Gretago's chair.  The desk has papers stacked neatly
+on the side and a few chairs opposite the western wall.  The walls are
+painted blue and there is a red carpet on the floor.  There is a light
+hanging from the ceiling by a golden chain.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+{xdoor~
+0
+10605
+AB
+EndRoom
+
+#ROOM
+Vnum 10607
+Name The Chamber of Peace~
+Desc This is The Chamber of Peace.  Gretago comes here to be alone and to
+think.  There is a painting on the far north wall.  Pushed up against the
+eastern wall is a cabinet containing supplies.  There are some comfy
+cushions in the middle of the room.  The walls are painted blue and there is
+a red carpet on the floor.  There is a light hanging from the ceiling by a
+golden chain.  
+~
+Room_flags 67110912
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+{xdoor~
+0
+10605
+AB
+EndRoom
+
+#ROOM
+Vnum 10608
+Name Gretago's Bedroom~
+Desc This is Gretago's Bedroom.  Gretago comes here to sleep or just have a
+rest.  There is a wooden wardrobe pushed up against the eastern wall
+containing Gretago's clothes.  Pushed up against the northern wall is a
+comfy bed with a blue duvet.  The walls are painted blue and there is a red
+carpet on the floor.  There is a light hanging from the ceiling by a golden
+chain.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+{xdoor~
+0
+10605
+AB
+EndRoom
+
+#ROOM
+Vnum 10609
+Name The Entrance of Gretago's Home~
+Desc This is the entrance to Gretago's home.  There is a mat infront of the
+door to the south so people don't spread dirt about in the house.  There are
+some hooks on the western wall where people can hang up there coats and
+hats.  Also there is a shoe rack underneath it where people can put there
+shoes if they are wet or dirty.  The walls are painted blue and there is a
+red carpet on the floor.  There is a light hanging from the ceiling by a
+golden chain.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+{xdoor~
+0
+10605
+AB
+EndRoom
+
+#ROOM
+Vnum 10610
+Name Arkesh's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+10612
+0
+Exit
+1
+~
+~
+0
+10613
+0
+Exit
+2
+~
+~
+0
+10614
+0
+Exit
+3
+~
+~
+0
+10611
+0
+EndRoom
+
+#ROOM
+Vnum 10611
+Name Arkesh's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+10610
+0
+EndRoom
+
+#ROOM
+Vnum 10612
+Name Arkesh's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+10610
+0
+EndRoom
+
+#ROOM
+Vnum 10613
+Name Arkesh's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+10610
+0
+EndRoom
+
+#ROOM
+Vnum 10614
+Name Arkesh's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+10610
+0
+EndRoom
+
+#ROOM
+Vnum 10615
+Name Tielee's Living Room~
+Desc The center of this room is sunken below the level of the floor, and
+encircled on three sides by large overstuffed dragon skin couches.  A large
+glass table stands in the middle with a three dimentional chess set ontop of
+it.  All sorts of artifacts are on shelves and stands on the walls and
+floors.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+10617
+0
+Exit
+1
+~
+~
+0
+10618
+0
+Exit
+2
+~
+~
+0
+10619
+0
+Exit
+3
+~
+~
+0
+10616
+0
+EndRoom
+
+#ROOM
+Vnum 10616
+Name Tielee's Kitchen~
+Desc Strange items and implements adorn this large and spacious room.  A tall
+box with a clear front to it stands in one corner and apears to hold many
+small blue creatures in it.  A shiny countertop is covered with many other
+sharp items, most covered in a blueish fluid of some sort.  A jar also
+apears to hold more of the blue creatures, aparently pickled within the jar
+for some reason or other.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+10615
+0
+EndRoom
+
+#ROOM
+Vnum 10617
+Name Tielee's Lab~
+Desc Bottles, jars, and containers cover the tables and shelves in this tiny
+lab.  Cages with various birds and other creatures hang from the ceiling.  A
+few beakers with colored liquids boil ontop burners, and multi-colored smoke
+fills the room.  This small lab looks like it belongs to a very mad
+scientist.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+10615
+0
+EndRoom
+
+#ROOM
+Vnum 10618
+Name Tielee's Study~
+Desc Plush chairs adorn this room.  Shelves are embeded in the very walls
+themselves, overflowing with books, scrolls, and parchment of all manor of
+creation.  Sunlight filters into the room from a skylight in the ceiling
+made of emerald crystal, which causes the room to glow in a pale greenish
+light.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+10615
+0
+EndRoom
+
+#ROOM
+Vnum 10619
+Name Tielee's Storage Room~
+Desc Items, weapons, and armor are scattered all over this room.  Swords and
+spears are on racks hanging from the walls.  Shield and suits of armor stand
+in the corners.  Chests full of gold, platinum and various gems and jewlery
+rest in large chests.  Upon tables rest potions, wands, and rings.  Surely a
+fortune in treasure resides in this single room.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+10615
+0
+EndRoom
+
+#ROOM
+Vnum 10620
+Name The Destroye of Cities Jail~
+Desc You see rows and rows of jail cells and torture racks.  On the wall to
+the left there are many torture objects.  On the wall to the right are
+tables and winches to work the stuff to the left.  If your in here you
+deffintly did something bad...  Not even the gods are aloud to leave here
+unless given permission.  
+~
+Room_flags 273428
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 10621
+Name Pedlars House~
+Desc ~
+Room_flags 271380
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 10622
+Name Pedlar's Home~
+Desc ~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 10623
+Name Pedlar's Home~
+Desc ~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 10624
+Name Pedlar's Home~
+Desc ~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 10625
+Name Ciaron's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+10627
+0
+Exit
+1
+~
+~
+0
+10628
+0
+Exit
+2
+~
+~
+0
+10629
+0
+Exit
+3
+~
+~
+0
+10626
+0
+EndRoom
+
+#ROOM
+Vnum 10626
+Name Ciaron's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+10625
+0
+EndRoom
+
+#ROOM
+Vnum 10627
+Name Ciaron's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+10625
+0
+EndRoom
+
+#ROOM
+Vnum 10628
+Name Ciaron's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+10625
+0
+EndRoom
+
+#ROOM
+Vnum 10629
+Name Ciaron's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+10625
+0
+EndRoom
+
+#ROOM
+Vnum 10630
+Name Ciaron's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+10632
+0
+Exit
+1
+~
+~
+0
+10633
+0
+Exit
+2
+~
+~
+0
+10634
+0
+Exit
+3
+~
+~
+0
+10631
+0
+EndRoom
+
+#ROOM
+Vnum 10631
+Name Ciaron's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+10630
+0
+EndRoom
+
+#ROOM
+Vnum 10632
+Name Ciaron's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+10630
+0
+EndRoom
+
+#ROOM
+Vnum 10633
+Name Ciaron's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+10630
+0
+EndRoom
+
+#ROOM
+Vnum 10634
+Name Ciaron's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+10630
+0
+EndRoom
+
+#ROOM
+Vnum 10635
+Name Ashlynn's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+10637
+0
+Exit
+1
+~
+~
+0
+10638
+0
+Exit
+2
+~
+~
+0
+10639
+0
+Exit
+3
+~
+~
+0
+10636
+0
+EndRoom
+
+#ROOM
+Vnum 10636
+Name Ashlynn's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+10635
+0
+EndRoom
+
+#ROOM
+Vnum 10637
+Name Ashlynn's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+10635
+0
+EndRoom
+
+#ROOM
+Vnum 10638
+Name Ashlynn's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+10635
+0
+EndRoom
+
+#ROOM
+Vnum 10639
+Name Ashlynn's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+10635
+0
+EndRoom
+
+#ROOM
+Vnum 10640
+Name Synon's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+10642
+0
+Exit
+1
+~
+~
+0
+10643
+0
+Exit
+2
+~
+~
+0
+10644
+0
+Exit
+3
+~
+~
+0
+10641
+0
+EndRoom
+
+#ROOM
+Vnum 10641
+Name Synon's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+10640
+0
+EndRoom
+
+#ROOM
+Vnum 10642
+Name Synon's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+10640
+0
+EndRoom
+
+#ROOM
+Vnum 10643
+Name Synon's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+10640
+0
+EndRoom
+
+#ROOM
+Vnum 10644
+Name Synon's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+10640
+0
+EndRoom
+
+#ROOM
+Vnum 10645
+Name Synon's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+10647
+0
+Exit
+1
+~
+~
+0
+10648
+0
+Exit
+2
+~
+~
+0
+10649
+0
+Exit
+3
+~
+~
+0
+10646
+0
+EndRoom
+
+#ROOM
+Vnum 10646
+Name Synon's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+10645
+0
+EndRoom
+
+#ROOM
+Vnum 10647
+Name Synon's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+10645
+0
+EndRoom
+
+#ROOM
+Vnum 10648
+Name Synon's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+10645
+0
+EndRoom
+
+#ROOM
+Vnum 10649
+Name Synon's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+10645
+0
+EndRoom
+
+#ROOM
+Vnum 10650
+Name Tina's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+10652
+0
+Exit
+1
+~
+~
+0
+10653
+0
+Exit
+2
+~
+~
+0
+10654
+0
+Exit
+3
+~
+~
+0
+10651
+0
+EndRoom
+
+#ROOM
+Vnum 10651
+Name Tina's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+10650
+0
+EndRoom
+
+#ROOM
+Vnum 10652
+Name Tina's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+10650
+0
+EndRoom
+
+#ROOM
+Vnum 10653
+Name Tina's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+10650
+0
+EndRoom
+
+#ROOM
+Vnum 10654
+Name Tina's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+10650
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 10605 0 1
+D 0 10605 1 1
+D 0 10605 2 1
+D 0 10605 3 1
+D 0 10606 1 1
+D 0 10607 2 1
+D 0 10608 3 1
+D 0 10609 0 1
+O 0 548 0 10606
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

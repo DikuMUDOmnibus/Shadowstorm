@@ -1,0 +1,351 @@
+#AREADATA
+Name Dragonkeep Dungeon~
+Builders Radeon~
+VNUMs 6400 6499
+Credits (null)~
+Security 5
+Soundfile (null)~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 6410
+Name blacksmith~
+Short The Blacksmith~
+Long The Blacksmith is here sharpening his sword
+~
+Description this Is A Huge Demon
+~
+Race human~
+Act_flags AFT
+Aff a
+Align -1000
+Group 0
+Level 34
+Hitroll 1000
+Hit_dice 10d100+100
+Mana_dice 100d40+300
+Dam_dice 1000d300+300
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form X
+Parts L
+Size medium
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#MOB
+Vnum 6412
+Name no name~
+Short (no short description)~
+Long (no long description)
+~
+Description ~
+Race human~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 6411
+Name Edge~
+Short {RS{ro{Ru{rl {YE{yd{Yg{Ye~
+Desc A blade with a blood stained eye on it watches from its rusted soul~
+Material metal~
+Item_type weapon
+Extra CFJXa
+Extra2 0
+Wear A
+Values exotic 0 0 none 0
+Level 150
+Weight 151
+Cost 8805
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+enigma~
+ed add enigma
+~
+AffectObj
+13 20000
+AffectObj
+19 350
+AffectObj
+25 0
+AffectObj
+19 14
+AffectObj
+18 14
+AffectObj
+16 600
+AffectObj
+18 200
+AffectObj
+18 -5536
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 6400
+Name Hallway Of Darkness~
+Desc The Walls are stained with blood,the floor is smothered in vomit However, Tortured screams come from far up north
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+6403
+0
+Exit
+3
+~
+~
+0
+6401
+0
+EndRoom
+
+#ROOM
+Vnum 6401
+Name Before The Keep Of The Blacksmith~
+Desc The sound of metal compunding with metal is very neer as sparks shoot out from the door
+north.
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+6407
+0
+Exit
+1
+~
+~
+0
+6400
+0
+Exit
+3
+~
+~
+0
+6402
+0
+EndRoom
+
+#ROOM
+Vnum 6402
+Name A dead end. ~
+Desc Nothing is here,just the sound of metal clashing
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+6401
+0
+EndRoom
+
+#ROOM
+Vnum 6403
+Name Before Guardsman keep ~
+Desc A Room with Heads racketed on silver poles,There is an inscription
+Leave NOW BEFORE YOURE HEAD IS MANTLED!
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+6404
+0
+Exit
+2
+~
+~
+0
+6400
+0
+EndRoom
+
+#ROOM
+Vnum 6404
+Name Guardsman Keep~
+Desc Leave Now, Before  your soul is consumed.
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+6405
+0
+Exit
+3
+~
+~
+0
+6403
+0
+EndRoom
+
+#ROOM
+Vnum 6405
+Name One Step before The Butcher's Lair...~
+Desc Guts Smother The Walls,Blood seeps through the door north,You Wonder what horrible things happened here once,yet it intrigues the smell of vomit.
+As The Tortured Screams get louder the Vomit smell gets worse as it seeps into a mind of uncrotrallable Depth.
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+6406
+0
+Exit
+2
+~
+~
+0
+6404
+0
+EndRoom
+
+#ROOM
+Vnum 6406
+Name The Butchers Lair~
+Desc OH WHAT HORRIDNESS! You see people getting decapitated and gutted for the sake of laughter, the butcher grins at you and raises his axe..........
+Better Leave befor its too late.....
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+6405
+0
+EndRoom
+
+#ROOM
+Vnum 6407
+Name The Blacksmith's Lair~
+Desc A Demon Stands here.
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+6401
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

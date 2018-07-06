@@ -1,0 +1,276 @@
+#AREADATA
+Name Ciel'en Mountains~
+Builders Heriik~
+VNUMs 4300 4450
+Credits (null)~
+Security 5
+Soundfile (null)~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 4300
+Name test mob create~
+Short test create mob~
+Long Test mob create
+~
+Description ~
+Race human~
+Act_flags ABW
+Aff JT
+Align -1000
+Group 0
+Level 25
+Hitroll 0
+Hit_dice 25d10+25
+Mana_dice 25d10+25
+Dam_dice 25d10+25
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm BH
+Res BH
+Vuln FI
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMVZ
+Parts ABCDEFGHIJKPQUVX
+Size large
+Material unknown
+Aggression 0
+MobTrig GRALL 4300 100~
+EndMob
+
+#MOB
+Vnum 4301
+Name a mountain snake~
+Short a mountain snake~
+Long A Mountain snake slithers here
+~
+Description ~
+Race snake~
+Act_flags AG
+Aff 0
+Align 0
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 5d30+161
+Mana_dice 6d9+15
+Dam_dice 3d5+8
+Dam_type none
+Armor 0 0 0 5
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res L
+Vuln I
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form ABGXYc
+Parts ADEFKLQVX
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4310
+Name no name~
+Short (no short description)~
+Long (no long description)
+~
+Description ~
+Race human~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 4301
+Name no name~
+Short (no short description)~
+Desc (no description)~
+Material unknown~
+Item_type trash
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 4300
+Name Rocky Path~
+Desc Along this dirt and rock path there are many interesting sights, high
+rocky crags rise high above to the east and west allowing entry only from
+the north and south.  The path continues far to the north.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4301
+0
+EndRoom
+
+#ROOM
+Vnum 4301
+Name Light Incline~
+Desc The mountain terrain continues to gently rise, with grags still coverin
+the east and west going high into the air.  To the north is a steep incline
+covered with a few trees.  The path continues to the south.  
+~
+Room_flags 67108864
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4302
+0
+Exit
+2
+~
+~
+0
+4300
+0
+EndRoom
+
+#ROOM
+Vnum 4302
+Name Steep Hill~
+Desc Heavily laid with trees, this hill begins to take a turn for the steeper
+side.  To the north the trees begin to thin out and the hill gradually
+becomes a full scale mountain.  To the south at the bottom of the hill,
+there is a road.  To the west is a small hunting lodge. 
+~
+Room_flags 0
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+4301
+0
+Exit
+3
+~
+{xdoor~
+0
+4303
+AB
+EndRoom
+
+#ROOM
+Vnum 4303
+Name ~
+Desc ~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+{xdoor~
+0
+4302
+AB
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 4302 3 1
+D 0 4303 1 1
+M 0 4301 1 4301 3
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#4300
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

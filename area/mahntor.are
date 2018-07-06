@@ -1,0 +1,6964 @@
+#AREADATA
+Name Mahn-Tor~
+Builders None~
+VNUMs 2300 2399
+Credits { 5 35} Chris   The Keep of Mahn-Tor~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 2300
+Name oldstyle knight ethereal dark~
+Short the Dark Ethereal Knight~
+Long A dark ethereal knight hovers over the bloody clearing.
+~
+Description The ethereal knight is clad in shadowy black armor. It appears as though he
+was involved in the carnage that occurred here. His soul is trapped here, as
+he waits for release.
+~
+Race human~
+Act_flags AB
+Aff DH
+Align -1000
+Group 0
+Level 25
+Hitroll 0
+Hit_dice 5d10+550
+Mana_dice 12d9+100
+Dam_dice 2d10+7
+Dam_type none
+Armor -7 -7 -7 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2301
+Name oldstyle treant tree~
+Short the Old Treant~
+Long A huge, gnarled tree stands here, battered by age and nature.
+~
+Description The old tree looks as though the wind has battered and torn at it for years.
+Very few leaves remain. Its limbs are crooked and gnarled. It moans as the 
+wind pushes it back and forth.
+~
+Race human~
+Act_flags AB
+Aff 0
+Align 250
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2302
+Name oldstyle dweller cave creature~
+Short the Cave Dweller~
+Long A slimy, gross creature is here munching on a corpse.
+~
+Description The cave dweller looks like a mixture of several disgusting monsters. It has
+a bird's beak, huge white eyes, a furry body, and long clawed hands and feet.
+It sees you and snarls.
+~
+Race human~
+Act_flags ABF
+Aff CEP
+Align 0
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 7d9+100
+Dam_dice 2d6+3
+Dam_type none
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 125
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2303
+Name oldstyle toad rock~
+Short the Rock Toad~
+Long A rather large rock toad sits here, croaking loudly.
+~
+Description A grey toad. Its about the size of a cow. Small horns grow all over its body.
+~
+Race human~
+Act_flags AB
+Aff 0
+Align -250
+Group 0
+Level 14
+Hitroll 0
+Hit_dice 2d10+190
+Mana_dice 7d9+100
+Dam_dice 1d12+3
+Dam_type none
+Armor -1 -1 -1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos sit
+Sex none
+Wealth 127
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2304
+Name oldstyle weeping willow tree~
+Short the Weeping Willow~
+Long A large willow tree stands here, weeping.
+~
+Description The weeping willow has long thins branches. These branches seem to droop in
+anguish and dismay. You hear a faint sound of crying.
+~
+Race human~
+Act_flags AB
+Aff DH
+Align 1000
+Group 0
+Level 25
+Hitroll 0
+Hit_dice 5d10+550
+Mana_dice 12d9+100
+Dam_dice 2d10+7
+Dam_type none
+Armor -7 -7 -7 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 1000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2305
+Name oldstyle mist mistling~
+Short the Mistling~
+Long A mistling emerges from the mist surrounding you.
+~
+Description It looks like a thin wisp of mist that has gained substance and size.
+~
+Race human~
+Act_flags ABF
+Aff Q
+Align 0
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 7d9+100
+Dam_dice 2d6+3
+Dam_type none
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2306
+Name oldstyle swamp wraith~
+Short the Swamp Wraith~
+Long A swamp wraith emerges from the mist here.
+~
+Description The swamp wraith is made of mist and is in the image of a great warrior. He
+appears to emerge from the mist. You feel the cold radiating from his form as
+he nears you.
+~
+Race human~
+Act_flags ABCF
+Aff 0
+Align -1000
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2307
+Name oldstyle ogre villager~
+Short the Ogre Villager~
+Long The ogre villager is here, going about its chores.
+~
+Description You see a pitifully overworked ogre. It is dressed in rags and shuffles along
+with its head hung low. It sees you and cringes in mortal terror.
+~
+Race human~
+Act_flags AGH
+Aff 0
+Align -200
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d7+121
+Mana_dice 5d9+100
+Dam_dice 2d4+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 10
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2308
+Name oldstyle warrior ogre~
+Short the Ogre Warrior~
+Long The ogre warrior stands here, growling fiercely.
+~
+Description The ogre warrior is dressed in thick fur armor. He looks quite large and
+formidable.
+~
+Race human~
+Act_flags ACFGH
+Aff 0
+Align -350
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 7d9+100
+Dam_dice 2d6+3
+Dam_type none
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2309
+Name oldstyle guard ogre~
+Short the Ogre Guard~
+Long The ogre guard is here manning his post faithfully.
+~
+Description The ogre guard stands here manning his post. It appears as though he would
+fight to the death before abandoning his post.
+~
+Race human~
+Act_flags ABCFG
+Aff 0
+Align -500
+Group 0
+Level 19
+Hitroll 0
+Hit_dice 3d9+308
+Mana_dice 9d9+100
+Dam_dice 2d7+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 500
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2310
+Name oldstyle shaman ogre~
+Short The Ogre Shaman~
+Long The ogre shaman is here chanting arcane words and waving his arms.
+~
+Description The ogre shaman is draped in thick fur cloaks and pelts. He has all types of
+charms and holy symbols draped about him. He looks at you and snarls.
+~
+Race human~
+Act_flags ABCFGHQ
+Aff DH
+Align -750
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 20d9+100
+Dam_dice 2d7+5
+Dam_type none
+Armor -4 -4 -4 6
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 2500
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2311
+Name oldstyle chief chieftain ogre~
+Short the Ogre Chieftain~
+Long The ogre chieftain is here, observing his subjects.
+~
+Description This is the biggest ogre you have ever seen. He is heavily equipped and looks
+quite formidable. He towers high above you and growls menacingly.
+~
+Race human~
+Act_flags ABCFGH
+Aff DH
+Align -1000
+Group 0
+Level 25
+Hitroll 0
+Hit_dice 5d10+550
+Mana_dice 12d9+100
+Dam_dice 2d10+7
+Dam_type none
+Armor -7 -7 -7 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 2500
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2312
+Name oldstyle barbarian~
+Short the Plains Barbarian~
+Long A plains barbarian is here, clad in heavy furs.
+~
+Description The plains barbarian is clad in heavy furs. He seems used to the chilling cold
+and icy wastes.
+~
+Race human~
+Act_flags ABCFGH
+Aff 0
+Align 0
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2313
+Name oldstyle yeti white~
+Short the White Yeti~
+Long The white yeti crouches here snarling.
+~
+Description The white yeti looks like a huge white snow ape. Its long arms end in long
+curved talons and its mouth is full of sharp teeth.
+~
+Race human~
+Act_flags ABCFGH
+Aff 0
+Align -350
+Group 0
+Level 16
+Hitroll 0
+Hit_dice 3d9+233
+Mana_dice 8d9+100
+Dam_dice 2d6+4
+Dam_type none
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2314
+Name oldstyle worm ice iceworm~
+Short the Ice Worm~
+Long A huge ice worm burrows through the ice and snow here. It rears up and
+attacks!
+~
+Description The huge worm is almost 50 feet long. Its huge gaping mouth spews ice and snow
+as it charges directly at you.
+~
+Race human~
+Act_flags ABCFG
+Aff 0
+Align 0
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 175
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2315
+Name oldstyle citizen minotaur~
+Short the Minotaur Citizen~
+Long A minotaur citizen is here, hurrying through the icy streets.
+~
+Description You see a rather ragged and cold minotaur. It appears to be looking for a warm
+place to seek refuge from the cold.
+~
+Race human~
+Act_flags ABCGH
+Aff 0
+Align 100
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 7d9+100
+Dam_dice 2d6+3
+Dam_type none
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 500
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2316
+Name oldstyle guard minotaur~
+Short the Minotaur Guard~
+Long A minotaur guard catches you trespassing and attacks!
+~
+Description The minotaur is clad in heavy furs. Beneath these furs, you see the gleam of
+his armor.
+~
+Race human~
+Act_flags ABCFG
+Aff 0
+Align -330
+Group 0
+Level 22
+Hitroll 0
+Hit_dice 5d10+400
+Mana_dice 11d9+100
+Dam_dice 4d4+6
+Dam_type none
+Armor -5 -5 -5 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2317
+Name oldstyle warrior minotaur~
+Short the Minotaur Warrior~
+Long A minotaur warrior is here looking for intruders.
+~
+Description You see a huge minotaur that is dressed in thick furs and armor. He has black
+fur and red eyes. He looks quite capable of protecting the city.
+~
+Race human~
+Act_flags ACFG
+Aff 0
+Align -330
+Group 0
+Level 21
+Hitroll 0
+Hit_dice 4d10+360
+Mana_dice 10d9+100
+Dam_dice 4d4+5
+Dam_type none
+Armor -5 -5 -5 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2318
+Name oldstyle minotaur gatekeeper~
+Short the Minotaur Gatekeeper~
+Long A minotaur is here guarding the Keep of Mahn-Tor.
+~
+Description The minotaur stands rigidly before the gates of the keep. It looks quite
+miserable standing in the driven snow and ice.
+~
+Race human~
+Act_flags ABCG
+Aff D
+Align -330
+Group 0
+Level 25
+Hitroll 0
+Hit_dice 5d10+550
+Mana_dice 12d9+100
+Dam_dice 2d10+7
+Dam_type none
+Armor -7 -7 -7 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 1250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2319
+Name oldstyle minotaur high guard~
+Short the High Minotaur Guard~
+Long The minotaur high guard is here guarding the Keep.
+~
+Description The high guard is dressed in blue plate armour. He looks quite dangerous and
+skilled.
+~
+Race human~
+Act_flags ABCFG
+Aff D
+Align -330
+Group 0
+Level 25
+Hitroll 0
+Hit_dice 5d10+550
+Mana_dice 12d9+100
+Dam_dice 2d10+7
+Dam_type none
+Armor -7 -7 -7 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 2250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2320
+Name oldstyle minotaur royal guard~
+Short the Royal Minotaur Guard~
+Long The royal minotaur guard considers you an intruder and attacks!
+~
+Description The royal guard is quite huge. He is dressed in heavy red armor and wields a
+huge glaive. He looks quite capable of protecting the keep.
+~
+Race human~
+Act_flags ABCFG
+Aff D
+Align -330
+Group 0
+Level 26
+Hitroll 0
+Hit_dice 5d10+600
+Mana_dice 13d9+100
+Dam_dice 3d7+7
+Dam_type none
+Armor -7 -7 -7 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 2500
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2321
+Name oldstyle guard minotaur elite~
+Short the Elite Minotaur Guard~
+Long The elite minotaur guard sees you and attacks!
+~
+Description This minotaur wields a huge morningstar and is clad in heavy crimson plate and
+furs.
+~
+Race human~
+Act_flags ABCFG
+Aff D
+Align -250
+Group 0
+Level 28
+Hitroll 0
+Hit_dice 6d12+703
+Mana_dice 14d9+100
+Dam_dice 5d4+8
+Dam_type none
+Armor -8 -8 -8 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 3750
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2322
+Name oldstyle girl haremgirl harem slave~
+Short the Harem Girl~
+Long A harem girl cowers here in fear.
+~
+Description She looks quite attractive. Her low cut gown reveals why she was chosen to be
+in the harem.
+~
+Race human~
+Act_flags ABCGH
+Aff 0
+Align 1000
+Group 0
+Level 2
+Hitroll 0
+Hit_dice 2d7+21
+Mana_dice 1d9+100
+Dam_dice 1d5+0
+Dam_type none
+Armor 8 8 8 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2323
+Name oldstyle butler minotaur~
+Short the Minotaur Butler~
+Long A minotaur butler stands here rigidly, awaiting orders.
+~
+Description He looks quite regal and refined to be a minotaur.
+~
+Race human~
+Act_flags ABCGH
+Aff 0
+Align 250
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2324
+Name oldstyle keeper minotaur ring-keeper~
+Short the Minotaur Ring-Keeper~
+Long The minotaur ring-keeper stands guarding his post.
+~
+Description The ring-keeper is a huge minotaur. You notice a huge ring of multicolored
+keys hanging from his belt. He wears huge, spiked brass knuckles.
+~
+Race human~
+Act_flags ABCGR
+Aff DH
+Align -300
+Group 0
+Level 29
+Hitroll 0
+Hit_dice 6d12+703
+Mana_dice 29d9+100
+Dam_dice 3d7+7
+Dam_type none
+Armor -8 -8 -8 1
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 2500
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2325
+Name oldstyle gorak minotaur warrior master~
+Short Gorak~
+Long Gorak, the Minotaur Master Warrior, is here practicing his skills.
+~
+Description Gorak is HUGE. His bulging muscles are confined beneath heavy armor. He is the
+master of the warrior guild of Mahn-Tor.
+~
+Race human~
+Act_flags ABF
+Aff DH
+Align -300
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+853
+Mana_dice 15d9+100
+Dam_dice 4d6+8
+Dam_type none
+Armor -9 -9 -9 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2326
+Name oldstyle darkoth minotaur anti-paladin master~
+Short Darkoth~
+Long Darkoth, the minotaur anti-paladin, stands here grinning wickedly.
+~
+Description Darkoth is a living incarnation of evil. He radiates a dark aura, and a cold
+chill runs down your spine. He is the master of the Mahn-Tor anti-paladins.
+~
+Race human~
+Act_flags ABF
+Aff DH
+Align -1000
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+853
+Mana_dice 15d9+100
+Dam_dice 4d6+8
+Dam_type none
+Armor -9 -9 -9 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2327
+Name oldstyle tyrgoth minotaur paladin master~
+Short Tyrgoth~
+Long Tyrgoth, the minotaur paladin, is here worshipping silently.
+~
+Description Tyrgoth is the minotaur incarnation of good. You feel safe and at ease in his
+presence. He is the leader of the Mahn-Tor paladins.
+~
+Race human~
+Act_flags AB
+Aff DH
+Align 1000
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+853
+Mana_dice 15d9+100
+Dam_dice 4d6+8
+Dam_type none
+Armor -9 -9 -9 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2328
+Name oldstyle amyrok minotaur mage master~
+Short Amyrok~
+Long Amyrok, the minotaur archmage, is here chanting arcane spells.
+~
+Description Amyrok is a small minotaur. He is clad in loose robes and emits an aura of
+power. He appears quite dangerous, despite his size. He is the leader of the
+mages of Mahn-Tor.
+~
+Race human~
+Act_flags ABFR
+Aff DH
+Align 300
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+778
+Mana_dice 30d9+100
+Dam_dice 5d4+7
+Dam_type none
+Armor -9 -9 -9 1
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2329
+Name oldstyle sumaron minotaur cleric master~
+Short Sumaron~
+Long Sumaron, master cleric of Mahn-Tor, is here looking holy.
+~
+Description Sumaron is clad in white glowing robes. He is goodness incarnate. He is the
+master of all the clerics of Mahn-Tor.
+~
+Race human~
+Act_flags ABFQ
+Aff DH
+Align 1000
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+853
+Mana_dice 30d9+100
+Dam_dice 5d4+8
+Dam_type none
+Armor -9 -9 -9 4
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2330
+Name oldstyle nasturn minotaur druid master~
+Short Nasturn~
+Long Nasturn, the minotaur druid, is here studying the arts of nature.
+~
+Description Nasturn is quite a natural looking minotaur. He is dressed in leather and
+wears no metal of any type. He looks at you and smiles.
+~
+Race human~
+Act_flags ABQ
+Aff DH
+Align 500
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+853
+Mana_dice 30d9+100
+Dam_dice 5d4+8
+Dam_type none
+Armor -9 -9 -9 4
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2331
+Name oldstyle belrak minotaur ranger master~
+Short Belrak~
+Long Belrak, the minotaur ranger, looks unhappy about having visitors.
+~
+Description Belrak is clad in green and brown leather. He looks quite agile and thin, when
+compared to the normal minotaur. He looks at you with a slight smirk.
+~
+Race human~
+Act_flags ABF
+Aff DH
+Align 500
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+853
+Mana_dice 15d9+100
+Dam_dice 4d6+8
+Dam_type none
+Armor -9 -9 -9 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2332
+Name oldstyle dorgar minotaur thief master~
+Short Dorgar~
+Long Dorgar, the minotaur thief, is here hiding in the shadows.
+~
+Description Dorgar is clad all in black. He is tall and slender, unlike most minotaurs. He
+appears to be quite a skilled thief.
+~
+Race human~
+Act_flags ABCF
+Aff Q
+Align -500
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+853
+Mana_dice 15d9+100
+Dam_dice 4d6+8
+Dam_type none
+Armor -9 -9 -9 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2333
+Name oldstyle mahn-tor minotaur grand master~
+Short Mahn-Tor~
+Long Mahn-Tor, the minotaur grand master, is here looking down at you.
+~
+Description Mahn-Tor towers above you. He is simply huge. Mahn-Tor is clad in the best of
+armor and robes. He wields the largest axe you have ever seen. You can see why
+Mahn-Tor is the leader of the minotaurs. He is awe-inspiring.
+~
+Race human~
+Act_flags ABCR
+Aff BDHTU
+Align -500
+Group 0
+Level 33
+Hitroll 0
+Hit_dice 10d10+1000
+Mana_dice 33d9+100
+Dam_dice 4d6+8
+Dam_type none
+Armor -10 -10 -10 0
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 2300
+Name gloves combat~
+Short a pair of minotaur combat gloves~
+Desc A pair of metal plated gloves lie here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AH
+Values D D D 0 0
+Level 25
+Weight 60
+Cost 2600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+gloves combat~
+These gloves are plated with metal plates that provide strength and 
+protection.
+~
+AffectObj
+19 1
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 2301
+Name spiked armor garde~
+Short a suit of spiked garde armor~
+Desc A pile of spiked chainmail lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values ABC ABC ABC 0 0
+Level 22
+Weight 80
+Cost 4200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 2302
+Name greaves black~
+Short a pair of black minotaur greaves~
+Desc Some black metal greaves lie here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AF
+Values AD AD AD 0 0
+Level 30
+Weight 90
+Cost 2600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2303
+Name vambraces black~
+Short a pair of black minotaur vambraces~
+Desc Some black metal vambraces lie here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AI
+Values AD AD AD 0 0
+Level 30
+Weight 90
+Cost 2600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2304
+Name rod weaponry~
+Short the rod of weaponry~
+Desc A shiny metal rod lies here.~
+Material oldstyle~
+Item_type weapon
+Extra AGI
+Extra2 0
+Wear AN
+Values exotic 2 12 blast 0
+Level 28
+Weight 240
+Cost 4700
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 3
+AffectObj
+18 3
+EndObj
+
+#OBJ
+Vnum 2305
+Name cloak pitch black~
+Short a pitch black cloak~
+Desc A pile of black cloth lies here.~
+Material oldstyle~
+Item_type container
+Extra G
+Extra2 0
+Wear AK
+Values 0 0 -1 0 0
+Level 20
+Weight 30
+Cost 860
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+cloak pitch black~
+It appears to have pockets inside it.
+~
+AffectObj
+20 -2
+EndObj
+
+#OBJ
+Vnum 2306
+Name neckguard neck guard black plate~
+Short a black plate neckguard~
+Desc A black plate collar rests here.~
+Material oldstyle~
+Item_type armor
+Extra GJL
+Extra2 0
+Wear AC
+Values AD AD AD 0 0
+Level 30
+Weight 100
+Cost 3400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+4 1
+EndObj
+
+#OBJ
+Vnum 2307
+Name spiked gauntlets~
+Short a pair of spiked gauntlets~
+Desc A pair of spiked gauntlets lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AH
+Values AB AB AB 0 0
+Level 20
+Weight 100
+Cost 1570
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+spiked gauntlets~
+They look pretty damaging.
+~
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 2308
+Name shield shadow~
+Short the shadow shield~
+Desc A shadowy shield rests here.~
+Material oldstyle~
+Item_type armor
+Extra AGJL
+Extra2 0
+Wear AJ
+Values D D D AB 0
+Level 27
+Weight 150
+Cost 4900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+shield shadow~
+You look into the depths of the shield and shiver at the evil it contains.
+~
+AffectObj
+20 -2
+AffectObj
+17 -2
+EndObj
+
+#OBJ
+Vnum 2309
+Name nightbringer short sword shortsword~
+Short a shortsword named "Nightbringer"~
+Desc A very evil looking shortsword lies here.~
+Material oldstyle~
+Item_type weapon
+Extra CGJL
+Extra2 0
+Wear AN
+Values sword 5 4 pierce 0
+Level 27
+Weight 90
+Cost 3500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+nightbringer short sword shortsword~
+The runes "NiGHtBrINgeR" are scrawled along the blade.
+~
+AffectObj
+19 3
+AffectObj
+18 3
+EndObj
+
+#OBJ
+Vnum 2310
+Name visor helm golden~
+Short a golden helm and visor~
+Desc A helm and visor made of pure gold rests here.~
+Material oldstyle~
+Item_type armor
+Extra AGKL
+Extra2 0
+Wear AE
+Values ABC ABC ABC B 0
+Level 20
+Weight 150
+Cost 3000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+3 1
+AffectObj
+4 1
+EndObj
+
+#OBJ
+Vnum 2311
+Name breast plate gilded gold~
+Short a gilded gold breast plate~
+Desc A large golden breast plate lies here.~
+Material oldstyle~
+Item_type armor
+Extra AGKL
+Extra2 0
+Wear AD
+Values AD AD AD AB 0
+Level 32
+Weight 180
+Cost 6700
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 25
+EndObj
+
+#OBJ
+Vnum 2312
+Name cape white billowing silk~
+Short a billowing white cape ~
+Desc A pile of white silk lies here.~
+Material oldstyle~
+Item_type armor
+Extra AG
+Extra2 0
+Wear AC
+Values AC AC AC A 0
+Level 10
+Weight 50
+Cost 760
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2313
+Name shield huge tower~
+Short a huge tower shield~
+Desc A huge shield lies here.~
+Material oldstyle~
+Item_type armor
+Extra AG
+Extra2 0
+Wear AJ
+Values AD AD AD AB 0
+Level 30
+Weight 140
+Cost 4100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+shield huge tower~
+A pure white shield with a gold cross emblazoned across it.
+~
+EndObj
+
+#OBJ
+Vnum 2314
+Name dawnbringer mace huge two-handed~
+Short a huge mace named "Dawnbringer"~
+Desc A huge mace lies here. It radiates an aura of power.~
+Material oldstyle~
+Item_type weapon
+Extra AGKL
+Extra2 0
+Wear AN
+Values mace 4 6 blast F
+Level 28
+Weight 240
+Cost 3200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+dawnbringer mace huge~
+The runes "DAwNbRIngER" are scrawled along the handle.
+~
+AffectObj
+19 3
+AffectObj
+18 3
+EndObj
+
+#OBJ
+Vnum 2315
+Name spectacles wire rimmed~
+Short a pair of wire rimmed spectacles~
+Desc A small pair of wire rimmed spectacles rests here.~
+Material oldstyle~
+Item_type clothing
+Extra G
+Extra2 0
+Wear AE
+Values 0 0 0 0 0
+Level 15
+Weight 20
+Cost 2600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+spectacles wire rimmed~
+They'll make you look smart.
+~
+AffectObj
+3 2
+EndObj
+
+#OBJ
+Vnum 2316
+Name ring banded~
+Short a banded ring~
+Desc A small ring made of gold and silver bands lies here.~
+Material oldstyle~
+Item_type jewelry
+Extra AG
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 30
+Weight 20
+Cost 1520
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+ring banded~
+The ring has entwined bands of gold and silver.
+~
+AffectObj
+12 30
+EndObj
+
+#OBJ
+Vnum 2317
+Name globe minor~
+Short a minor globe of invulnerability~
+Desc A small globe rests here. It shimmers and radiates power.~
+Material oldstyle~
+Item_type armor
+Extra AG
+Extra2 0
+Wear AK
+Values D D D C 0
+Level 27
+Weight 10
+Cost 3200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+globe minor~
+Shimmering colors move inside the globe.
+~
+AffectObj
+20 -2
+EndObj
+
+#OBJ
+Vnum 2318
+Name staff gnarled magius~
+Short a gnarled magius staff~
+Desc A gnarled staff lies here.~
+Material oldstyle~
+Item_type weapon
+Extra G
+Extra2 0
+Wear AN
+Values exotic 5 4 pound F
+Level 27
+Weight 100
+Cost 2900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+staff gnarled magius~
+It appears to be simply a gnarled old limb. It feels powerful though.
+~
+AffectObj
+20 -2
+AffectObj
+19 3
+AffectObj
+18 3
+EndObj
+
+#OBJ
+Vnum 2319
+Name girdle pouches many~
+Short a girdle of many pouches~
+Desc A girdle lies here.~
+Material oldstyle~
+Item_type container
+Extra Y
+Extra2 0
+Wear AL
+Values 0 0 -1 0 0
+Level 0
+Weight 50
+Cost 1000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+girdle pouches many~
+It appears to be full of tiny pockets.
+~
+EndObj
+
+#OBJ
+Vnum 2320
+Name robe heavy woolen~
+Short a heavy woolen robe~
+Desc A heavy pile of wool lies here.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AK
+Values D D D 0 0
+Level 25
+Weight 100
+Cost 1950
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2321
+Name brooch ivory~
+Short a brooch of life~
+Desc A small ivory brooch lies here.~
+Material oldstyle~
+Item_type jewelry
+Extra AGI
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 30
+Weight 50
+Cost 1520
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 30
+EndObj
+
+#OBJ
+Vnum 2322
+Name manual arts healing book~
+Short a manual of healing arts~
+Desc A small book lies here.~
+Material oldstyle~
+Item_type scroll
+Extra 0
+Extra2 0
+Wear AO
+Values 30 'cure light' 'cure light' 'cure light' ''
+Level 0
+Weight 50
+Cost 800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+manual arts healing book~
+It appears to be a book of anatomy and medicine.
+~
+EndObj
+
+#OBJ
+Vnum 2323
+Name mace huge mithril~
+Short a huge mithril mace~
+Desc A huge mace made of mithril metal lies here.~
+Material oldstyle~
+Item_type weapon
+Extra AG
+Extra2 0
+Wear AN
+Values mace 5 4 crush 0
+Level 26
+Weight 130
+Cost 1960
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+AffectObj
+18 2
+EndObj
+
+#OBJ
+Vnum 2324
+Name symbol holy golden~
+Short a golden holy symbol~
+Desc A small holy symbol on a golden chain lies here.~
+Material oldstyle~
+Item_type jewelry
+Extra G
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 5
+Weight 30
+Cost 110
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 10
+EndObj
+
+#OBJ
+Vnum 2325
+Name ring marble thick~
+Short a thick marble ring~
+Desc A thick ring made of marble~
+Material oldstyle~
+Item_type jewelry
+Extra G
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 8
+Weight 50
+Cost 470
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -2
+EndObj
+
+#OBJ
+Vnum 2326
+Name bracelet thick marble~
+Short a thick marble bracelet~
+Desc A thick bracelet made of marble lies here.~
+Material oldstyle~
+Item_type jewelry
+Extra G
+Extra2 0
+Wear AM
+Values 0 0 0 0 0
+Level 5
+Weight 80
+Cost 550
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+5 1
+EndObj
+
+#OBJ
+Vnum 2327
+Name boots striding~
+Short boots of striding~
+Desc A lithe pair of leather boots have been left here.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AG
+Values AC AC AC 0 0
+Level 30
+Weight 50
+Cost 2500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+boots striding~
+They look comfortable to walk in.
+~
+AffectObj
+14 30
+EndObj
+
+#OBJ
+Vnum 2328
+Name cloak icy white~
+Short an icy white cloak~
+Desc A cold pile of white cloth lies here.~
+Material oldstyle~
+Item_type armor
+Extra AG
+Extra2 0
+Wear AK
+Values D D D B 0
+Level 25
+Weight 50
+Cost 2000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+cloak icy white~
+Smoke rises from it almost like it's made of dry ice.
+~
+EndObj
+
+#OBJ
+Vnum 2329
+Name staff ice~
+Short an ice staff~
+Desc A staff made of ice rests here.~
+Material oldstyle~
+Item_type weapon
+Extra G
+Extra2 0
+Wear AN
+Values exotic 7 3 pound BF
+Level 28
+Weight 130
+Cost 1470
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+staff ice~
+The runes "FrIgID" are inscribed in the icy staff.
+~
+AffectObj
+12 20
+AffectObj
+18 2
+EndObj
+
+#OBJ
+Vnum 2330
+Name ring carved wooden~
+Short a carved wooden ring~
+Desc A wooden ring is on the floor.~
+Material oldstyle~
+Item_type jewelry
+Extra G
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 7
+Weight 30
+Cost 460
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 1
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 2331
+Name horn life~
+Short the horn of life~
+Desc A severed minotaur horn lies here.~
+Material oldstyle~
+Item_type wand
+Extra G
+Extra2 0
+Wear AO
+Values 30 8 8 'cure light' 0
+Level 1
+Weight 50
+Cost 930
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+horn life~
+The horn is capped at both ends with gold. Unreadable runes are scrawled on it.
+~
+EndObj
+
+#OBJ
+Vnum 2332
+Name belt life~
+Short the belt of life~
+Desc A strange belt lies here.~
+Material oldstyle~
+Item_type clothing
+Extra G
+Extra2 0
+Wear AL
+Values 0 0 0 0 0
+Level 30
+Weight 90
+Cost 7600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+5 3
+EndObj
+
+#OBJ
+Vnum 2333
+Name stone blood red~
+Short a blood red stone~
+Desc A blood red stone lies here collecting dust.~
+Material oldstyle~
+Item_type warp_stone
+Extra BGT
+Extra2 0
+Wear AO
+Values AB 0 0 0 0
+Level 20
+Weight 20
+Cost 580
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+stone blood red~
+The stone pulses with your own heart beat.
+~
+AffectObj
+13 20
+EndObj
+
+#OBJ
+Vnum 2334
+Name crossbow huge~
+Short a huge crossbow~
+Desc A huge crossbow rests here.~
+Material oldstyle~
+Item_type weapon
+Extra G
+Extra2 0
+Wear AN
+Values exotic 3 9 pierce F
+Level 27
+Weight 150
+Cost 4300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 1
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 2335
+Name pack leather small~
+Short a small leather pack~
+Desc A small leather pack rests here.~
+Material oldstyle~
+Item_type container
+Extra GY
+Extra2 0
+Wear AK
+Values 0 0 -1 0 0
+Level 0
+Weight 90
+Cost 500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+pack leather small~
+It looks pretty big on the inside.
+~
+EndObj
+
+#OBJ
+Vnum 2336
+Name hood black leather~
+Short a black leather hood~
+Desc A hood made of black leather rests here.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AE
+Values AC AC AC 0 0
+Level 10
+Weight 50
+Cost 730
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2337
+Name sleeves black leather~
+Short a pair of black leather sleeves~
+Desc Some leather sleeves lie here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AI
+Values ABC ABC ABC 0 0
+Level 20
+Weight 50
+Cost 1450
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2338
+Name pants black leather~
+Short a pair of black leather pants~
+Desc Some leather pants lie here.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AF
+Values ABC ABC ABC 0 0
+Level 20
+Weight 50
+Cost 1450
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+pants black leather~
+They look sneaky.
+~
+EndObj
+
+#OBJ
+Vnum 2339
+Name sword wicked short shortsword~
+Short a wicked shortsword~
+Desc A wicked looking shortsword lies here.~
+Material oldstyle~
+Item_type weapon
+Extra G
+Extra2 0
+Wear AN
+Values sword 3 8 pierce 0
+Level 26
+Weight 110
+Cost 2300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+sword wicked short shortsword~
+It looks just perfect for backstabbing.
+~
+AffectObj
+19 1
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 2340
+Name globe major~
+Short a major globe of invulnerability~
+Desc A large globe rests here, pulsing uneasily.~
+Material oldstyle~
+Item_type armor
+Extra ABG
+Extra2 0
+Wear AK
+Values AD AD AD BC 0
+Level 31
+Weight 10
+Cost 4100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+globe major~
+Shimmering colors move inside the globe.
+~
+AffectObj
+20 -2
+EndObj
+
+#OBJ
+Vnum 2341
+Name chain chainmail black suit~
+Short a suit of black minotaur chainmail~
+Desc A huge pile of black chainmail rests here.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AD
+Values AD AD AD B 0
+Level 30
+Weight 120
+Cost 7000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+5 1
+AffectObj
+1 1
+EndObj
+
+#OBJ
+Vnum 2342
+Name buckler spiked~
+Short a spiked buckler~
+Desc A small spiked buckler rests here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AJ
+Values BD BD BD AB 0
+Level 35
+Weight 50
+Cost 6600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 2343
+Name ring studded~
+Short a studded ring~
+Desc A small studded ring lies here.~
+Material oldstyle~
+Item_type jewelry
+Extra G
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 13
+Weight 10
+Cost 1020
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -3
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 2344
+Name helm horned~
+Short a horned minotaur helm~
+Desc A small horned helm rests here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AE
+Values BD BD BD B 0
+Level 35
+Weight 80
+Cost 3400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2345
+Name axe great~
+Short mahn-Tor's Great Axe~
+Desc An extremely huge axe is resting here.~
+Material oldstyle~
+Item_type weapon
+Extra BG
+Extra2 0
+Wear AN
+Values axe 5 5 slash 0
+Level 31
+Weight 260
+Cost 3400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+axe great~
+The runes "DeAtH" are scrawled along the blade.
+~
+AffectObj
+19 2
+AffectObj
+18 2
+EndObj
+
+#OBJ
+Vnum 2346
+Name plate ethereal suit~
+Short a suit of ethereal plate~
+Desc A suit of shimmering plate rests here.~
+Material oldstyle~
+Item_type armor
+Extra AJ
+Extra2 0
+Wear AD
+Values D D D C 0
+Level 27
+Weight 20
+Cost 5500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+plate ethereal suit~
+You can almost see through it.
+~
+AffectObj
+20 -2
+EndObj
+
+#OBJ
+Vnum 2347
+Name helm ethereal~
+Short an ethereal helm~
+Desc A shimmering helm rests here.~
+Material oldstyle~
+Item_type armor
+Extra AJ
+Extra2 0
+Wear AE
+Values D D D C 0
+Level 25
+Weight 50
+Cost 2200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+helm ethereal~
+You can almost see through it.
+~
+EndObj
+
+#OBJ
+Vnum 2348
+Name blade ethereal~
+Short an ethereal blade~
+Desc A shimmering blade lies here.~
+Material oldstyle~
+Item_type weapon
+Extra AJ
+Extra2 0
+Wear AN
+Values exotic 2 12 slash 0
+Level 25
+Weight 30
+Cost 3200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+blade ethereal~
+You can almost see through it.
+~
+AffectObj
+19 1
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 2349
+Name branch willow~
+Short a willow branch~
+Desc A small willow branch lies here.~
+Material oldstyle~
+Item_type wand
+Extra G
+Extra2 0
+Wear AO
+Values 20 5 5 'heat metal' 0
+Level 13
+Weight 30
+Cost 2600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2350
+Name key keep~
+Short the keep key~
+Desc A small key lies here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values B 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2351
+Name key red~
+Short a red key~
+Desc A small red key lies here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values B 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2352
+Name key black~
+Short a black key~
+Desc A small black key lies here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values B 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2353
+Name key white~
+Short a white key~
+Desc A small white key lies here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values B 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2354
+Name key brown~
+Short a brown key~
+Desc A small brown key lies here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values B 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2355
+Name key yellow~
+Short a yellow key~
+Desc A small yellow key lies here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values B 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2356
+Name key maroon~
+Short a maroon key~
+Desc A small maroon key lies here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values B 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2357
+Name key green~
+Short a green key~
+Desc A small green key lies here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values B 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2358
+Name key grey~
+Short a grey key~
+Desc A small grey key lies here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values B 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2359
+Name key runed~
+Short a runed key~
+Desc A small runed key lies here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values B 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+key runed~
+The key looks like it was made for royalty.
+~
+EndObj
+
+#OBJ
+Vnum 2360
+Name boots fur lined~
+Short a pair of fur lined boots~
+Desc A pair of boots are on the floor.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AG
+Values AB AB AB A 0
+Level 7
+Weight 50
+Cost 470
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+14 10
+EndObj
+
+#OBJ
+Vnum 2361
+Name pelt yeti white~
+Short the white pelt of a yeti~
+Desc A white pelt lies here.~
+Material oldstyle~
+Item_type armor
+Extra Q
+Extra2 0
+Wear AK
+Values BC BC BC A 0
+Level 15
+Weight 90
+Cost 1080
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2362
+Name sword kopesh~
+Short a kopesh sword~
+Desc A sword with a curved blade lies here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values sword 5 3 slash 0
+Level 17
+Weight 130
+Cost 1310
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+sword kopesh~
+The sword looks like it would be grasped so that the blade extended along the
+forearm of the wielder.
+~
+EndObj
+
+#OBJ
+Vnum 2363
+Name vambraces steel~
+Short a pair of steel vambraces~
+Desc A gleaming pair of vambraces lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AI
+Values BC BC BC 0 0
+Level 15
+Weight 0
+Cost 1050
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2364
+Name greaves steel~
+Short a pair of steel greaves~
+Desc A gleaming pair of greaves lie here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AF
+Values BC BC BC 0 0
+Level 15
+Weight 70
+Cost 1050
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2365
+Name axe battle battleaxe~
+Short a battle axe~
+Desc A dangerous looking battle axe rests here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values axe 4 4 slash 0
+Level 17
+Weight 180
+Cost 1310
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2366
+Name plate steel breast~
+Short a steel breast plate~
+Desc A breast plate of thick steel rests here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values BC BC BC 0 0
+Level 15
+Weight 100
+Cost 2100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2367
+Name helm steel~
+Short a steel helm~
+Desc A steel helm has been left here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AE
+Values BC BC BC 0 0
+Level 15
+Weight 60
+Cost 1050
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2368
+Name halberd huge two-handed~
+Short a huge halberd~
+Desc A huge halberd has been left here.~
+Material oldstyle~
+Item_type weapon
+Extra G
+Extra2 0
+Wear AN
+Values polearm 2 10 cleave F
+Level 18
+Weight 180
+Cost 690
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 1
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 2369
+Name visor blue steel helm~
+Short a blue steel helm and visor~
+Desc A helm and visor of blue steel rests here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AE
+Values D D D 0 0
+Level 25
+Weight 80
+Cost 1950
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2370
+Name greaves blue steel~
+Short a pair of blue steel greaves~
+Desc Some greaves made of blue steel rest here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AF
+Values D D D 0 0
+Level 25
+Weight 80
+Cost 1950
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2371
+Name vambraces blue steel~
+Short a pair of blue steel vambraces~
+Desc Some vambraces made of blue steel rest here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AI
+Values D D D 0 0
+Level 25
+Weight 80
+Cost 1950
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2372
+Name sword two two-handed~
+Short a two-handed sword~
+Desc A large sword lies here.~
+Material oldstyle~
+Item_type weapon
+Extra G
+Extra2 0
+Wear AN
+Values sword 6 3 slash F
+Level 22
+Weight 180
+Cost 2500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+AffectObj
+18 2
+EndObj
+
+#OBJ
+Vnum 2373
+Name visor helm steel red~
+Short a red steel helm and visor~
+Desc A helm and visor made of red steel rests here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AE
+Values ABC ABC ABC 0 0
+Level 20
+Weight 80
+Cost 1450
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2374
+Name greaves red steel~
+Short a pair of red steel greaves~
+Desc Some greaves made of red steel rest here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AF
+Values ABC ABC ABC 0 0
+Level 20
+Weight 80
+Cost 1450
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2375
+Name vambraces red steel~
+Short a pair of red steel vambraces~
+Desc Some vambraces made of red steel rest here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AI
+Values ABC ABC ABC 0 0
+Level 20
+Weight 80
+Cost 1450
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2376
+Name glaive~
+Short a minotaur glaive~
+Desc A very large glaive rests here.~
+Material oldstyle~
+Item_type weapon
+Extra G
+Extra2 0
+Wear AN
+Values polearm 5 4 slash F
+Level 22
+Weight 190
+Cost 830
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 1
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 2377
+Name visor helm crimson steel~
+Short a crimson steel helm and visor~
+Desc A helm and visor made of crimson steel rests here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AE
+Values D D D 0 0
+Level 25
+Weight 80
+Cost 1950
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2378
+Name greaves crimson steel~
+Short a pair of crimson steel greaves~
+Desc Some greaves made of crimson steel rest here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AF
+Values D D D 0 0
+Level 25
+Weight 80
+Cost 1950
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2379
+Name vambraces crimson steel~
+Short a pair of crimson steel vambraces~
+Desc Some vambraces made of crimson steel rest here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AI
+Values D D D 0 0
+Level 25
+Weight 80
+Cost 1950
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2380
+Name star morning morningstar~
+Short a huge morningstar~
+Desc A huge morningstar rests here.~
+Material oldstyle~
+Item_type weapon
+Extra G
+Extra2 0
+Wear AN
+Values mace 7 3 pound 0
+Level 29
+Weight 200
+Cost 2300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+star morning morningstar~
+It looks damaging.
+~
+AffectObj
+19 2
+AffectObj
+18 2
+EndObj
+
+#OBJ
+Vnum 2381
+Name spiked brass knuckles~
+Short some huge spiked brass knuckles~
+Desc A set of spiked brass knuckles lies here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values exotic 4 4 punch 0
+Level 17
+Weight 90
+Cost 1970
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+spiked brass knuckles~
+A band held in the hand that has spikes on the front side.
+~
+EndObj
+
+#OBJ
+Vnum 2382
+Name ring key multi colored multi-colored~
+Short a multi-colored key ring~
+Desc A ring of multi-colored keys rests here.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear AC
+Values 0 0 -1 0 0
+Level 0
+Weight 30
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+ring key multi colored multi-colored~
+It has several keys of different colors on it.
+~
+EndObj
+
+#OBJ
+Vnum 2383
+Name maul huge wooden~
+Short a huge wooden maul~
+Desc A huge wooden maul rests here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values mace 5 5 blast 0
+Level 28
+Weight 220
+Cost 1700
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2384
+Name potion misty~
+Short a misty potion~
+Desc A small misty potion rests here.~
+Material oldstyle~
+Item_type potion
+Extra AGN
+Extra2 0
+Wear A
+Values 20 'heal' '' '' ''
+Level 11
+Weight 30
+Cost 800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2385
+Name pouch belt~
+Short a belt pouch~
+Desc A belt pouch lies here.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear AL
+Values 0 0 -1 0 0
+Level 0
+Weight 50
+Cost 20
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2386
+Name spear ogre~
+Short an ogre spear~
+Desc A crude spear rests here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values exotic 2 10 thrust F
+Level 17
+Weight 80
+Cost 320
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2387
+Name club ogre war~
+Short an ogre war club~
+Desc A large, crude club rests here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values mace 4 4 pound 0
+Level 17
+Weight 100
+Cost 880
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2388
+Name cloak bear skin bearskin~
+Short a bearskin cloak~
+Desc A rough bearskin rests here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AK
+Values ABC ABC ABC 0 0
+Level 20
+Weight 120
+Cost 1450
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2389
+Name ear ring earring feathered~
+Short a pair of feathered earrings~
+Desc Some feathered earrings rest here.~
+Material oldstyle~
+Item_type jewelry
+Extra AG
+Extra2 0
+Wear AE
+Values 0 0 0 0 0
+Level 0
+Weight 20
+Cost 500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2390
+Name gauntlets ogre power~
+Short gauntlets of ogre power~
+Desc Some heavy gauntlets lie here.~
+Material oldstyle~
+Item_type armor
+Extra BG
+Extra2 0
+Wear AH
+Values ABC ABC ABC 0 0
+Level 23
+Weight 130
+Cost 5800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+gauntlets ogre power~
+They look very "handy".
+~
+AffectObj
+19 2
+AffectObj
+1 2
+EndObj
+
+#OBJ
+Vnum 2391
+Name club massive~
+Short a massive club~
+Desc A massive club lies here, discarded.~
+Material wood~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values mace 3 8 blast F
+Level 23
+Weight 190
+Cost 1520
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2392
+Name cape thick fur~
+Short a thick fur cape~
+Desc A thick pile of fur lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AC
+Values BC BC BC 0 0
+Level 15
+Weight 50
+Cost 1050
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2393
+Name tunic fur lined~
+Short a fur lined tunic~
+Desc A fur lined tunic rests here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values BC BC BC 0 0
+Level 15
+Weight 60
+Cost 2100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 2300
+Name The dark woods~
+Desc You are travelling through woods that are as dark as night. The trees above
+block all light and wind. The air is stagnant and smells of death and decay.
+The lack of sounds and other signs of life make your skin crawl and you feel
+very much like turning back and heading for safer areas. The path leads north
+into more open lands while it also leads south into the darkness of the forest.
+A small sign is posted here.
+~
+Room_flags 4
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+[]================================[]
+     |      BEWARE!      | Hope you   |
+     |   Travellers are  | enjoy it!  |
+     |  advised to stay  | <------->  |
+     |   in groups for   |  Skurge    |
+     |      safety.      | Ragnarok   |
+    []================================[]
+~
+Exit
+0
+~
+~
+0
+5280
+0
+Exit
+2
+~
+~
+-1
+2301
+0
+EndRoom
+
+#ROOM
+Vnum 2301
+Name The dark woods~
+Desc You wearily travel through the darkness of the forest. Huge skeletal trees
+line the edges of the path and tower above you. Errant rays of light spear
+down through the gaps in the canopy above and provide small spots of light
+that seem to attract what little foliage can grow on the dark forest floor.
+The path winds north and south into darkness.
+~
+Room_flags 5
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2300
+0
+Exit
+2
+~
+~
+-1
+2302
+0
+EndRoom
+
+#ROOM
+Vnum 2302
+Name The small intersection in the forest~
+Desc The forest path splits here in three directions. Small paths lead to the east,
+north, and south. The trees above leave a gap which allows light to fill the
+intersection. It is almost as though you are in a circle of light that
+provides sanctuary in this land of darkness.
+Something has been scrawled in the dirt in blood here.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+blood dirt scrawl~
+BeWAre tHe SwAmP oGreS......
+~
+Exit
+0
+~
+~
+0
+2301
+0
+Exit
+1
+~
+~
+0
+2304
+0
+Exit
+2
+~
+~
+0
+2303
+0
+EndRoom
+
+#ROOM
+Vnum 2303
+Name The edge of the forest and hills~
+Desc You stand at the edge of a dark forest. A path leads north into the forest and
+its deadly darkness and silence. Looking west, you see a path that leads up
+into a foothills region. Standing here on the boundary between light and
+darkness, you feel very vulnerable and alone.
+~
+Room_flags 0
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2302
+0
+Exit
+3
+~
+~
+-1
+2309
+0
+EndRoom
+
+#ROOM
+Vnum 2304
+Name In the dense forest~
+Desc You walk along a small path leading through a dark forest. No sounds can be
+heard and little light penetrates the canopy of trees above you. The air here
+smells musty and you long for a fresh breath. You see an intersection of paths
+to the west. The path you are on leads south into the darkening woods.
+~
+Room_flags 1
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+2305
+0
+Exit
+3
+~
+~
+0
+2302
+0
+EndRoom
+
+#ROOM
+Vnum 2305
+Name The dark forest path~
+Desc You continue on through darkness and gloom. The path below you has become a
+wet quagmire. It is difficult to walk, and you make squishing sounds as you
+move on. Looking east, you see a swampy path. The main path leads north and
+south into darkness.
+~
+Room_flags 1
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2304
+0
+Exit
+1
+~
+~
+-1
+2327
+0
+Exit
+2
+~
+~
+0
+2306
+0
+EndRoom
+
+#ROOM
+Vnum 2306
+Name A turn in the path~
+Desc The forest path turns here towards the north and west. To the north, you see
+that the ground has become dank and swampy, while the western path appears
+to be entering a hilly area. You hear sounds of swamp creatures to the north
+east.
+~
+Room_flags 1
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2305
+0
+Exit
+3
+~
+~
+0
+2307
+0
+EndRoom
+
+#ROOM
+Vnum 2307
+Name The bloody intersection~
+Desc This is a small intersection. Paths lead east, west, and south. You are struck
+by the carnage here when you enter the clearing. There appears to have been a
+great battle here. Blood is everywhere and the ground is all torn up. Pieces
+of beaten armour and broken blades lie all around. Examining the tracks here
+lead you to believe that the dead and wounded were dragged off in two 
+directions, south and east.
+~
+Room_flags 1
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2306
+0
+Exit
+2
+~
+~
+0
+2310
+0
+Exit
+3
+~
+~
+0
+2308
+0
+EndRoom
+
+#ROOM
+Vnum 2308
+Name The rocky path~
+Desc The path here winds among the low rocky hills. The long trek up and down the
+hills begins to tire you greatly. Looking east, you see a small clearing. More
+hills are to the north of here.
+~
+Room_flags 0
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2309
+0
+Exit
+1
+~
+~
+0
+2307
+0
+EndRoom
+
+#ROOM
+Vnum 2309
+Name The rocky path~
+Desc The path here is very rocky and treacherous. The travelling is rough and you
+slip and fall often. Looking south, you see that the path continues into the
+hills. Smoother ground is to the east, but the path seems to lead into a dark
+forest in that direction.
+~
+Room_flags 0
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2303
+0
+Exit
+2
+~
+~
+0
+2308
+0
+EndRoom
+
+#ROOM
+Vnum 2310
+Name Up the rocky hillside~
+Desc You are climbing on a rocky hillside. As you scramble about, loose rocks and
+small boulders bounce and fall down below you. Looking to the east and west,
+you see more stable ground. The hillside itself goes on higher to the south
+and it drops away to the north.
+~
+Room_flags 4
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2307
+0
+Exit
+1
+~
+~
+0
+2312
+0
+Exit
+2
+~
+~
+0
+2314
+0
+Exit
+3
+~
+~
+0
+2311
+0
+EndRoom
+
+#ROOM
+Vnum 2311
+Name The sparse foothills~
+Desc You are in foothills that are sparsely covered by scraggly bushes and weather
+beaten trees. There are little signs of life here. Only bare rock and dry dirt
+can be seen. Looking east, you see a small pass that will allow you to leave
+the foothills. The foothills themselves extend to the south.
+~
+Room_flags 0
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2310
+0
+Exit
+2
+~
+~
+0
+2313
+0
+EndRoom
+
+#ROOM
+Vnum 2312
+Name Standing on level ground~
+Desc You are standing at the edge of a steep set of foothills. Looking down, you
+see what appears to be a marshy, dark forest. It reeks of death and decay.
+Even here, you catch its scent on the winds. From here, you can travel south
+deeper into the foothills or to the west where a small pass will allow you to
+climb down.
+~
+Room_flags 0
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+2315
+0
+Exit
+3
+~
+~
+0
+2310
+0
+EndRoom
+
+#ROOM
+Vnum 2313
+Name In the foothills~
+Desc You are in a barren set of foothills. Looking around, all you see are dead
+plants and boulders. From the south, you get a whiff of salty air. Barren paths
+lead east, north, and south into more barren hills.
+~
+Room_flags 0
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2311
+0
+Exit
+1
+~
+~
+0
+2314
+0
+Exit
+2
+~
+~
+0
+2317
+0
+EndRoom
+
+#ROOM
+Vnum 2314
+Name Before the huge tree~
+Desc You enter a large ring of boulders. Sheltered by this wall of stones, a small
+cluster of plants have sprung up. In the center of this group of trees and
+bushes is a huge gnarled tree. It appears to have been twisted and torn by
+the forces of nature. It sways and moans as a strong wind from the south tears
+through its old feeble branches. The hills themselves lead in all directions.
+~
+Room_flags 0
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2310
+0
+Exit
+1
+~
+~
+0
+2315
+0
+Exit
+2
+~
+~
+0
+2318
+0
+Exit
+3
+~
+~
+0
+2313
+0
+EndRoom
+
+#ROOM
+Vnum 2315
+Name Before the dark cave~
+Desc You stand directly before a huge dark cave. The rocks and boulders outside the
+cave are covered with blood stains and all types of broken and shattered bones
+lie around. An unbearable stench comes from within the cave itself. The dark
+cave entrance looms to the east. The hills themselves lead towards the
+north, south, and west.
+~
+Room_flags 0
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2312
+0
+Exit
+1
+~
+~
+0
+2316
+0
+Exit
+2
+~
+~
+0
+2319
+0
+Exit
+3
+~
+~
+0
+2314
+0
+EndRoom
+
+#ROOM
+Vnum 2316
+Name Inside the horrid cave~
+Desc The stench is overwhelming. You can hardly breathe as you enter the cave.
+Looking around, you realize that some bizarre and horrible creature uses this
+cave as a home. Skeletal remains lie all over. Several half-eaten corpses are
+rotting away slowly in the gloomy darkness. In the back of the cave, you see a
+large pile of rotting cloth, fur, and plant matter. Light and safety is
+towards the west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+pile~
+It appears to be some sort of nest......
+~
+Exit
+3
+~
+~
+0
+2315
+0
+EndRoom
+
+#ROOM
+Vnum 2317
+Name The hills overlooking the shore~
+Desc Standing at the edge of the foothills, you are able to look down upon a rocky
+shoreline. It appears as though a vast ocean is to the south. Sea birds have
+made their nests here in the rocks and you are heartened by the presence of
+life here. It is possible to climb down to the shore here. The hills
+themselves are to the north. The edge of the hills leads to the east along the
+shoreline.
+~
+Room_flags 0
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2313
+0
+Exit
+1
+~
+~
+0
+2318
+0
+Exit
+5
+~
+~
+0
+2320
+0
+EndRoom
+
+#ROOM
+Vnum 2318
+Name The hills overlooking the shoreline~
+Desc You stand on a barren section of hills that overlook a rocky shoreline. The
+stiff ocean wind has blown the rocks smooth here and you have to lean forward
+a bit to keep your balance. The salty sea air fills your nostrils and you
+notice signs of life in the rocky crags here. You can climb down towards the
+shore or head north into the hills themselves. The rocky summit you are
+standing leads east and west along the shoreline.
+~
+Room_flags 0
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2314
+0
+Exit
+1
+~
+~
+0
+2319
+0
+Exit
+3
+~
+~
+0
+2317
+0
+Exit
+5
+~
+~
+0
+2321
+0
+EndRoom
+
+#ROOM
+Vnum 2319
+Name The hills above the shoreline~
+Desc You stand on a rocky summit overlooking a rough shoreline below. The sea wind
+blows hard across the rocks here and they have been worn smooth with time.
+Looking around, you notice that you can safely climb down towards the shore.
+The hills themselves stretch towards the north. The rough summit you stand
+upon leads west along the shoreline.
+~
+Room_flags 0
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2315
+0
+Exit
+3
+~
+~
+0
+2318
+0
+Exit
+5
+~
+~
+0
+2322
+0
+EndRoom
+
+#ROOM
+Vnum 2320
+Name The rocky shore~
+Desc You are at the base of the rocky hills. Stretching to the south and east, you
+see a rocky shore. To the southeast, you see a small altar of some sorts that
+glows with an eerie blue light. It is possible to climb up into the hills here.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2321
+0
+Exit
+2
+~
+~
+0
+2323
+0
+Exit
+4
+~
+~
+0
+2317
+0
+EndRoom
+
+#ROOM
+Vnum 2321
+Name The rocky shoreline~
+Desc You are on a rocky shore that borders a vast sea. A stiff wind blows here and
+whistles among the rocks. You see an altar of some sort built on the shore to
+the south. The shore itself leads east and west. Looking up, you see foothills
+and rocky crags.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2322
+0
+Exit
+2
+~
+~
+0
+2324
+0
+Exit
+3
+~
+~
+0
+2320
+0
+Exit
+4
+~
+~
+0
+2318
+0
+EndRoom
+
+#ROOM
+Vnum 2322
+Name The rocky shore~
+Desc You stand at the base of some rocky hills, where they meet a rocky shore. A
+vast sea is to your south. Looking to the southwest, you see a small altar
+that glows with a eerie blue light. The shore stretches out to the south and
+west. It is possible to climb up into the hills here.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+2325
+0
+Exit
+3
+~
+~
+0
+2321
+0
+Exit
+4
+~
+~
+0
+2319
+0
+EndRoom
+
+#ROOM
+Vnum 2323
+Name The edge of the sea~
+Desc You walk along the water's edge. The vastness of the ocean is staggering as
+you look out across it. You notice a small altar that glows with blue light
+to the east. The shore itself extends north away from the water's edge.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2320
+0
+Exit
+1
+~
+~
+0
+2324
+0
+EndRoom
+
+#ROOM
+Vnum 2324
+Name The Blood Sea Portal~
+Desc You stand on a small pedestal like altar that has been built on the shore 
+here. Standing here, you can look out across the sea. You can almost imagine
+that you see a far away island. Dominating the altar is a small blue portal of
+light. It is possible to walk south into the portal. The shore itself extends
+to the north, east, and west.
+There are small inscriptions on the rock at the base of the portal.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+portal blue~
+You see a swirling blue portal of light. You think you can see glimpses of
+something moving on the "other side".
+~
+ExtraDesc
+small inscriptions inscription~
+"Enter all ye who wish to join the Brotherhood!"
+~
+Exit
+0
+~
+~
+0
+2321
+0
+Exit
+1
+~
+~
+0
+2325
+0
+Exit
+2
+~
+~
+0
+2326
+0
+Exit
+3
+~
+~
+0
+2323
+0
+EndRoom
+
+#ROOM
+Vnum 2325
+Name The edge of the sea~
+Desc You walk along the water's edge. The tide appears to have risen. Very little
+debris is washed up on shore. You slip and slide as you tread across the
+slippery rocks that make up the shore. To the west you see a small altar that
+radiates blue light. The shore extends north away from the water's edge.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2322
+0
+Exit
+3
+~
+~
+0
+2324
+0
+EndRoom
+
+#ROOM
+Vnum 2326
+Name Floating in blue light~
+Desc You seem to be floating in blue weightlessness. You tumble head over heels and
+finally right yourself. Gaining your bearings, you notice that there are two
+"windows" in the sea of blue here. One to the south shows an image of a snowy
+plain. Another window the the north shows an image of a rocky shore.
+~
+Room_flags 12
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2324
+0
+Exit
+2
+~
+~
+-1
+2353
+0
+EndRoom
+
+#ROOM
+Vnum 2327
+Name The swampy path~
+Desc This damp path seems to lead into a deep, dark swamp. The trees above block
+out all light and stifle the wind. You smell swamp gas and hear damp squashing
+sounds all around you. The path leads east deeper into the swamp. You also see
+a dark forest to the west.
+~
+Room_flags 13
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2328
+0
+Exit
+3
+~
+~
+0
+2305
+0
+EndRoom
+
+#ROOM
+Vnum 2328
+Name The swampy path~
+Desc You tread lightly in a wet, swampy path. All around you, you see pools of
+quicksand and rotting vegetation. Unlike the forest to the west, the swamp is
+teeming with life. Some of it is harmless, some is not. The path leads east
+and west into more swamp.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2329
+0
+Exit
+3
+~
+~
+0
+2327
+0
+EndRoom
+
+#ROOM
+Vnum 2329
+Name The swampy path~
+Desc You weave your way through the treacherous swamp. Gas rises all around you and
+a damp mist covers the ground, making it impossible to travel safely, without
+carefully picking your way around obstacles. Large, gnarled trees rise above
+you. Their moss covered branches block out all traces of the sun. The path
+here leads east and west.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2330
+0
+Exit
+3
+~
+~
+0
+2328
+0
+EndRoom
+
+#ROOM
+Vnum 2330
+Name The turn in the swampy path~
+Desc You come upon a bend in the swampy path. The ground here is fairly sturdy,
+as this place is elevated above the rest of the swamp. Looking around, you see
+a dark, mist filled swamp. Small paths lead south and west into the mist.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+2331
+0
+Exit
+3
+~
+~
+0
+2329
+0
+EndRoom
+
+#ROOM
+Vnum 2331
+Name The swampy path~
+Desc You tread lightly through the mirky water and sludge that makes up the path
+you follow. To the east, there is a thick wall of mist. You can see nothing
+within it. Harder ground rises to the north.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2330
+0
+Exit
+1
+~
+~
+0
+2335
+0
+EndRoom
+
+#ROOM
+Vnum 2332
+Name Lost in the Mist~
+Desc You wander, hopelessly lost. Swirling mist obscures your vision and clouds
+your mind. You lose all concept of direction. Small, silent giggles can be
+heard all around. You can wander in any direction.
+~
+Room_flags 8201
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2337
+0
+Exit
+1
+~
+~
+0
+2334
+0
+Exit
+2
+~
+~
+0
+2335
+0
+Exit
+3
+~
+~
+0
+2334
+0
+EndRoom
+
+#ROOM
+Vnum 2333
+Name Lost in the Mist~
+Desc You are in a thick misty area. The mist swirls around you, seeming to taunt
+you and dare you to escape. You feel a slight electric charge in the mist. It
+almost caresses your body as it floats about you. You can wander in any
+direction.......
+~
+Room_flags 8201
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2333
+0
+Exit
+1
+~
+~
+0
+2336
+0
+Exit
+2
+~
+~
+0
+2333
+0
+Exit
+3
+~
+~
+0
+2335
+0
+EndRoom
+
+#ROOM
+Vnum 2334
+Name Lost in the Mist~
+Desc You try to peer through the mist......You see nothing. It swirls about you,
+covering you in a damp sheen. There is no sound, all light is eagerly devoured
+by the mist. You feel totally and hopelessly lost.
+~
+Room_flags 8201
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2338
+0
+Exit
+1
+~
+~
+0
+2332
+0
+Exit
+2
+~
+~
+0
+2336
+0
+Exit
+3
+~
+~
+0
+2332
+0
+EndRoom
+
+#ROOM
+Vnum 2335
+Name Lost in the Mist~
+Desc You stumble through the marsh here. The swamp seems to have swallowed you up
+and denied you exit. This mist is your jailor. You cannot tell where you are.
+You hear quiet laughter all about you.
+~
+Room_flags 8201
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2332
+0
+Exit
+1
+~
+~
+0
+2333
+0
+Exit
+2
+~
+~
+0
+2337
+0
+Exit
+3
+~
+~
+0
+2331
+0
+EndRoom
+
+#ROOM
+Vnum 2336
+Name Lost in the Mist~
+Desc You wander, lost, for what seems an eternity. Then....From nowhere....You see
+what appears to be trees and hills to the east. The mist itself thickens to
+the west, while it grows thin to the east.
+~
+Room_flags 8201
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2334
+0
+Exit
+1
+~
+~
+0
+2339
+0
+Exit
+2
+~
+~
+0
+2338
+0
+Exit
+3
+~
+~
+0
+2333
+0
+EndRoom
+
+#ROOM
+Vnum 2337
+Name Lost in the Mist~
+Desc You wander through the thick mist. It swirls all about you and makes it hard
+to breathe. The ground below you makes a soft squishing sound as you trudge
+on, but this noise is absorbed by the mist and does not travel. You can wander
+in any direction.
+~
+Room_flags 8201
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2335
+0
+Exit
+1
+~
+~
+0
+2338
+0
+Exit
+2
+~
+~
+0
+2332
+0
+Exit
+3
+~
+~
+0
+2338
+0
+EndRoom
+
+#ROOM
+Vnum 2338
+Name Lost in the Mist~
+Desc You wander, lost hopelessly. The mist swirls all about you. You can discern no
+direction. You stumble blindly through the mist, oblivious to your
+surroundings.
+~
+Room_flags 8201
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2336
+0
+Exit
+1
+~
+~
+0
+2337
+0
+Exit
+2
+~
+~
+0
+2334
+0
+Exit
+3
+~
+~
+0
+2337
+0
+EndRoom
+
+#ROOM
+Vnum 2339
+Name The solid path~
+Desc A solid path rises out of the misty swamp. It leads north, into what appears
+to be a forested area. The trees, above, allow light and air to penetrate and
+you can see the sky above. A thick bank of mist is to your west.
+~
+Room_flags 0
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2340
+0
+Exit
+3
+~
+~
+0
+2336
+0
+EndRoom
+
+#ROOM
+Vnum 2340
+Name A forested path~
+Desc The path here leads north through a thick forest. High bushes and forest
+undergrowth line both sides of the trail. Looking north, you see a thin line
+of smoke rising up above the tree line. You also notice a crude wooden gate
+farther north on the trail. The trail itself leads south into murky territory.
+~
+Room_flags 4
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2341
+0
+Exit
+2
+~
+~
+0
+2339
+0
+EndRoom
+
+#ROOM
+Vnum 2341
+Name The gate before the Ogre Village~
+Desc You stand before a huge pair of crude, wooden gates. They are thrown open.
+Looking inside the gates, you see a crude village. Large humanoid creatures
+are milling to and fro.......Ogres! You can head north through the gate or
+south into the forest.
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2343
+0
+Exit
+2
+~
+~
+0
+2340
+0
+EndRoom
+
+#ROOM
+Vnum 2342
+Name Among the crude huts~
+Desc You walk among the huts of the ogre village. The village appears to be cut
+from the heart of the forest itself. The swamp, nearby, provides the ogres
+with a prime hunting ground. Small paths lead north and east.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2345
+0
+Exit
+1
+~
+~
+0
+2343
+0
+EndRoom
+
+#ROOM
+Vnum 2343
+Name Inside the gates~
+Desc You stand just north of the gates to the village. Looking around, you see many
+crude huts and cooking fires. To the north, you see a huge fire pit. Behind 
+it, there appears to be a hut of sorts. Small paths lead east and west among 
+the crude huts. The gates to the south provide an exit from the village.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2346
+0
+Exit
+1
+~
+~
+0
+2344
+0
+Exit
+2
+~
+~
+0
+2341
+0
+Exit
+3
+~
+~
+0
+2342
+0
+EndRoom
+
+#ROOM
+Vnum 2344
+Name Among the crude huts~
+Desc You walk through the crude village. Small huts made of wood and thatch
+surround you. Every so often, you can hear grunts and snarls inside the huts.
+The smell here is unbearable. You wonder what type of creature could possibly
+live in such squalor. Small paths lead west and north here.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2347
+0
+Exit
+3
+~
+~
+0
+2343
+0
+EndRoom
+
+#ROOM
+Vnum 2345
+Name The gathering place~
+Desc This appears to be the clearing the ogres use to assemble. It is quite large
+and has a raised mound in the center that contains a crude throne. The ground
+in front of the throne is quite worn, as if it is sat on quite often. You get
+the impression that this place is a crude sort of auditorium. Small paths lead
+east and south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2346
+0
+Exit
+2
+~
+~
+0
+2342
+0
+EndRoom
+
+#ROOM
+Vnum 2346
+Name The firepit before the lodge~
+Desc You stand at the edge of a huge firepit. The heat from the burning embers
+makes you sweat as you stand here. Large spits above the pit are empty but
+they appear to be quite large enough to hold hapless adventurers. A large
+lodge is towards the north, while paths lead east, west, and south into the
+village itself.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door~
+-1
+2348
+A
+Exit
+1
+~
+~
+0
+2347
+0
+Exit
+2
+~
+~
+0
+2343
+0
+Exit
+3
+~
+~
+0
+2345
+0
+EndRoom
+
+#ROOM
+Vnum 2347
+Name The village dump~
+Desc The smell here overpowers you. All around you are the rotting remains of the
+village's refuse. Partially eaten corpses, rotting food, and other truly
+disgusting things have been discarded here. Paths lead south and west towards
+fresher air.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+2344
+0
+Exit
+3
+~
+~
+0
+2346
+0
+EndRoom
+
+#ROOM
+Vnum 2348
+Name The entryway to the lodge~
+Desc You are at the entry hall to a large lodge. Animal pelts and other trophies
+line the walls here. Large chests on either side of the door appear to be
+locked. The lodge stretches north, while the doors to the south provide an
+exit into the village.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2349
+0
+Exit
+2
+~
+door~
+-1
+2346
+A
+EndRoom
+
+#ROOM
+Vnum 2349
+Name The throne room~
+Desc You stand in a large, crudely decorated throne room. A huge throne adorned
+with humanoid skulls sits against the west wall. A crude, blood stained altar
+is against the east wall. A doorway is directly to the north, long strands of
+beads blocking the view of the other side. Crude torches light the hall and 
+smoke clings to the ceiling.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2350
+0
+Exit
+2
+~
+~
+0
+2348
+0
+EndRoom
+
+#ROOM
+Vnum 2350
+Name The chieftain's room~
+Desc This appears to be the ogre chieftain's private quarters. A huge pile of furs
+is in the far corner. Large chests fill the room. All of them have heavy pad
+locks. The room is filled with trophies of dead enemies. It is quite lavishly
+decorated for such a crude inhabitant as an ogre. A beaded doorway is to the
+south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+2349
+0
+EndRoom
+
+#ROOM
+Vnum 2351
+Name The frigid wastelands~
+Desc You wander through the frigid wastelands. Your breath is a cloud before you.
+The cold cuts to the bone. Swirling snow and wind make impossible for you to
+discern any directions.
+~
+Room_flags 0
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2353
+0
+Exit
+1
+~
+~
+0
+2352
+0
+Exit
+2
+~
+~
+0
+2355
+0
+Exit
+3
+~
+~
+0
+2354
+0
+EndRoom
+
+#ROOM
+Vnum 2352
+Name The frigid wastelands~
+Desc You wander through the frigid wastelands. Your breath is a cloud before you.
+The cold cuts to the bone. Swirling snow and wind make it impossible to
+discern any directions.
+~
+Room_flags 0
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2357
+0
+Exit
+1
+~
+~
+-1
+2354
+0
+Exit
+2
+~
+~
+-1
+2358
+0
+Exit
+3
+~
+~
+0
+2351
+0
+EndRoom
+
+#ROOM
+Vnum 2353
+Name The Glacier Temple~
+Desc You are in a small temple. It appears to be built entirely from ice. The ice
+walls are frosted and are opaque. There is a small blue portal here. You can
+go north, to enter the portal. Looking south, you see a world of white outside
+the open doorway. Swirling snow and bright light obscure your view.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2326
+0
+Exit
+2
+~
+~
+0
+2351
+0
+EndRoom
+
+#ROOM
+Vnum 2354
+Name The frigid wastelands~
+Desc You wander through the frigid wastelands. Your breath is a cloud before you.
+The cold cuts to the bone. Swirling snow and wind make it impossible for you
+to discern any directions.
+~
+Room_flags 0
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2359
+0
+Exit
+1
+~
+~
+0
+2351
+0
+Exit
+2
+~
+~
+0
+2356
+0
+Exit
+3
+~
+~
+0
+2352
+0
+EndRoom
+
+#ROOM
+Vnum 2355
+Name The frigid wastelands~
+Desc You wander through the frigid wastelands. Your breath is a cloud before you.
+The cold cuts to the bone. Swirling snow and wind make it impossible for you
+to discern any directions.
+~
+Room_flags 0
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2351
+0
+Exit
+1
+~
+~
+0
+2356
+0
+Exit
+2
+~
+~
+0
+2357
+0
+Exit
+3
+~
+~
+0
+2356
+0
+EndRoom
+
+#ROOM
+Vnum 2356
+Name The frigid wastelands~
+Desc You wander through the frigid wastelands. Your breath is a cloud before you.
+The cold cuts to the bone. Swirling snow and wind make it impossible for you
+to discern any directions.
+~
+Room_flags 0
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2354
+0
+Exit
+1
+~
+~
+0
+2355
+0
+Exit
+2
+~
+~
+0
+2359
+0
+Exit
+3
+~
+~
+0
+2355
+0
+EndRoom
+
+#ROOM
+Vnum 2357
+Name The frigid wastelands~
+Desc You wander through the frigid wastelands. Your breath is a cloud before you.
+The cold cuts to the bone. Swirling snow and wind make it impossible for you
+to discern any directions.
+~
+Room_flags 0
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2355
+0
+Exit
+1
+~
+~
+0
+2358
+0
+Exit
+2
+~
+~
+0
+2352
+0
+Exit
+3
+~
+~
+0
+2359
+0
+EndRoom
+
+#ROOM
+Vnum 2358
+Name The frigid wastelands~
+Desc You wander through the frigid wastelands. Your breath is a cloud before you.
+The cold cuts to the bone. Swirling snow and wind make it impossible for you
+to discern any direction.
+~
+Room_flags 0
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2352
+0
+Exit
+1
+~
+~
+0
+2359
+0
+Exit
+2
+~
+~
+0
+2360
+0
+Exit
+3
+~
+~
+0
+2357
+0
+EndRoom
+
+#ROOM
+Vnum 2359
+Name The frigid wastelands~
+Desc You wander through the frigid wastelands. Your breath is a cloud before you.
+The cold cuts to the bone. Swirling snow and wind make it impossible for you
+to discern any directions.
+~
+Room_flags 0
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2356
+0
+Exit
+1
+~
+~
+0
+2357
+0
+Exit
+2
+~
+~
+0
+2354
+0
+Exit
+3
+~
+~
+0
+2358
+0
+EndRoom
+
+#ROOM
+Vnum 2360
+Name The edge of the frigid wastes~
+Desc You stand at the base of a steep rocky cliff. To the north, a vast arctic
+wasteland stretches out. The snow falls lightly here and the wind is not
+very fierce. You can climb up the rocky cliff or head north into the arctic
+wastes.
+~
+Room_flags 4
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2358
+0
+Exit
+4
+~
+~
+0
+2361
+0
+EndRoom
+
+#ROOM
+Vnum 2361
+Name On the cliffside~
+Desc You cling to the side of the cliff. Looking down, you are terrified by the
+sheer distance to the ground below. You can climb up higher into the cliffs,
+but the area above is obscured by clouds and you cannot tell what lies waiting
+above.
+~
+Room_flags 4
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+0
+2362
+0
+Exit
+5
+~
+~
+0
+2360
+0
+EndRoom
+
+#ROOM
+Vnum 2362
+Name Before the gates of Mahn-Tor~
+Desc You stand at the edge of a high cliff. Directly south, set back off the
+cliff's edge, you see a huge pair of gates. These gates appear to be carved
+almost completely out of ice. A huge city and keep appear to be on the other
+side of these gates. There is also a possibility of climbing down the cliff 
+face.
+~
+Room_flags 0
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+gate gates ice huge~
+The gates to the city are made almost completely of ice. Looking closely, you
+can see intricate carvings in the gates. They appear to be of creatures that
+are half man and half bull.
+~
+Exit
+2
+~
+gate huge gates ice~
+-1
+2364
+AB
+Exit
+5
+~
+~
+0
+2361
+0
+EndRoom
+
+#ROOM
+Vnum 2363
+Name The city streets of Mahn-Tor~
+Desc You walk among the ice and snow covered shops and homes. Most of the doors are
+closed and only the light from the windows betrays the presence of inhabitants.
+A cold wind blows through here, scattering fine clouds of snow all about. Small
+streets lead south and east.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2364
+0
+Exit
+2
+~
+~
+0
+2366
+0
+EndRoom
+
+#ROOM
+Vnum 2364
+Name Inside the gates of Mahn-Tor~
+Desc You stand just inside the gates to the city of Mahn-Tor. The city itself
+spreads out in front of you. The buildings are sturdy, as they appear to be
+made from the very rock of this mountain. Snow falls all around and a fine
+sheet of ice can be seen covering all but the most used walk ways. Small city
+streets lead east and west, while a main road appears to lead south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+gates gate huge ice~
+-1
+2362
+A
+Exit
+1
+~
+~
+-1
+2365
+0
+Exit
+2
+~
+~
+0
+2367
+0
+Exit
+3
+~
+~
+-1
+2363
+0
+EndRoom
+
+#ROOM
+Vnum 2365
+Name The city streets of Mahn-Tor~
+Desc You trudge among the icy streets of Mahn-Tor. The streets themselves are made
+of cobblestone and are quite treacherous. Small homes and businesses along
+the street are closed tight and light from their windows throws eerie shadows
+across the dark street. Small streets lead west and south here.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+2368
+0
+Exit
+3
+~
+~
+0
+2364
+0
+EndRoom
+
+#ROOM
+Vnum 2366
+Name The city streets of Mahn-Tor~
+Desc You trudge through the snow covered streets. The street itself is made of
+cobblestones and the footing is quite treacherous. To the south, you see what
+appears to be a small tavern. Bright lights shine through the windows. Small
+streets also lead north and east.
+A small sign hangs outside the tavern.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign small~
+[]=============[]
+ |   The Inn   |
+ |    of the   |
+ |    Broken   |
+ |     Horn    |
+[]=============[]
+~
+Exit
+0
+~
+~
+0
+2363
+0
+Exit
+1
+~
+~
+-1
+2367
+0
+Exit
+2
+~
+~
+-1
+2369
+0
+EndRoom
+
+#ROOM
+Vnum 2367
+Name The Square of Mahn-Tor~
+Desc This appears to be the main square of Mahn-Tor. A huge fountain graces the
+center of the square, but the extreme cold has turned it into an ice
+sculpture. The water has frozen in arcs through the air. Snow and ice covers
+the square and small streets lead east and west. To the north, you see
+the gates to the city. You also notice a small store to the south.
+A small sign hangs outside the store.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+[]=========[]
+ |  Equip  |
+ |   Shop  |
+[]=========[]
+~
+Exit
+0
+~
+~
+0
+2364
+0
+Exit
+1
+~
+~
+0
+2368
+0
+Exit
+2
+~
+~
+0
+2370
+0
+Exit
+3
+~
+~
+0
+2366
+0
+EndRoom
+
+#ROOM
+Vnum 2368
+Name The streets of Mahn-Tor~
+Desc You walk among the small stores and homes of Mahn-Tor. The cobblestone streets
+are covered with ice and snow. Small snow drifts have formed at the edges of
+the streets. The wind blows fiercely. Small streets lead in all directions.
+There appears to be a large building to the east, but the snow obscures your
+view.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2365
+0
+Exit
+1
+~
+~
+0
+2375
+0
+Exit
+2
+~
+~
+0
+2371
+0
+Exit
+3
+~
+~
+0
+2367
+0
+EndRoom
+
+#ROOM
+Vnum 2369
+Name The Inn of the Broken Horn~
+Desc You enter a warm tavern. The room is lit mainly by two huge fireplaces at each
+end of the room. Small tables and a large bar furnish the room. The
+inhabitants of the inn are all minotaurs of varying size and disposition. Most
+seem to regard you with suspicion. Few approach you. A large door leads
+north, out of the bar and back out into the cold.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2366
+0
+EndRoom
+
+#ROOM
+Vnum 2370
+Name The Mahn-Tor Equipment Shop~
+Desc You are in a crude equipment shop. The store is filled with racks of various
+items that adventurers could use. Large fireplaces light and heat the room.
+A large desk occupies the back of the room. The door to the shop lies to the
+north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2367
+0
+EndRoom
+
+#ROOM
+Vnum 2371
+Name The Mahn-Tor General Store~
+Desc You enter a small store that is dark and cold. Old empty shelves line the
+walls and snow blows across the dirty stone floor. It is evident that this
+store was once used, but it is no more. A small doorway leads north out into
+the chilling snow and wind.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2368
+0
+EndRoom
+
+#ROOM
+Vnum 2372
+Name Gorak's Training Room~
+Desc This room is full of all sorts of weapons and armours. Pieces of old targets
+and practice dummies lie all around. The walls are chipped and scored from
+weapon blows. This is obviously the room of an avid warrior. A red door leads
+east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+red~
+It looks like it leads back to the hall.
+~
+Exit
+1
+~
+red~
+2351
+2388
+AF
+EndRoom
+
+#ROOM
+Vnum 2373
+Name Darkoth's Dark Study~
+Desc This room is dark. It reeks of death and evil. Arcane symbols and a small
+altar fill the room. Blood runs from the altar. It is evident that this room
+is used for unholy purposes. A black door leads east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+black~
+It looks like it leads back to the hall.
+~
+Exit
+1
+~
+black~
+2352
+2389
+AF
+EndRoom
+
+#ROOM
+Vnum 2374
+Name Tyrgoth's Inner Sanctum~
+Desc Idols to the gods of good fill the room. White furniture and decorations give
+the room a holy appearance. It is evident that some being of supreme goodness
+lives here. A white door leads east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+white~
+It looks like it leads out to the hall.
+~
+Exit
+1
+~
+white~
+2353
+2392
+AF
+EndRoom
+
+#ROOM
+Vnum 2375
+Name The road to the Keep of Mahn-Tor~
+Desc You walk up a steep rocky road. It leads up a steep grade to the east. At the
+end of this steep road, you see a huge keep. Snow swirls all about you and you
+feel your breath freeze as it leaves your lungs. Blurry lights to the east and
+west are all you can see from here.
+~
+Room_flags 4
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2377
+0
+Exit
+3
+~
+~
+0
+2368
+0
+EndRoom
+
+#ROOM
+Vnum 2376
+Name A small guard house~
+Desc You enter a small guard house. A huge fireplace lights and warms the room.
+Looking around, you see that the room is fairly well furnished. Thick rugs
+and curtains help insulate the room and the beds themselves look quite warm.
+A table in the center of the room has the remnants of a card game strewn
+across it. A small door leads south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+2377
+0
+EndRoom
+
+#ROOM
+Vnum 2377
+Name Before the Keep of Mahn-Tor~
+Desc You stand before a huge keep that has been carved into the side of the
+mountain. Huge wooden gates before you provide entrance to the keep. It
+appears as though the cold here has convinced the guards to seek warmth
+inside. You see the lights of the city to the west. You also notice small
+guard houses to the north and south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2376
+0
+Exit
+1
+~
+gate~
+2350
+2379
+ABCF
+Exit
+2
+~
+~
+0
+2378
+0
+Exit
+3
+~
+~
+0
+2375
+0
+EndRoom
+
+#ROOM
+Vnum 2378
+Name A small guard house~
+Desc You enter a small, but warm, guard house. Deep rugs and thick curtains
+insulate the room. A huge fireplace lights and warms the room. Outside, you
+hear the roar of the freezing wind. A small door leads north out into the cold.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2377
+0
+EndRoom
+
+#ROOM
+Vnum 2379
+Name The entryway to the Keep of Mahn-Tor~
+Desc You are at the entry hall to the huge keep. The high vaulted ceiling is carved
+from solid stone. Huge stone pillars rise up from the floor to meet the
+ceiling far above. The architecture appears to be dwarven. A huge pair of
+gates stand to the west, protecting the keep from the harsh cold outside. A
+large hall leads east, deeper into the keep.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2380
+0
+Exit
+3
+~
+gate~
+2350
+2377
+ABCF
+EndRoom
+
+#ROOM
+Vnum 2380
+Name The Hall~
+Desc You are in a huge hall. Large tapestries line the walls and huge statues of
+various make and appearance are spread about. The ceiling above supports huge
+candelabras, which light the room. To the east, you see a bright light and
+hear sounds of inhabitation. Looking west, you see the entry gates to the keep.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2381
+0
+Exit
+3
+~
+~
+0
+2379
+0
+EndRoom
+
+#ROOM
+Vnum 2381
+Name The Grand Hall~
+Desc You are in the main hall of the Keep of Mahn-Tor. This hall is huge. The wide
+floor of the hall is an expanse of marble. It shimmers in the light thrown
+off by the torches that line the walls. To the east, you see what appears to
+be a huge golden throne. The hall itself stretches south and a smaller hall
+leads to the west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2383
+0
+Exit
+2
+~
+~
+0
+2382
+0
+Exit
+3
+~
+~
+0
+2380
+0
+EndRoom
+
+#ROOM
+Vnum 2382
+Name The Great Hall~
+Desc You stand in the great hall of the keep. Huge pillars rise up to the vaulted
+ceiling and torch light glimmers off the marble floor here. You are amazed at
+the sheer size of the hall. The hall itself leads north and east. You notice a
+smaller hall leading south, deeper into the keep.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2381
+0
+Exit
+1
+~
+~
+0
+2384
+0
+Exit
+2
+~
+~
+-1
+2387
+0
+EndRoom
+
+#ROOM
+Vnum 2383
+Name Standing before the throne~
+Desc You stand before the throne of Mahn-Tor. This golden throne is so huge that it
+takes up almost the entire wall, stretching far above the floor. Sitting upon
+it, you feel small and feeble. It is evident that this throne is more of a
+decoration than anything else. Only the largest of kings could sit upon it.
+The hall leads south and west into other parts of the keep.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+throne huge gold golden~
+The golden throne is huge. It takes up the whole wall.........
+~
+Exit
+1
+~
+throne huge golden gold~
+0
+2385
+AB
+Exit
+2
+~
+~
+0
+2384
+0
+Exit
+3
+~
+~
+0
+2381
+0
+EndRoom
+
+#ROOM
+Vnum 2384
+Name The Great Hall~
+Desc You are in a great hall. Huge torches light the room and their light shimmers
+off the marble floor below you. To the north, you see a huge golden throne.
+Looking up, you grow dizzy at the height to which the vaulted ceiling rises.
+The hall itself leads north and west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2383
+0
+Exit
+3
+~
+~
+0
+2382
+0
+EndRoom
+
+#ROOM
+Vnum 2385
+Name The secret hallway~
+Desc You are in a small, torch lit hall. It leads from east to west. A large gold
+door is to the west. To the east, you see a heavy stone door.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+huge stone~
+A very formidable looking door.
+~
+ExtraDesc
+gold~
+Looks like the back of a secret door of sorts.
+~
+Exit
+1
+~
+door huge stone~
+2359
+2386
+ABCF
+Exit
+3
+~
+gold throne huge secret~
+0
+2383
+A
+EndRoom
+
+#ROOM
+Vnum 2386
+Name Entry to the Royal Chambers~
+Desc You are at the entrance to the royal chambers of the keep. A plush shag rug
+covers the stone floor. Large candelabras hang from the ceiling, lighting the
+room. A huge fireplace warms the room. Beaded doorways lead south and east. A
+huge stone door stands in the west wall.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+door huge stone~
+A huge stone door.......
+~
+Exit
+1
+~
+~
+0
+2395
+0
+Exit
+2
+~
+~
+0
+2393
+0
+Exit
+3
+~
+door huge stone~
+2359
+2385
+ABCF
+EndRoom
+
+#ROOM
+Vnum 2387
+Name The Guard Post~
+Desc The hall here has been built into a guard post of sorts. It appears as though
+it would be quite easy to defend in times of emergency. Obviously, something
+important lies beyond. A small hall leads south, while the main hall can be
+seen to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2382
+0
+Exit
+2
+~
+~
+0
+2388
+0
+EndRoom
+
+#ROOM
+Vnum 2388
+Name The guarded hall~
+Desc You walk down a torch lit hallway. It has been carved out of pure stone. It is
+very quiet in this hall. You notice rows of colored doors on each wall. To
+your east, you see a yellow door. To your west, you see a red door. The hall
+itself leads south and north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+yellow~
+You see a yellow door. It has the name "Sumaron" written on it.
+~
+ExtraDesc
+red~
+You see a red door. It has the name "Gorak" written on it.
+~
+Exit
+0
+~
+~
+0
+2387
+0
+Exit
+1
+~
+yellow~
+2355
+2390
+ABCF
+Exit
+2
+~
+~
+0
+2389
+0
+Exit
+3
+~
+red~
+2351
+2372
+ABCF
+EndRoom
+
+#ROOM
+Vnum 2389
+Name The guarded hall~
+Desc You walk down a small, quiet, torch lit hallway. Doors of different colors are
+in each wall. To your east, you see a maroon door. To your west, you see a
+black door. The hall itself leads north and south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+maroon~
+You see a maroon door here. It has the name "Amyrok" written on it.
+~
+ExtraDesc
+black~
+You see a black door. It has the name "Darkoth" inscribed on it.
+~
+Exit
+0
+~
+~
+0
+2388
+0
+Exit
+1
+~
+maroon~
+2356
+2391
+ABCF
+Exit
+2
+~
+~
+0
+2392
+0
+Exit
+3
+~
+black~
+2352
+2373
+ABCF
+EndRoom
+
+#ROOM
+Vnum 2390
+Name Sumaron's Sanctum~
+Desc You enter a temple of sorts. A small altar is here and relics of many
+religions lie around. It is evident that this is the room of a studying cleric.
+A yellow door leads west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+yellow~
+It looks like it leads back to the hall.
+~
+Exit
+3
+~
+yellow~
+2355
+2388
+AF
+EndRoom
+
+#ROOM
+Vnum 2391
+Name Amyrok's Arcane Study~
+Desc This room is full of shelves which hold various spell components. The center
+of the room is occupied by a huge pentagram. The entire room smells of smoke
+and incense. The room is obviously used extensively by a practicing mage. A
+maroon door leads west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+maroon~
+It looks like it leads back to the hall.
+~
+Exit
+3
+~
+maroon~
+2356
+2389
+AF
+EndRoom
+
+#ROOM
+Vnum 2392
+Name The guarded hall~
+Desc You walk down a quiet hall. The stone walls here are wet with moisture.
+Colored doors can be seen in the walls here. To your east, you see a green
+door. To your west, you see a white door. The hall itself leads north and
+south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+green~
+You see a green door here. It has the name "Nasturn" written on it.
+~
+ExtraDesc
+white~
+You see a white door here. It has the name "Tyrgoth" inscribed on it.
+~
+Exit
+0
+~
+~
+0
+2389
+0
+Exit
+1
+~
+green~
+2357
+2394
+ABCF
+Exit
+2
+~
+~
+0
+2397
+0
+Exit
+3
+~
+white~
+2353
+2374
+ABCF
+EndRoom
+
+#ROOM
+Vnum 2393
+Name The Harem Room~
+Desc This appears to be the harem room of the Keep. Huge piles of furs and beds
+fill the room. The lighting is dim, but the room is very warm. You can hear
+music playing quietly from somewhere. Beaded doorways lead north and east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2386
+0
+Exit
+1
+~
+~
+0
+2396
+0
+EndRoom
+
+#ROOM
+Vnum 2394
+Name Nasturn's Humble Abode~
+Desc This room is filled with all types of natural items. Trees and plants have
+been lovingly cultivated and grown by hand, in large pots. The room is like an
+indoor garden. A green door leads west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+green~
+It looks like it leads back to the hall.
+~
+Exit
+3
+~
+green~
+2357
+2392
+AF
+EndRoom
+
+#ROOM
+Vnum 2395
+Name The main living room~
+Desc This room is decorated with sturdy stone furniture that is carved and gilded.
+Large candles light the room. A thick rug covers the floor. Thick furs and
+tapestries decorate the walls. Beaded doorways lead south and west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+2396
+0
+Exit
+3
+~
+~
+0
+2386
+0
+EndRoom
+
+#ROOM
+Vnum 2396
+Name The Master Bedroom~
+Desc This appears to be the master bedroom. A huge bed fills the rooms. Piles of
+furs and other rich furnishings adorn the room. Candles are everywhere and
+they help a huge fireplace light the room. The lavishness of the room
+overwhelms you. Beaded doorways lead north and west.
+~
+Room_flags 136
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2395
+0
+Exit
+3
+~
+~
+0
+2393
+0
+EndRoom
+
+#ROOM
+Vnum 2397
+Name The end of the guarded hall~
+Desc You are at the end of the hall. Colored doors line the walls to the north. To
+your west, you see a brown door. To your east, you see a grey door. The hall
+itself leads north back along the rows of doors.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+grey~
+You see a grey door here. It has the name "Dorgar" written on it.
+~
+ExtraDesc
+brown~
+You see a brown door here. It has the name "Belrak" written on it.
+~
+Exit
+0
+~
+~
+0
+2392
+0
+Exit
+1
+~
+grey~
+2358
+2398
+ABCF
+Exit
+3
+~
+brown~
+2354
+2399
+AF
+EndRoom
+
+#ROOM
+Vnum 2398
+Name Dorgar's Dismal Domicile~
+Desc This room is dirty and unkempt. Odds and ends of different items lie all over.
+It is apparent that some type of pack-rat lives here. It appears as though
+nothing has ever entered this room and ever left again. A grey door leads west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+grey~
+It looks like it leads back to the hall.
+~
+Exit
+3
+~
+grey~
+2358
+2397
+ABCF
+EndRoom
+
+#ROOM
+Vnum 2399
+Name Belrak's Green Room~
+Desc This room is full of green. The furniture and all other items show the color
+of nature. The room smells of pine and forest odors. From the items here, it
+appears as though a woodsman of some sorts lives here. A brown door leads east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+brown~
+It looks like it leads to the hall.
+~
+Exit
+1
+~
+brown~
+2354
+2397
+AF
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 2300 spec_cast_undead
+M 2302 spec_breath_acid
+M 2306 spec_poison
+M 2310 spec_cast_cleric
+M 2313 spec_breath_frost
+M 2314 spec_breath_acid
+M 2324 spec_cast_mage
+M 2326 spec_cast_undead
+M 2328 spec_cast_mage
+M 2329 spec_cast_cleric
+M 2330 spec_cast_cleric
+M 2333 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 2362 2 1
+D 0 2377 1 2
+D 0 2379 3 2
+D 0 2383 1 1
+D 0 2385 1 2
+D 0 2386 3 2
+D 0 2388 1 2
+D 0 2388 3 2
+D 0 2389 1 2
+D 0 2389 3 2
+D 0 2392 1 2
+D 0 2392 3 2
+D 0 2397 1 2
+D 0 2398 3 2
+M 0 2300 1 2307 1
+E 0 2346 0 5
+E 0 2347 0 6
+E 0 2348 0 16
+M 0 2303 4 2311 1
+M 0 2303 4 2312 1
+M 0 2303 4 2313 1
+M 0 2301 1 2314 1
+M 0 2302 1 2316 1
+M 0 2303 4 2319 1
+M 0 2304 1 2330 1
+G 0 2349 0
+M 0 2305 3 2332 1
+M 0 2305 3 2333 1
+M 0 2306 1 2336 1
+G 0 2384 0
+M 0 2305 3 2337 1
+M 0 2309 4 2341 2
+E 0 2387 0 16
+M 0 2309 4 2341 2
+E 0 2387 0 16
+M 0 2308 4 2342 1
+E 0 2386 0 16
+M 0 2309 4 2342 1
+E 0 2387 0 16
+M 0 2307 5 2343 1
+E 0 2385 0 13
+M 0 2307 5 2344 1
+M 0 2307 5 2345 1
+M 0 2307 5 2346 1
+E 0 2385 0 13
+M 0 2308 4 2346 1
+E 0 2386 0 16
+M 0 2308 4 2347 1
+E 0 2386 0 16
+M 0 2307 5 2348 1
+M 0 2308 4 2348 1
+E 0 2386 0 16
+M 0 2309 4 2348 1
+E 0 2387 0 16
+M 0 2310 1 2349 1
+E 0 2388 0 12
+E 0 2389 0 6
+M 0 2311 1 2350 1
+E 0 2390 0 9
+E 0 2391 0 16
+M 0 2312 3 2351 1
+E 0 2392 0 4
+E 0 2393 0 5
+E 0 2360 0 8
+M 0 2314 3 2352 1
+M 0 2312 3 2354 1
+E 0 2392 0 4
+E 0 2393 0 5
+E 0 2360 0 8
+M 0 2314 3 2354 1
+M 0 2313 3 2355 1
+E 0 2361 0 12
+M 0 2314 3 2356 1
+M 0 2313 3 2357 1
+E 0 2361 0 12
+M 0 2312 3 2359 1
+E 0 2392 0 4
+E 0 2393 0 5
+E 0 2360 0 8
+M 0 2313 3 2359 1
+E 0 2361 0 12
+M 0 2316 3 2362 1
+E 0 2363 0 10
+E 0 2364 0 7
+E 0 2365 0 16
+M 0 2315 5 2363 1
+E 0 2362 0 16
+M 0 2315 5 2364 1
+E 0 2362 0 16
+M 0 2315 5 2365 1
+E 0 2362 0 16
+M 0 2316 3 2366 1
+E 0 2363 0 10
+E 0 2364 0 7
+E 0 2365 0 16
+M 0 2315 5 2367 1
+E 0 2362 0 16
+M 0 2317 3 2367 1
+E 0 2366 0 5
+E 0 2367 0 6
+E 0 2368 0 16
+M 0 2316 3 2368 1
+E 0 2363 0 10
+E 0 2364 0 7
+E 0 2365 0 16
+M 0 2315 5 2370 1
+E 0 2362 0 16
+M 0 2325 1 2372 1
+E 0 2300 0 9
+E 0 2301 0 5
+E 0 2302 0 7
+E 0 2303 0 10
+E 0 2304 0 16
+M 0 2326 1 2373 1
+E 0 2305 0 12
+E 0 2306 0 4
+E 0 2307 0 9
+E 0 2308 0 11
+E 0 2309 0 16
+M 0 2327 1 2374 1
+E 0 2310 0 6
+E 0 2311 0 5
+E 0 2312 0 4
+E 0 2313 0 11
+E 0 2314 0 16
+M 0 2317 3 2376 1
+E 0 2366 0 5
+E 0 2367 0 6
+E 0 2368 0 16
+M 0 2318 1 2377 1
+G 0 2350 0
+M 0 2317 3 2378 1
+E 0 2366 0 5
+E 0 2367 0 6
+E 0 2368 0 16
+M 0 2319 2 2379 1
+E 0 2369 0 6
+E 0 2370 0 7
+E 0 2371 0 10
+E 0 2366 0 5
+E 0 2372 0 16
+M 0 2319 2 2380 1
+E 0 2369 0 6
+E 0 2370 0 7
+E 0 2371 0 10
+E 0 2366 0 5
+E 0 2372 0 16
+M 0 2320 2 2382 1
+E 0 2373 0 6
+E 0 2374 0 7
+E 0 2375 0 10
+E 0 2366 0 5
+E 0 2376 0 16
+M 0 2320 2 2383 1
+E 0 2373 0 6
+E 0 2374 0 7
+E 0 2375 0 10
+E 0 2366 0 5
+E 0 2376 0 16
+M 0 2321 2 2385 2
+E 0 2377 0 6
+E 0 2378 0 7
+E 0 2379 0 10
+E 0 2366 0 5
+E 0 2380 0 16
+M 0 2321 2 2385 2
+E 0 2377 0 6
+E 0 2378 0 7
+E 0 2379 0 10
+E 0 2366 0 5
+E 0 2380 0 16
+G 0 2359 0
+M 0 2324 1 2387 1
+G 0 2381 0
+E 0 2383 0 16
+E 0 2382 0 13
+P 0 2351 1 2382 1
+P 0 2352 1 2382 1
+P 0 2353 1 2382 1
+P 0 2354 1 2382 1
+P 0 2355 1 2382 1
+P 0 2356 1 2382 1
+P 0 2357 1 2382 1
+P 0 2358 1 2382 1
+M 0 2329 1 2390 1
+E 0 2320 0 12
+E 0 2321 0 3
+E 0 2322 0 17
+E 0 2323 0 16
+E 0 2324 0 4
+M 0 2328 1 2391 1
+E 0 2315 0 1
+E 0 2316 0 2
+E 0 2317 0 12
+E 0 2318 0 16
+E 0 2319 0 13
+M 0 2322 5 2393 5
+M 0 2322 5 2393 5
+M 0 2322 5 2393 5
+M 0 2322 5 2393 5
+M 0 2322 5 2393 5
+M 0 2330 1 2394 1
+E 0 2325 0 1
+E 0 2326 0 15
+E 0 2327 0 8
+E 0 2328 0 12
+E 0 2329 0 16
+M 0 2323 1 2395 1
+M 0 2333 1 2396 1
+E 0 2340 0 12
+E 0 2341 0 5
+E 0 2342 0 14
+E 0 2343 0 2
+E 0 2344 0 6
+E 0 2345 0 16
+M 0 2332 1 2398 1
+E 0 2335 0 12
+E 0 2336 0 6
+E 0 2337 0 10
+E 0 2338 0 7
+E 0 2339 0 16
+M 0 2331 1 2399 1
+E 0 2330 0 2
+E 0 2331 0 17
+E 0 2332 0 13
+G 0 2333 0
+E 0 2334 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

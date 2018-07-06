@@ -1,0 +1,83 @@
+
+Guild	Coders~
+Who	[{C Coders {X] ~
+Rooms	3054	3054	3054
+Rank	1	Quest Runner~
+Rank	2	Guild Imm~
+Rank	3	Builder~
+Rank	4	Coder~
+Rank	5	Head Builder~
+Rank	6	Head Coder~
+Skill	1	Story Teller~
+Skill	2	Master of Arms~
+Skill	6	Remake Pattern~
+ML	1  1  1  1
+Flags 0 
+
+
+Guild	Council~
+Who	[Council] ~
+Rooms	0	0	0
+Rank	1	Executioner in Training~
+Rank	2	Egocentric Megalomaniac~
+Rank	3	Master Executioner~
+Rank	4	Hopeless Addict~
+Rank	5	Drug Pusher~
+Rank	6	Slothful Drunk~
+ML	1  1  1  1
+Flags 0 
+
+
+Guild	DeathStalker~
+Who	[{DDeath{rStalker{x] ~
+Rooms	0	0	0
+Rank	1	King~
+Rank	2	Queen~
+Rank	3	Prince~
+Rank	4	Princess~
+Rank	5	Noble ~
+Rank	6	Slave~
+ML	0  0  0  0
+Flags 0 
+
+
+Guild	support~
+Who	{X[{MSupport {X] ~
+Rooms	0	0	0
+Rank	1	Helper~
+Rank	2	Supporter~
+Rank	3	Rulebringer~
+Rank	4	Explainer~
+Rank	5	Questioner~
+Rank	6	Liaison~
+ML	0  0  0  0
+Flags 0 
+
+
+Guild	Loner~
+Who	Loner~
+Rooms	0	0	0
+Rank	1	Leader~
+Rank	2	Empty~
+Rank	3	Empty~
+Rank	4	Empty~
+Rank	5	Empty~
+Rank	6	Empty~
+ML	0  0  0  0
+Flags 0 
+
+
+Guild	Builder~
+Who	[{CBuilders{X] ~
+Rooms	0	0	0
+Rank	1	Tweaker~
+Rank	2	Maker~
+Rank	3	Builder~
+Rank	4	Architect~
+Rank	5	Creator~
+Rank	6	Head Builder~
+ML	1  1  1  1
+Flags 0 
+
+
+End

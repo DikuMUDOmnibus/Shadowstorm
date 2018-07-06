@@ -1,0 +1,3099 @@
+#AREADATA
+Name Olympus~
+Builders None~
+VNUMs 900 999
+Credits { 5 50} Generic Olympus~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 901
+Name oldstyle zeus god~
+Short Zeus~
+Long Zeus sits here on a throne.
+~
+Description You see before you the greatest of the Olympians.  It seems as if he could
+destroy you with a thought.  Every glance penetrates deep into your soul.
+You now know what true fear is.
+~
+Race human~
+Act_flags ABCQ
+Aff BDFHNT
+Align 1000
+Group 0
+Level 60
+Hitroll 0
+Hit_dice 50d10+9500
+Mana_dice 60d9+100
+Dam_dice 5d10+28
+Dam_type none
+Armor -30 -30 -30 -3
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 902
+Name oldstyle prometheus~
+Short Prometheus~
+Long Prometheus is here, playing with a match.
+~
+Description This mortal risked the wrath of Zeus to give the gift of fire to humans.  He
+looks up at you and smiles.
+~
+Race human~
+Act_flags ABC
+Aff BDFHNT
+Align 1000
+Group 0
+Level 51
+Hitroll 0
+Hit_dice 50d10+5000
+Mana_dice 25d9+100
+Dam_dice 5d8+20
+Dam_type none
+Armor -21 -21 -21 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 2000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 903
+Name oldstyle hermes~
+Short Hermes~
+Long Hermes is busy, delivering a message.
+~
+Description This is the messenger of the Gods.  He wears a winged helm and boots, and
+darts from place to place.  He looks very busy, and it seems as if he doesn't
+even notice your presence.
+~
+Race human~
+Act_flags ACS
+Aff BDFHNPT
+Align 1000
+Group 0
+Level 56
+Hitroll 0
+Hit_dice 50d10+7000
+Mana_dice 28d9+100
+Dam_dice 10d4+23
+Dam_type none
+Armor -25 -25 -25 -1
+Clevel0
+Cability 0
+Off BEFJNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 2500
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 904
+Name oldstyle poseidon~
+Short Poseidon~
+Long Poseidon is dining here.
+~
+Description He is the brother of Zeus himself, chosen to rule the seas.  He must be
+visiting Mount Olympus.  He nods at you and motions for you to enter and
+have a seat.
+~
+Race human~
+Act_flags ABCR
+Aff BDFHNT
+Align 1000
+Group 0
+Level 59
+Hitroll 0
+Hit_dice 50d10+8500
+Mana_dice 59d9+100
+Dam_dice 10d4+24
+Dam_type none
+Armor -28 -28 -28 -9
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 905
+Name oldstyle apollo~
+Short Apollo~
+Long Apollo is here, playing a tune.
+~
+Description This jovial God is strumming on a lyre.  He smiles at you and asks you to
+join him.  You notice a dangerous looking bow by his side, however, and think
+that he knows more than music.
+~
+Race human~
+Act_flags ABC
+Aff BDFHNT
+Align 1000
+Group 0
+Level 58
+Hitroll 0
+Hit_dice 50d10+8500
+Mana_dice 29d9+100
+Dam_dice 5d10+25
+Dam_type none
+Armor -28 -28 -28 1
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 2000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 906
+Name oldstyle ares~
+Short Ares~
+Long Ares is here, kicking your ass.
+~
+Description The God of War is here, studying some maps.  He scowls at you as you enter
+and says 'I am very busy.  What do you want?'
+~
+Race human~
+Act_flags ABCF
+Aff BDFHT
+Align -1000
+Group 0
+Level 59
+Hitroll 0
+Hit_dice 50d10+9000
+Mana_dice 29d9+100
+Dam_dice 8d6+26
+Dam_type none
+Armor -29 -29 -29 1
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 2500
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 907
+Name oldstyle athena~
+Short Athena~
+Long Athena is relaxing here.
+~
+Description Zeus' favorite daughter is sitting on a couch eating grapes.  She smiles at
+you and invites you to join her.
+~
+Race human~
+Act_flags ABC
+Aff BDFHNT
+Align 1000
+Group 0
+Level 56
+Hitroll 0
+Hit_dice 50d10+7500
+Mana_dice 28d9+100
+Dam_dice 10d4+24
+Dam_type none
+Armor -26 -26 -26 1
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 3000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 908
+Name oldstyle hephaestus smith~
+Short Hephaestus~
+Long Hephaestus the Smith is here, crafting a fine weapon.
+~
+Description This God is the only one who is not physically perfect.  He is lame and very
+ugly.  You get the impression that he is kind, however, and would go out of his
+way to help you.  He is attended by three golden maidens.
+~
+Race human~
+Act_flags ABC
+Aff BDFHNT
+Align 1000
+Group 0
+Level 55
+Hitroll 0
+Hit_dice 50d10+7000
+Mana_dice 27d9+100
+Dam_dice 10d4+23
+Dam_type none
+Armor -25 -25 -25 2
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 3000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 909
+Name oldstyle handmaid golden~
+Short A Golden Maiden~
+Long A Handmaid of gold is here, assisting the smith.
+~
+Description As you gaze upon this creation, you realize that she is made from solid
+gold.  She seems to be very lifelike as she assists the smith in his work.
+~
+Race human~
+Act_flags ABCT
+Aff BDFHNT
+Align 0
+Group 0
+Level 26
+Hitroll 0
+Hit_dice 5d10+650
+Mana_dice 13d9+100
+Dam_dice 3d7+7
+Dam_type none
+Armor -7 -7 -7 6
+Clevel0
+Cability 0
+Off CDEIKLU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 910
+Name oldstyle soldier~
+Short A Soldier~
+Long A soldier is here, assisting Ares.
+~
+Description This man is waiting on Ares.  Although he does not look very strong, you
+realize that Ares would not have any weaklings working for him.
+~
+Race human~
+Act_flags ABCF
+Aff BDFHT
+Align 0
+Group 0
+Level 35
+Hitroll 0
+Hit_dice 10d10+1300
+Mana_dice 17d9+100
+Dam_dice 4d7+11
+Dam_type none
+Armor -11 -11 -11 5
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 911
+Name oldstyle musician apprentice~
+Short an apprentice musician~
+Long A musician is here, learning from Apollo.
+~
+Description This man has mastered his first profession, and is now studying music from the
+immortal Apollo.
+~
+Race human~
+Act_flags ABC
+Aff BDFHT
+Align 1000
+Group 0
+Level 14
+Hitroll 0
+Hit_dice 2d10+190
+Mana_dice 7d9+100
+Dam_dice 1d12+3
+Dam_type none
+Armor -1 -1 -1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 125
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 912
+Name oldstyle boy serving servant~
+Short A serving boy~
+Long A servant is here, feeding Athena her grapes.
+~
+Description This boy is truly lucky to be able to serve Athena herself.
+~
+Race human~
+Act_flags ABC
+Aff BDFHT
+Align 1000
+Group 0
+Level 6
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 3d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 25
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 913
+Name oldstyle hound dog war~
+Short A hound of war~
+Long A large hound snarls at you.
+~
+Description This great beast can barely be called a dog.  It has been bred to cause fear
+on the battle field, and you have no doubt that it does its job well.
+~
+Race human~
+Act_flags ABCF
+Aff BDFHT
+Align -600
+Group 0
+Level 35
+Hitroll 0
+Hit_dice 10d10+1300
+Mana_dice 17d9+100
+Dam_dice 4d7+11
+Dam_type none
+Armor -11 -11 -11 5
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 914
+Name oldstyle Odin~
+Short Odin~
+Long Odin is resting here.
+~
+Description As you gaze at Odin, you realize how insignificant you truly are.  He towers
+over you, and is so intent on his activities that he barely recognizes your
+presence.
+~
+Race human~
+Act_flags ABC
+Aff BDFHNT
+Align 1000
+Group 0
+Level 60
+Hitroll 0
+Hit_dice 50d10+9500
+Mana_dice 30d9+100
+Dam_dice 8d6+28
+Dam_type none
+Armor -30 -30 -30 0
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 915
+Name oldstyle grocer greengrocer julius~
+Short Julius the Green Grocer~
+Long Julius the Green Grocer stands here.
+~
+Description This jovial man has devoted his life to selling fruit and other foods to the
+inhabitants of this city.  Although he may seem like a wimp, it would be wise
+not to underestimate him.  He smiles warmly at you and shows you his selection
+of delicious looking foods.
+~
+Race human~
+Act_flags ABC
+Aff BDFHNT
+Align 1000
+Group 0
+Level 50
+Hitroll 0
+Hit_dice 50d10+4500
+Mana_dice 25d9+100
+Dam_dice 5d8+19
+Dam_type none
+Armor -20 -20 -20 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 500
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 916
+Name oldstyle alchemist~
+Short the Alchemist~
+Long The ancient, wizened Alchemist stands here.
+~
+Description Skilled in all manner of magic, as well as the ancient art of alchemy, he
+stands ready to supply the citizens here (but not you) with all manner of
+arcane supplies.
+~
+Race human~
+Act_flags ABC
+Aff BDFHNT
+Align 1000
+Group 0
+Level 50
+Hitroll 0
+Hit_dice 50d10+4500
+Mana_dice 25d9+100
+Dam_dice 5d8+19
+Dam_type none
+Armor -20 -20 -20 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 500
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 917
+Name oldstyle clive~
+Short Clive the Weapons Master~
+Long Clive the Weapons Master is practicing with his bow and axe.
+~
+Description Clive looks VERY big and VERY tough.  All those years in the army must have
+paid off.
+~
+Race human~
+Act_flags ABC
+Aff BDFHNT
+Align 1000
+Group 0
+Level 50
+Hitroll 0
+Hit_dice 50d10+4500
+Mana_dice 25d9+100
+Dam_dice 5d8+19
+Dam_type none
+Armor -20 -20 -20 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 2000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 918
+Name oldstyle armourer samuel~
+Short Samuel the Armourer~
+Long Samuel the Armourer glares at you.
+~
+Description Samuel looks just like Clive the Weapons Master: VERY big and VERY tough.
+He doesn't like what you've been doing in his city.
+~
+Race human~
+Act_flags ABCF
+Aff BDFHNT
+Align 1000
+Group 0
+Level 34
+Hitroll 0
+Hit_dice 10d10+1200
+Mana_dice 17d9+100
+Dam_dice 4d7+10
+Dam_type none
+Armor -11 -11 -11 5
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 500
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 919
+Name oldstyle ra sun god~
+Short Ra the Sun God~
+Long Ra the Egyptian Sun God is resting here.
+~
+Description Ra is very bright!  It hurts your eyes to look at him, so you can tell little
+about his appearance.  What you can tell, however, suggests that he is no one
+to be trifled with.
+~
+Race rabbit~
+Act_flags ABC
+Aff BDFHNT
+Align 1000
+Group 0
+Level 60
+Hitroll 0
+Hit_dice 50d10+9500
+Mana_dice 30d9+100
+Dam_dice 8d6+28
+Dam_type none
+Armor -30 -30 -30 0
+Clevel0
+Cability 0
+Off EFHNR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AGV
+Parts ACDEFHJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 920
+Name oldstyle chimera~
+Short a chimera~
+Long A chimera prowls the cell.
+~
+Description This bizarre creature has three heads - one of a goat, one of a lion, and one
+of a dragon.  It growls at you as you enter the cell, then suddenly attacks!
+~
+Race human~
+Act_flags ABCF
+Aff BDFHT
+Align -1000
+Group 0
+Level 34
+Hitroll 0
+Hit_dice 10d10+1200
+Mana_dice 17d9+100
+Dam_dice 4d7+10
+Dam_type none
+Armor -11 -11 -11 5
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 921
+Name oldstyle hera~
+Short Hera~
+Long Hera is here.
+~
+Description Hera, the wife of Zeus is here.  She smiles at you as you enter and invites you
+to rest and sit for a while.
+~
+Race human~
+Act_flags ABCQ
+Aff BDFHNT
+Align 1000
+Group 0
+Level 59
+Hitroll 0
+Hit_dice 50d10+9000
+Mana_dice 59d9+100
+Dam_dice 6d8+26
+Dam_type none
+Armor -29 -29 -29 -3
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 922
+Name oldstyle roc~
+Short a roc~
+Long A roc is here.
+~
+Description This is a giant bird.  It looks at you quizzically, then makes a noise and
+looks away.
+~
+Race human~
+Act_flags AC
+Aff BDFHNT
+Align 0
+Group 0
+Level 25
+Hitroll 0
+Hit_dice 5d10+550
+Mana_dice 12d9+100
+Dam_dice 2d10+7
+Dam_type none
+Armor -7 -7 -7 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 923
+Name oldstyle citizen resident~
+Short A citizen~
+Long A citizen of this town is strolling down the street here.
+~
+Description He looks happy and carefree.  He smiles and tips his hat to you.
+~
+Race human~
+Act_flags ACS
+Aff BDFHNT
+Align 1000
+Group 0
+Level 6
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 3d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off BEFJNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 3
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 924
+Name oldstyle pegasus horse~
+Short a pegasus~
+Long A large horse with wings is here.
+~
+Description This horse is snow white with large wings.  Although it doesn't look very
+threatening, it seems as though it would be dangerous if provoked.
+~
+Race human~
+Act_flags AC
+Aff BDFHNT
+Align 0
+Group 0
+Level 14
+Hitroll 0
+Hit_dice 2d10+190
+Mana_dice 7d9+100
+Dam_dice 1d12+3
+Dam_type none
+Armor -1 -1 -1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 40
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 925
+Name oldstyle cook~
+Short A Cook~
+Long A cook is here, hard at work.
+~
+Description This man looks as is he has been spending WAY too much time in the kitchen.
+~
+Race human~
+Act_flags ABC
+Aff BDFHNT
+Align 1000
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 926
+Name oldstyle jailer~
+Short The Jailer~
+Long The jailer is here, watching for intruders.
+~
+Description He looks as though he has spent a lot of time underground, guarding the
+prisoners.
+~
+Race human~
+Act_flags ABCR
+Aff BDFHNT
+Align 0
+Group 0
+Level 22
+Hitroll 0
+Hit_dice 4d10+360
+Mana_dice 22d9+100
+Dam_dice 2d7+5
+Dam_type none
+Armor -5 -5 -5 3
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 900
+Name aegis plate~
+Short the Aegis~
+Desc A powerful breast plate has been left here.~
+Material oldstyle~
+Item_type armor
+Extra FGK
+Extra2 0
+Wear AD
+Values BD BD BD BC 0
+Level 35
+Weight 500
+Cost 8400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+1 1
+EndObj
+
+#OBJ
+Vnum 901
+Name hammer thunder bolt thunderbolt~
+Short the Thunder Bolt~
+Desc A huge hammer has been carelessly dropped here.~
+Material oldstyle~
+Item_type weapon
+Extra FGK
+Extra2 0
+Wear AN
+Values mace 7 6 blast G
+Level 50
+Weight 240
+Cost 5400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 3
+AffectObj
+4 -1
+EndObj
+
+#OBJ
+Vnum 902
+Name helmet winged~
+Short a Winged Helmet~
+Desc A helmet with small wings lies here.~
+Material oldstyle~
+Item_type armor
+Extra FGK
+Extra2 0
+Wear AE
+Values BD BD BD AC 0
+Level 35
+Weight 50
+Cost 7300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+2 2
+EndObj
+
+#OBJ
+Vnum 903
+Name spear ares~
+Short the spear of Ares~
+Desc A wicked spear rests on the ground here.~
+Material oldstyle~
+Item_type weapon
+Extra FGJ
+Extra2 0
+Wear AN
+Values exotic 5 8 thrust 0
+Level 48
+Weight 180
+Cost 2000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+AffectObj
+18 2
+EndObj
+
+#OBJ
+Vnum 904
+Name sandals winged~
+Short a pair of winged sandals~
+Desc A pair of well made sandals lies here.~
+Material oldstyle~
+Item_type armor
+Extra FGK
+Extra2 0
+Wear AG
+Values D D D C 0
+Level 25
+Weight 50
+Cost 2200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+F
+Faff 0 0 T
+EndObj
+
+#OBJ
+Vnum 905
+Name staff ivory~
+Short an ivory staff~
+Desc An ivory staff.~
+Material oldstyle~
+Item_type staff
+Extra FGK
+Extra2 0
+Wear AO
+Values 30 3 3 'sanctuary' 0
+Level 15
+Weight 80
+Cost 5800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 906
+Name trident poseidon~
+Short poseidon's Trident~
+Desc A huge three pronged spear lies here.~
+Material oldstyle~
+Item_type weapon
+Extra FGK
+Extra2 0
+Wear AN
+Values exotic 7 6 pierce F
+Level 47
+Weight 160
+Cost 5700
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+4 2
+EndObj
+
+#OBJ
+Vnum 907
+Name bow silver~
+Short a silver bow~
+Desc A silver bow.~
+Material oldstyle~
+Item_type weapon
+Extra FGK
+Extra2 0
+Wear AN
+Values exotic 6 7 pierce F
+Level 47
+Weight 150
+Cost 10300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 1
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 908
+Name gauntlets flaming~
+Short flaming gauntlets~
+Desc A pair of metal gauntlets flame here.~
+Material oldstyle~
+Item_type armor
+Extra FGK
+Extra2 0
+Wear AH
+Values ABC ABC ABC C 0
+Level 27
+Weight 60
+Cost 2900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 25
+EndObj
+
+#OBJ
+Vnum 909
+Name vial potion ambrosia~
+Short ambrosia~
+Desc A vial of ambrosia lies here.~
+Material oldstyle~
+Item_type potion
+Extra FGK
+Extra2 0
+Wear A
+Values 30 'dispel evil' 'heal' '' ''
+Level 11
+Weight 10
+Cost 1130
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 910
+Name necklace glowing~
+Short a glowing necklace~
+Desc A necklace with an inner glow lies here.~
+Material oldstyle~
+Item_type jewelry
+Extra FGK
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 25
+Weight 20
+Cost 980
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 25
+EndObj
+
+#OBJ
+Vnum 911
+Name ring sapphire~
+Short a sapphire ring~
+Desc A sapphire ring lies here.~
+Material oldstyle~
+Item_type jewelry
+Extra FGK
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 35
+Weight 10
+Cost 6900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 3
+AffectObj
+4 2
+EndObj
+
+#OBJ
+Vnum 912
+Name shield glowing~
+Short a brightly glowing shield~
+Desc A shield lies here, filling the room with its aura.~
+Material oldstyle~
+Item_type armor
+Extra FGK
+Extra2 0
+Wear AJ
+Values AD AD AD BC 0
+Level 30
+Weight 100
+Cost 5300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+4 1
+EndObj
+
+#OBJ
+Vnum 913
+Name axe notched~
+Short a notched axe~
+Desc A notched axe.~
+Material oldstyle~
+Item_type weapon
+Extra FGK
+Extra2 0
+Wear AN
+Values axe 3 11 slice 0
+Level 35
+Weight 120
+Cost 3600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 914
+Name grapes~
+Short a bunch of grapes~
+Desc A bunch of grapes.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values DE DE 0 0 0
+Level 0
+Weight 10
+Cost 100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 915
+Name fan~
+Short a fan made of peacock feathers~
+Desc A fan made of peacock feathers.~
+Material oldstyle~
+Item_type trash
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 916
+Name lute~
+Short a lute~
+Desc A lute.~
+Material oldstyle~
+Item_type trash
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 917
+Name nugget gold~
+Short a gold nugget~
+Desc A gold nugget lies gleaming here.~
+Material oldstyle~
+Item_type treasure
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 50
+Cost 5000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 918
+Name apple~
+Short an apple~
+Desc An apple is here.~
+Material oldstyle~
+Item_type pill
+Extra 0
+Extra2 0
+Wear A
+Values 24 '' '' 'cure light' ''
+Level 0
+Weight 10
+Cost 340
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 919
+Name pear~
+Short a pear~
+Desc A pear is here.~
+Material oldstyle~
+Item_type pill
+Extra 0
+Extra2 0
+Wear A
+Values 24 '' '' 'cure poison' ''
+Level 6
+Weight 10
+Cost 530
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 920
+Name orange~
+Short a orange~
+Desc A orange is here.~
+Material oldstyle~
+Item_type pill
+Extra 0
+Extra2 0
+Wear A
+Values 24 '' '' 'armor' ''
+Level 0
+Weight 10
+Cost 340
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 921
+Name kiwi~
+Short a kiwi~
+Desc A kiwi is here.~
+Material oldstyle~
+Item_type pill
+Extra 0
+Extra2 0
+Wear A
+Values 24 '' '' 'cure poison' ''
+Level 6
+Weight 10
+Cost 530
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 922
+Name amulet~
+Short the Amulet of Ra~
+Desc A sun shaped medallion is lying here.~
+Material oldstyle~
+Item_type jewelry
+Extra FGK
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 40
+Weight 10
+Cost 4900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 50
+EndObj
+
+#OBJ
+Vnum 923
+Name sun sword~
+Short the Sword of the Sun~
+Desc A beautiful sword with the rising sun etched on the pommel is lying here.~
+Material oldstyle~
+Item_type weapon
+Extra FGK
+Extra2 0
+Wear AN
+Values sword 4 11 slash 0
+Level 50
+Weight 200
+Cost 6800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 924
+Name robe blue~
+Short a blue robe~
+Desc A deep blue robe is on the ground here.~
+Material oldstyle~
+Item_type armor
+Extra FGK
+Extra2 0
+Wear AK
+Values BC BC BC D 0
+Level 17
+Weight 100
+Cost 1960
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 15
+EndObj
+
+#OBJ
+Vnum 925
+Name hat~
+Short a wide brimmed hat~
+Desc A hat is lying here.~
+Material oldstyle~
+Item_type armor
+Extra FGK
+Extra2 0
+Wear AE
+Values C C C AB 0
+Level 5
+Weight 50
+Cost 580
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 926
+Name nectar~
+Short nectar~
+Desc A vial of nectar is lying here.~
+Material oldstyle~
+Item_type potion
+Extra 0
+Extra2 0
+Wear A
+Values 12 'sanctuary' 'giant strength' 'armor' ''
+Level 12
+Weight 10
+Cost 810
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 927
+Name key cell~
+Short a Cell key~
+Desc A key has been left here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 928
+Name map olympus secret~
+Short a secret map of Olympus~
+Desc A rolled up map is here.~
+Material oldstyle~
+Item_type map
+Extra 0
+Extra2 0
+Wear A
+Values A 0 0 0 0
+Level 0
+Weight 10
+Cost 500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+map olympus secret~
+.
+                              The Secret Map Of
+                               *****OLYMPUS*****
+ 
+                                   (Hermes)
+                                   Bedroom    The Portal
+                                      |           |
+                                   Northern  Hall of Gods
+                                     Hall    /
+                        Western       |    /    Eastern
+              Bedroom----Hall----Second Floor----Hall----Bedroom
+              (Hera)            /     |                 (Poseidon)
+                         Stairway  Southern
+          (Prometheus)       |       Hall                    North
+              Cell    /Throne Room    |                        |  /Up
+                |   /     (Zeus)   Bedroom                     |/
+       Cell-Dungeon-Cell     |                          West---+---East
+  (Chimera)(Jailor)(Chimera) |                                /|
+                             |                          Down/  |
+                  Kitchen    |     Stable                    South
+        (Odin)       |       |       |       (Ra)
+        Guest     Western  Castle  Eastern   Guest      ()Mob Location
+       Quarters----Wing----Entry----Wing----Quarters
+                     |       |       |
+                  Storage   Z|   Storage Room
+                   Room     e|
+                            u|  Believer
+                            s|     |    (Hephaestus)
+                             |  Planning---Smithy
+                            S|  Room(Ares)   |
+                            t|               |  (Clive)
+                 (Alchemist) +--Ares Street--+--Weapon
+                    Mystery  |               |   Shop
+                    Shop-----+               |
+                             |            Armoury
+                   Residence-+-Residence  (Samuel)
+                   (Apollo)  |  (Athena)
+                             |
+             (Julius)Bakery--+
+                             |
+                       **Entrance**
+                            /
+                      Mountain
+~
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 901
+Name Mountain~
+Desc You are climbing a large mountain which towers over Ofcol.  The path
+continues up the mountain, but part of it is gone.  There is no way to
+continue by land.
+~
+Room_flags 0
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+324
+0
+Exit
+4
+~
+~
+-1
+902
+0
+EndRoom
+
+#ROOM
+Vnum 902
+Name Mountain~
+Desc You are making your way up the mountain.  The rigorous climb has left you
+tired, and you are ready to take a break.
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+-1
+903
+0
+Exit
+5
+~
+~
+-1
+901
+0
+EndRoom
+
+#ROOM
+Vnum 903
+Name Mountain~
+Desc You have finally reached the top of the mountain.  The air here is so thin
+that you must gasp for breath.  To the north, you see what seems to be the
+entrance to a city.
+~
+Room_flags 0
+Sector_type 9
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+904
+0
+Exit
+5
+~
+~
+-1
+902
+0
+EndRoom
+
+#ROOM
+Vnum 904
+Name Entrance~
+Desc You are at the entrance to a huge city.  As you look around, you realize
+that the inhabitants of this city must be very wealthy indeed - you have never
+seen a city with such beautiful buildings.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+905
+0
+Exit
+2
+~
+~
+-1
+903
+0
+EndRoom
+
+#ROOM
+Vnum 905
+Name Zeus Street~
+Desc You are walking down a huge street.  You notice that there are not many
+people in this town.  On a corner, you see a sign marked 'Zeus Street'.
+To the west, you see a small store.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The street continues.
+~
+~
+-1
+906
+0
+Exit
+2
+~
+~
+-1
+904
+0
+Exit
+3
+~
+~
+-1
+924
+0
+EndRoom
+
+#ROOM
+Vnum 906
+Name Zeus Street~
+Desc You are walking down what appears to be the main street of this city.
+You see large residences to the east and west, while the street continues
+to the north and south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+907
+0
+Exit
+1
+~
+~
+-1
+925
+0
+Exit
+2
+The street continues.
+~
+~
+-1
+905
+0
+Exit
+3
+~
+~
+-1
+926
+0
+EndRoom
+
+#ROOM
+Vnum 907
+Name Zeus Street~
+Desc You are on the main street of this town, called Zeus street. There is some
+sort of store to the west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+908
+0
+Exit
+2
+~
+~
+-1
+906
+0
+Exit
+3
+~
+~
+-1
+927
+0
+EndRoom
+
+#ROOM
+Vnum 908
+Name Zeus Street~
+Desc You are still on the main thoroughfare of this town.  To the north, you see
+a large castle.  To the east there is a smaller road.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+909
+0
+Exit
+1
+~
+~
+-1
+928
+0
+Exit
+2
+~
+~
+-1
+907
+0
+EndRoom
+
+#ROOM
+Vnum 909
+Name Castle Entryway~
+Desc You are in the entryway of a large castle.  It is very beautiful, with
+large paintings and a lovely carpet.  You hear jovial laughter to the north,
+while smaller corridors branch off to the east and west.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+910
+0
+Exit
+1
+~
+~
+-1
+915
+0
+Exit
+2
+~
+~
+-1
+908
+0
+Exit
+3
+~
+~
+-1
+911
+0
+EndRoom
+
+#ROOM
+Vnum 910
+Name Throne Room~
+Desc You stop dead in your tracks as you enter this room.  Before you is Zeus,
+in all his glory, sitting on a huge golden throne.  You had thought him to be 
+just a myth, but here he is ... you wonder who else lives in this castle.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+throne~
+This huge golden throne looks as if it has been here for ages.  As you study it
+carefully, you notice that it is not firmly attached to the floor ... perhaps
+you could slide it?
+~
+Exit
+0
+~
+~
+-1
+923
+0
+Exit
+2
+~
+~
+-1
+909
+0
+Exit
+5
+~
+throne trapdoor~
+-1
+918
+AB
+EndRoom
+
+#ROOM
+Vnum 911
+Name Western Wing~
+Desc You are in the western wing of the castle.  You see the entrance to the
+east, while this hallway continues to the west.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+909
+0
+Exit
+3
+~
+~
+-1
+912
+0
+EndRoom
+
+#ROOM
+Vnum 912
+Name Western Wing~
+Desc You are in the western wing of the castle.  The hallway continues to the
+north, while there are private rooms to the west and south.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+913
+0
+Exit
+1
+~
+~
+-1
+911
+0
+Exit
+2
+~
+~
+-1
+930
+0
+Exit
+3
+~
+~
+-1
+929
+0
+EndRoom
+
+#ROOM
+Vnum 913
+Name Western Wing~
+Desc You are in the western wing of the castle.  This hallway continues to the
+south, and you hear pots and pans rattling to the north.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+914
+0
+Exit
+2
+~
+~
+-1
+912
+0
+EndRoom
+
+#ROOM
+Vnum 914
+Name Kitchen~
+Desc You have entered the kitchen of this castle, and it is a hotbed of
+activity.  Servants are bustling about, preparing food for the Gods themselves.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+913
+0
+EndRoom
+
+#ROOM
+Vnum 915
+Name Eastern Wing~
+Desc You are in the eastern wing of the castle.  The hall continues to the
+east, while the entrance is back to the west.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+916
+0
+Exit
+3
+~
+~
+-1
+909
+0
+EndRoom
+
+#ROOM
+Vnum 916
+Name Eastern Wing~
+Desc You are in the eastern wing of the castle.  The hall turns to the north
+here, while there are private rooms to the east and the south.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+917
+0
+Exit
+1
+~
+~
+-1
+931
+0
+Exit
+2
+~
+~
+-1
+932
+0
+Exit
+3
+~
+~
+-1
+915
+0
+EndRoom
+
+#ROOM
+Vnum 917
+Name Eastern Wing~
+Desc You are in the eastern wing of the castle.  You hear animals to the north,
+while the hallway continues to the south.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+933
+0
+Exit
+2
+~
+~
+-1
+916
+0
+EndRoom
+
+#ROOM
+Vnum 918
+Name Dungeon~
+Desc You are in Zeus's Dungeon.  You wonder what creatures are so terrible that
+even mighty Zeus fears them enough to imprison them.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+919
+0
+Exit
+4
+~
+trapdoor throne~
+-1
+910
+A
+EndRoom
+
+#ROOM
+Vnum 919
+Name Dungeon~
+Desc You are in Zeus's Dungeon.  There are cells to the north, west, and east. 
+From the east and west, you hear guttural noises.  From the north, nothing ...
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+927
+920
+ABCF
+Exit
+1
+~
+~
+927
+922
+ABCF
+Exit
+2
+~
+~
+-1
+918
+0
+Exit
+3
+~
+~
+927
+921
+ABCF
+EndRoom
+
+#ROOM
+Vnum 920
+Name Cell~
+Desc You are in a small, cramped, dirty cell.  It is a horrid place.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+927
+919
+ABCF
+EndRoom
+
+#ROOM
+Vnum 921
+Name Cell~
+Desc You are in a small, cramped, dirty cell.  It is a horrid place.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+927
+919
+ABCF
+EndRoom
+
+#ROOM
+Vnum 922
+Name Cell~
+Desc You are in a small, cramped, dirty cell.  It is a horrid place.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+927
+919
+ABCF
+EndRoom
+
+#ROOM
+Vnum 923
+Name Stairway~
+Desc You have come to a large stairway leading up.  To the south, you see the
+throne room of Zeus.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+910
+0
+Exit
+4
+~
+~
+-1
+939
+0
+EndRoom
+
+#ROOM
+Vnum 924
+Name Bakery~
+Desc You are in the small store which supplies the residents of this town with
+their food.  It smells wonderful in here!
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+905
+0
+EndRoom
+
+#ROOM
+Vnum 925
+Name Residence~
+Desc You are in the residence of one of the inhabitants of this town.  She
+looks vaguely familiar, but you can't place her name ...
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+906
+0
+EndRoom
+
+#ROOM
+Vnum 926
+Name Residence~
+Desc You are in the residence of one of the inhabitants of this town.  He looks
+vaguely familiar, but you can't place his name ...
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+906
+0
+EndRoom
+
+#ROOM
+Vnum 927
+Name Mystic Shop~
+Desc You are in the store which provides the citizens here with whichever
+arcane objects they may need.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+907
+0
+EndRoom
+
+#ROOM
+Vnum 928
+Name Ares Street~
+Desc You are on a smaller road which branches off from the main street.  On a
+sign, you notice that the name of this road is Ares Street.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+934
+0
+Exit
+3
+~
+~
+-1
+908
+0
+EndRoom
+
+#ROOM
+Vnum 929
+Name Guest Quarters~
+Desc You have entered private quarters which are reserved for visitors to the
+castle.  You nearly faint as you recognize the occupant of this chamber as Odin
+himself, patron God of Midgaard.  He must be visiting Zeus.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+912
+0
+EndRoom
+
+#ROOM
+Vnum 930
+Name Storage Room~
+Desc You are in a storage room of the castle.  There isn't much here, just a
+few boxes filled with old junk.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+912
+0
+EndRoom
+
+#ROOM
+Vnum 931
+Name Guest Quarters~
+Desc You have entered a room reserved for visitors to this castle.  You are
+amazed as you recognize the occupant - Ra, the Egyptian Sun God.  He must be
+visiting Zeus.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+916
+0
+EndRoom
+
+#ROOM
+Vnum 932
+Name Storage Room~
+Desc You are in a storage room of the castle.  There isn't much here, just a lot
+of dust.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+916
+0
+EndRoom
+
+#ROOM
+Vnum 933
+Name Stable~
+Desc You are in the stable of the castle.  Rather than the horses which you
+expected to find, it is filled with a wide variety of creatures which you
+thought were mythical.  Obviously, you were wrong.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+917
+0
+EndRoom
+
+#ROOM
+Vnum 934
+Name Ares Street~
+Desc You have reached the end of Ares Street.  To the south you see an armoury,
+while there is a weapons shop to the east.  To the north, you hear the sounds
+of a blacksmith.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+937
+0
+Exit
+1
+~
+~
+-1
+936
+0
+Exit
+2
+~
+~
+-1
+935
+0
+Exit
+3
+~
+~
+-1
+928
+0
+EndRoom
+
+#ROOM
+Vnum 935
+Name Armoury~
+Desc This small store is almost empty.  It seems as if there is not much here,
+but the shopkeeper doesn't want to do business with you anyways.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+934
+0
+EndRoom
+
+#ROOM
+Vnum 936
+Name Weapon Shop~
+Desc You have entered a small store with a modest selection of weapons.  You
+get the feeling that there is not a very wide selection here, but the
+shopkeeper doesn't want to do business with you anyways.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+934
+0
+EndRoom
+
+#ROOM
+Vnum 937
+Name Smithy~
+Desc This large room is so noisy, you can barely hear yourself think.  All the
+occupants are hard at work, crafting high quality weapons and armor.  Something
+is strange about the west wall, although you can't quite tell what it is.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+934
+0
+Exit
+3
+You see a concealed door!
+~
+door concealed~
+-1
+938
+AB
+EndRoom
+
+#ROOM
+Vnum 938
+Name The Planning Room~
+Desc You have entered a large room dominated by a huge table with a large map
+on it.  Several men are gathered around the table, studying the map carefully.
+You hear the barking of dogs to the north.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+954
+0
+Exit
+1
+~
+~
+-1
+937
+0
+EndRoom
+
+#ROOM
+Vnum 939
+Name Second Floor~
+Desc You are on the second floor of this castle.  You are numb from your
+discoveries on the first floor, and wonder what secrets the upper floor of this
+castle holds.  Hallways extend in all directions, and you see a small, closed 
+hatch above you.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+940
+0
+Exit
+1
+~
+~
+-1
+943
+0
+Exit
+2
+~
+~
+-1
+941
+0
+Exit
+3
+~
+~
+-1
+942
+0
+Exit
+4
+You see a sign on the hatch.  It reads 'Private Property. No trespassing!'
+~
+hatch~
+-1
+948
+AB
+Exit
+5
+~
+~
+-1
+923
+0
+EndRoom
+
+#ROOM
+Vnum 940
+Name Northern Hall~
+Desc You are in the northern hallway.  There is a private room to the north,
+and the stairs leading down are to the south.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+947
+0
+Exit
+2
+~
+~
+-1
+939
+0
+EndRoom
+
+#ROOM
+Vnum 941
+Name Southern Hall~
+Desc You are in the southern hallway.  There is a private room to the south,
+and the stairs leading down are to the north.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+939
+0
+Exit
+2
+~
+~
+-1
+944
+0
+EndRoom
+
+#ROOM
+Vnum 942
+Name Western Hall~
+Desc You are in the western hallway.  There is a private room to the west, and
+the stairs leading down are to the east.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+939
+0
+Exit
+3
+~
+~
+-1
+945
+0
+EndRoom
+
+#ROOM
+Vnum 943
+Name Eastern Hall~
+Desc You are in the eastern hallway.  There is a private room to the east, and
+the stairs leading down are to the west.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+946
+0
+Exit
+3
+~
+~
+-1
+939
+0
+EndRoom
+
+#ROOM
+Vnum 944
+Name Bed Room~
+Desc You are in the bed room of a God!  This one seems to be empty.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+941
+0
+EndRoom
+
+#ROOM
+Vnum 945
+Name Bed Room~
+Desc You are in the bed room of a God!
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+942
+0
+EndRoom
+
+#ROOM
+Vnum 946
+Name Bed Room~
+Desc You are in the bed room of a God!
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+943
+0
+EndRoom
+
+#ROOM
+Vnum 947
+Name Bed Room~
+Desc You are in the bed room of a God!
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+940
+0
+EndRoom
+
+#ROOM
+Vnum 948
+Name Hall of Gods~
+Desc You have entered the most sacred of places, the hall of true Gods.  If you
+are a mortal, it would probably be a good idea to leave NOW!  Exits leave in
+all directions.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+951
+0
+Exit
+5
+~
+hatch~
+-1
+939
+0
+EndRoom
+
+#ROOM
+Vnum 951
+Name The Portal~
+Desc A sign reads: Beware of the unexpected and don't expect too much.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+948
+0
+EndRoom
+
+#ROOM
+Vnum 954
+Name The Believer~
+Desc A voice whispers, 'before the time has passed, enjoy your life.'
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+938
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 901 spec_cast_cleric
+M 902 spec_breath_fire
+M 903 spec_thief
+M 904 spec_cast_mage
+M 905 spec_cast_adept
+M 907 spec_cast_adept
+M 908 spec_breath_lightning
+M 909 spec_guard
+M 914 spec_breath_any
+M 919 spec_breath_any
+M 920 spec_breath_fire
+M 921 spec_cast_cleric
+M 922 spec_poison
+M 923 spec_thief
+M 926 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 910 5 1
+D 0 919 0 2
+D 0 919 1 2
+D 0 919 3 2
+D 0 920 2 2
+D 0 921 1 2
+D 0 922 3 2
+D 0 937 3 1
+D 0 939 4 1
+M 0 923 10 904 2
+M 0 923 10 905 2
+M 0 923 10 906 2
+M 0 923 10 907 2
+M 0 923 10 908 2
+M 0 901 1 910 1
+E 0 900 0 5
+E 0 901 0 16
+G 0 926 0
+G 0 909 0
+M 0 925 4 914 4
+M 0 925 4 914 4
+M 0 926 1 918 1
+G 0 927 0
+M 0 902 1 920 1
+G 0 928 0
+E 0 908 0 9
+M 0 920 2 921 1
+M 0 920 2 922 1
+M 0 915 1 924 1
+G 0 914 0
+G 0 918 0
+G 0 919 0
+G 0 920 0
+G 0 921 0
+M 0 907 1 925 1
+E 0 910 0 3
+E 0 905 0 17
+G 0 926 0
+G 0 909 0
+M 0 912 4 925 4
+E 0 915 0 17
+G 0 914 0
+M 0 912 4 925 4
+E 0 915 0 17
+G 0 914 0
+M 0 905 1 926 1
+E 0 907 0 16
+G 0 926 0
+G 0 909 0
+M 0 911 4 926 4
+E 0 916 0 17
+G 0 921 0
+M 0 911 4 926 4
+E 0 916 0 17
+G 0 921 0
+M 0 916 1 927 1
+G 0 905 0
+G 0 909 0
+G 0 910 0
+G 0 926 0
+M 0 923 10 928 2
+M 0 914 1 929 1
+E 0 924 0 12
+E 0 925 0 6
+M 0 919 1 931 1
+E 0 922 0 3
+E 0 923 0 16
+M 0 922 3 933 3
+M 0 922 3 933 3
+M 0 924 3 933 3
+M 0 924 3 933 3
+M 0 923 10 934 2
+M 0 918 1 935 1
+G 0 904 0
+G 0 908 0
+G 0 911 0
+M 0 917 1 936 1
+G 0 907 0
+G 0 913 0
+M 0 908 1 937 1
+E 0 912 0 11
+G 0 926 0
+G 0 909 0
+M 0 909 4 937 4
+G 0 917 0
+M 0 909 4 937 4
+G 0 917 0
+M 0 906 1 938 1
+E 0 903 0 16
+G 0 926 0
+G 0 909 0
+M 0 910 4 938 4
+E 0 913 0 16
+G 0 919 0
+M 0 910 4 938 4
+E 0 913 0 16
+G 0 919 0
+M 0 921 1 945 1
+E 0 911 0 1
+G 0 926 0
+G 0 909 0
+M 0 904 1 946 1
+E 0 906 0 16
+G 0 926 0
+G 0 909 0
+M 0 903 1 947 1
+E 0 904 0 8
+E 0 902 0 6
+G 0 926 0
+G 0 909 0
+M 0 913 5 954 5
+M 0 913 5 954 5
+M 0 913 5 954 5
+S
+
+
+
+#SHOPS
+915 1 8 13 15 19 120 80 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

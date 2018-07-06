@@ -1,0 +1,61 @@
+#AREADATA
+Name Twylia~
+Builders Elinea~
+VNUMs 8100 8199
+Credits (null)~
+Security 5
+Soundfile (null)~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 8100
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,114 @@
+#AREADATA
+Name The Crypt Of No Return~
+Builders Terminus~
+VNUMs 2600 2699
+Credits (null)~
+Security 5
+Soundfile (null)~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 2600
+Name ~
+Desc {gThe woods in this area seem to get rather {Dthick {gand {Ddark{g.  Away
+in the distance an outline of a cave can be seen highlighted only by the
+{BReflection {gof the dew that seems to be gathereds around its ledge.  It
+seems that the woods have closed in behind you, the only exit is towards the {DCave{g.
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2601
+0
+EndRoom
+
+#ROOM
+Vnum 2601
+Name ~
+Desc {gAs the distance between you and the cave closes the air seems to get
+more and more {DStale{g.  Breathing is becoming an effort and the smell is
+repugnant ..  That of {rdeath{g.  The only exit is to the North.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2602
+0
+Exit
+2
+~
+~
+0
+2600
+0
+EndRoom
+
+#ROOM
+Vnum 2602
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+2601
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

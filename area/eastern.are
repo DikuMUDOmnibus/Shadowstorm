@@ -1,0 +1,2810 @@
+#AREADATA
+Name Sands of Sorrow~
+Builders None~
+VNUMs 5000 5099
+Credits {10 20} Anon    Sands of Sorrow~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 5000
+Name oldstyle dervish raggity~
+Short The dervish~
+Long The raggity dervish walks on aimlessly.
+~
+Description Dressed in loose fitting rags, this man looks like he could use
+some rest.
+~
+Race human~
+Act_flags ACGH
+Aff P
+Align 900
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 3
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5001
+Name oldstyle dervish large~
+Short The dervish~
+Long The large dervish watches for signs of trouble.
+~
+Description Dressed in loose fitting rags, this man looks like he could use
+LOTS of rest.
+~
+Race human~
+Act_flags AFG
+Aff P
+Align 650
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 7
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5002
+Name oldstyle snake coral~
+Short The coral snake~
+Long A brightly colored snake slithers along the sands.
+~
+Description This relatively harmless snake has bright alternating bands of red, yellow
+and black.
+~
+Race snake~
+Act_flags AG
+Aff 0
+Align -10
+Group 0
+Level 4
+Hitroll 0
+Hit_dice 2d7+46
+Mana_dice 2d9+100
+Dam_dice 1d5+1
+Dam_type none
+Armor 6 6 6 9
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res L
+Vuln I
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGXYc
+Parts ADEFKLQVX
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5003
+Name oldstyle scorpion small~
+Short The small scorpion~
+Long A small, red scorpion scuttles away at your approach.
+~
+Description The little tail is mighty dangerous for such a small creature.
+~
+Race human~
+Act_flags AG
+Aff 0
+Align -50
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d6+35
+Mana_dice 1d9+100
+Dam_dice 1d6+0
+Dam_type none
+Armor 7 7 7 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5004
+Name oldstyle worm giant purple~
+Short The giant, purple sand worm~
+Long A giant, purple sand worm thrusts up out of the sand and attacks!
+~
+Description He's big, mean, and purple. Watch out!
+~
+Race human~
+Act_flags ABF
+Aff 0
+Align -100
+Group 0
+Level 18
+Hitroll 0
+Hit_dice 3d9+283
+Mana_dice 9d9+100
+Dam_dice 2d7+4
+Dam_type none
+Armor -3 -3 -3 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 127
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5005
+Name oldstyle dragon brass~
+Short the brass dragon~
+Long The brass dragon steps out of the darkness and says 'Hello'.
+Then adds to it, 'Prepare to die, have a nice day!'
+~
+Description ~
+Race dragon~
+Act_flags ABCF
+Aff DHJT
+Align 450
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+853
+Mana_dice 15d9+100
+Dam_dice 4d6+8
+Dam_type none
+Armor -9 -9 -9 6
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res BEH
+Vuln FI
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 275
+Form AHZ
+Parts ACDEFGHIJKPQUVX
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5006
+Name oldstyle nomad leader~
+Short The nomad leader~
+Long The nomad leader sits silently in prayer.
+~
+Description He is clad in silk robes lined with gold thread. At his side
+is a large, engraved cutlass. He has an especially haughty air
+about him.
+~
+Race human~
+Act_flags AGHL
+Aff 0
+Align 950
+Group 0
+Level 14
+Hitroll 0
+Hit_dice 2d10+190
+Mana_dice 7d9+100
+Dam_dice 1d12+3
+Dam_type none
+Armor -1 -1 -1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos sit
+Sex male
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5007
+Name oldstyle nomad commander~
+Short The nomad commander~
+Long The nomad commander stands here staring suspiciously at you.
+~
+Description This is the nomad leader's second in command. His clothes are richly
+woven of silk and gold thread. A nasty cutlass hangs at his side.
+~
+Race human~
+Act_flags ABL
+Aff 0
+Align 900
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 6d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor 0 0 0 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 30
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5008
+Name oldstyle nomad warrior~
+Short The nomad warrior~
+Long A proud nomad warrior stands here.
+~
+Description ~
+Race human~
+Act_flags AB
+Aff 0
+Align 700
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d7+121
+Mana_dice 5d9+100
+Dam_dice 2d4+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 15
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5009
+Name oldstyle slave young~
+Short The slave~
+Long A young slave sits here staring at you with pleading eyes.
+~
+Description ~
+Race human~
+Act_flags ABH
+Aff 0
+Align 1000
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d6+35
+Mana_dice 1d9+100
+Dam_dice 1d6+0
+Dam_type none
+Armor 7 7 7 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos rest
+Default_pos rest
+Sex female
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5010
+Name oldstyle dracolich lich~
+Short The dracolich~
+Long A pile of bones rises up to form a skeletal dracolich.
+~
+Description The dracolich is now only bone with pieces of flesh hanging from it.
+Obviously it no longer fears death.
+~
+Race human~
+Act_flags ABFL
+Aff DH
+Align -1000
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+853
+Mana_dice 15d9+100
+Dam_dice 4d6+8
+Dam_type none
+Armor -9 -9 -9 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 3750
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5011
+Name oldstyle drider drow~
+Short The drider~
+Long The drider looks at you viciously while it draws its sword.
+~
+Description This half-spider, half-drow creature is a formidable opponent.
+~
+Race human~
+Act_flags AFG
+Aff D
+Align -1000
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 10
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5012
+Name oldstyle duergar dwarf~
+Short The dark dwarf~
+Long A duergar is here mining precious stones with his pick.
+~
+Description The duergar could crush your head as easily as it does those rocks.
+~
+Race human~
+Act_flags AFG
+Aff D
+Align -850
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 8
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5013
+Name oldstyle myconoid~
+Short the myconoid~
+Long A myconoid lumbers along peacefully.
+~
+Description The myconoid looks something like a giant mushroom (and probably
+has the same effect).
+~
+Race human~
+Act_flags AGH
+Aff D
+Align 850
+Group 0
+Level 6
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 3d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 2
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5014
+Name oldstyle myconoid shaman~
+Short The myconoid shaman~
+Long A rather large myconoid stands here chanting in a strange tongue.
+~
+Description The shaman shoots spores into the air.
+~
+Race human~
+Act_flags ABHQ
+Aff DH
+Align 850
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 8d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 8
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 75
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5015
+Name oldstyle dustdigger~
+Short The dustdigger~
+Long A small oasis invites you to dive in.
+~
+Description ~
+Race human~
+Act_flags ABCF
+Aff 0
+Align -200
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d6+85
+Mana_dice 3d9+100
+Dam_dice 1d8+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 22
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5017
+Name oldstyle camel~
+Short The rabid camel~
+Long A very dangerous rabid camel snorts at you.
+~
+Description Don't mess with this animal.
+~
+Race human~
+Act_flags ABF
+Aff 0
+Align -351
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 13
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 5000
+Name pick~
+Short a small mining pick~
+Desc A small mining pick made of what appears to be silver lies on the ground.~
+Material oldstyle~
+Item_type weapon
+Extra J
+Extra2 0
+Wear AN
+Values mace 1 9 pierce 0
+Level 5
+Weight 30
+Cost 320
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5001
+Name banded mail~
+Short a glowing suit of banded mail~
+Desc A glowing suit of banded mail lies on the ground.~
+Material oldstyle~
+Item_type armor
+Extra AG
+Extra2 0
+Wear AD
+Values ABC ABC ABC 0 0
+Level 23
+Weight 0
+Cost 7300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -4
+AffectObj
+2 2
+EndObj
+
+#OBJ
+Vnum 5002
+Name halberd~
+Short the halberd~
+Desc A mighty halberd lies against the wall.~
+Material oldstyle~
+Item_type weapon
+Extra GI
+Extra2 0
+Wear AN
+Values polearm 2 14 cleave F
+Level 29
+Weight 160
+Cost 1620
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+AffectObj
+18 2
+EndObj
+
+#OBJ
+Vnum 5003
+Name amulet~
+Short the amulet~
+Desc A mushroom shaped amulet lies on the ground.~
+Material oldstyle~
+Item_type jewelry
+Extra G
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 5
+Weight 20
+Cost 550
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+5 1
+EndObj
+
+#OBJ
+Vnum 5005
+Name bone~
+Short a large leg bone~
+Desc A large leg bone rests on the ground.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values mace 1 4 pound 0
+Level 0
+Weight 50
+Cost 140
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5006
+Name cactus~
+Short a small cactus cup~
+Desc A small cactus cup lies on the ground.~
+Material oldstyle~
+Item_type drink
+Extra 0
+Extra2 0
+Wear A
+Values 5 5 'water' 0 0
+Level 0
+Weight 60
+Cost 5
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5007
+Name basket~
+Short a small wicker basket~
+Desc A small wicker basket sits on the ground.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 -1 0 0
+Level 0
+Weight 20
+Cost 20
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5008
+Name basket~
+Short a small wicker basket~
+Desc A small wicker basket sits on the ground.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 -1 0 0
+Level 0
+Weight 20
+Cost 20
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5009
+Name basket~
+Short a small wicker basket~
+Desc A small wicker basket sits on the ground.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 -1 0 0
+Level 0
+Weight 20
+Cost 20
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5010
+Name basket~
+Short a small wicker basket~
+Desc A small wicker basket sits on the ground.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 -1 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5011
+Name rope~
+Short a coil of rope~
+Desc A long coil of rope lies on the ground.~
+Material oldstyle~
+Item_type furniture
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 120
+Cost 20
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5012
+Name stakes~
+Short a bunch of stakes~
+Desc A small bundle of stakes lies here.~
+Material oldstyle~
+Item_type furniture
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 60
+Cost 20
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5013
+Name map~
+Short an old, tattered map~
+Desc An old, tattered, and much faded map lies here.~
+Material oldstyle~
+Item_type furniture
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 5
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5014
+Name turban~
+Short a thick padded turban~
+Desc A thick padded turban lies here.~
+Material oldstyle~
+Item_type clothing
+Extra GH
+Extra2 0
+Wear AE
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 10
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 1
+EndObj
+
+#OBJ
+Vnum 5015
+Name coins~
+Short a great pile of treasure~
+Desc A great, gleaming pile of treasure lies at your feet.~
+Material oldstyle~
+Item_type money
+Extra 0
+Extra2 0
+Wear A
+Values ABDFHI CD 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5016
+Name sabre~
+Short a long, curved sabre~
+Desc A long, curved sabre stands upright in the ground.~
+Material oldstyle~
+Item_type weapon
+Extra L
+Extra2 0
+Wear AN
+Values sword 2 8 slash 0
+Level 16
+Weight 70
+Cost 1410
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 2
+EndObj
+
+#OBJ
+Vnum 5017
+Name scimitar~
+Short a curved scimitar~
+Desc A curved scimitar lies at your feet.~
+Material oldstyle~
+Item_type weapon
+Extra L
+Extra2 0
+Wear AN
+Values sword 2 7 slash 0
+Level 12
+Weight 60
+Cost 990
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 5018
+Name cutlass~
+Short a long, pointed cutlass~
+Desc A long, pointed cutlass lies here.~
+Material oldstyle~
+Item_type weapon
+Extra L
+Extra2 0
+Wear AN
+Values sword 2 7 slash 0
+Level 12
+Weight 50
+Cost 930
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5019
+Name potion pink~
+Short a pink potion~
+Desc A pink potion stands here.~
+Material oldstyle~
+Item_type potion
+Extra 0
+Extra2 0
+Wear A
+Values 25 'heal' 'remove curse' '' ''
+Level 13
+Weight 60
+Cost 1220
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5020
+Name wand platinum~
+Short a platinum wand~
+Desc A platinum wand lies here.~
+Material oldstyle~
+Item_type wand
+Extra B
+Extra2 0
+Wear AO
+Values 30 10 10 'Energy spike' 0
+Level 2
+Weight 80
+Cost 990
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5021
+Name bow energy strange~
+Short a strange energy bow~
+Desc A strange energy bow lies here.~
+Material oldstyle~
+Item_type weapon
+Extra ABGI
+Extra2 0
+Wear AN
+Values exotic 4 5 blast 0
+Level 21
+Weight 200
+Cost 2600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5022
+Name scroll encrypted~
+Short an encrypted scroll~
+Desc An encrypted scroll lies at your feet.~
+Material oldstyle~
+Item_type scroll
+Extra 0
+Extra2 0
+Wear A
+Values 22 'cure blindness' 'remove curse' 'cure poison' ''
+Level 11
+Weight 70
+Cost 1730
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5023
+Name chest~
+Short an iron bound chest~
+Desc An iron bound chest with a shiny lock sits here.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 -1 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5024
+Name key golden~
+Short a golden key~
+Desc A shiny golden key lies here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values BD 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5025
+Name bracelet copper~
+Short a copper bracelet~
+Desc A tarnished copper bracelet lies at your feet.~
+Material oldstyle~
+Item_type jewelry
+Extra GH
+Extra2 0
+Wear AM
+Values 0 0 0 0 0
+Level 20
+Weight 100
+Cost 1300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+AffectObj
+13 10
+EndObj
+
+#OBJ
+Vnum 5026
+Name gem ruby~
+Short a large ruby~
+Desc A large ruby lies on the ground collecting dust.~
+Material oldstyle~
+Item_type gem
+Extra G
+Extra2 0
+Wear AO
+Values CE 0 0 0 0
+Level 0
+Weight 1
+Cost 5000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5027
+Name gem diamond glittering~
+Short a glittering diamond~
+Desc A glittering diamond lies at your feet.~
+Material oldstyle~
+Item_type gem
+Extra G
+Extra2 0
+Wear AO
+Values ACE 0 0 0 0
+Level 0
+Weight 1
+Cost 6000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5028
+Name gem sapphire~
+Short a brilliant sapphire~
+Desc A brilliant sapphire lies here twinkling.~
+Material oldstyle~
+Item_type gem
+Extra G
+Extra2 0
+Wear AO
+Values BCE 0 0 0 0
+Level 0
+Weight 1
+Cost 2000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5029
+Name gem lapis~
+Short a deep blue lapis lazuli~
+Desc A deep blue lapis lazuli gem lies here.~
+Material oldstyle~
+Item_type gem
+Extra G
+Extra2 0
+Wear AO
+Values DE 0 0 0 0
+Level 0
+Weight 1
+Cost 800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5030
+Name jewel tiger~
+Short the tiger jewel~
+Desc The Tiger Jewel lies here blazing.~
+Material oldstyle~
+Item_type gem
+Extra I
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 5
+Weight 1
+Cost 550
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+2 1
+EndObj
+
+#OBJ
+Vnum 5031
+Name jewel red-eyed~
+Short the red-eyed jewel~
+Desc The red-eyed jewel glares at you greedily.~
+Material oldstyle~
+Item_type gem
+Extra 0
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 15
+Weight 1
+Cost 2600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+3 2
+EndObj
+
+#OBJ
+Vnum 5032
+Name gem emerald~
+Short a fiery green emerald~
+Desc A fiery green emerald sits here.~
+Material oldstyle~
+Item_type warp_stone
+Extra T
+Extra2 0
+Wear AO
+Values ABCE 0 0 0 0
+Level 0
+Weight 1
+Cost 4000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 5001
+Name A long tunnel~
+Desc You encounter some rapids as you enter this tunnel cut out of
+the mountains by the river.
+~
+Room_flags 9
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5002
+0
+Exit
+3
+~
+~
+0
+3205
+0
+EndRoom
+
+#ROOM
+Vnum 5002
+Name A long tunnel~
+Desc The tunnel branches off north.
+~
+Room_flags 9
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5008
+0
+Exit
+1
+~
+~
+0
+5003
+0
+Exit
+3
+~
+~
+0
+5001
+0
+EndRoom
+
+#ROOM
+Vnum 5003
+Name A long tunnel~
+Desc The tunnel branches off south.
+~
+Room_flags 9
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5004
+0
+Exit
+2
+~
+~
+0
+5017
+0
+Exit
+3
+~
+~
+0
+5002
+0
+EndRoom
+
+#ROOM
+Vnum 5004
+Name A long tunnel~
+Desc The tunnel branches off to the south.
+~
+Room_flags 9
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5005
+0
+Exit
+2
+~
+~
+0
+5018
+0
+Exit
+3
+~
+~
+0
+5003
+0
+EndRoom
+
+#ROOM
+Vnum 5005
+Name An underground lake~
+Desc You are floating on a jet-black underground lake fed by dripping
+water and lime from above. The tunnel continues to the east and the river
+leads back west. To the north is a roughly-hewn hallway. There is also
+a tunnel south.
+~
+Room_flags 9
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5016
+0
+Exit
+1
+~
+~
+0
+5006
+0
+Exit
+2
+~
+~
+0
+5023
+0
+Exit
+3
+~
+~
+0
+5004
+0
+EndRoom
+
+#ROOM
+Vnum 5006
+Name A long narrow tunnel~
+Desc The tunnel rises sharply to the east.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5007
+0
+Exit
+3
+~
+~
+0
+5005
+0
+EndRoom
+
+#ROOM
+Vnum 5007
+Name A wide tunnel~
+Desc The tunnel continues east and west. To the east the tunnel dives
+down into a bright light.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5027
+0
+Exit
+3
+~
+~
+0
+5006
+0
+EndRoom
+
+#ROOM
+Vnum 5008
+Name Cave-in~
+Desc You stand at the edge of a large pile of rubble created from the last
+rockslide.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+5002
+0
+Exit
+5
+You can easily slide down the rocks without getting hurt.~
+~
+0
+5009
+0
+EndRoom
+
+#ROOM
+Vnum 5009
+Name At the foot of the rubble~
+Desc You are at the bottom of a large pile of rubble. A tunnel branches
+off to the north and east.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5010
+0
+Exit
+1
+~
+~
+0
+5012
+0
+Exit
+4
+~
+~
+0
+5008
+0
+EndRoom
+
+#ROOM
+Vnum 5010
+Name Cave entrance~
+Desc You stand in the middle of a large and beautiful cave. A path leads
+deeper into the darkness.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+5009
+0
+Exit
+5
+You look down into the cave. Bones are strewn about everywhere.~
+~
+0
+5011
+0
+EndRoom
+
+#ROOM
+Vnum 5011
+Name Giant cave~
+Desc This cavern overwhelms you. The walls and ceiling seem miles away.
+Bones of previous adventurers lie strewn on the cavern floor.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+0
+5010
+0
+EndRoom
+
+#ROOM
+Vnum 5012
+Name Narrow bend~
+Desc The tunnel turns to the south and west.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+5013
+0
+Exit
+3
+~
+~
+0
+5009
+0
+EndRoom
+
+#ROOM
+Vnum 5013
+Name Large cave~
+Desc You are standing in a large cave. Many furs are spread out on the floor.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5012
+0
+Exit
+1
+~
+~
+0
+5014
+0
+EndRoom
+
+#ROOM
+Vnum 5014
+Name Damp hallway~
+Desc The walls here are extremely damp, as well as the floor.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You hear drops of water.~
+~
+0
+5015
+0
+Exit
+3
+~
+~
+0
+5013
+0
+EndRoom
+
+#ROOM
+Vnum 5015
+Name Underground pool~
+Desc You are wading in a knee deep pool of lime-water.
+~
+Room_flags 9
+Sector_type 6
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+5016
+0
+Exit
+3
+~
+~
+0
+5014
+0
+EndRoom
+
+#ROOM
+Vnum 5016
+Name Damp hallway~
+Desc The walls of the tunnel are extremely damp here. You hear the faint
+sound of running water to the south.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You hear drops of water.~
+~
+0
+5015
+0
+Exit
+2
+~
+~
+0
+5005
+0
+EndRoom
+
+#ROOM
+Vnum 5017
+Name Narrow crawlway~
+Desc This crawlway is just big enough for a human to crawl through or a
+halfling to walk through.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5003
+0
+Exit
+1
+~
+~
+0
+5018
+0
+Exit
+2
+You smell the fragrant odor of fungus.~
+~
+0
+5019
+0
+EndRoom
+
+#ROOM
+Vnum 5018
+Name Large cavern~
+Desc You have entered a very large cavern. The rock formations would amaze
+almost any dwarf.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5004
+0
+Exit
+3
+~
+~
+0
+5017
+0
+EndRoom
+
+#ROOM
+Vnum 5019
+Name Fungus patch~
+Desc As you walk through the fungus patch, you are shot at by many millions of
+spores. You can hardly breathe.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5017
+0
+Exit
+1
+The fragrant smell of fungus spores continues to the east~
+~
+0
+5020
+0
+EndRoom
+
+#ROOM
+Vnum 5020
+Name Fungus path~
+Desc As you walk along the path, millions of spores are shot at you. You can
+hardly breathe.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+A giant mushroom temple stands to the south.~
+~
+0
+5021
+0
+Exit
+3
+The fragrant smell of spores continues to the west.~
+~
+0
+5019
+0
+EndRoom
+
+#ROOM
+Vnum 5021
+Name Fungus temple~
+Desc You find yourself standing inside of a giant mushroom. The inside
+is decorated in the fashion of a temple.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5020
+0
+Exit
+1
+~
+~
+0
+5022
+0
+EndRoom
+
+#ROOM
+Vnum 5022
+Name Sloping passage~
+Desc You follow a path sloping down from the fungus temple.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+5021
+0
+Exit
+5
+~
+~
+0
+5023
+0
+EndRoom
+
+#ROOM
+Vnum 5023
+Name Sloping passage~
+Desc You are on a path that gently slopes up from the underground pool.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You hear sounds of trickling water.~
+~
+0
+5005
+0
+Exit
+4
+~
+~
+0
+5022
+0
+EndRoom
+
+#ROOM
+Vnum 5024
+Name The Sands of Sorrow~
+Desc A vast desert stretches for miles, the sand constantly shifting around you.
+You feel lost.
+~
+Room_flags 8192
+Sector_type 10
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Sand as far as the eye can see.
+~
+~
+0
+5030
+0
+Exit
+1
+Sand as far as the eye can see.
+~
+~
+0
+5025
+0
+Exit
+2
+Sand as far as the eye can see.
+~
+~
+0
+5027
+0
+Exit
+3
+Sand as far as the eye can see.
+~
+~
+0
+5026
+0
+EndRoom
+
+#ROOM
+Vnum 5025
+Name The Sands of Sorrow~
+Desc A vast desert stretches for miles, the sand constantly shifting around you.
+You feel lost.
+~
+Room_flags 8192
+Sector_type 10
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a nomad camp by an oasis.
+~
+~
+0
+5056
+0
+Exit
+1
+Sand as far as the eye can see.
+~
+~
+0
+5026
+0
+Exit
+2
+Sand as far as the eye can see.
+~
+~
+0
+5028
+0
+Exit
+3
+Sand as far as the eye can see.
+~
+~
+0
+5024
+0
+EndRoom
+
+#ROOM
+Vnum 5026
+Name The Sands of Sorrow~
+Desc A vast desert stretches for miles, the sand constantly shifting around you.
+You feel lost.
+~
+Room_flags 8192
+Sector_type 10
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Sand as far as the eye can see.
+~
+~
+0
+5032
+0
+Exit
+1
+Sand as far as the eye can see.
+~
+~
+0
+5024
+0
+Exit
+2
+Sand as far as the eye can see.
+~
+~
+0
+5029
+0
+Exit
+3
+Sand as far as the eye can see.
+~
+~
+0
+5025
+0
+EndRoom
+
+#ROOM
+Vnum 5027
+Name The Sands of Sorrow~
+Desc A vast desert stretches for miles, the sand constantly shifting around you.
+You feel lost.
+~
+Room_flags 8192
+Sector_type 10
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Sand as far as the eye can see.
+~
+~
+0
+5024
+0
+Exit
+1
+Sand as far as the eye can see.
+~
+~
+0
+5028
+0
+Exit
+2
+Sand as far as the eye can see.
+~
+~
+0
+5030
+0
+Exit
+3
+You see a river flowing into the mountain.
+~
+~
+0
+5007
+0
+EndRoom
+
+#ROOM
+Vnum 5028
+Name The Sands of Sorrow~
+Desc A vast desert stretches for miles, the sand constantly shifting around you.
+You feel lost.
+~
+Room_flags 8192
+Sector_type 10
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Sand as far as the eye can see.
+~
+~
+0
+5025
+0
+Exit
+1
+Sand as far as the eye can see.
+~
+~
+0
+5029
+0
+Exit
+2
+Sand as far as the eye can see.
+~
+~
+0
+5031
+0
+Exit
+3
+Sand as far as the eye can see.
+~
+~
+0
+5027
+0
+EndRoom
+
+#ROOM
+Vnum 5029
+Name The Sands of Sorrow~
+Desc A vast desert stretches for miles, the sand constantly shifting around you.
+You feel lost.
+~
+Room_flags 8192
+Sector_type 10
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Sand as far as the eye can see.
+~
+~
+0
+5026
+0
+Exit
+1
+The sand is glowing in this direction.
+~
+~
+0
+5062
+0
+Exit
+2
+Sand as far as the eye can see.
+~
+~
+0
+5032
+0
+Exit
+3
+Sand as far as the eye can see.
+~
+~
+0
+5028
+0
+EndRoom
+
+#ROOM
+Vnum 5030
+Name The Sands of Sorrow~
+Desc A vast desert stretches for miles, the sand constantly shifting around you.
+You feel lost.
+~
+Room_flags 8192
+Sector_type 10
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Sand as far as the eye can see.
+~
+~
+0
+5027
+0
+Exit
+1
+Sand as far as the eye can see.
+~
+~
+0
+5031
+0
+Exit
+2
+Sand as far as the eye can see.
+~
+~
+0
+5024
+0
+Exit
+3
+Sand as far as the eye can see.
+~
+~
+0
+5032
+0
+EndRoom
+
+#ROOM
+Vnum 5031
+Name The Sands of Sorrow~
+Desc A vast desert stretches for miles, the sand constantly shifting around you.
+You feel lost.
+~
+Room_flags 8192
+Sector_type 10
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Sand as far as the eye can see.
+~
+~
+0
+5028
+0
+Exit
+1
+Sand as far as the eye can see.
+~
+~
+0
+5032
+0
+Exit
+2
+Sand as far as the eye can see.
+~
+~
+0
+5063
+0
+Exit
+3
+Sand as far as the eye can see.
+~
+~
+0
+5030
+0
+EndRoom
+
+#ROOM
+Vnum 5032
+Name The Sands of Sorrow~
+Desc A vast desert stretches for miles, the sand constantly shifting around you.
+You feel lost.
+~
+Room_flags 8192
+Sector_type 10
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Sand as far as the eye can see.
+~
+~
+0
+5029
+0
+Exit
+1
+Sand as far as the eye can see.
+~
+~
+0
+5030
+0
+Exit
+2
+You see a tiny ledge.
+~
+~
+0
+5026
+0
+Exit
+3
+Sand as far as the eye can see.
+~
+~
+0
+5031
+0
+EndRoom
+
+#ROOM
+Vnum 5056
+Name A nomad camp~
+Desc This small group of desert nomads has stopped for the day to rest
+and refresh themselves beside this beautiful oasis. Three tents and some
+camels make up the party. From within two of the tents you hear muffled
+voices, obviously surprised at your visit.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see ill-tempered camels.
+~
+~
+0
+5058
+0
+Exit
+1
+You see inside one of the tents a huddled mass of people, probably slaves.
+~
+~
+0
+5057
+0
+Exit
+2
+Sand as far as the eye can see.
+~
+~
+0
+5025
+0
+EndRoom
+
+#ROOM
+Vnum 5057
+Name Inside a small tent~
+Desc This is a small and simple tent with few possessions in sight. Lying
+here and there are young-looking men and women, possibly slaves to the
+leader of this band.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+Waving in the heat over the sand you see a HUGE pyramid.
+~
+~
+-1
+8700
+0
+Exit
+3
+You see the center of the nomad camp.
+~
+~
+0
+5056
+0
+EndRoom
+
+#ROOM
+Vnum 5058
+Name Beside the camels~
+Desc Here stand about ten camels, all hitched to some stakes plugged into
+the ground. To the east you see a small tent while to the north you see a
+larger, fancier tent.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+This tent seems to be the temporary abode of the nomad leader. You make a
+mental note to visit it before you leave.~
+~
+0
+5060
+0
+Exit
+1
+In this tent there are very large men, all carrying weapons.
+~
+~
+0
+5059
+0
+Exit
+2
+You see the center of the nomad camp.
+~
+~
+0
+5056
+0
+EndRoom
+
+#ROOM
+Vnum 5059
+Name The warrior's tent.~
+Desc This tent has a few furnishings, but mainly it holds the band's
+protectors. They all stare at you coldly as you enter.
+~
+Room_flags 128
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+Outside you see some peaceful camels.
+~
+~
+0
+5058
+0
+EndRoom
+
+#ROOM
+Vnum 5060
+Name The main tent~
+Desc This tent is as lavishly decorated on the inside as it is on the
+outside. A fancy carpet lies on the sand and numerous baskets line the
+walls.
+~
+Room_flags 128
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5061
+0
+Exit
+2
+You see some peaceful camels.
+~
+~
+0
+5058
+0
+EndRoom
+
+#ROOM
+Vnum 5061
+Name The main tent~
+Desc This is where the leader of this band of nomads resides. He is
+definitely rich as you inspect the tapestries, baskets, and a few
+paintings as well.
+~
+Room_flags 128
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see the entrance to this tent.
+~
+~
+0
+5060
+0
+EndRoom
+
+#ROOM
+Vnum 5062
+Name Strange Glowing Sand~
+Desc A vast desert stretches for miles, the sand constantly shifting around
+you.  But this patch of desert looks different...the sand glows.  You see a
+futuristic city to the south.
+~
+Room_flags 12
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see a futuristic city.
+~
+~
+0
+8001
+0
+Exit
+3
+Sand as far as the eye can see.
+~
+~
+0
+5029
+0
+EndRoom
+
+#ROOM
+Vnum 5063
+Name The wind-swept ledge~
+Desc Being very careful not to lose your balance, you look around and
+find that this canyon is about a half a kilometer deep. To the west is
+a dark cave leading under the desert sands.
+~
+Room_flags 0
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Sand as far as the eye can see.
+~
+~
+0
+5031
+0
+Exit
+3
+You see a dark cave.
+~
+~
+0
+5064
+0
+EndRoom
+
+#ROOM
+Vnum 5064
+Name The cave mouth~
+Desc The air in here is MUCH cooler than outside. From the west you hear
+strange sounds, but can see nothing. The cave slopes down into the
+darkness.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+Outside is lighter and very windy.~
+~
+0
+5063
+0
+Exit
+3
+~
+~
+0
+5065
+0
+EndRoom
+
+#ROOM
+Vnum 5065
+Name The mysterious lair.~
+Desc You have stumbled upon the home of something. From the treasure
+haphazardly strewn about and the rotting carcasses, you would guess that
+this is a dragon's lair. As to what type, you can't really say. The cave
+narrows out into a tunnel to the west.
+~
+Room_flags 137
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5064
+0
+Exit
+3
+~
+door~
+5024
+5066
+ABCF
+EndRoom
+
+#ROOM
+Vnum 5066
+Name A wide tunnel~
+Desc This tunnel seems to go on forever into the darkness. You carefully
+feel your way along the walls.
+~
+Room_flags 13
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+door~
+5024
+5065
+ABCF
+Exit
+3
+~
+~
+0
+5067
+0
+EndRoom
+
+#ROOM
+Vnum 5067
+Name A narrower tunnel~
+Desc The tunnel becomes very narrow and you fight to squeeze your way through.
+The floor seems to level off a little.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5066
+0
+Exit
+2
+~
+~
+0
+5068
+0
+EndRoom
+
+#ROOM
+Vnum 5068
+Name A narrow crack~
+Desc This part of the tunnel is the hardest to move through as the walls
+move in to meet you.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5067
+0
+Exit
+3
+~
+~
+0
+5069
+0
+EndRoom
+
+#ROOM
+Vnum 5069
+Name A small cavern.~
+Desc It is dark and damp and bats hang from the ceiling. A narrow crack is
+in the east wall. The floor now slopes upwards.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5070
+0
+Exit
+1
+~
+~
+0
+5068
+0
+EndRoom
+
+#ROOM
+Vnum 5070
+Name A small shaft~
+Desc From within this shaft you can see a narrow hole in the roof just
+large enough for one person. Back south is the cavern.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+5069
+0
+Exit
+4
+~
+~
+0
+5009
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 5005 spec_breath_any
+M 5010 spec_breath_fire
+M 5014 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 5065 3 2
+D 0 5066 1 2
+M 0 5011 3 5009 3
+E 0 3022 0 16
+M 0 5010 1 5011 1
+G 0 5001 0
+G 0 5002 0
+O 0 5005 0 5011
+M 0 5012 3 5014 3
+E 0 5000 0 16
+M 0 5013 4 5021 4
+M 0 5014 1 5021 1
+E 0 5003 0 3
+M 0 5015 4 5024 1
+M 0 5000 3 5025 1
+E 0 3021 0 16
+M 0 5015 4 5026 1
+M 0 5000 3 5027 1
+E 0 3021 0 16
+M 0 5003 5 5028 5
+M 0 5004 1 5028 1
+G 0 5019 0
+G 0 5020 0
+G 0 5021 0
+M 0 5000 3 5029 1
+E 0 3021 0 16
+M 0 5015 4 5030 1
+M 0 5001 1 5031 1
+E 0 3022 0 16
+M 0 5002 5 5031 5
+M 0 5015 4 5032 1
+M 0 5009 6 5057 6
+M 0 5017 1 5058 1
+M 0 5008 5 5059 5
+E 0 5018 0 16
+M 0 5007 1 5060 1
+E 0 5017 0 16
+O 0 5007 0 5060
+P 0 5012 1 5007 1
+P 0 5011 1 5007 1
+M 0 5006 1 5061 1
+E 0 5016 0 16
+O 0 5008 0 5061
+P 0 5014 5 5008 1
+O 0 5009 0 5061
+O 0 5010 0 5061
+P 0 5013 50 5010 1
+M 0 5005 1 5065 1
+G 0 5024 0
+G 0 5022 0
+O 0 5023 0 5070
+P 0 5025 3 5023 1
+P 0 5026 3 5023 1
+P 0 5027 3 5023 1
+P 0 5028 3 5023 1
+P 0 5029 3 5023 1
+P 0 5030 1 5023 1
+P 0 5031 1 5023 1
+P 0 5032 3 5023 1
+O 0 5015 0 5070
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

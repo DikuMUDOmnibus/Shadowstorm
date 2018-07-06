@@ -1,0 +1,727 @@
+#AREADATA
+Name Redferne's~
+Builders None~
+VNUMs 7900 7999
+Credits {20 30} Diku    Redferne's Residence~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 7900
+Name oldstyle grand knight paladin~
+Short the Grand Knight of paladins~
+Long The Grand Knight is standing here, waiting for someone to help.
+~
+Description The Knight is standing here, smiling at you. He is dressed all in
+white, blue and silver. He looks VERY strong, as he stands here, ready to
+help the innocent.
+~
+Race human~
+Act_flags AGQ
+Aff DH
+Align 1000
+Group 0
+Level 29
+Hitroll 0
+Hit_dice 6d12+778
+Mana_dice 29d9+100
+Dam_dice 5d4+8
+Dam_type none
+Armor -9 -9 -9 4
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 7909
+Name treasure coins~
+Short a huge treasure~
+Desc A huge treasure is lying here, looking very valuable.~
+Material oldstyle~
+Item_type money
+Extra 0
+Extra2 0
+Wear A
+Values CDEHIJKLMNOPQRSTUVWXYZabcdef 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+writing letters~
+It reads: "Hi Conan.  No more coins from here, pal. :) Signed, Redferne".
+~
+ExtraDesc
+treasure~
+Looks like a LOT of coins.  One of them has writing on it.
+~
+EndObj
+
+#OBJ
+Vnum 7910
+Name chest~
+Short a wooden chest~
+Desc A wooden chest stands in the corner.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 -1 0 0
+Level 0
+Weight 4000
+Cost 100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+chest~
+It is a robust chest made from short, heavy planks that have been fastened
+together with tenons.  It is equipped with a simple brass lock.
+~
+EndObj
+
+#OBJ
+Vnum 7911
+Name key~
+Short a small brass key~
+Desc A small brass key lies here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values BCFGHJKLM 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+key~
+It is a small, simple brass key with no inscriptions or marks of any kind.
+~
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 7900
+Name Outside Redferne's residence~
+Desc A huge cloud forms the plateau on which you are now standing. The wind here
+is absolutely quiet and the sun is shining warmly upon you. From under the
+cloud you can hear the faint sounds of Midgaard. Right before you to the
+north lies the grand Mansion of Naris, the residence of the Greater God
+Redferne.
+~
+Room_flags 516
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a HUGE arched gate leading into this magnificent building.
+~
+gate door huge arched~
+-1
+7901
+ABF
+Exit
+2
+You see some pretty clouds!
+~
+~
+0
+9101
+0
+Exit
+5
+You see a Huge Chain that anchors the Mansion of Naris to the ground.
+~
+~
+-1
+7918
+0
+EndRoom
+
+#ROOM
+Vnum 7901
+Name The Southern end of the hall~
+Desc You are standing in a vast hall that is dimly lit, but wherefrom the
+light comes, is a mystery. The walls seem to radiate warmth and give
+the pleasant feeling of being welcome here. A large portrait is hanging
+on one of the walls. A large wooden staircase leads up into the tower.
+To the east there is a high passage away from the hall. This ends
+shortly after by a tall oak door. The enormous hall extends further
+north from here. To the south you can see a huge, and VERY heavy-
+looking iron-wrought door. It looks like this is the only exit from
+this magnificent old house. To the west you can see a large ashen door.
+~
+Room_flags 524
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+letters~
+They read "LIBRARY".
+~
+ExtraDesc
+runes~
+These runes are utterly strange to you, but you are in luck today: Under
+the runes you can just make out a sentence in Common. It goes : " Stay out,
+if you treasure your life. That is if you are mortal.".
+~
+Exit
+0
+The hallway continues that way. You can see more doorways under the
+wooden staircase in that direction.
+~
+~
+-1
+7904
+0
+Exit
+1
+You see there a tall oak door. It looks quite tightly closed to you.
+On it little runes are chiselled into the wood.
+~
+oak tall east oakdoor talldoor eastdoor~
+-1
+7910
+ABF
+Exit
+2
+Here you see a REAL door. It would be more proper to call this a
+"GATE", rather than a "door". It's really HUGE! On it hangs a large
+sign with very large letters spelling : "EMERGENCY EXIT".
+~
+gate~
+-1
+7900
+ABF
+Exit
+3
+This looks like a "door" in the meaning of the word. The ashen wood
+is painted in a peculiar yellow colour. Small letters are written
+with black on it.
+~
+ashen ash door west yellow~
+-1
+7902
+ABF
+Exit
+4
+You see the staircase extending upwards into the very high tower.
+It ends in what seems like a large bedroom up there.
+~
+~
+-1
+7909
+0
+EndRoom
+
+#ROOM
+Vnum 7902
+Name Redferne's Library~
+Desc This is truly a magnificent place! Books and scrolls lie together on every
+shelf. A large globe, with the map of the Mud-world upon it, stands in the
+dimly lit north-western corner of the room. Two large and comfortable-
+looking leather arm-chairs adorn the center of the library together with
+a huge oak desk. Dim light radiates from an enormous crystal chandelier
+hanging down from the ceiling approximately 10 feet off the floor. To the
+east there is a great old ashen door. A large glass window is set in the
+west wall.
+~
+Room_flags 524
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+river~
+You see a large and winding river cut through the landscape, starting at an
+enormous inland lake, it seeps through Midgaard and finally ends up in the
+Grand Sea on the West-coast of the land.
+~
+ExtraDesc
+out outside beyond~
+The clouds muster and form the ground on which this entire building is set.
+Through the thinnest of the clouds you can just make out MIDGAARD with all
+it's magnificent activity.
+~
+ExtraDesc
+window glass~
+These windows are really BIG! They reach from about 20 inches above the
+floor to approximately 10 inches under the ceiling. If you try and
+"look out", you might see what might lie beyond these windows.
+~
+ExtraDesc
+chairs leather arm-chairs~
+These two chair are exactly alike one another. They look incredibly
+comfortable. They're both made from old leather, and yet they seem so worn
+that they can be nothing but a perfect place for a long needed rest.
+~
+ExtraDesc
+midgaard town city~
+You see a small speck with woods on the west from it, plains to the east
+from it and mountains to the north from it. To the south from it you can
+see a thin trail lead to a large castle. Finally you notice a rather large
+river pour in from the east and go through Midgaard in the middle.
+~
+ExtraDesc
+globe world map~
+You see a large world map stretch out on the enormous globe. It has towns
+drawn in every spot available for such. In the middle of the map you can
+spot a large town with the name 'MIDGAARD' written over it. The rest is
+mountains, woods, plains and water.
+~
+Exit
+1
+You can see an old ashen door, painted in a peculiar yellow colour.
+~
+door ash ashen east~
+-1
+7901
+ABF
+EndRoom
+
+#ROOM
+Vnum 7903
+Name The Artifact room of Naris~
+Desc This is gloomy and dark room with only a faint light radiating from the
+walls. A bunch of funny-looking items fill the center of the room. There are
+no furniture here what-so-ever. The only way out seems to be west, through
+the low steel door.
+~
+Room_flags 524
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 7904
+Name The Northern end of the hall~
+Desc You are standing in the northern end of the huge hall. This part is under
+the grand wooden staircase so the light seems a little less bright here,
+but this doesn't bother your sight at all. To the north lies the kitchen.
+To the south lies the Southern end of the hall. To the east there is a huge
+metal door. To the west there is a large aspenwood door.
+~
+Room_flags 524
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+7906
+0
+Exit
+1
+You see a huge metal door. From it a foul stench emanates. The smell is the
+most awful experience in your entire life. A thought seeps through this
+terrible stench and into your mind : "Monsters", you feel BAD about opening
+that door.
+~
+steel metal huge~
+-1
+7913
+ABF
+Exit
+2
+The rest of the hall lies in that direction, and so does the exit.
+~
+~
+-1
+7901
+0
+Exit
+3
+The door has "SITTING ROOM" written on it. It is made from Aspenwood and
+is beautifully carven with small elves as main issue of sculpture.
+~
+aspen asp~
+-1
+7905
+ABF
+EndRoom
+
+#ROOM
+Vnum 7905
+Name The Sitting room of Naris~
+Desc You are standing in the middle of a really comfortable place. The walls are
+decorated with paintings of smiling Kings and Queens. The most attractive
+picture is one of a Prince in shiny armour. By one of the walls there is an
+old arm-chair. The only exit is through the aspenwood door to the east.
+~
+Room_flags 524
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+chair arm-chair~
+This is truly a wonderful relic of the past. In it is a large cushion.
+~
+Exit
+1
+The door seems to be a very HEAVY door, carved completely from the trunk of
+an Aspen tree.
+~
+asp aspen door heavy~
+-1
+7904
+ABF
+EndRoom
+
+#ROOM
+Vnum 7906
+Name The Kitchen of Naris~
+Desc This must be the place of food and drink. You can hear the faint noise of 
+rats feasting on meat and bread from somewhere undeterminable. The sound
+makes you feel the agony of HUNGER. The only visible exit is south to the
+Northern end of the hall. To the north there is a larder, and to the east
+stands a fridge.
+~
+Room_flags 524
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+It's dark in there,  but the sounds from there are unmistakably from rats.
+~
+larder wooden cupboard~
+-1
+7907
+ABF
+Exit
+1
+You can see the fridge from here. In it are drinks all over.
+~
+fridge~
+-1
+7908
+ABF
+Exit
+2
+You can see the northern end of the hall.
+~
+~
+-1
+7904
+0
+EndRoom
+
+#ROOM
+Vnum 7907
+Name The Larder~
+Desc You can see food all over. Among the heaps of food you notice HUGE rats
+scuttering around, nibbling pieces off the heaps here and there.
+~
+Room_flags 524
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+door wooden larder exit~
+-1
+7906
+ABF
+EndRoom
+
+#ROOM
+Vnum 7908
+Name The Fridge~
+Desc This place is LOADED with drink, water and booze.
+~
+Room_flags 524
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+door exit fridge~
+-1
+7906
+ABF
+EndRoom
+
+#ROOM
+Vnum 7909
+Name On the stairs~
+Desc You can see up and down the stairway. It seems to take forever, either going
+up OR down. It's just a seemingly insurmountable climb, either way. Up is the 
+bedroom of Redferne, and Down leads to the Southern end of the hall.
+~
+Room_flags 524
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+-1
+7911
+0
+Exit
+5
+~
+~
+-1
+7901
+0
+EndRoom
+
+#ROOM
+Vnum 7910
+Name The Treasure room~
+Desc This place is gloomy.  The only visible exit is west, through the oak door.
+~
+Room_flags 524
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see a tall oak door.
+~
+door oak tall~
+-1
+7901
+ABF
+EndRoom
+
+#ROOM
+Vnum 7911
+Name Redferne's Bedroom~
+Desc This is a snugly set bedroom with all the necessities for a romantic evening.
+A large fireplace adorns the east wall, and sizzling away is the wood that
+is ablaze within.  The bed is enormous, covering at least HALF of this great
+room.  This stretches at least 300 square feet, so can you imagine the BED?
+A large staircase leads down to the hall.  A couple of doors open up to a
+broad balcony to the south. 
+~
+Room_flags 524
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+The sun seems to shine out there, warmly and comforting.
+~
+doors~
+-1
+7912
+AB
+Exit
+5
+~
+~
+-1
+7909
+0
+EndRoom
+
+#ROOM
+Vnum 7912
+Name The Balcony of Redferne's Residence~
+Desc You see a splendid view of the most of this world. The valleys stretch as far
+as the eye can see to the south. Down below you can see the entrance
+of this magnificent building. To the north are the doors to Redferne's Bedroom.
+~
+Room_flags 516
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the comfortable bedroom of Naris, the mansion of Redferne the Greater
+God.
+~
+doors~
+-1
+7911
+ABF
+EndRoom
+
+#ROOM
+Vnum 7913
+Name The Monster Pen~
+Desc This looks like the cage in which a large carnivore is being kept. Judging by
+the state the walls are in, this could very well be a large AGGRESSIVE animal. 
+This makes you pretty insecure, this stating your feeling about the place, 
+quite mildly.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+This looks like the only exit from here.
+~
+door cage metal pen~
+-1
+7904
+ABF
+EndRoom
+
+#ROOM
+Vnum 7914
+Name On the Huge Chain~
+Desc This place has quite a good view over Midgaard. Your possibilities of movement
+seems to extend only to up and down. Unless you want to let go of the secure
+and seemingly unmoveable chain, then those are the directions you should take
+from here.
+~
+Room_flags 4
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+Up the way you see the chain disappearing into the clouds above.
+~
+~
+-1
+7916
+0
+Exit
+5
+Down below you see the huge chain anchored to the ground in the Road Crossing.
+~
+~
+-1
+3120
+0
+EndRoom
+
+#ROOM
+Vnum 7916
+Name On the Great Chain of Naris~
+Desc You are approximately on the middle of the treacherous Chain. One false step
+and death will come and collect you quickly. The chain leads upwards and down.
+No way are you going to descend now ... you've only just begun your climb.
+Besides it could cost you your life.  Look down and you'll see why.
+~
+Room_flags 4
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+There seems to be only one way from here and that's up.
+~
+~
+-1
+7918
+0
+EndRoom
+
+#ROOM
+Vnum 7918
+Name The Mighty Chain of Naris~
+Desc This place offers a splendid view of the WHOLE COUNTRY SIDE!!! A magnificent
+light shines upon you and the way up through the clouds is opened. Up there
+you can now see the Mansion of Naris, Residence of the Greater God Redferne.
+The chain beneath you seems to evaporate in the mustering clouds that
+surround you by now.
+~
+Room_flags 4
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+You see the sunny top of the clouds. Beyond these, the Mansion towers before
+your eyes. Beautiful!!
+~
+~
+-1
+7900
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 7900 spec_cast_cleric
+S
+
+
+
+#RESETS
+D 0 7900 0 1
+D 0 7901 1 1
+D 0 7901 2 1
+D 0 7901 3 1
+D 0 7902 1 1
+D 0 7904 1 1
+D 0 7904 3 1
+D 0 7905 1 1
+D 0 7906 0 1
+D 0 7906 1 1
+D 0 7907 2 1
+D 0 7908 3 1
+D 0 7910 3 1
+D 0 7911 2 1
+D 0 7912 0 1
+D 0 7913 3 1
+M 0 7900 1 7900 1
+E 0 5221 0 16
+E 0 7217 0 5
+E 0 7218 0 7
+E 0 7219 0 9
+E 0 7220 0 6
+E 0 7221 0 11
+E 0 7223 0 10
+E 0 7222 0 8
+E 0 7224 0 12
+G 0 7911 0
+O 0 7909 0 7903
+O 0 6013 0 7908
+O 0 7910 0 7910
+P 0 7298 1 7910 1
+P 0 7208 6 7910 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

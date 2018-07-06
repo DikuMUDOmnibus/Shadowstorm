@@ -1,0 +1,2062 @@
+#AREADATA
+Name Machine Dreams~
+Builders None~
+VNUMs 8600 8699
+Credits { 1  5} Furey   Machine Dreams~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 8600
+Name oldstyle keeper~
+Short the keeper~
+Long The keeper of the Morris equipment is here.
+~
+Description Her job is to set the level for this equipment.
+~
+Race human~
+Act_flags A
+Aff 0
+Align 1000
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 5
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 8600
+Name bells morris leggings~
+Short morris bells~
+Desc A set of leggings with a dozen brass bells sewn on has been left here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AF
+Values AB AB AB 0 0
+Level 3
+Weight 50
+Cost 310
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+motto~
+'Time on the ground is time wasted.'
+~
+ExtraDesc
+bells morris~
+These are a set of sturdy leather leggings with small brass bells sewn on.
+They look like the leggings worn by Morris dancers.  There is a motto tooled
+into the leather.
+~
+EndObj
+
+#OBJ
+Vnum 8601
+Name handkerchief hankie kerchief morris~
+Short a morris handkerchief~
+Desc A white handkerchief is here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AM
+Values AB AB AB 0 0
+Level 3
+Weight 50
+Cost 310
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+handkerchief hankie kerchief~
+This is a fine linen handkerchief used for ritual Morris dances.
+~
+EndObj
+
+#OBJ
+Vnum 8602
+Name sash morris white~
+Short a morris sash~
+Desc A white sash is here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AL
+Values AB AB AB 0 0
+Level 3
+Weight 50
+Cost 310
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+sash~
+This is a fine linen sash used for ritual Morris dances.
+~
+EndObj
+
+#OBJ
+Vnum 8603
+Name staff morris~
+Short a morris staff~
+Desc A short, stout staff made of polished wood is here.~
+Material oldstyle~
+Item_type staff
+Extra 0
+Extra2 0
+Wear AO
+Values 10 4 4 'protection evil' 0
+Level 6
+Weight 50
+Cost 1460
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+stick staff~
+Made from the wood of a Yule Tree, this staff is about one meter long and
+highly polished.  It looks more like a ritual device than a weapon.
+~
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 8600
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8606
+0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8601
+0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8620
+0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8610
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8602
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8603
+0
+EndRoom
+
+#ROOM
+Vnum 8601
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8604
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8600
+0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8611
+0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8621
+0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8607
+0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8602
+0
+EndRoom
+
+#ROOM
+Vnum 8602
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8608
+0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8612
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8601
+0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8622
+0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8600
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8605
+0
+EndRoom
+
+#ROOM
+Vnum 8603
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8613
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8606
+0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8604
+0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8623
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8605
+0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8600
+0
+EndRoom
+
+#ROOM
+Vnum 8604
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8196
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8601
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8607
+0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8614
+0
+Exit
+5
+You see an abandoned warehouse.
+~
+~
+0
+3050
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8603
+0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8605
+0
+EndRoom
+
+#ROOM
+Vnum 8605
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8625
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8608
+0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8615
+0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8603
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8604
+0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8602
+0
+EndRoom
+
+#ROOM
+Vnum 8606
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8616
+0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8603
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8600
+0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8626
+0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8607
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8608
+0
+EndRoom
+
+#ROOM
+Vnum 8607
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8627
+0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8617
+0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8608
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8601
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8606
+0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8604
+0
+EndRoom
+
+#ROOM
+Vnum 8608
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8606
+0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8618
+0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8605
+0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8628
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8607
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8602
+0
+EndRoom
+
+#ROOM
+Vnum 8610
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8611
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8612
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8613
+0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8600
+0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8620
+0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8616
+0
+EndRoom
+
+#ROOM
+Vnum 8611
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the Road to Newfane.
+~
+~
+0
+8630
+0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8612
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8610
+0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8621
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8614
+0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8601
+0
+EndRoom
+
+#ROOM
+Vnum 8612
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8602
+0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8618
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8611
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8615
+0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8622
+0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8610
+0
+EndRoom
+
+#ROOM
+Vnum 8613
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8610
+0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8603
+0
+Exit
+3
+You see a road by a pond.
+~
+~
+0
+8636
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8616
+0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8614
+0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8623
+0
+EndRoom
+
+#ROOM
+Vnum 8614
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8604
+0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8615
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8613
+0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8624
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8617
+0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8611
+0
+EndRoom
+
+#ROOM
+Vnum 8615
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8614
+0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8612
+0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8625
+0
+Exit
+1
+You see a large dance hall.
+~
+~
+0
+8632
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8618
+0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8605
+0
+EndRoom
+
+#ROOM
+Vnum 8616
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8606
+0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8613
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8610
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8618
+0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8617
+0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8626
+0
+EndRoom
+
+#ROOM
+Vnum 8617
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8616
+0
+Exit
+2
+You see a small hall.
+~
+~
+0
+8634
+0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8614
+0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8627
+0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8618
+0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8607
+0
+EndRoom
+
+#ROOM
+Vnum 8618
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8616
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8612
+0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8608
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8617
+0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8628
+0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8615
+0
+EndRoom
+
+#ROOM
+Vnum 8620
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8626
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8623
+0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8600
+0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8621
+0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8610
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8622
+0
+EndRoom
+
+#ROOM
+Vnum 8621
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8601
+0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8611
+0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8622
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8620
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8624
+0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8627
+0
+EndRoom
+
+#ROOM
+Vnum 8622
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8620
+0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8602
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8621
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8625
+0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8612
+0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8628
+0
+EndRoom
+
+#ROOM
+Vnum 8623
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8613
+0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8624
+0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8603
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8625
+0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8620
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8626
+0
+EndRoom
+
+#ROOM
+Vnum 8624
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8614
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8623
+0
+Exit
+4
+You see a mountain ridge against the sky.
+~
+~
+0
+8638
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8627
+0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8621
+0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8625
+0
+EndRoom
+
+#ROOM
+Vnum 8625
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8623
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8628
+0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8615
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8624
+0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8622
+0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8605
+0
+EndRoom
+
+#ROOM
+Vnum 8626
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8628
+0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8606
+0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8623
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8620
+0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8627
+0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8616
+0
+EndRoom
+
+#ROOM
+Vnum 8627
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8607
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8621
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8626
+0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8628
+0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8624
+0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8617
+0
+EndRoom
+
+#ROOM
+Vnum 8628
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 8192
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8626
+0
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8627
+0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8625
+0
+Exit
+4
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8608
+0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8618
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8622
+0
+EndRoom
+
+#ROOM
+Vnum 8630
+Name Road to Newfane~
+Desc You are on a gently curving north-south road.  On your east side a youthful
+river sparkles blue and rushes in the sunlight.  On the west, green leaves and
+green ferns burst against the rich brown earth.  You feel the heat of your
+healthy muscles as you travel swiftly down the well-paved road.
+You may recall now if you like.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a village square.
+~
+~
+0
+8631
+0
+Exit
+2
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8611
+0
+EndRoom
+
+#ROOM
+Vnum 8631
+Name Newfane Village Square~
+Desc You are on the lawn of the village square of Newfane, resting against an oak
+after your vigorous journey.  The late spring breeze feels warm and sensuous
+on your body.  An Ale is in progress: you spy more than a dozen fiddlers and
+hundreds of Morris Dancers dressed in white cotton and wearing colorful hats
+and bells.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see the Road to Newfane.
+~
+~
+0
+8630
+0
+EndRoom
+
+#ROOM
+Vnum 8632
+Name A Large Dance Hall~
+Desc You are inside a large dance hall with a very polished, very slippery wooden
+floor.  You see three long lines of dancers, alternating men and women, in
+some sort of progressive country dance.  Two fiddlers, a flautist, and a
+harpsichord player provide the music.  You hear scattered screams of joy
+from the dancers.
+You may recall now if you like.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+dancer dancers~
+The dancers have been here all night and intend to dance until dawn.
+~
+Exit
+3
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8615
+0
+EndRoom
+
+#ROOM
+Vnum 8634
+Name A Small Hall~
+Desc You are inside a small hall with a rough wooden floor.  You see dozens of
+people in the hall chasing one poor man who is yelling at the top of
+his lungs.  Wait a minute.  These people are all holding hands and smiling!
+The man in front is leading them in a spiral!  They're DANCING!  And you
+thought people didn't dance like this any more!
+You may recall now if you like.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8617
+0
+EndRoom
+
+#ROOM
+Vnum 8636
+Name Road by a Pond~
+Desc You are passing by a large pond, almost a small lake.  You notice a small
+wooden shack by the side of the road.
+You may recall now if you like.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+shack~
+The shack looks hand-made by an amateur.
+~
+Exit
+1
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8613
+0
+Exit
+3
+You see a wooden church set back among the trees.
+~
+~
+0
+8637
+0
+EndRoom
+
+#ROOM
+Vnum 8637
+Name An Old Wooden Church~
+Desc As you enter the hall, you see the largest crowd of people you've ever seen in
+your life.  They're also the noisiest crowd you've ever heard, and as they
+press around you, the SWEATIEST crowd you've ever felt!  At the front of the
+hall, a group of musicians are playing 'Chorus Jig'.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a road by a pond.
+~
+~
+0
+8636
+0
+EndRoom
+
+#ROOM
+Vnum 8638
+Name Mountain Road~
+Desc You are following a road at the top of a mountain ridge with sky all around
+you.  Distant valleys are spread out below you on both sides.  There are
+many horsemen and horsewomen on this road, riding hell-for-leather out of
+sheer exhilaration.  You wish you had a horse!
+You may recall now if you like.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+You see several acres of thickly planted, very young Yule Trees.
+~
+~
+0
+8639
+0
+Exit
+5
+You see machine dreams and taste violet phosphor.
+~
+~
+0
+8624
+0
+EndRoom
+
+#ROOM
+Vnum 8639
+Name Yule Tree Farm~
+Desc This is the Yule Tree Farm at the top of Mountain Road.  All around you,
+young Yule Trees saturate your senses with dark green needles and pine
+essence.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+You see a mountain ridge against the sky.
+~
+~
+0
+8638
+0
+EndRoom
+
+#ROOM
+Vnum 8699
+Name The Void~
+Desc You are suspended in cool electric space above a translucent plain.  You feel
+synesthesia invading your nerves and reshuffling your senses.  The sky is the
+same obsidian color as the ground and you can't find a horizon.
+~
+Room_flags 2052
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+R 0 8600 6
+R 0 8601 6
+R 0 8602 6
+R 0 8603 6
+R 0 8604 6
+R 0 8605 6
+R 0 8606 6
+R 0 8607 6
+R 0 8608 6
+R 0 8610 6
+R 0 8611 6
+R 0 8612 6
+R 0 8613 6
+R 0 8614 6
+R 0 8615 6
+R 0 8616 6
+R 0 8617 6
+R 0 8618 6
+R 0 8620 6
+R 0 8621 6
+R 0 8622 6
+R 0 8623 6
+R 0 8624 6
+R 0 8625 6
+R 0 8626 6
+R 0 8627 6
+R 0 8628 6
+O 0 8600 0 8631
+O 0 8601 0 8632
+O 0 8601 0 8634
+O 0 8602 0 8637
+O 0 8603 0 8639
+M 0 8600 1 8699 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

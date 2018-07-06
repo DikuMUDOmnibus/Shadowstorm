@@ -1,0 +1,159 @@
+#AREADATA
+Name Castle Titolus~
+Builders Titos~
+VNUMs 5400 5499
+Credits (null)~
+Security 5
+Soundfile (null)~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 5400
+Name a Diamond Encrusted Platinum Throne~
+Short diamond Encrusted Platinum Throne~
+Desc Gleaming in the light the diamonds glitter from its platinum encrustment on this magnificent throne.~
+Material unknown~
+Item_type furniture
+Extra AMY
+Extra2 0
+Wear 0
+Values AC ABCDEFGJKMPTUX D CFG CFG
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 5400
+Name Throne Room~
+Desc There is a void, in the middle of the silent void stands a Diamond Encrusted Platinum Throne.
+The diamonds gleam blindingly to those who concentrate on them, there seems to be a flaw in this flawless looking throne.
+~
+Room_flags 67108868
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5401
+0
+EndRoom
+
+#ROOM
+Vnum 5401
+Name The end of the dark hall.~
+Desc Diamonds lining the wall to the right and left leading into this massive platinum gate.
+noticing and a closer views the platinum gate is encrusted with diamonds.
+In the middle of the massive gate there is a hole with a curious void in it.
+Curious....
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5402
+0
+Exit
+2
+~
+~
+0
+5400
+0
+EndRoom
+
+#ROOM
+Vnum 5402
+Name Dark Hall~
+Desc A line of diamonds lead back to the wooded gate, or torwards a glittering gleaming gate. the hall is dark, almost as if walking on air.
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5403
+0
+Exit
+2
+~
+~
+0
+5401
+0
+EndRoom
+
+#ROOM
+Vnum 5403
+Name Dark Hall~
+Desc The diamonds on the wall line up on the wall to your left and right. Leading to sparkling gate of sorts ahead. A wooded door behind you from whence you came.
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+5402
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 5400 0 5400
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

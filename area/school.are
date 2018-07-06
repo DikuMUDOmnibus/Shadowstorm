@@ -1,0 +1,3732 @@
+#AREADATA
+Name mud school~
+Builders Ponaka~
+VNUMs 3700 3799
+Credits { 1  5} Hatchet Mud School~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 3700
+Name acolyte cleric~
+Short the acolyte of Zump~
+Long An acolyte of Zump welcomes you to mud school.
+~
+Description He's big and bad.  Don't mess with him.
+~
+Race human~
+Act_flags ABGQTV
+Aff CH
+Align 1000
+Group 0
+Level 30
+Hitroll 10
+Hit_dice 1d1+999
+Mana_dice 1d1+999
+Dam_dice 2d4+30
+Dam_type beating
+Armor -15 -15 -15 -15
+Clevel0
+Cability 0
+Off ACEFHIKN
+Imm ABCD
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 3701
+Name blob~
+Short the blob~
+Long The blob is here, waiting to eat you up.
+~
+Description He is big, he is bad.  You don't want to fight him when he isn't chained up.
+Perhaps now would be a good time to flee from him!!!  If you don't flee, you
+would really suffer the consequences.
+~
+Race unique~
+Act_flags ABG
+Aff C
+Align 0
+Group 0
+Level 5
+Hitroll -5
+Hit_dice 1d1+49
+Mana_dice 1d1+99
+Dam_dice 1d1+0
+Dam_type digestion
+Armor -15 -15 -15 -15
+Clevel0
+Cability 0
+Off AN
+Imm AB
+Res CD
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form BSc
+Parts 0
+Size large
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 3702
+Name monster~
+Short the monster~
+Long There is a monster leashed here.
+~
+Description He looks mean, but you feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+Race school monster~
+Act_flags ABU
+Aff 0
+Align 0
+Group 0
+Level 1
+Hitroll 0
+Hit_dice 1d1+7
+Mana_dice 1d1+99
+Dam_dice 1d3+0
+Dam_type claw
+Armor 10 10 10 10
+Clevel0
+Cability 0
+Off 0
+Imm AB
+Res 0
+Vuln C
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 10
+Form AMV
+Parts ABCDEFHJKQU
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 3703
+Name monster wimpy~
+Short the wimpy monster~
+Long There is a wimpy monster leashed here.
+~
+Description He looks wimpy.  You feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+Race school monster~
+Act_flags ABHU
+Aff 0
+Align 0
+Group 0
+Level 1
+Hitroll 0
+Hit_dice 1d1+7
+Mana_dice 1d1+99
+Dam_dice 1d2+0
+Dam_type claw
+Armor 10 10 10 10
+Clevel0
+Cability 0
+Off O
+Imm AB
+Res 0
+Vuln C
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 10
+Form AMV
+Parts ABCDEFHJKQU
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 3704
+Name monster aggressive~
+Short the aggressive monster~
+Long There is an aggressive monster leashed here.
+~
+Description He looks mean, but you feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+Race school monster~
+Act_flags ABFU
+Aff 0
+Align 0
+Group 0
+Level 1
+Hitroll 0
+Hit_dice 1d1+7
+Mana_dice 1d1+99
+Dam_dice 1d4+0
+Dam_type claw
+Armor 10 10 10 10
+Clevel0
+Cability 0
+Off EK
+Imm AB
+Res 0
+Vuln C
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 10
+Form AMV
+Parts ABCDEFHJKQU
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 3705
+Name monster wimpy aggressive~
+Short the wimpy aggressive monster~
+Long There is a wimpy aggressive monster leashed here.
+~
+Description He looks mean, but you feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+Race school monster~
+Act_flags ABFHU
+Aff 0
+Align 0
+Group 0
+Level 1
+Hitroll 0
+Hit_dice 1d1+7
+Mana_dice 1d1+99
+Dam_dice 1d3+0
+Dam_type claw
+Armor 10 10 10 10
+Clevel0
+Cability 0
+Off J
+Imm AB
+Res 0
+Vuln C
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 10
+Form AMV
+Parts ABCDEFHJKQU
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 3706
+Name big creature~
+Short the big creature~
+Long There is a big creature hulking over your form.
+~
+Description He looks mean, and you just might have a small problem killing him, but he
+looks like a great prize!!!
+~
+Race school monster~
+Act_flags ABU
+Aff JZ
+Align 0
+Group 0
+Level 2
+Hitroll 1
+Hit_dice 2d2+20
+Mana_dice 1d1+99
+Dam_dice 1d4+1
+Dam_type claw
+Armor 8 8 8 10
+Clevel0
+Cability 0
+Off FN
+Imm AB
+Res 0
+Vuln C
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 25
+Form AMV
+Parts ABCDEFHJKQU
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 3707
+Name adept cleric~
+Short the adept of Satin~
+Long An adept of the mighty goddess Satin is here, contemplating your progress.
+~
+Description She is big and bad.  Don't mess with her.
+~
+Race human~
+Act_flags ABGQTV
+Aff CH
+Align 1000
+Group 0
+Level 30
+Hitroll 10
+Hit_dice 1d1+999
+Mana_dice 1d1+999
+Dam_dice 2d4+30
+Dam_type beating
+Armor -15 -15 -15 -15
+Clevel0
+Cability 0
+Off ACEFHIKN
+Imm ABCD
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 3708
+Name adept~
+Short the adept of Alander~
+Long An adept of Alander is here, smiling at you.
+~
+Description He is big and bad.  Don't mess with him.
+~
+Race human~
+Act_flags ABGQTV
+Aff CH
+Align 1000
+Group 0
+Level 30
+Hitroll 10
+Hit_dice 1d1+999
+Mana_dice 1d1+999
+Dam_dice 2d4+30
+Dam_type beating
+Armor -15 -15 -15 -15
+Clevel0
+Cability 0
+Off ACEFHIKN
+Imm ABCD
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 3709
+Name rabbit~
+Short the rabbit~
+Long A rabbit is bouncing around here.
+~
+Description The rabbit smiles at you, completely harmless!
+~
+Race rabbit~
+Act_flags AGHU
+Aff 0
+Align 100
+Group 0
+Level 1
+Hitroll 0
+Hit_dice 1d1+10
+Mana_dice 1d1+99
+Dam_dice 1d3+0
+Dam_type bite
+Armor 10 10 10 10
+Clevel0
+Cability 0
+Off FH
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 0
+Form AGV
+Parts ACDEFHJK
+Size tiny
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 3710
+Name lizard~
+Short the lizard~
+Long A lizard slithers up to you.
+~
+Description It smiles at you, and tries to eat your leg.
+~
+Race lizard~
+Act_flags AGU
+Aff 0
+Align -100
+Group 0
+Level 2
+Hitroll 0
+Hit_dice 2d2+20
+Mana_dice 1d1+99
+Dam_dice 1d4+1
+Dam_type bite
+Armor 8 8 8 10
+Clevel0
+Cability 0
+Off R
+Imm 0
+Res L
+Vuln I
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 0
+Form AGXc
+Parts ACDEFHKQV
+Size small
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 3711
+Name boar~
+Short the boar~
+Long A boar tries to run you over.
+~
+Description It grunts at you.
+~
+Race pig~
+Act_flags AGU
+Aff 0
+Align 0
+Group 0
+Level 3
+Hitroll 1
+Hit_dice 3d3+30
+Mana_dice 1d1+99
+Dam_dice 1d6+1
+Dam_type charge
+Armor 7 7 7 9
+Clevel0
+Cability 0
+Off CDFR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 0
+Form AGV
+Parts ACDEFHJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 3712
+Name fox~
+Short the fox~
+Long A fox is here staring at you.
+~
+Description It's fur might be worth money.
+~
+Race fox~
+Act_flags AGHU
+Aff Z
+Align 100
+Group 0
+Level 1
+Hitroll 1
+Hit_dice 1d1+12
+Mana_dice 1d1+99
+Dam_dice 1d3+1
+Dam_type bite
+Armor 8 8 8 10
+Clevel0
+Cability 0
+Off FHNR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 0
+Form AGV
+Parts ACDEFHJKQV
+Size small
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 3713
+Name snail~
+Short the snail~
+Long A snail is trying to get out of your way.
+~
+Description You don't see much but slime about it.
+~
+Race unique~
+Act_flags AGU
+Aff 0
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 1d1+0
+Mana_dice 1d1+99
+Dam_dice 1d1+0
+Dam_type digestion
+Armor 10 10 10 10
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGQc
+Parts AFHM
+Size tiny
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 3714
+Name beast~
+Short the beast~
+Long A beast tries to feed off of you.
+~
+Description It looks mean.  You'd better run.
+~
+Race school monster~
+Act_flags AFTU
+Aff Z
+Align 0
+Group 0
+Level 5
+Hitroll 1
+Hit_dice 5d5+55
+Mana_dice 1d1+99
+Dam_dice 1d6+3
+Dam_type bite
+Armor 5 5 5 8
+Clevel0
+Cability 0
+Off EKM
+Imm AB
+Res HI
+Vuln C
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 50
+Form AMV
+Parts ABCDEFHJKQU
+Size large
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 3715
+Name bear~
+Short the bear~
+Long A bear is here growling at you.
+~
+Description The bear must be bigger than you!  It wants to rip your head off.
+~
+Race bear~
+Act_flags AGU
+Aff 0
+Align 0
+Group 0
+Level 4
+Hitroll 1
+Hit_dice 4d4+44
+Mana_dice 1d1+99
+Dam_dice 1d6+2
+Dam_type claw
+Armor 6 5 6 7
+Clevel0
+Cability 0
+Off CDEOR
+Imm 0
+Res EI
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 0
+Form AGV
+Parts ABCDEFHJKUV
+Size large
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 3716
+Name wolf~
+Short the wolf~
+Long A wolf is here snarling at you.
+~
+Description The wolf doesn't want to be bothered.
+~
+Race wolf~
+Act_flags AGU
+Aff Z
+Align 0
+Group 0
+Level 4
+Hitroll 0
+Hit_dice 4d4+44
+Mana_dice 1d1+99
+Dam_dice 1d6+2
+Dam_type bite
+Armor 7 7 7 10
+Clevel0
+Cability 0
+Off FHNR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 0
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 3717
+Name adept cleric~
+Short the adept of Selene~
+Long An adept of Selene is here, grinning and selling you things.
+~
+Description He is big and bad.  Don't mess with him.
+~
+Race human~
+Act_flags ABCQTV
+Aff CH
+Align 1000
+Group 0
+Level 30
+Hitroll 10
+Hit_dice 1d1+999
+Mana_dice 1d1+999
+Dam_dice 2d4+30
+Dam_type beating
+Armor -15 -15 -15 -15
+Clevel0
+Cability 0
+Off ACEFHIKN
+Imm ABCD
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 3718
+Name adept cleric~
+Short the adept of Furey~
+Long An adept of Furey is here, training young students.
+~
+Description He is big and bad.  Don't mess with him.
+~
+Race human~
+Act_flags ABCJQTV
+Aff CH
+Align 1000
+Group 0
+Level 30
+Hitroll 10
+Hit_dice 1d1+999
+Mana_dice 1d1+999
+Dam_dice 2d4+30
+Dam_type beating
+Armor -15 -15 -15 -15
+Clevel0
+Cability 0
+Off ACEFHIKN
+Imm ABCD
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 3719
+Name priest cleric~
+Short the priest of Circe~
+Long The priest of Circe is ready to help you practice.
+~
+Description He is big and bad.  Don't mess with him.
+~
+Race human~
+Act_flags ABCKQTV
+Aff CH
+Align 1000
+Group 0
+Level 30
+Hitroll 10
+Hit_dice 1d1+999
+Mana_dice 1d1+999
+Dam_dice 2d4+30
+Dam_type beating
+Armor -15 -15 -15 -15
+Clevel0
+Cability 0
+Off ACEFHIKN
+Imm ABCD
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 3720
+Name diploma beast~
+Short the diploma beast~
+Long The hideous diploma beast is here, holding your graduation present!
+~
+Description This horrible creature is your final test for mud school.  Kill him, and the
+diploma is yours.
+~
+Race school monster~
+Act_flags ABU
+Aff J
+Align 0
+Group 0
+Level 3
+Hitroll 1
+Hit_dice 2d4+30
+Mana_dice 1d1+99
+Dam_dice 1d6+1
+Dam_type claw
+Armor 8 8 8 10
+Clevel0
+Cability 0
+Off EFN
+Imm AB
+Res 0
+Vuln C
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 30
+Form AMV
+Parts ABCDEFHJKQU
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 3700
+Name mace sub merc~
+Short a sub issue mace~
+Desc You see a sub issue mace here.~
+Material bronze~
+Item_type weapon
+Extra U
+Extra2 0
+Wear AN
+Values mace 1 6 pound 0
+Level 1
+Weight 60
+Cost 250
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+mace~
+You see a mace of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 3701
+Name dagger sub merc~
+Short a sub issue dagger~
+Desc You see a sub issue dagger here.~
+Material bronze~
+Item_type weapon
+Extra U
+Extra2 0
+Wear AN
+Values dagger 1 4 pierce 0
+Level 0
+Weight 10
+Cost 210
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+dagger~
+You see a dagger of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 3702
+Name sword sub merc~
+Short a sub issue sword~
+Desc You see a sub issue sword here.~
+Material bronze~
+Item_type weapon
+Extra U
+Extra2 0
+Wear AN
+Values sword 1 6 slash 0
+Level 1
+Weight 30
+Cost 360
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+sword~
+You see a sword of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 3703
+Name vest sub merc~
+Short a sub issue vest~
+Desc You see a sub issue vest here.~
+Material leather~
+Item_type armor
+Extra U
+Extra2 0
+Wear AD
+Values A A A 0 0
+Level 0
+Weight 50
+Cost 144
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+vest~
+You see a vest of great but cheap craftsmanship.  Stamped on the side is:
+Merc Industries
+~
+EndObj
+
+#OBJ
+Vnum 3704
+Name shield sub merc~
+Short a sub issue shield~
+Desc You see a sub issue shield here.~
+Material wood~
+Item_type armor
+Extra U
+Extra2 0
+Wear AJ
+Values A A A 0 0
+Level 0
+Weight 30
+Cost 108
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+shield~
+You see a shield of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+EndObj
+
+#OBJ
+Vnum 3705
+Name cloak sub merc~
+Short a sub issue cloak~
+Desc You see a sub issue cloak here.~
+Material cloth~
+Item_type armor
+Extra U
+Extra2 0
+Wear AC
+Values A A A 0 A
+Level 0
+Weight 40
+Cost 72
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+cloak~
+You see a cloak of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+EndObj
+
+#OBJ
+Vnum 3706
+Name helmet sub merc~
+Short a sub issue helmet~
+Desc You see a sub issue helmet here.~
+Material leather~
+Item_type armor
+Extra U
+Extra2 0
+Wear AE
+Values A A A 0 0
+Level 0
+Weight 30
+Cost 72
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+helmet~
+You see a helmet of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+EndObj
+
+#OBJ
+Vnum 3707
+Name leggings sub merc~
+Short a pair of sub issue leggings~
+Desc You see a pair of sub issue leggings here.~
+Material leather~
+Item_type armor
+Extra U
+Extra2 0
+Wear AF
+Values A A A 0 0
+Level 0
+Weight 30
+Cost 72
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+leggings~
+You see leggings of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+EndObj
+
+#OBJ
+Vnum 3708
+Name boots sub merc~
+Short a pair of sub issue boots~
+Desc You see a pair of sub issue boots here.~
+Material leather~
+Item_type armor
+Extra U
+Extra2 0
+Wear AG
+Values A A A 0 0
+Level 0
+Weight 30
+Cost 72
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+boots~
+You see boots of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+EndObj
+
+#OBJ
+Vnum 3709
+Name gloves sub merc~
+Short a pair of sub issue gloves~
+Desc You see a pair of sub issue gloves here.~
+Material leather~
+Item_type armor
+Extra U
+Extra2 0
+Wear AH
+Values A A A 0 0
+Level 0
+Weight 10
+Cost 72
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+gloves~
+You see gloves of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+EndObj
+
+#OBJ
+Vnum 3710
+Name sleeves sub merc~
+Short a pair of sub issue sleeves~
+Desc You see a pair of sub issue sleeves here.~
+Material leather~
+Item_type armor
+Extra U
+Extra2 0
+Wear AI
+Values A A A 0 0
+Level 0
+Weight 20
+Cost 72
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+sleeves~
+You see sleeves of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+EndObj
+
+#OBJ
+Vnum 3711
+Name cape sub merc~
+Short a sub issue cape~
+Desc You see a sub issue cape here.~
+Material cloth~
+Item_type armor
+Extra U
+Extra2 0
+Wear AK
+Values A A A 0 0
+Level 0
+Weight 20
+Cost 72
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+cape~
+You see a cape of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+EndObj
+
+#OBJ
+Vnum 3712
+Name belt sub merc~
+Short a sub issue belt~
+Desc You see a sub issue belt here.~
+Material leather~
+Item_type armor
+Extra U
+Extra2 0
+Wear AL
+Values A A A 0 0
+Level 0
+Weight 10
+Cost 72
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+belt~
+You see a belt of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+EndObj
+
+#OBJ
+Vnum 3713
+Name bracer sub merc~
+Short a sub issue bracer~
+Desc You see a sub issue bracer here.~
+Material bronze~
+Item_type armor
+Extra U
+Extra2 0
+Wear AM
+Values 0 A A 0 0
+Level 0
+Weight 10
+Cost 48
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+bracer~
+You see a bracer of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+EndObj
+
+#OBJ
+Vnum 3714
+Name key~
+Short a key~
+Desc You see a very important key here!~
+Material brass~
+Item_type key
+Extra P
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 3715
+Name diploma~
+Short a mud school diploma~
+Desc You see a mud school diploma here.~
+Material vellum~
+Item_type treasure
+Extra GU
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 1140
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+diploma~
+This document shows that you have graduated from Mud School.
+It also has magical effects on your abilities if you hold it!
+
+Merc Industries
+~
+AffectObj
+4 1
+AffectObj
+5 1
+EndObj
+
+#OBJ
+Vnum 3716
+Name banner war merc~
+Short a war banner~
+Desc A war banner is on the floor here.~
+Material cloth~
+Item_type light
+Extra AG
+Extra2 0
+Wear A
+Values 0 0 DGH 0 0
+Level 0
+Weight 20
+Cost 380
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+banner~
+This is the official Merc war banner to see you through the darkest realm!
+~
+AffectObj
+17 -1
+AffectObj
+20 -1
+EndObj
+
+#OBJ
+Vnum 3717
+Name spear sub merc~
+Short a sub issue spear~
+Desc Ponnet~
+Material wood~
+Item_type weapon
+Extra U
+Extra2 0
+Wear AN
+Values exotic 1 6 thrust 0
+Level 1
+Weight 50
+Cost 111
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+spear~
+You see a spear of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 3718
+Name staff sub merc~
+Short a sub issue staff~
+Desc You see a sub issue staff here.~
+Material wood~
+Item_type weapon
+Extra U
+Extra2 0
+Wear AN
+Values exotic 1 5 pound F
+Level 1
+Weight 40
+Cost 290
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+staff~
+You see a staff of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+AffectObj
+18 2
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 3719
+Name axe sub merc~
+Short a sub issue axe~
+Desc You see a sub issue axe here.~
+Material bronze~
+Item_type weapon
+Extra U
+Extra2 0
+Wear AN
+Values axe 1 6 chop 0
+Level 1
+Weight 50
+Cost 350
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+axe~
+You see an axe of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 3720
+Name flail sub merc~
+Short a sub issue flail~
+Desc You see a sub issue flail here.~
+Material bronze~
+Item_type weapon
+Extra U
+Extra2 0
+Wear AN
+Values flail 1 5 crush 0
+Level 1
+Weight 50
+Cost 310
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+flail~
+You see a flail of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 3721
+Name whip sub merc~
+Short a sub issue whip~
+Desc You see a sub issue whip here.~
+Material leather~
+Item_type weapon
+Extra U
+Extra2 0
+Wear AN
+Values whip 2 2 whip 0
+Level 1
+Weight 20
+Cost 330
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+whip~
+You see a whip of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+AffectObj
+18 2
+EndObj
+
+#OBJ
+Vnum 3722
+Name glaive sub merc~
+Short a sub issue glaive~
+Desc You see a sub issue glaive here.~
+Material wood~
+Item_type weapon
+Extra U
+Extra2 0
+Wear AN
+Values polearm 1 7 slash F
+Level 1
+Weight 80
+Cost 183
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+glaive~
+You see a glaive of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+AffectObj
+19 1
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 3700
+Name Entrance to Mud School~
+Desc This is the entrance to the Merc Mud School.  Go north to go through mud
+school.  If you have been here before and want to go directly to the arena,
+go south.
+
+A sign warns 'You may not pass these doors once you have passed level 5.'
+~
+Room_flags 67108876
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the doorway into the Mud School Building.
+~
+~
+0
+3757
+0
+Exit
+2
+You see the one way door into the Arena of Mud School.
+~
+door~
+-1
+3744
+AB
+Exit
+5
+You see the Temple of Midgaard.
+~
+~
+0
+3001
+0
+EndRoom
+
+#ROOM
+Vnum 3701
+Name A Room in Mud School~
+Desc You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The exits are west and south.  A small plaque is on the
+wall.
+~
+Room_flags 67239948
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+Equipment check time!  Type 'EQUIPMENT' to see your current equipment.  Right
+now, you have just a vest, a shield, and a weapon.  As you go through Mud
+School you will acquire a complete set of equipment.
+
+To pick up items on the ground as you see them, type 'GET item'.
+To wear a piece of armor, type 'WEAR item'.
+To hold a light source, type 'HOLD item'.
+To wield a weapon, type 'WIELD weapon'.
+To wear, hold, and wield everything you have, type 'WEAR ALL'.
+To stop using a piece of equipment, type 'REMOVE item'.
+Finally, to see the items in your inventory, type 'INVENTORY'.
+
+When you are ready to continue, go west.
+~
+ExtraDesc
+plaque~
+This zone (Mud School) is created by Hatchet for any Merc Mud.
+Copyright 1992, 1993.
+~
+Exit
+2
+You see a path into another room.
+~
+~
+-1
+3757
+0
+Exit
+3
+You see a path into another room.
+~
+~
+-1
+3702
+0
+EndRoom
+
+#ROOM
+Vnum 3702
+Name The Center Room~
+Desc You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  Exits lead in ALL directions.
+~
+Room_flags 67239948
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+This is the direction practicing room.  The directions you can go in any
+room are: north, south, east, west, up, or down.  Of course, not all rooms
+have all exits available.
+
+To see the obvious exits in a room, type 'EXITS'.
+
+Sometimes doors are closed, or locked, or secret.  Then you have to notice
+clues in the room description, or try going into that direction and seeing
+if you bump into a door.
+
+Try going into each direction from here.  When you are done, go NORTH.
+~
+Exit
+0
+You see the room north that will lead you to the next section.
+~
+~
+0
+3703
+0
+Exit
+1
+You see a room.
+~
+~
+0
+3701
+0
+Exit
+2
+You see a room.
+~
+~
+0
+3705
+0
+Exit
+3
+You see a room.
+~
+~
+0
+3704
+0
+Exit
+4
+You see a room.
+~
+~
+0
+3708
+0
+Exit
+5
+You see a room.
+~
+~
+0
+3707
+0
+EndRoom
+
+#ROOM
+Vnum 3703
+Name A Room in Mud School~
+Desc You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  Exits lead north and south.
+~
+Room_flags 67239948
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+Since you are here, let us have another lesson.  You can see the statistics on
+yourself by typing 'SCORE'.  Do that right now.  At higher levels, 'SCORE'
+gives you more information.
+~
+Exit
+0
+You see the next station ahead.
+~
+~
+-1
+3709
+0
+Exit
+2
+You see the central room.
+~
+~
+0
+3702
+0
+EndRoom
+
+#ROOM
+Vnum 3704
+Name A Room in Mud School~
+Desc You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is east.
+~
+Room_flags 67239948
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+Just go east to the central room.
+~
+Exit
+1
+You see the central room.
+~
+~
+0
+3702
+0
+EndRoom
+
+#ROOM
+Vnum 3705
+Name A Room in Mud School~
+Desc You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is north.
+~
+Room_flags 67239948
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+Just go north to the central room.
+~
+Exit
+0
+You see the central room.
+~
+~
+0
+3702
+0
+EndRoom
+
+#ROOM
+Vnum 3707
+Name A Room in Mud School~
+Desc You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is up.
+~
+Room_flags 67239948
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+Just go up to the central room.
+~
+Exit
+4
+You see the central room.
+~
+~
+0
+3702
+0
+EndRoom
+
+#ROOM
+Vnum 3708
+Name A Room in Mud School~
+Desc You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is down.
+~
+Room_flags 67239948
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+Just go down to the central room.
+~
+Exit
+5
+You see the central room.
+~
+~
+0
+3702
+0
+EndRoom
+
+#ROOM
+Vnum 3709
+Name A Room in Mud School~
+Desc You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  Exits reach west and down.
+~
+Room_flags 67239948
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+Welcome to combat training.
+
+The first lesson is knowing whom to fight.  Use the command 'CONSIDER' to
+consider killing a monster.  Avoid fighting monsters that will kill you
+easily.
+
+The second lesson is running away.  There is a monster in the room down.
+He is too strong for you to kill, but he won't kill you.  So go 'DOWN' from
+here, then 'CONSIDER' him, then 'KILL' him.  After a while, type 'FLEE' to
+escape from him.
+
+You can also set your character to flee automatically with the 'WIMPY' command.
+Type 'HELP WIMPY' to find out more about 'WIMPY'.
+
+After you flee, you will be back in this room.  When you are ready to go on
+to the next station, go 'WEST'.
+~
+Exit
+3
+You see the next station of Mud School.
+~
+~
+-1
+3711
+0
+Exit
+5
+You see a cage.
+~
+~
+0
+3710
+0
+EndRoom
+
+#ROOM
+Vnum 3710
+Name The Blob Cage~
+Desc You are in a smelly cage.  Strangely, the walls are still clean!
+You see a sign here.  The only exit is up.
+~
+Room_flags 67239944
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+Remember, don't fight the blob to the finish!  Just type 'KILL BLOB', then
+when you are fighting, type 'FLEE', until you flee and are out of here.
+~
+Exit
+4
+You see a safe room up.
+~
+~
+0
+3709
+0
+EndRoom
+
+#ROOM
+Vnum 3711
+Name A Room in Mud School~
+Desc You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.
+~
+Room_flags 67239948
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+Welcome to the next station.  Here, you will actually fight real monsters,
+without fleeing!  Kill every mob, since they hold some equipment you need.
+To start, go down.
+~
+Exit
+1
+You see the next station of Mud School.
+~
+~
+0
+3709
+0
+Exit
+5
+You see the combat hall.
+~
+~
+0
+3712
+0
+EndRoom
+
+#ROOM
+Vnum 3712
+Name The Cage Room~
+Desc You are in the cage room.  All around are 4 cages.  Light fluoresces off the
+ceiling in soft white tones.  Of course, there is a big sign on the wall.
+Exits lead into the cardinal directions plus down.
+~
+Room_flags 67239948
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+Welcome to the cage room.  The adepts of mud school have captured some
+monsters for you to kill.  In the four cages are four monsters of various
+types.  Kill them all!
+
+After you kill each monster, get all of the equipment from their corpses
+with the command 'GET ALL CORPSE'.  You can then use the command 'WEAR ALL'
+to wear your newly won equipment.
+
+When you are done with the corpse, 'SACRIFICE CORPSE' to give it to your God.
+God will reward you for this.
+
+Between combat, you may need to rest or sleep to regenerate hit points.
+You can 'REST' to regenerate hit points, or you can 'SLEEP'.  'SLEEP' will
+refresh you faster than 'REST', but you will be less aware of your
+surroundings.
+~
+Exit
+0
+You see the aggressive monster inside!
+~
+~
+-1
+3713
+0
+Exit
+1
+You see the unmodified monster inside!
+~
+~
+-1
+3716
+0
+Exit
+2
+You see the wimpy monster inside!
+~
+~
+-1
+3715
+0
+Exit
+3
+You see the aggressive wimpy monster inside!
+~
+~
+-1
+3714
+0
+Exit
+5
+You see the next station below.
+~
+~
+-1
+3717
+0
+EndRoom
+
+#ROOM
+Vnum 3713
+Name A Cage~
+Desc You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
+in the upkeep here!  There is a sign on the wall.  The only exit is south.
+~
+Room_flags 67239944
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+There is an aggressive monster in this room.  Kill him and get out of here
+fast!  Remember to loot and sacrifice the corpse.
+~
+Exit
+2
+You see the Cage Room.
+~
+~
+-1
+3712
+0
+EndRoom
+
+#ROOM
+Vnum 3714
+Name A Cage~
+Desc You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
+in the upkeep here!  There is a sign on the wall.  The only exit is east.
+~
+Room_flags 67239944
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+There is a wimpy, aggressive monster in this room.  Kill him and get out of
+here fast!  Remember to loot and sacrifice the corpse.
+~
+Exit
+1
+You see the Cage Room.
+~
+~
+-1
+3712
+0
+EndRoom
+
+#ROOM
+Vnum 3715
+Name A Cage~
+Desc You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
+in the upkeep here!  There is a sign on the wall.  The only exit is north.
+~
+Room_flags 67239944
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+There is a wimpy monster in this room.  Kill him and get out of here fast!
+Remember to loot and sacrifice the corpse.
+~
+Exit
+0
+You see the Cage Room.
+~
+~
+-1
+3712
+0
+EndRoom
+
+#ROOM
+Vnum 3716
+Name A Cage~
+Desc You are in a cage.  Blood and gore are everywhere.  The keepers must be lax
+in the upkeep here!  There is a sign on the wall.  The only exit is west.
+~
+Room_flags 67239944
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+There is a monster in this room.  Kill him and get out of here fast!
+Remember to loot and sacrifice the corpse.
+~
+Exit
+3
+You see the Cage Room.
+~
+~
+-1
+3712
+0
+EndRoom
+
+#ROOM
+Vnum 3717
+Name A Room in Mud School~
+Desc You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  Find your own exit here.
+~
+Room_flags 67239948
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+By now, you must be hungry and thirsty.  Time to buy groceries!
+To the south is a store.  Inside the store, you can use these commands:
+
+    BUY    Buy an item
+    LIST   List what is for sale
+
+After buying some food and drink, you can 'EAT' and 'DRINK' it.
+
+After that, find the next exit yourself.
+~
+Exit
+1
+You see the next station of Mud School.
+~
+door~
+-1
+3719
+AB
+Exit
+2
+You see the Shop.
+~
+~
+0
+3718
+0
+Exit
+4
+You see the Cage room.
+~
+~
+-1
+3712
+0
+EndRoom
+
+#ROOM
+Vnum 3718
+Name The Store in Mud School~
+Desc You are in a cramped room.  Stacked neatly on shelves everywhere are items
+and packages.  Light fluoresces off the ceiling in soft white tones.  Of
+course, there is a sign on the wall.  The only exit is north.
+~
+Room_flags 67239944
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+The sign reads:
+
+   Buy   - Buy something from the storekeeper.
+   List  - The storekeeper will tell you what's for sale.
+   Value - The storekeeper will tell you how much he will give to you for
+           that item.
+   Sell  - Sell that item to the storekeeper.
+~
+Exit
+0
+You see the only exit out of here.
+~
+~
+0
+3717
+0
+EndRoom
+
+#ROOM
+Vnum 3719
+Name A Room in Mud School~
+Desc You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The exits are north and west, with a door to the east.
+~
+Room_flags 67239948
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+North of you is a dark room.  I hope you still have the lantern!  If not,
+you have to back to the store and buy one.
+
+In the room is a monster with a key that you need.  After killing the
+monster and getting the key, come back here, UNLOCK EAST, OPEN EAST,
+and continue east.
+~
+Exit
+0
+You see a darkened room inside.
+~
+~
+0
+3720
+0
+Exit
+1
+You see the next station of Mud School.
+~
+door~
+3714
+3721
+ABCF
+Exit
+3
+You see the room you just came from.
+~
+door~
+-1
+3717
+AB
+EndRoom
+
+#ROOM
+Vnum 3720
+Name The Darkened Room~
+Desc This room was purposefully darkened so that you would need to hold on to a
+light source to go through.  The walls are, of course, blank, and white.
+The only exit is south.
+~
+Room_flags 67239945
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see the room that you have come from.
+~
+~
+0
+3719
+0
+EndRoom
+
+#ROOM
+Vnum 3721
+Name The End of Mud School!~
+Desc This is a very bright room, with a marble pedestal in the center.  Behind
+the pedestal stands a person cloaked in Silver.  Tapestries flow from every
+wall, and you feel very happy to be here right now.  There is a big sign here.
+The only exit is on the other side of the gate north of you.
+~
+Room_flags 67239944
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+You have graduated from Mud School!  Take your diploma...if you can.
+Go 'NORTH' from here to visit our arena.  There are plenty of low-level
+monsters, but DON'T attack other players.
+
+If you want to go directly back to the temple at any time, type 'RECALL'.
+
+Don't forget to type save to protect your character.  You won't be saved after
+quitting until you reach level 2, so also type save before you type quit.
+
+If you need more help during the game, type 'HELP'.  If you see something
+wrong or have comments, use 'BUG', 'IDEA', or 'TYPO' to report them.
+
+May your visit here be ... mercenary.
+~
+Exit
+0
+You see the Arena ahead.
+~
+gate~
+-1
+3722
+AB
+EndRoom
+
+#ROOM
+Vnum 3722
+Name South Wall of Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+3729
+0
+Exit
+1
+~
+~
+0
+3725
+0
+Exit
+3
+~
+~
+0
+3723
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3723
+Name South Wall of Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+3728
+0
+Exit
+1
+~
+~
+0
+3722
+0
+Exit
+3
+~
+~
+0
+3724
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3724
+Name South West Corner of Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+3727
+0
+Exit
+1
+~
+~
+0
+3723
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3725
+Name South Wall of Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+3730
+0
+Exit
+1
+~
+~
+0
+3726
+0
+Exit
+3
+~
+~
+0
+3722
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3726
+Name South East Corner of Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+3731
+0
+Exit
+3
+~
+~
+0
+3725
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3727
+Name West Wall of Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+3732
+0
+Exit
+1
+~
+~
+0
+3728
+0
+Exit
+2
+~
+~
+0
+3724
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3728
+Name Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+3733
+0
+Exit
+1
+~
+~
+0
+3729
+0
+Exit
+2
+~
+~
+0
+3723
+0
+Exit
+3
+~
+~
+0
+3727
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3729
+Name Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+3734
+0
+Exit
+1
+~
+~
+0
+3730
+0
+Exit
+2
+~
+~
+0
+3722
+0
+Exit
+3
+~
+~
+0
+3728
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3730
+Name Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+3735
+0
+Exit
+1
+~
+~
+0
+3731
+0
+Exit
+2
+~
+~
+0
+3725
+0
+Exit
+3
+~
+~
+0
+3729
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3731
+Name East Wall of Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+3736
+0
+Exit
+2
+~
+~
+0
+3726
+0
+Exit
+3
+~
+~
+0
+3730
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3732
+Name West Wall of Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+3737
+0
+Exit
+1
+~
+~
+0
+3733
+0
+Exit
+2
+~
+~
+0
+3727
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3733
+Name Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+3738
+0
+Exit
+1
+~
+~
+0
+3734
+0
+Exit
+2
+~
+~
+0
+3728
+0
+Exit
+3
+~
+~
+0
+3732
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3734
+Name Center of Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.  There is a BIG SIGN here.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+Those with high bravery or low senses of cautiousness might wish to go below
+to the Dungeon.  However, know that there are aggressive monsters down there,
+and there is no quick escape back out of here when you are in the dungeon.
+~
+Exit
+0
+~
+~
+0
+3739
+0
+Exit
+1
+~
+~
+0
+3735
+0
+Exit
+2
+~
+~
+0
+3729
+0
+Exit
+3
+~
+~
+0
+3733
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+Exit
+5
+You see a dark murky dungeon below.
+~
+grate~
+-1
+3748
+AB
+EndRoom
+
+#ROOM
+Vnum 3735
+Name Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+3740
+0
+Exit
+1
+~
+~
+0
+3736
+0
+Exit
+2
+~
+~
+0
+3730
+0
+Exit
+3
+~
+~
+0
+3734
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3736
+Name East Wall of Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+3741
+0
+Exit
+2
+~
+~
+0
+3731
+0
+Exit
+3
+~
+~
+0
+3735
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3737
+Name West Wall of Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+3742
+0
+Exit
+1
+~
+~
+0
+3738
+0
+Exit
+2
+~
+~
+0
+3732
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3738
+Name Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+3743
+0
+Exit
+1
+~
+~
+0
+3739
+0
+Exit
+2
+~
+~
+0
+3733
+0
+Exit
+3
+~
+~
+0
+3737
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3739
+Name Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+3744
+0
+Exit
+1
+~
+~
+0
+3740
+0
+Exit
+2
+~
+~
+0
+3734
+0
+Exit
+3
+~
+~
+0
+3738
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3740
+Name Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+3745
+0
+Exit
+1
+~
+~
+0
+3741
+0
+Exit
+2
+~
+~
+0
+3735
+0
+Exit
+3
+~
+~
+0
+3739
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3741
+Name East Wall of Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+3746
+0
+Exit
+2
+~
+~
+0
+3736
+0
+Exit
+3
+~
+~
+0
+3740
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3742
+Name North West Corner of Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+3743
+0
+Exit
+2
+~
+~
+0
+3737
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3743
+Name North Wall of Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  You can barely see the ceiling.  You feel as if you are being watched
+by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+3744
+0
+Exit
+2
+~
+~
+0
+3738
+0
+Exit
+3
+~
+~
+0
+3742
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3744
+Name North Wall of Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+3745
+0
+Exit
+2
+~
+~
+0
+3739
+0
+Exit
+3
+~
+~
+0
+3743
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3745
+Name North Wall of Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+3746
+0
+Exit
+2
+~
+~
+0
+3740
+0
+Exit
+3
+~
+~
+0
+3744
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3746
+Name North East Corner of Arena~
+Desc You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+3741
+0
+Exit
+3
+~
+~
+0
+3745
+0
+Exit
+4
+You see the EXIT.
+~
+~
+0
+3760
+0
+EndRoom
+
+#ROOM
+Vnum 3748
+Name The Center of the Dungeon~
+Desc You are in the center of a large room.  A faint light from above shows that
+the floors are all covered with slime.  A feeling of dread comes over you as
+you notice that this is NOT a great place to go.  Exits go in all directions.
+Of special note is the one that brings you back up!!!
+~
+Room_flags 67108872
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the north wall.
+~
+~
+0
+3750
+0
+Exit
+1
+You see the east wall.
+~
+~
+0
+3753
+0
+Exit
+2
+You see the south wall.
+~
+~
+0
+3755
+0
+Exit
+3
+You see the west wall.
+~
+~
+0
+3752
+0
+Exit
+4
+You see safety!
+~
+grate~
+-1
+3734
+AB
+EndRoom
+
+#ROOM
+Vnum 3749
+Name The North West Corner of the Dungeon~
+Desc You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+Room_flags 67108873
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the north wall.
+~
+~
+0
+3750
+0
+Exit
+2
+You see the south wall.
+~
+~
+0
+3752
+0
+EndRoom
+
+#ROOM
+Vnum 3750
+Name The North Wall of the Dungeon~
+Desc You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+Room_flags 67108873
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the north east corner.
+~
+~
+0
+3751
+0
+Exit
+2
+You see the center of the dungeon.
+~
+~
+0
+3748
+0
+Exit
+3
+You see the north west corner.
+~
+~
+0
+3749
+0
+EndRoom
+
+#ROOM
+Vnum 3751
+Name The North East Corner of the Dungeon~
+Desc You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+Room_flags 67108873
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see the east wall.
+~
+~
+0
+3753
+0
+Exit
+3
+You see the north wall.
+~
+~
+0
+3750
+0
+EndRoom
+
+#ROOM
+Vnum 3752
+Name The West Wall of the Dungeon~
+Desc You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+Room_flags 67108873
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the north west corner.
+~
+~
+0
+3749
+0
+Exit
+1
+You see the center of the dungeon.
+~
+~
+0
+3748
+0
+Exit
+2
+You see the south west corner.
+~
+~
+0
+3754
+0
+EndRoom
+
+#ROOM
+Vnum 3753
+Name The East Wall of the Dungeon~
+Desc You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+Room_flags 67108873
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the north east corner.
+~
+~
+0
+3751
+0
+Exit
+2
+You see the south east corner.
+~
+~
+0
+3756
+0
+Exit
+3
+You see the center of the dungeon.
+~
+~
+0
+3748
+0
+EndRoom
+
+#ROOM
+Vnum 3754
+Name The South West Corner of the Dungeon~
+Desc You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+Room_flags 67108873
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the north wall.
+~
+~
+0
+3752
+0
+Exit
+1
+You see the south wall.
+~
+~
+0
+3755
+0
+EndRoom
+
+#ROOM
+Vnum 3755
+Name The South Wall of the Dungeon~
+Desc You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+Room_flags 67108873
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the center of the dungeon.
+~
+~
+0
+3748
+0
+Exit
+1
+You see the south east corner.
+~
+~
+0
+3756
+0
+Exit
+3
+You see the south west corner.
+~
+~
+0
+3754
+0
+EndRoom
+
+#ROOM
+Vnum 3756
+Name The South East Corner of the Dungeon~
+Desc You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+Room_flags 67108873
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the east wall.
+~
+~
+0
+3753
+0
+Exit
+3
+You see the south wall.
+~
+~
+0
+3755
+0
+EndRoom
+
+#ROOM
+Vnum 3757
+Name A Room in Mud School~
+Desc You are in a room in Mud School.  Paintings of the heroic graduates of mud
+school adorn the walls. To the west is Furey's Training Room, and to the east
+is Zump's Guild Room.  North of you is the next Station of Mud School.
+There is a sign on the wall (type 'LOOK SIGN' to read it).
+~
+Room_flags 67239948
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+To find out your attributes, type 'score'.  You can improve your attributes
+in Furey's Training Room to the west.  You can practice your skills and spells
+in Zump's Guild Room to the east.  You can continue through mud school by
+going north.
+
+If you are a new character, you should go 'WEST' from here, train your
+abilities, and then come back here and go 'NORTH'.
+~
+Exit
+0
+You see the next station of Mud School.
+~
+~
+0
+3701
+0
+Exit
+1
+You see Zump's Guild Room.  Go there to practice your skills.
+~
+~
+0
+3759
+0
+Exit
+2
+You see the entrance to Mud School.
+~
+~
+0
+3700
+0
+Exit
+3
+You see Furey's Training Room.  Go there to train your attributes.
+~
+~
+0
+3758
+0
+EndRoom
+
+#ROOM
+Vnum 3758
+Name Furey's Training Room~
+Desc You are in Furey's Training Room.  Around you are all sorts of physical
+and mental training tools.  The whole room is filled with magic, holiness, 
+and sweat.  There is a sign on the wall.
+~
+Room_flags 67239948
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+Welcome to Furey's Training Room.  Here you can train your attributes.  To 
+train an attribute, you need enough practices.  To find out how many practice
+sessions you have, type 'train' while you are in this room.  To train for a 
+specific attribute, type 'train <attr>' where attr is the first 3 letters of
+the attribute you want increased.  Type 'help train' for more information.
+~
+Exit
+1
+You see the room you came from, and the room you should go to.
+~
+~
+0
+3757
+0
+EndRoom
+
+#ROOM
+Vnum 3759
+Name Zump's Guild Room~
+Desc You are in a room filled with weapons, books, and many combat dummies, some
+cut and stabbed many times, others burnt to a crisp.  The room is filled with
+sweat and an aura of magic.  There is a sign on the wall.
+~
+Room_flags 67239948
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+Welcome to Zump's Guild Room.  Here you will learn your skills and spells.
+To find out what skills and spells you can practice and how many practice
+sessions you have, type 'practice'.  To practice the specific skill, type
+'practice <skill>', where 'skill' is the skill or spell you wish to practice.
+Practicing increases the amount you know of that skill or spell, up to a
+certain maximum.  When you have practiced all you wish to practice, go west.
+~
+Exit
+3
+You see the room you came from and the room you should go to.
+~
+~
+0
+3757
+0
+EndRoom
+
+#ROOM
+Vnum 3760
+Name A Safe Room~
+Desc You are in a safe room, away from all the mean rabbits and snails of the Arena.
+You can rest here, and go up to go back to the Temple of Midgaard.
+~
+Room_flags 67108876
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+You see the Temple of Midgaard.
+~
+~
+0
+3001
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 3707 spec_cast_adept
+M 3708 spec_cast_adept
+M 3714 spec_fido
+S
+
+
+
+#RESETS
+D 0 3700 2 1
+D 0 3717 1 1
+D 0 3719 1 2
+D 0 3719 3 1
+D 0 3721 0 1
+D 0 3734 5 1
+D 0 3748 4 1
+M 0 3700 1 3701 1
+M 0 3701 1 3710 1
+M 0 3707 1 3712 1
+M 0 3704 1 3713 1
+E 0 3707 0 7
+E 0 3712 0 13
+M 0 3705 1 3714 1
+E 0 3708 0 8
+E 0 3713 0 14
+M 0 3703 1 3715 1
+E 0 3706 0 6
+E 0 3711 0 12
+M 0 3702 1 3716 1
+E 0 3705 0 3
+E 0 3705 0 4
+M 0 3717 1 3718 1
+G 0 3138 0
+G 0 3031 0
+M 0 3706 1 3720 1
+E 0 3709 0 9
+E 0 3710 0 10
+E 0 3714 0 17
+E 0 3713 0 14
+M 0 3720 1 3721 1
+E 0 3715 0 17
+M 0 3708 1 3721 1
+M 0 3713 5 3724 5
+M 0 3712 3 3726 3
+M 0 3709 4 3734 4
+M 0 3710 3 3742 3
+M 0 3711 3 3746 3
+M 0 3714 1 3749 1
+M 0 3715 2 3751 2
+M 0 3716 2 3754 2
+M 0 3718 1 3758 1
+M 0 3719 1 3759 1
+S
+
+
+
+#SHOPS
+3717 1 15 17 19 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

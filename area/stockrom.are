@@ -1,0 +1,4069 @@
+#AREADATA
+Name Stock Rom Dependancy~
+Builders Cederic~
+VNUMs 28 99
+Credits ~
+Security 9
+Soundfile ~
+Continent 4
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 28
+Name man halfling tom underhill~
+Short Tom Underhill~
+Long A scarred older halfling blowing smoke rings.
+~
+Description ~
+Race unused~
+Act_flags AB
+Aff H
+Align 500
+Group 0
+Level 300
+Hitroll 300
+Hit_dice 601d100+18181
+Mana_dice 300d10+85
+Dam_dice 100d3+155
+Dam_type none
+Armor -193 -193 -193 -130
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln E
+Start_pos sit
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 29
+Name Lyric Streamskipper halfling woman rent~
+Short Lyric Streamskipper~
+Long A petite halfling woman watches you expectantly.
+~
+Description ~
+Race unused~
+Act_flags AB
+Aff H
+Align 400
+Group 0
+Level 200
+Hitroll 200
+Hit_dice 401d66+8081
+Mana_dice 200d10+85
+Dam_dice 66d3+105
+Dam_type none
+Armor -126 -126 -126 -84
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln E
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 100
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 30
+Name Thistle Burrfoot halfling man~
+Short Thistle Burrfoot~
+Long A halfling youth stands here, favoring you with a rougish smile.
+~
+Description ~
+Race unused~
+Act_flags AB
+Aff H
+Align 200
+Group 0
+Level 5
+Hitroll 5
+Hit_dice 11d2+51
+Mana_dice 5d10+85
+Dam_dice 1d5+7
+Dam_type none
+Armor 5 5 5 7
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln E
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 2
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 31
+Name Lark Morningdew halfling woman~
+Short Lark Morningdew~
+Long A bookish halfling woman with ink-stained hands waits patiently.
+~
+Description ~
+Race unused~
+Act_flags AB
+Aff H
+Align 0
+Group 0
+Level 200
+Hitroll 200
+Hit_dice 401d66+8081
+Mana_dice 200d10+85
+Dam_dice 66d3+105
+Dam_type none
+Armor -126 -126 -126 -84
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln E
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 32
+Name Melody Coltsfoor halfling woman bard~
+Short Melody Coltsfoot~
+Long A halfling woman with dextrous fingers and a winning smile.
+~
+Description ~
+Race unused~
+Act_flags AB
+Aff H
+Align 0
+Group 0
+Level 200
+Hitroll 200
+Hit_dice 401d66+8081
+Mana_dice 200d10+85
+Dam_dice 66d3+105
+Dam_type none
+Armor -126 -126 -126 -84
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln E
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 100
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 33
+Name Jane Riddler halfling woman innkeeper~
+Short Jane Riddler~
+Long A smiling halfling woman tends the bar here.
+~
+Description ~
+Race unused~
+Act_flags AB
+Aff H
+Align 600
+Group 0
+Level 200
+Hitroll 200
+Hit_dice 401d66+8081
+Mana_dice 200d10+85
+Dam_dice 66d3+105
+Dam_type none
+Armor -126 -126 -126 -84
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln E
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 100
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 34
+Name Boris Riddler halfling man~
+Short Boris Riddler~
+Long A burly halfling cleaning stalls busily.
+~
+Description ~
+Race unused~
+Act_flags AB
+Aff H
+Align 100
+Group 0
+Level 200
+Hitroll 200
+Hit_dice 401d66+8081
+Mana_dice 200d10+85
+Dam_dice 66d3+105
+Dam_type none
+Armor -126 -126 -126 -84
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln E
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 199
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 35
+Name stranger halfling man~
+Short Stranger~
+Long A halfling man of indeterminate age watches you thoughtfully.
+~
+Description ~
+Race unused~
+Act_flags AB
+Aff H
+Align 0
+Group 0
+Level 200
+Hitroll 200
+Hit_dice 401d66+8081
+Mana_dice 200d10+85
+Dam_dice 66d3+105
+Dam_type none
+Armor -126 -126 -126 -84
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln E
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 100
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 36
+Name Red Burrfoot halfling man~
+Short Red Burrfoot~
+Long A burly halfling man in a leather apron bustles around.
+~
+Description ~
+Race unused~
+Act_flags AB
+Aff H
+Align 0
+Group 0
+Level 200
+Hitroll 200
+Hit_dice 401d66+8081
+Mana_dice 200d10+85
+Dam_dice 66d3+105
+Dam_type none
+Armor -126 -126 -126 -84
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln E
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 100
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 37
+Name Pincher Winterfriend halfling man~
+Short Pincher Winterfriend~
+Long A ferret-faced halfling dressed very severely stares at you with disapproval.
+~
+Description ~
+Race unused~
+Act_flags AB
+Aff H
+Align -100
+Group 0
+Level 200
+Hitroll 200
+Hit_dice 401d66+8081
+Mana_dice 200d10+85
+Dam_dice 66d3+105
+Dam_type none
+Armor -126 -126 -126 -84
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln E
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 38
+Name Rain Goldenrod halfling woman~
+Short Rain Goldenrod~
+Long A perky young halfling girl waits for your choice.
+~
+Description ~
+Race unused~
+Act_flags AB
+Aff H
+Align 750
+Group 0
+Level 200
+Hitroll 200
+Hit_dice 401d66+8081
+Mana_dice 200d10+85
+Dam_dice 66d3+105
+Dam_type none
+Armor -126 -126 -126 -84
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln E
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 100
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 39
+Name Merry Wineberry halfling man~
+Short Merry Wineberry~
+Long An almost painfully thin, by halfling standards, youth watches you calmly.
+~
+Description ~
+Race unused~
+Act_flags AB
+Aff 0
+Align 500
+Group 0
+Level 200
+Hitroll 200
+Hit_dice 401d66+8081
+Mana_dice 200d10+85
+Dam_dice 66d3+105
+Dam_type none
+Armor -126 -126 -126 -84
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln E
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 40
+Name Lorelei Birdsong halfling woman~
+Short Lorelei Birdsong~
+Long A scarred halfling woman watches your movements.
+~
+Description ~
+Race unused~
+Act_flags AB
+Aff H
+Align 500
+Group 0
+Level 200
+Hitroll 200
+Hit_dice 401d66+8081
+Mana_dice 200d10+85
+Dam_dice 66d3+105
+Dam_type none
+Armor -126 -126 -126 -84
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln E
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 41
+Name large black wolf~
+Short A wolf~
+Long A large muscular wolf with long hair and large teeth is here.
+~
+Description ~
+Race wolf~
+Act_flags A
+Aff Z
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off FH
+Imm 0
+Res I
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AGV
+Parts ABCDEFJKQUV
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 42
+Name the zombie~
+Short The zombie~
+Long A zombie is here obeying his masters wishes.
+~
+Description ~
+Race human~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off HO
+Imm 0
+Res F
+Vuln H
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form I
+Parts ABCGI
+Size medium
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar DEFHJK
+EndMob
+
+#MOB
+Vnum 43
+Name slayer the~
+Short The slayer~
+Long The slayer is here mindlessly following his master.
+~
+Description ~
+Race human~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type slash
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off CH
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 44
+Name the mummy~
+Short (no short description)~
+Long (no long description)
+~
+Description ~
+Race human~
+Act_flags A
+Aff KVc
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off CO
+Imm 0
+Res 0
+Vuln H
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form CI
+Parts ABCG
+Size medium
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar DEFHIJK
+EndMob
+
+#MOB
+Vnum 45
+Name the skeleton~
+Short (no short description)~
+Long (no long description)
+~
+Description ~
+Race human~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type slash
+Armor -7 -7 -7 -7
+Clevel0
+Cability 0
+Off FK
+Imm 0
+Res F
+Vuln EG
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHI
+Parts ABCGHI
+Size medium
+Material unknown
+Aggression 0
+Ffor MV
+Fpar DEFJK
+EndMob
+
+#MOB
+Vnum 46
+Name the stone golem~
+Short A stone golem~
+Long A stone golem stands here, waiting to accept orders.
+~
+Description It is a big chunk of rock that has been magically formed into a giant
+stone creature. It stands here, awaiting it's masters orders.
+~
+Race human~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type crush
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm HILQR
+Res JPXYZ
+Vuln K
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form J
+Parts ABCGHIJ
+Size giant
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar DEFK
+EndMob
+
+#MOB
+Vnum 47
+Name Iron golem~
+Short An Iron Golem~
+Long An Iron golem stands here, awaiting orders.
+~
+Description ~
+Race human~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm HQRXYZ
+Res IK
+Vuln J
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form J
+Parts ABCGHIJ
+Size giant
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar DEFK
+EndMob
+
+#MOB
+Vnum 48
+Name adamantite golem~
+Short an Adamantite golem~
+Long An Adamantite golem stands here, waiting to accept orders.
+~
+Description ~
+Race human~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm HQRXYZ
+Res IK
+Vuln J
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form J
+Parts ABCGHIJ
+Size giant
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar DEFK
+EndMob
+
+#MOB
+Vnum 49
+Name lesser golem~
+Short a lesser golem~
+Long A lesser golem stands here, awaiting orders.
+~
+Description ~
+Race human~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm HQRXYZ
+Res IK
+Vuln J
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form J
+Parts ABCGHIJ
+Size huge
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar DEFK
+EndMob
+
+#MOB
+Vnum 50
+Name familiar~
+Short (no short description)~
+Long (no long description)
+~
+Description ~
+Race human~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 5d8+20
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 51
+Name no name~
+Short (no short description)~
+Long (no long description)
+~
+Description ~
+Race human~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level 0
+Hitroll 50
+Hit_dice 100d100+500
+Mana_dice 50d50+50
+Dam_dice 20d20+10
+Dam_type none
+Armor -25 -25 -25 -25
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form CE
+Parts A
+Size medium
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar BCDEFGHIJK
+EndMob
+
+#MOB
+Vnum 60
+Name Crap~
+Short A LARGE rotten stinky pink piece of chunky poo~
+Long A warrior dressed in orange material complete with a blue belt is hovering here.
+~
+Description As you gaze upon this mid-size Saiyan you feel overwhelmed with the
+essence of good.  His fighting style can range from aggressive to defensive,
+it all depends on his anger.  His muscles buldge with unimaginable power and
+force.  Goku stands about 5'11 and weighs around 240 pounds of pure muscle. 
+His eyes are black, and covering his body is thick red fur, complete with a
+fiery red aura.  His tail swings in the crisp clean air as his long black
+hair sways back and forth.  
+~
+Race unique~
+Act_flags AKTade
+Aff 0
+Align 10000
+Group 0
+Level 10000
+Hitroll 31000
+Hit_dice 31000d31000+31000
+Mana_dice 31000d31000+31000
+Dam_dice 31000d31000+31000
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 10
+Off EFGHIKLMNOP
+Imm ABCDEFGHIKLMNOPQRTXYZ
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1000000000
+Form C
+Parts 0
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 80
+Name Vegeta~
+Short (no short description)~
+Long (no long description)
+~
+Description ~
+Race human~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#MOB
+Vnum 88
+Name John~
+Short John~
+Long John the legendary god is flexing his muscles here.
+~
+Description This legendary god could SMITE anyone in his path, and he does by the
+name of Jonny D.  He stands about 6'4 and has a muscular build.  He has
+blond hair and blue eyes.  His level is 1million.  
+~
+Race human~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level -100
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 1000000000
+Form 0
+Parts 0
+Size giant
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#MOB
+Vnum 99
+Name The Big D Rob~
+Short The Big D Rob~
+Long The giant cement magical unleashed power is standing here.
+~
+Description This Giant stands about 10'10'' in height.  His mustles are buldging with
+cementness, and you notice he could have a mean left hook.  His brain is the
+size of a peanut.  
+~
+Race giant~
+Act_flags AFT
+Aff 0
+Align -10000
+Group 0
+Level 100
+Hitroll 1000
+Hit_dice 20d20+20
+Mana_dice 20d20+20
+Dam_dice 20d20+20
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 10
+Off 0
+Imm CHKLOQ
+Res HY
+Vuln JP
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 100000
+Form ACHMV
+Parts ABCDEFGHIJK
+Size giant
+Material unknown
+Aggression 0
+Fres I
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 28
+Name box~
+Short a metal box~
+Desc A solid-looking metal box with an imposing looking lock.~
+Material unknown~
+Item_type trash
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 29
+Name portal shalindar~
+Short a portal~
+Desc A shadowy oval limned in silver.~
+Material unknown~
+Item_type portal
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 0 BCDFG 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+sign~
+Written in a spidery script is the following message: This portal will
+take you to the skies near Shalindar's reflection in this world.  A sense of
+the gods of Soren remains there, suitable for exploration by the less
+experienced adventurer.  
+~
+ExtraDesc
+oval~
+An oval of shadow standing a little over 6 feet tall.  A flickering
+silver edges it, the only thing defining the shape.  Near the base of the
+oval, leaning against the shadow-shape itself, is a small sign.  
+~
+ExtraDesc
+portal~
+An oval of shadow standing a little over 6 feet tall.  A flickering
+silver edges it, the only thing defining the shape.  Near the base of the
+oval, leaning against the shadow-shape itself, is a small sign.  
+~
+EndObj
+
+#OBJ
+Vnum 30
+Name unique ~
+Short unique item~
+Desc A unique item is here.~
+Material unknown~
+Item_type trash
+Extra 0
+Extra2 A
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 31
+Name a skeleton~
+Short (no short description)~
+Desc (no description)~
+Material unknown~
+Item_type trash
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 32
+Name Scions magic breastplate~
+Short scions breastplate~
+Desc A shimmering magical breastplate lies here unused.~
+Material unknown~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values ABCD ABCD ABCD ABCD 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 33
+Name steak~
+Short a steak~
+Desc A piece of steak is here, it sure does look good.~
+Material unknown~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 1
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 34
+Name dummy ore~
+Short an ore dummy!~
+Desc A spot of ore~
+Material unknown~
+Item_type ore
+Extra 0
+Extra2 0
+Wear AO
+Values AB 0 0 0 0
+Level 0
+Weight 40
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 35
+Name normal token~
+Short a normal token~
+Desc A small iron token lies here~
+Material iron~
+Item_type token
+Extra 0
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 1
+Weight 1
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 36
+Name exp experience token~
+Short an experience token~
+Desc A small token lies here is a large "E" inscribed on its surface~
+Material steel~
+Item_type treasure
+Extra B
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 0
+Weight 1
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 37
+Name prac practice token~
+Short a practice token~
+Desc A small token lies here is a large "P" inscribed on its surface~
+Material unknown~
+Item_type treasure
+Extra I
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 1
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 38
+Name arrow~
+Short an arrow~
+Desc An arrow lies here~
+Material unknown~
+Item_type arrow
+Extra AG
+Extra2 0
+Wear AO
+0 0 0 0 0
+Level 1
+Weight 20
+Cost 3400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 39
+Name potion brewed~
+Short a brewed potion~
+Desc A potion that has been brewed.~
+Material glass~
+Item_type potion
+Extra 0
+Extra2 0
+Wear A
+Values 20 'reserved' 'reserved' 'reserved' 'reserved'
+Level 20
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 40
+Name train token~
+Short a train token~
+Desc A small token lies here, a large "T" inscribed on its surface.~
+Material mithril~
+Item_type treasure
+Extra G
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 1
+Weight 1
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 41
+Name token quest~
+Short a quest token~
+Desc A token lies here with a large "Q" engraved on its surface~
+Material copper~
+Item_type treasure
+Extra A
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 0
+Weight 1
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 42
+Name Axe of Shadowfire~
+Short axe of Shadowfire~
+Desc An fiery axe of inferno is lying here begging you to grab it.~
+Material fire~
+Item_type weapon
+Extra CEXY
+Extra2 C
+Wear ANQ
+Values axe 19 10 slice AI
+Level 0
+Weight 20
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 43
+Name {gCloak of {cI{wn{cv{wi{cs{wi{cb{wi{cl{wi{ct{wy~
+Short {gCloak of {cI{wn{cv{wi{cs{wi{cb{wi{cl{wi{ct{wy~
+Desc {gA Cloak of {cI{wn{cv{wi{cs{wi{cb{wi{cl{wi{ct{wy {gis lying on the floor here.~
+Material Death~
+Item_type armor
+Extra AXY
+Extra2 0
+Wear AS
+Values EIJKN EIJKN EIJKN EIJKN 0
+Level 10
+Weight 1
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+4 1
+AffectObj
+14 50
+AffectObj
+12 50
+AffectObj
+13 50
+AffectObj
+5 1
+AffectObj
+3 1
+AffectObj
+1 1
+AffectObj
+2 1
+AffectObj
+25 0
+AffectObj
+25 0
+AffectObj
+25 0
+EndObj
+
+#OBJ
+Vnum 44
+Name Boots of Hell~
+Short {rF{Rl{ra{Rm{ri{Rn{rg {xboots of {rH{we{rl{wl{x~
+Desc Boots with such intense heat are melting right through the floor here.~
+Material Fire~
+Item_type armor
+Extra GXY
+Extra2 0
+Wear AG
+Values A 0 0 0 0
+Level 0
+Weight 5
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 10
+AffectObj
+1 1
+AffectObj
+5 3
+AffectObj
+2 3
+AffectObj
+14 50
+AffectObj
+12 50
+AffectObj
+13 50
+EndObj
+
+#OBJ
+Vnum 45
+Name decanter endless water~
+Short the decanter of endless water~
+Desc The decanter of endless water is here.~
+Material unknown~
+Item_type drink
+Extra XY
+Extra2 0
+Wear AO
+Values -1 -1 'water' 0 0
+Level 152
+Weight 5
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 46
+Name Shoulder Pads~
+Short {xPads with {cd{wi{ca{wm{co{wn{cd {xtiped {rS{Rp{ri{Rk{re{Rs{x~
+Desc Pads with some shiny tiped spikes are lying here brand spanking new.~
+Material Pure Diamond~
+Item_type armor
+Extra IXY
+Extra2 C
+Wear AI
+Values CEFGHI CEFGHI CEFGHI CEFGHI 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 10
+AffectObj
+18 10
+AffectObj
+1 5
+AffectObj
+13 50
+AffectObj
+12 50
+AffectObj
+14 50
+EndObj
+
+#OBJ
+Vnum 47
+Name Quest Token~
+Short {wOne {cQuest {wToken [1pt]{x~
+Desc One token from a quest is lying here!~
+Material Quest~
+Item_type token
+Extra 0
+Extra2 0
+Wear A
+Values A 0 0 0 0
+Level 0
+Weight 1
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 48
+Name gold wedding ring~
+Short a gold wedding ring~
+Desc A gold wedding ring has been left here.~
+Material gold~
+Item_type jewelry
+Extra Y
+Extra2 0
+Wear AY
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+gold~
+A thick gold wedding ring with a beautiful pattern round both edges of the ring.The ring is really shiny, as if it had been polished recently.
+~
+ExtraDesc
+wedding~
+A thick gold wedding ring with a beautiful pattern round both edges of the ring.The ring is really shiny, as if it had been polished recently.
+~
+ExtraDesc
+ring~
+A thick gold wedding ring with a beautiful pattern round both edges of the ring.The ring is really shiny, as if it had been polished recently.
+~
+EndObj
+
+#OBJ
+Vnum 49
+Name Winged Boots~
+Short {mW{winge{md {mb{woot{ms {mof {mH{wermie{ms{x~
+Desc Boots with white wings are flapping around here.~
+Material Board~
+Item_type armor
+Extra ABX
+Extra2 0
+Wear AG
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+14 100
+AffectObj
+13 50
+AffectObj
+12 50
+AffectObj
+2 5
+AffectObj
+5 2
+EndObj
+
+#OBJ
+Vnum 50
+Name Fountain~
+Short razors blood fountain~
+Desc The fountain of Razor is flowing blood here.~
+Material Gold~
+Item_type fountain
+Extra A
+Extra2 0
+Wear 0
+Values 2147483647 2147483647 'blood' 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 51
+Name Light Saber~
+Short {wCed{geri{wc's {rR{Re{rd {yL{bi{yg{bh{yt{bs{ya{bb{ye{br{x~
+Desc The best weapon of all time is lying here.~
+Material Hell~
+Item_type weapon
+Extra CEFIY
+Extra2 ABCD
+Wear ANO
+Values sword 19 19 slice ABCEGHI
+Level 100
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 27136
+AffectObj
+18 24253
+AffectObj
+2 62
+AffectObj
+4 60
+AffectObj
+3 59
+AffectObj
+5 60
+AffectObj
+1 60
+AffectObj
+12 31000
+AffectObj
+13 31000
+AffectObj
+20 31000
+AffectObj
+14 31000
+AffectObj
+23 31000
+AffectObj
+24 31000
+AffectObj
+20 31000
+AffectObj
+22 31000
+AffectObj
+21 31000
+AffectObj
+10 10
+AffectObj
+26 31000
+AffectObj
+27 31000
+EndObj
+
+#OBJ
+Vnum 52
+Name Wings of Pegasus~
+Short {cL{wegendary {cW{wings {co{wf {cP{wegasus{x~
+Desc Some soft looking wings from the sky above are here.~
+Material Feather~
+Item_type armor
+Extra XY
+Extra2 0
+Wear AW
+Values BCDFGHJ BCDFGHJ BCDFGHJ BCDFGHJ 0
+Level 0
+Weight 5
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+4 1
+AffectObj
+5 3
+AffectObj
+13 1500
+AffectObj
+12 1500
+EndObj
+
+#OBJ
+Vnum 53
+Name diamond wedding ring~
+Short a diamond wedding ring~
+Desc A diamond wedding ring has been left here.~
+Material gold diamond~
+Item_type jewelry
+Extra Y
+Extra2 0
+Wear AY
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+wedding~
+A slender gold band with beautiful carvings round the edges.Held in the center by some gold claws is a sparkling diamond.As the light shines onto the diamond it is reflected round the room.
+~
+ExtraDesc
+diamond~
+A slender gold band with beautiful carvings round the edges.Held in the center by some gold claws is a sparkling diamond.As the light shines onto the diamond it is reflected round the room.
+~
+ExtraDesc
+ring~
+A slender gold band with beautiful carvings round the edges.Held in the center by some gold claws is a sparkling diamond.As the light shines onto the diamond it is reflected round the room.
+~
+EndObj
+
+#OBJ
+Vnum 55
+Name Captured Inferno~
+Short {bCaptured {rI{wn{rf{we{rr{wn{ro{x~
+Desc A fiery blaze of inferno is lying here allmost blinding you.~
+Material unknown~
+Item_type armor
+Extra AIXY
+Extra2 D
+Wear AEO
+Values 0 0 0 0 0
+Level 0
+Weight 1
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+1 15
+AffectObj
+2 5
+AffectObj
+13 25
+AffectObj
+12 25
+AffectObj
+18 20
+AffectObj
+19 20
+EndObj
+
+#OBJ
+Vnum 56
+Name Necklace~
+Short {yG{Yo{yl{Yd{ye{Yn {xnecklace of S{wh{xa{wdo{xw{ws{xt{wo{xr{wm~
+Desc A necklace with the legendary symbol of Shadowstorm is begging you to take it.~
+Material Golden necklace of Shadowstorm~
+Item_type armor
+Extra AX
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 0
+Weight 1
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+14 50
+AffectObj
+13 50
+AffectObj
+12 50
+AffectObj
+19 10
+AffectObj
+18 10
+AffectObj
+4 1
+AffectObj
+3 1
+AffectObj
+5 1
+AffectObj
+2 1
+AffectObj
+1 1
+EndObj
+
+#OBJ
+Vnum 60
+Name Chair~
+Short a chair with Kera's name engraved in it.~
+Desc {YA elegaly designed bench with {mKera's {Yname on it is floating here.~
+Material Gold~
+Item_type furniture
+Extra 0
+Extra2 0
+Wear 0
+Values BD EIJKN DEG EIJKN EIJKN
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 62
+Name no name~
+Short (no short description)~
+Desc (no description)~
+Material unknown~
+Item_type trash
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 63
+Name Shield~
+Short {wMin' Talas {RS{whield {ro{wf {rT{whought{x~
+Desc A shield of thought is hovering here.~
+Material none~
+Item_type armor
+Extra XY
+Extra2 0
+Wear AJ
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 18
+AffectObj
+18 18
+AffectObj
+1 1
+AffectObj
+2 -1
+AffectObj
+5 3
+AffectObj
+14 50
+AffectObj
+12 50
+AffectObj
+13 50
+EndObj
+
+#OBJ
+Vnum 66
+Name Light Armor~
+Short {cLight {ro{wb{rl{wi{rv{wi{rc {carmor{x~
+Desc This light weight armor is here drawling in all possable light making it dark.~
+Material Gold~
+Item_type armor
+Extra BCX
+Extra2 0
+Wear AD
+Values 0 0 0 0 0
+Level 0
+Weight 2
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+5 3
+AffectObj
+1 2
+AffectObj
+3 2
+AffectObj
+12 50
+AffectObj
+13 100
+AffectObj
+14 50
+EndObj
+
+#OBJ
+Vnum 67
+Name Weighted Wristband~
+Short {YM{ra{gg{mi{Bc{Wa{rl{yl{my {xenhanced {Rw{xei{Rgh{xte{Rd {xwristband~
+Desc Weighted wristbands of pure power are making a dent in the floor here.~
+Material aluminum~
+Item_type armor
+Extra CEFIY
+Extra2 0
+Wear AM
+Values CGHIL CGHIL CGHIL CGHIL 0
+Level 152
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+1 10
+AffectObj
+5 10
+AffectObj
+2 20
+AffectObj
+13 25000
+AffectObj
+12 25000
+EndObj
+
+#OBJ
+Vnum 69
+Name Leather Chair~
+Short leather Chair~
+Desc {rA comfortable leather chair is right before you.~
+Material Leather~
+Item_type container
+Extra AFa
+Extra2 D
+Wear 0
+Values 0 0 -1 0 0
+Level 0
+Weight 100
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 71
+Name element water~
+Short the element of water is flowing here.~
+Desc The ancient sword of light lies here in the dust.~
+Material unknown~
+Item_type trash
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 5
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 72
+Name bed~
+Short a magical bed~
+Desc A comfortable looking bed is here magically tucking people in.~
+Material Leather~
+Item_type furniture
+Extra ABGIa
+Extra2 A
+Wear 0
+Values ABCDEFGHIJKLMNOPQRSTUVWXYZabcde ABCDEFGHIJKLMNOPQRSTUVWXYZabcde K ABCDEFGHIJKLMNOPQRSTUVWXYZabcde ABCDEFGHIJKLMNOPQRSTUVWXYZabcde
+Level 0
+Weight 25
+Cost 1
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 73
+Name Steelers Helmet~
+Short {DS{yt{De{Ye{Dl{Ye{Dr{Ys {DHelmet~
+Desc The best helmet ever create is lying here!!~
+Material unknown~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AE
+Values EIJKN EIJKN EIJKN EIJKN 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 17861
+AffectObj
+12 18691
+AffectObj
+20 10000
+AffectObj
+14 20000
+AffectObj
+26 30000
+AffectObj
+27 30000
+EndObj
+
+#OBJ
+Vnum 74
+Name no name~
+Short (no short description)~
+Desc (no description)~
+Material unknown~
+Item_type trash
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 77
+Name fakesign~
+Short a large sign~
+Desc A large sign is posted here.~
+Material unknown~
+Item_type trash
+Extra A
+Extra2 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 78
+Name fire element~
+Short the element of fire~
+Desc The element of fire is burning here.~
+Material unknown~
+Item_type trash
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 79
+Name no name~
+Short (no short description)~
+Desc (no description)~
+Material unknown~
+Item_type trash
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 80
+Name Dagger Of God~
+Short {rT{Dit{ran{Diu{rm {gD{ca{gg{cg{ge{cr {bof {wCederic~
+Desc A small dagger made out of Titanium is lying here glowing like a god.~
+Material titanium~
+Item_type weapon
+Extra CEFIY
+Extra2 C
+Wear AN
+Values dagger 19 19 pierce BI
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2200
+AffectObj
+18 3500
+AffectObj
+12 25000
+AffectObj
+13 32500
+EndObj
+
+#OBJ
+Vnum 82
+Name element earth~
+Short the element of earth~
+Desc The element of earth is here.~
+Material unknown~
+Item_type trash
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 85
+Name Diamond Ring~
+Short {wCed{geri{wc's {wD{ci{wa{cm{wo{cn{wd {wRing.~
+Desc Cederic has seemed to have miss-placed his ring!~
+Material Gold, Diamond~
+Item_type armor
+Extra FI
+Extra2 C
+Wear AB
+Values DGH DGH DGH DGH 0
+Level 0
+Weight 5
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+14 30000
+AffectObj
+12 30000
+AffectObj
+13 30000
+AffectObj
+1 5
+EndObj
+
+#OBJ
+Vnum 86
+Name Bill~
+Short a 2 billion dollar bill~
+Desc A small bill is lying here.~
+Material unknown~
+Item_type money
+Extra 0
+Extra2 0
+Wear A
+Values EIJKN 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 87
+Name Golden Necklace~
+Short {YA golden necklace with a large Skull~
+Desc A necklace is lying here giving off a golden aura.~
+Material Gold~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 100
+Weight 100
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 88
+Name Crimson Flask~
+Short {wC{rrim{ws{ron'{ws {rf{wlas{rk~
+Desc A neverending container full of the purest liquid is lying here.~
+Material Portal-container~
+Item_type drink
+Extra AX
+Extra2 0
+Wear AV
+Values 2147483647 2147483647 'lemonade' 0 0
+Level 0
+Weight 5
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 89
+Name Holy Grail~
+Short {wThe Holy Grail{x~
+Desc A grail from the skys above is replenishing the ground here.~
+Material Blessed Water~
+Item_type drink
+Extra AX
+Extra2 0
+Wear AO
+Values 100000000 100000000 'magic potion' 0 0
+Level 0
+Weight -1
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+25 0
+EndObj
+
+#OBJ
+Vnum 90
+Name Ring of Ice~
+Short {BSapphire {xring of {cIce{x~
+Desc A round ring composed of ice is freezing the room here.~
+Material Diamond Ring of Ice~
+Item_type armor
+Extra AX
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 0
+Weight 1
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 100
+AffectObj
+13 50
+AffectObj
+14 50
+AffectObj
+4 2
+AffectObj
+3 2
+AffectObj
+5 1
+EndObj
+
+#OBJ
+Vnum 91
+Name Portal~
+Short portal to Synon's Office~
+Desc A {rr{ca{gi{yn{bb{wo{mw {Dcolored portal is swirling here.~
+Material Synon~
+Item_type portal
+Extra AG
+Extra2 0
+Wear 0
+Values 0 0 0 EFHK 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 92
+Name shield destruction~
+Short the shield of destruction~
+Desc The shield of destruction is here.~
+Material unknown~
+Item_type trash
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 93
+Name Azzimoff's Fountain of Pure {rB{Rl{Do{Do{Rd~
+Short fountain of Blood~
+Desc {rA{Dz{Dz{Ri{Rm{Do{rf{rf{w'{Rs {RF{ro{Du{Dn{Rt{Ra{Ri{Dn {Ro{Df {rPure {RBlood~
+Material ruby~
+Item_type fountain
+Extra ABCEGO
+Extra2 C
+Wear 0
+Values 2147483647 2147483647 'blood' 0 0
+Level 153
+Weight 999
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 99
+Name Blue Blade~
+Short {BBlue {gA{mc{gi{md{g-{me{gd{mg{ge{md {rB{wl{ra{wd{re{x~
+Desc A blue blade dripping with acid is melting the floor here.~
+Material acid~
+Item_type weapon
+Extra XY
+Extra2 0
+Wear AN
+Values dagger 19 19 flame HI
+Level 0
+Weight 15
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+1 5
+AffectObj
+13 50
+AffectObj
+12 50
+AffectObj
+18 20
+AffectObj
+19 15
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 28
+Name Box Storage~
+Desc ~
+Room_flags 67108868
+Sector_type 4
+X 100 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 29
+Name Path~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+30
+0
+EndRoom
+
+#ROOM
+Vnum 30
+Name Entrance~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+31
+0
+Exit
+2
+~
+~
+0
+29
+0
+EndRoom
+
+#ROOM
+Vnum 31
+Name Village Square~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+34
+0
+Exit
+1
+~
+~
+0
+32
+0
+Exit
+2
+~
+~
+0
+30
+0
+Exit
+3
+~
+~
+0
+33
+0
+EndRoom
+
+#ROOM
+Vnum 32
+Name Path~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+43
+0
+Exit
+2
+~
+~
+0
+44
+AB
+Exit
+3
+~
+~
+0
+31
+0
+EndRoom
+
+#ROOM
+Vnum 33
+Name Path~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+63
+0
+Exit
+1
+~
+~
+0
+31
+0
+Exit
+2
+~
+~
+0
+67
+0
+Exit
+3
+~
+~
+0
+70
+0
+EndRoom
+
+#ROOM
+Vnum 34
+Name Riddler's Tavern~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+37
+0
+Exit
+1
+~
+~
+0
+35
+0
+Exit
+2
+~
+~
+0
+31
+0
+Exit
+4
+~
+~
+0
+36
+0
+EndRoom
+
+#ROOM
+Vnum 35
+Name Kitchen~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+62
+0
+Exit
+3
+~
+~
+0
+34
+0
+Exit
+5
+~
+~
+0
+38
+0
+EndRoom
+
+#ROOM
+Vnum 36
+Name Stairway~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+39
+0
+Exit
+5
+~
+~
+0
+34
+0
+EndRoom
+
+#ROOM
+Vnum 37
+Name Living Quarters~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+62
+0
+Exit
+2
+~
+~
+0
+34
+0
+EndRoom
+
+#ROOM
+Vnum 38
+Name Cellar~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+0
+35
+0
+EndRoom
+
+#ROOM
+Vnum 39
+Name Hallway~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+40
+0
+Exit
+1
+~
+~
+0
+41
+0
+Exit
+2
+~
+~
+0
+36
+0
+Exit
+3
+~
+~
+0
+42
+0
+EndRoom
+
+#ROOM
+Vnum 40
+Name Guestroom~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+39
+0
+EndRoom
+
+#ROOM
+Vnum 41
+Name Guestroom~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+39
+0
+EndRoom
+
+#ROOM
+Vnum 42
+Name Guestroom~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+39
+0
+EndRoom
+
+#ROOM
+Vnum 43
+Name Path~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+46
+0
+Exit
+1
+~
+~
+0
+47
+0
+Exit
+2
+~
+~
+0
+48
+0
+Exit
+3
+~
+~
+0
+32
+0
+EndRoom
+
+#ROOM
+Vnum 44
+Name Underhill's Home~
+Desc ~
+Room_flags 1032
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+32
+AB
+Exit
+1
+~
+~
+0
+48
+AB
+Exit
+5
+~
+~
+0
+45
+A
+EndRoom
+
+#ROOM
+Vnum 45
+Name Cellar~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+0
+44
+A
+EndRoom
+
+#ROOM
+Vnum 46
+Name Glade~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+84
+0
+Exit
+2
+~
+~
+0
+43
+0
+Exit
+4
+~
+~
+0
+50
+0
+EndRoom
+
+#ROOM
+Vnum 47
+Name Path~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+53
+0
+Exit
+1
+~
+~
+0
+58
+0
+Exit
+2
+~
+~
+0
+54
+0
+Exit
+3
+~
+~
+0
+43
+0
+EndRoom
+
+#ROOM
+Vnum 48
+Name Trampled Field~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+43
+0
+Exit
+1
+~
+~
+0
+54
+0
+Exit
+2
+~
+~
+0
+49
+0
+Exit
+3
+~
+~
+0
+44
+AB
+EndRoom
+
+#ROOM
+Vnum 49
+Name Shed~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+48
+0
+EndRoom
+
+#ROOM
+Vnum 50
+Name Archives~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+51
+0
+Exit
+1
+~
+~
+0
+52
+0
+Exit
+5
+~
+~
+0
+46
+0
+EndRoom
+
+#ROOM
+Vnum 51
+Name Storage~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+50
+0
+EndRoom
+
+#ROOM
+Vnum 52
+Name Living Quarters~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+50
+0
+EndRoom
+
+#ROOM
+Vnum 53
+Name Hopeless' Shrine~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+61
+0
+Exit
+2
+~
+~
+0
+47
+0
+EndRoom
+
+#ROOM
+Vnum 54
+Name AllGod's Shrine~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+47
+0
+Exit
+1
+~
+~
+0
+57
+0
+Exit
+2
+~
+~
+0
+55
+0
+Exit
+3
+~
+~
+0
+48
+0
+EndRoom
+
+#ROOM
+Vnum 55
+Name Resting Room~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+54
+0
+Exit
+2
+~
+~
+0
+56
+0
+EndRoom
+
+#ROOM
+Vnum 56
+Name Living Quarters~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+55
+0
+EndRoom
+
+#ROOM
+Vnum 57
+Name Smithy~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+58
+0
+Exit
+3
+~
+~
+0
+54
+0
+EndRoom
+
+#ROOM
+Vnum 58
+Name Path~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+59
+0
+Exit
+2
+~
+~
+0
+57
+0
+Exit
+3
+~
+~
+0
+47
+0
+EndRoom
+
+#ROOM
+Vnum 59
+Name Herbalist's~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+60
+0
+Exit
+2
+~
+~
+0
+58
+0
+EndRoom
+
+#ROOM
+Vnum 60
+Name Garden~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+59
+0
+Exit
+3
+~
+~
+0
+61
+0
+EndRoom
+
+#ROOM
+Vnum 61
+Name Garden~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+60
+0
+Exit
+2
+~
+~
+0
+53
+0
+EndRoom
+
+#ROOM
+Vnum 62
+Name Stables~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+35
+0
+Exit
+3
+~
+~
+0
+37
+0
+EndRoom
+
+#ROOM
+Vnum 63
+Name Bank~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+64
+0
+Exit
+2
+~
+~
+0
+33
+0
+Exit
+4
+~
+~
+0
+65
+0
+Exit
+5
+~
+~
+0
+66
+0
+EndRoom
+
+#ROOM
+Vnum 64
+Name Vault~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+63
+0
+EndRoom
+
+#ROOM
+Vnum 65
+Name Living Quarters~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+~
+~
+0
+63
+0
+EndRoom
+
+#ROOM
+Vnum 66
+Name Cellar~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+0
+63
+0
+EndRoom
+
+#ROOM
+Vnum 67
+Name Alchemist~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+33
+0
+Exit
+2
+~
+~
+0
+69
+0
+Exit
+5
+~
+~
+0
+68
+0
+EndRoom
+
+#ROOM
+Vnum 68
+Name Cellar~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+0
+67
+0
+EndRoom
+
+#ROOM
+Vnum 69
+Name Living Quarters~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+67
+0
+EndRoom
+
+#ROOM
+Vnum 70
+Name Path~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+71
+0
+Exit
+1
+~
+~
+0
+33
+0
+Exit
+2
+~
+~
+0
+72
+0
+Exit
+3
+~
+~
+0
+80
+0
+EndRoom
+
+#ROOM
+Vnum 71
+Name Storeroom~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+73
+0
+Exit
+2
+~
+~
+0
+70
+0
+Exit
+5
+~
+~
+0
+74
+0
+EndRoom
+
+#ROOM
+Vnum 72
+Name Pet Shop~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+70
+0
+Exit
+2
+~
+~
+0
+75
+0
+Exit
+3
+~
+~
+0
+76
+0
+EndRoom
+
+#ROOM
+Vnum 73
+Name Living Quarters~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+71
+0
+EndRoom
+
+#ROOM
+Vnum 74
+Name Cellar~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+0
+71
+0
+EndRoom
+
+#ROOM
+Vnum 75
+Name Stockroom~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+72
+0
+Exit
+2
+~
+~
+0
+78
+0
+Exit
+3
+~
+~
+0
+77
+0
+EndRoom
+
+#ROOM
+Vnum 76
+Name Living Quarters~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+72
+0
+Exit
+2
+~
+~
+0
+77
+0
+Exit
+5
+~
+~
+0
+79
+0
+EndRoom
+
+#ROOM
+Vnum 77
+Name Stockroom~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+76
+0
+Exit
+1
+~
+~
+0
+75
+0
+EndRoom
+
+#ROOM
+Vnum 78
+Name Yard~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+75
+0
+EndRoom
+
+#ROOM
+Vnum 79
+Name Cellar~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+0
+76
+0
+EndRoom
+
+#ROOM
+Vnum 80
+Name Path~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+81
+0
+Exit
+1
+~
+~
+0
+70
+0
+EndRoom
+
+#ROOM
+Vnum 81
+Name Training Center~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+82
+0
+Exit
+2
+~
+~
+0
+80
+0
+Exit
+5
+~
+~
+0
+83
+0
+EndRoom
+
+#ROOM
+Vnum 82
+Name Living Quarters~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+81
+0
+EndRoom
+
+#ROOM
+Vnum 83
+Name Cellar~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+0
+81
+0
+EndRoom
+
+#ROOM
+Vnum 84
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+85
+0
+Exit
+2
+~
+~
+0
+46
+0
+EndRoom
+
+#ROOM
+Vnum 85
+Name Shield Forest~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+84
+0
+EndRoom
+
+#ROOM
+Vnum 86
+Name Immortal Board Room ~
+Desc This room is for Immortals only.  Every office branches off this room in
+every direction possable.  The room is circular with a flight of stairs
+leading up and down.  The walls are freshly painted white and the floor is
+marble.  A portal is here giving you the chance to enter Synon's Office.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+91
+0
+Exit
+1
+~
+~
+0
+89
+0
+Exit
+2
+~
+~
+0
+90
+0
+Exit
+3
+~
+~
+0
+88
+0
+Exit
+4
+~
+~
+0
+99
+ABCI
+Exit
+5
+~
+~
+0
+87
+0
+EndRoom
+
+#ROOM
+Vnum 87
+Name {mKera's Office~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+0
+86
+0
+EndRoom
+
+#ROOM
+Vnum 88
+Name {rR{Da{rz{Do{rr{D'{rs {DShadowy Hall~
+Desc This is the home razor, a shimering room of utter darkness.  You hear a
+faint cut...  Cut...  Cut...  As it disapates and u know in your scared body
+and soul that razor was here.  As you leave he says to you "Never come here
+again or I will bs you, or I might be nice and give you a gift, do you wanna
+chance it, punk?  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+86
+0
+EndRoom
+
+#ROOM
+Vnum 89
+Name Jaydi's Office~
+Desc The high ceiling of the room gives it an open feeling.  Polished dark
+wood planks stretch between arching granite supports.  The base of each
+pillar is made of a polished rose-tinged stone, so smooth that they shimmer
+from the light of the torches set high on the walls.  Around the room is a
+fashioned waist-high rose marble wainscoting.  On the far wall there is a
+large desk with a chair pushed up to it.  A long time is on the west wall
+full of paperwork and books.  On the right wall are tall filing cabinets and
+two windows.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+86
+0
+EndRoom
+
+#ROOM
+Vnum 90
+Name Dracos Brewery~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+86
+0
+EndRoom
+
+#ROOM
+Vnum 91
+Name Immortal Lounge Room~
+Desc This room is a pearly white with a crackling fireplace to warm up.  The
+roof has had an invisibility spell casted on it so you could gaze upon the
+midnight stars.  This room is for taking a break from building, which is
+hardly ever done.  Wooden planks that have been polished make up the floor
+and the walls are brick, giving the room a secure feeling.  Right in the
+middle of the room is a Super King sized bed so that everyone can catch some
+Sleep.  A shower is located to the east of here so you can freshin up a
+little after your nap.  South of here leads you back to the full-time job of
+being an immortal, and keeping the peace.  
+~
+Room_flags 33792
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+92
+0
+Exit
+2
+~
+~
+0
+86
+0
+EndRoom
+
+#ROOM
+Vnum 92
+Name Shower Room~
+Desc In this room is a large shower flowing steaming hot water.  The steam in
+here is so much you cant even see your reflection in the giant size mirror
+right before you.  The floor is wet from the shower constantly running, and
+to the west is the Lounge room.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+91
+0
+EndRoom
+
+#ROOM
+Vnum 97
+Name Nidhoggr's Hotel Room~
+Desc This room is sparsely furnished, a humble bed, desk and lamp constitute
+the only amenities here.  A blue rug with an alternating red and yellow rose
+floral pattern covers the floor from wall to wall.  
+~
+Room_flags 516
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 98
+Name {wDragonball {RGT{x~
+Desc {xAs you enter the world of {wDragonball {RGT{x you feel powerlevels all
+over the place.  The legendary {wGoku {xand {wVegeta{x are here sparing each
+other.  Sadly this world is only a cartoonin your mind and you will return
+to the real world as soon as you leave this room.  You see a fresh clear
+stream in the distance and lots of dinosaurs all over the place.  
+~
+Room_flags 1672708
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 99
+Name {wCed{geri{wc's {bBu{Yild{bing {rOf{cfi{rce~
+Desc The smooth marble floor shows for reflection in this building office. 
+Cederics small but loyal puppy is barking here loudly trying to get your
+attention.  Located in the middle of the room is a big screen television set
+and a leather chair to relax.  The ceiling fan is giving of a cool breeze
+giving you the feeling to relax.  You look around and notice there is no way
+out of this paradise.  
+~
+Room_flags 516
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+~
+~
+0
+86
+ABCI
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 32 2 1
+D 0 44 0 1
+D 0 44 1 1
+D 0 48 3 1
+D 0 86 4 2
+D 0 99 5 2
+M 0 32 1 34 1
+M 0 33 1 34 1
+M 0 28 1 44 1
+M 0 40 1 48 1
+M 0 31 1 50 1
+M 0 35 1 53 1
+O 0 29 0 53
+M 0 36 1 57 1
+M 0 34 1 62 1
+M 0 37 1 63 1
+M 0 39 1 67 1
+M 0 29 1 71 1
+M 0 38 1 72 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#99
+{bYour blade drips {ga{wc{gi{wd{b on the floor creating a large hole.{x
+~
+#0
+
+#ROOMPROGS
+#0
+
+#$

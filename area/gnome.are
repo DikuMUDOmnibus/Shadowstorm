@@ -1,0 +1,4049 @@
+#AREADATA
+Name Gnome Village~
+Builders None~
+VNUMs 1500 1599
+Credits { 5 15} Vougon  Gnome Village~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 1500
+Name oldstyle child gnome~
+Short a gnome child~
+Long A gnome child is playing around here.
+~
+Description The little tyke looks so innocent playing with his boomerang that you 
+just want to pick him up and hug him.
+~
+Race human~
+Act_flags ACE
+Aff 0
+Align 600
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d6+35
+Mana_dice 1d9+100
+Dam_dice 1d6+0
+Dam_type none
+Armor 7 7 7 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 2
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1501
+Name oldstyle woman gnome~
+Short a gnome woman~
+Long A gnome woman is standing here, trying to look beautiful.
+~
+Description The woman is short and gnarled, but acts like a woman several times her beauty.
+She's starting to look pretty attractive to you ...
+~
+Race human~
+Act_flags ACE
+Aff 0
+Align 600
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 25
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1502
+Name oldstyle man gnome~
+Short a gnome man~
+Long A gnome man is walking here, on his way to work.
+~
+Description This is a prime example of a gnome.  He looks short and weak, but at the
+same time an intelligent creature who could outsmart you.
+~
+Race human~
+Act_flags AC
+Aff 0
+Align 500
+Group 0
+Level 6
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 3d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 22
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1503
+Name oldstyle scientist gnome~
+Short a gnome scientist~
+Long A scientist wanders around deep in thought.
+~
+Description You see a gnome who is lost deep into some invention that he is about
+to make.  His hair is white, but he looks fairly strong.
+~
+Race human~
+Act_flags ABCR
+Aff 0
+Align 500
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 7d9+100
+Dam_dice 1d5+1
+Dam_type none
+Armor 4 4 4 7
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1504
+Name oldstyle guard gnome~
+Short a gnome guard~
+Long A gnome guard stands here guarding something.
+~
+Description This is a well trained gnome.  He might not have a lot of strength but
+he makes up for it with his weapons skill.
+~
+Race human~
+Act_flags AB
+Aff 0
+Align 400
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 75
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1505
+Name oldstyle chief gnome~
+Short the chief gnome~
+Long A powerful looking gnome stands here wearing ornate clothes.
+~
+Description The Chief looks like he could whap you hard.  He looks not only powerful
+but wise and resourceful.  You better not mess with him.
+~
+Race human~
+Act_flags ABQ
+Aff 0
+Align 550
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 15d9+100
+Dam_dice 2d5+3
+Dam_type none
+Armor -2 -2 -2 6
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 400
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1507
+Name oldstyle troll small~
+Short a small troll~
+Long A small troll grunts as he takes a swing at you.
+~
+Description The small troll is a short and stocky beast with a human-like face
+but with the eyes and fangs of a wild beast.
+~
+Race unused~
+Act_flags ABCF
+Aff 0
+Align -900
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 40
+Form 0
+Parts 0
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1508
+Name oldstyle mouse field~
+Short a field mouse~
+Long A small mouse runs across your foot.
+~
+Description The Mouse is a cute little creature.
+~
+Race human~
+Act_flags ABCI
+Aff 0
+Align 100
+Group 0
+Level 1
+Hitroll 0
+Hit_dice 2d6+10
+Mana_dice 0d9+100
+Dam_dice 1d4+0
+Dam_type none
+Armor 9 9 9 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1509
+Name oldstyle rat~
+Short a rat~
+Long A small rat shrieks and runs around.
+~
+Description The rat is a little evil creature that deserves death.
+~
+Race human~
+Act_flags AC
+Aff 0
+Align -200
+Group 0
+Level 2
+Hitroll 0
+Hit_dice 2d7+21
+Mana_dice 1d9+100
+Dam_dice 1d5+0
+Dam_type none
+Armor 8 8 8 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1510
+Name oldstyle rat large~
+Short a large rat~
+Long A large rat runs up to you and nibbles on your boots.
+~
+Description You have the urge to kill this vile creature.
+~
+Race human~
+Act_flags AC
+Aff 0
+Align -200
+Group 0
+Level 4
+Hitroll 0
+Hit_dice 2d7+46
+Mana_dice 2d9+100
+Dam_dice 1d5+1
+Dam_type none
+Armor 6 6 6 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1511
+Name oldstyle rat giant~
+Short a giant rat~
+Long A giant rat growls at you and prepares to attack.
+~
+Description This rat has grown up to be the size of an average dog.
+~
+Race human~
+Act_flags AC
+Aff 0
+Align -200
+Group 0
+Level 6
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 3d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1512
+Name oldstyle troll~
+Short the troll~
+Long A giant troll lumbers around.
+~
+Description You see before you a huge mass of living flesh.  You cringe in fear as
+he lifts his powerful arm to bludgeon you.
+~
+Race unused~
+Act_flags ABF
+Aff 0
+Align -800
+Group 0
+Level 14
+Hitroll 0
+Hit_dice 2d10+190
+Mana_dice 7d9+100
+Dam_dice 1d12+3
+Dam_type none
+Armor -1 -1 -1 8
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 450
+Form 0
+Parts 0
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1513
+Name oldstyle bat black~
+Short a black bat~
+Long A black bat hangs from the ceiling.
+~
+Description The bat is a grotesque little creature with large wings and fangs.
+~
+Race bat~
+Act_flags A
+Aff TZ
+Align -500
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFHNR
+Imm 0
+Res 0
+Vuln S
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGV
+Parts ACDEFHJKP
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1514
+Name oldstyle zombie gnome~
+Short the zombie gnome~
+Long A zombie gnome shuffles his way towards you.
+~
+Description This is a creature which has passed away long ago.  His body has been
+pulled out of its resting place by some evil force.
+~
+Race human~
+Act_flags A
+Aff 0
+Align -700
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d6+85
+Mana_dice 3d9+100
+Dam_dice 1d8+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 34
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1515
+Name oldstyle bat fire~
+Short the fire bat~
+Long The fire bat flames brightly and prepares to attack.
+~
+Description You see a huge flame which resembles the shape of a bat.  The creature
+hangs from the ceiling and bites at you.
+~
+Race bat~
+Act_flags ABCF
+Aff DTZ
+Align -900
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 6d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor 0 0 0 8
+Clevel0
+Cability 0
+Off EFHNR
+Imm 0
+Res 0
+Vuln S
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 300
+Form AGV
+Parts ACDEFHJKP
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1516
+Name oldstyle guard hobgoblin~
+Short the hobgoblin guard~
+Long The hobgoblin guard attacks first, thinks later.
+~
+Description This is an extra large, extra ugly goblin like creature.  He grins evilly
+as he attempts to brain you.
+~
+Race human~
+Act_flags ABF
+Aff 0
+Align -700
+Group 0
+Level 6
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 3d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 37
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1517
+Name oldstyle soldier hobgoblin~
+Short the hobgoblin soldier~
+Long A hobgoblin soldier stands here.
+~
+Description This is just a low life hobgoblin, who couldn't make it to the ranks
+of the elite guards.  He looks pissed.
+~
+Race human~
+Act_flags ABF
+Aff 0
+Align -600
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d6+35
+Mana_dice 1d9+100
+Dam_dice 1d6+0
+Dam_type none
+Armor 7 7 7 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 10
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1518
+Name oldstyle bodyguard hobgoblin~
+Short the hobgoblin bodyguard~
+Long A hobgoblin bodyguard guards the king with his life.
+~
+Description This is one of the elite hobgoblin guards.  He stands tall for his short
+stature.  He grins a toothy grin as he prepares to attack.
+~
+Race human~
+Act_flags AB
+Aff 0
+Align -500
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d6+85
+Mana_dice 3d9+100
+Dam_dice 1d8+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 30
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1519
+Name oldstyle king hobgoblin~
+Short the king of the hobgoblins~
+Long There is a great king here, sitting in his throne.
+~
+Description The king is a silly looking hobgoblin whose muscles bulge out of his robes,
+destroying the sophisticated effect he was trying to create.
+~
+Race human~
+Act_flags ABR
+Aff 0
+Align -500
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d8+134
+Mana_dice 12d9+100
+Dam_dice 1d8+2
+Dam_type none
+Armor 1 1 1 6
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos stand
+Sex male
+Wealth 300
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1520
+Name oldstyle miner hobgoblin~
+Short a hobgoblin miner~
+Long A hobgoblin miner stands here looking for gold.
+~
+Description The miner is totally covered in dust.
+~
+Race human~
+Act_flags ABC
+Aff 0
+Align -400
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 35
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1521
+Name oldstyle treasurer hobgoblin~
+Short the treasurer~
+Long A treasurer is here counting out money.
+~
+Description The hobgoblin treasurer is an old goblin with glasses.  It appears that he
+can only see a couple feet in front of him.
+~
+Race human~
+Act_flags ABC
+Aff 0
+Align -200
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d7+121
+Mana_dice 5d9+100
+Dam_dice 2d4+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1522
+Name oldstyle prisoner gnome~
+Short a gnome prisoner~
+Long A gnome prisoner is here resting in the straw.
+~
+Description The prisoner is just barely alive.
+~
+Race human~
+Act_flags ABC
+Aff 0
+Align 100
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d6+35
+Mana_dice 1d9+100
+Dam_dice 1d6+0
+Dam_type none
+Armor 7 7 7 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos rest
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1523
+Name oldstyle prisoner human~
+Short a human prisoner~
+Long A human prisoner is here resting in the straw.
+~
+Description The prisoner is just barely alive.
+~
+Race human~
+Act_flags ABC
+Aff 0
+Align 100
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d6+35
+Mana_dice 1d9+100
+Dam_dice 1d6+0
+Dam_type none
+Armor 7 7 7 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos rest
+Default_pos stand
+Sex female
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1524
+Name oldstyle hermit crab~
+Short a hermit~
+Long A hermit crab crawls towards you.
+~
+Description The hermit crab is about 5 feet high and looks mad that you had the nerve
+to wake it up.
+~
+Race human~
+Act_flags ABCF
+Aff 0
+Align -10
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 10
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1526
+Name oldstyle cook hobgoblin~
+Short the cook~
+Long A hobgoblin cook stands here cooking something.
+~
+Description The cook is a dirty and fat hobgoblin.  He burps as he stirs up something
+in a pot.
+~
+Race human~
+Act_flags ABC
+Aff 0
+Align -300
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d6+85
+Mana_dice 3d9+100
+Dam_dice 1d8+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 130
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 1500
+Name key bloody~
+Short a bloody key~
+Desc A bloody key is stuck to the floor.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values B 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1501
+Name key dirty~
+Short a dirty key~
+Desc A dirty key lies here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values B 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1502
+Name toy boomerang~
+Short a toy boomerang~
+Desc A toy boomerang wants to be picked up.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values exotic 2 4 pound 0
+Level 5
+Weight 50
+Cost 730
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1503
+Name staff gnarled~
+Short a gnarled staff~
+Desc A gnarled staff is here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values exotic 1 9 pound 0
+Level 5
+Weight 150
+Cost 730
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1504
+Name sword gnome~
+Short a gnome sword~
+Desc A gnome sword catches your eye.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values sword 3 3 slash 0
+Level 7
+Weight 150
+Cost 610
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1505
+Name shield studded~
+Short a studded shield~
+Desc A studded wooden shield lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AJ
+Values C C C A 0
+Level 5
+Weight 160
+Cost 750
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1506
+Name potion bloody~
+Short a bloody potion~
+Desc A bloody potion lies here.~
+Material oldstyle~
+Item_type potion
+Extra 0
+Extra2 0
+Wear A
+Values 15 'cure blindness' 'cure critical' 'giant strength' ''
+Level 7
+Weight 220
+Cost 480
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1507
+Name cloak bloody~
+Short a bloody cloak~
+Desc A bloody cloak lies in a corner.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AC
+Values C C C 0 0
+Level 5
+Weight 150
+Cost 480
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1508
+Name ring bat~
+Short a bat ring~
+Desc A ring in the shape of a bat lies here.~
+Material oldstyle~
+Item_type jewelry
+Extra G
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 10
+Weight 20
+Cost 270
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+14 15
+EndObj
+
+#OBJ
+Vnum 1509
+Name necklace bead~
+Short a bead necklace~
+Desc A string of beads is here.~
+Material oldstyle~
+Item_type jewelry
+Extra 0
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 5
+Weight 80
+Cost 220
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 1510
+Name sword electrum~
+Short an electrum sword~
+Desc An electrum sword lies here.~
+Material oldstyle~
+Item_type weapon
+Extra AG
+Extra2 0
+Wear AN
+Values sword 4 3 slash 0
+Level 12
+Weight 200
+Cost 930
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1511
+Name basket wicker~
+Short a wicker basket~
+Desc A wicker basket sits here.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 -1 0 0
+Level 0
+Weight 50
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1512
+Name peanuts~
+Short some peanuts~
+Desc Peanuts lie here.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values E E 0 0 0
+Level 0
+Weight 90
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1513
+Name grain~
+Short some grain~
+Desc There is some grain here.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values ABCD ABCD 0 0 0
+Level 0
+Weight 80
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1514
+Name skiff~
+Short a skiff~
+Desc A small skiff is here.~
+Material oldstyle~
+Item_type boat
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 240
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1515
+Name boots gnome~
+Short a pair of gnome boots~
+Desc You notice a pair of Gnome Boots.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AG
+Values C C C 0 0
+Level 7
+Weight 120
+Cost 610
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+14 10
+EndObj
+
+#OBJ
+Vnum 1516
+Name coins~
+Short a pile of coins~
+Desc A pile of coins.~
+Material oldstyle~
+Item_type money
+Extra 0
+Extra2 0
+Wear A
+Values CFG 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1517
+Name coins~
+Short a pile of coins~
+Desc A pile of coins.~
+Material oldstyle~
+Item_type money
+Extra 0
+Extra2 0
+Wear A
+Values CEFGHI 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1519
+Name shield stone~
+Short a stone shield~
+Desc A stone slab lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AJ
+Values C C C B 0
+Level 16
+Weight 350
+Cost 3700
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+1 2
+EndObj
+
+#OBJ
+Vnum 1520
+Name mail heavy banded~
+Short heavy banded mail~
+Desc A large suit of heavy banded mail is here~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values BC BC BC 0 0
+Level 15
+Weight 300
+Cost 2100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1521
+Name club large two-handed~
+Short a large club~
+Desc A large club sits here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values mace 1 12 pound F
+Level 6
+Weight 220
+Cost 460
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 -1
+EndObj
+
+#OBJ
+Vnum 1522
+Name banana~
+Short a banana~
+Desc There is a banana here.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values BC BC 0 0 0
+Level 0
+Weight 50
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1523
+Name life potion~
+Short a potion of life healing~
+Desc A potion of life healing has left here.~
+Material oldstyle~
+Item_type potion
+Extra H
+Extra2 0
+Wear A
+Values 32 'cure poison' 'bless' '' ''
+Level 6
+Weight 10
+Cost 630
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1524
+Name club wooden~
+Short a wooden club~
+Desc A wooden club sits here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values mace 2 3 pound 0
+Level 3
+Weight 100
+Cost 220
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 -1
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 1501
+Name Entrance to Gnome Village~
+Desc You stand on a dusty path that leads north and east.  To the east you hear
+the sounds of a small village.
+~
+Room_flags 4
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+A dusty path heads towards the eastern road.
+~
+~
+-1
+3526
+0
+Exit
+1
+You see a dusty path.
+~
+~
+-1
+1502
+0
+EndRoom
+
+#ROOM
+Vnum 1502
+Name A Dusty Path~
+Desc This is a path leading into the village.  It continues east and west and
+there is a small house to the north.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a small house.
+~
+~
+-1
+1509
+0
+Exit
+1
+You see a road.
+~
+~
+-1
+1503
+0
+Exit
+3
+You see a path.
+~
+~
+-1
+1501
+0
+EndRoom
+
+#ROOM
+Vnum 1503
+Name A Road in the Village~
+Desc This road runs north and south through the center of the village.  There
+are a few people moving around, but not many.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a road.
+~
+~
+-1
+1505
+0
+Exit
+1
+You see a path.
+~
+~
+-1
+1504
+0
+Exit
+2
+You see a road.
+~
+~
+-1
+1507
+0
+Exit
+3
+You see a road.
+~
+~
+-1
+1502
+0
+EndRoom
+
+#ROOM
+Vnum 1504
+Name A Dusty Path~
+Desc You are on a dusty path on the far side of the village.  Houses are to the
+north and south, while the path continues east.  There is a sign here.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+Warning:  The area to the east was written mostly by Vougon
+                    (giggle)    - Sandman
+~
+Exit
+0
+You see a house.
+~
+~
+-1
+1512
+0
+Exit
+1
+You see a path.
+~
+~
+-1
+1559
+0
+Exit
+2
+You see a house.
+~
+~
+-1
+1513
+0
+Exit
+3
+You see a road.
+~
+~
+-1
+1503
+0
+EndRoom
+
+#ROOM
+Vnum 1505
+Name A Road in the Village~
+Desc This road runs north and south through the center of the village.  There
+are a few people moving around, but not many.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a road.
+~
+~
+-1
+1506
+0
+Exit
+1
+You see a house.
+~
+~
+-1
+1511
+0
+Exit
+2
+You see a road.
+~
+~
+-1
+1503
+0
+Exit
+3
+You see a house.
+~
+~
+-1
+1510
+0
+EndRoom
+
+#ROOM
+Vnum 1506
+Name A Road in the Village~
+Desc This road runs north and south through the center of the village.  There
+are a few people moving around, but not many.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a road.
+~
+~
+-1
+1526
+0
+Exit
+2
+You see a road.
+~
+~
+-1
+1505
+0
+EndRoom
+
+#ROOM
+Vnum 1507
+Name A Road in the Village~
+Desc This road runs north and south through the center of the village.  There
+are a few people moving around, but not many.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a road.
+~
+~
+-1
+1503
+0
+Exit
+2
+You see a road.
+~
+~
+-1
+1508
+0
+Exit
+3
+You see a shop.
+~
+~
+-1
+1514
+0
+EndRoom
+
+#ROOM
+Vnum 1508
+Name A Road in the Village~
+Desc This road runs north and south through the center of the village.  There
+are a few people moving around, but not many.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a road.
+~
+~
+-1
+1507
+0
+Exit
+1
+You see a shop.
+~
+~
+-1
+1516
+0
+Exit
+2
+You see a small path.
+~
+~
+-1
+1517
+0
+Exit
+3
+You see a shop.
+~
+~
+-1
+1515
+0
+EndRoom
+
+#ROOM
+Vnum 1509
+Name A Small Gnome House~
+Desc This is a small suburban house made from quality wood.  You can see the
+expert workmanship that went into making it, but it lacks creativity.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see a path.
+~
+~
+-1
+1502
+0
+EndRoom
+
+#ROOM
+Vnum 1510
+Name A Small Gnome House~
+Desc This is a small suburban house made from quality wood.  You can see the
+expert workmanship that went into making it, but it lacks creativity.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a path.
+~
+~
+-1
+1505
+0
+EndRoom
+
+#ROOM
+Vnum 1511
+Name A Small Gnome House~
+Desc This is a small suburban house made from quality wood.  You can see the
+expert workmanship that went into making it, but it lacks creativity.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see a path.
+~
+~
+-1
+1505
+0
+EndRoom
+
+#ROOM
+Vnum 1512
+Name A Small Gnome House~
+Desc This is a small suburban house made from quality wood.  You can see the
+expert workmanship that went into making it, but it lacks creativity.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see a path.
+~
+~
+-1
+1504
+0
+EndRoom
+
+#ROOM
+Vnum 1513
+Name A Small Gnome House~
+Desc This is a small suburban house made from quality wood.  You can see the
+expert workmanship that went into making it, but it lacks creativity.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a path.
+~
+~
+-1
+1504
+0
+EndRoom
+
+#ROOM
+Vnum 1514
+Name A Gnome Shop~
+Desc You are in one of the several shops of this fine town.  The wares look fine,
+but unfortunately the gnomes don't do business with outsiders.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a road.
+~
+~
+-1
+1507
+0
+EndRoom
+
+#ROOM
+Vnum 1515
+Name A Gnome Shop~
+Desc You are in one of the several shops of this fine town.  The wares look fine,
+but unfortunately the gnomes don't do business with outsiders.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a road.
+~
+~
+-1
+1508
+0
+EndRoom
+
+#ROOM
+Vnum 1516
+Name A Gnome Shop~
+Desc You are in one of the several shops of this fine town.  The wares look fine,
+but unfortunately the gnomes don't do business with outsiders.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see a road.
+~
+~
+-1
+1508
+0
+EndRoom
+
+#ROOM
+Vnum 1517
+Name Path by a Stream~
+Desc You are on a small path leading north and west, that is surrounded on the
+other two sides by a small stream.  The water looks mighty cold.
+~
+Room_flags 4
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+stream~
+The stream is pretty small, but it looks too cold to swim.
+~
+Exit
+0
+You see a road.
+~
+~
+-1
+1508
+0
+Exit
+2
+You see the stream.
+~
+~
+-1
+1520
+0
+Exit
+3
+You see a small path.
+~
+~
+-1
+1518
+0
+EndRoom
+
+#ROOM
+Vnum 1518
+Name Path by a Stream~
+Desc You are on a small east-west path.  The path shows new grass, as if it
+has stopped being used sometime in the recent past.  A river is to the south,
+and a small hut is to the west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+stream~
+The stream is pretty small, but it looks too cold to swim.
+~
+ExtraDesc
+hut~
+The hut looks well built, but it seems to have taken some damage.
+~
+Exit
+1
+You see a small path.
+~
+~
+-1
+1517
+0
+Exit
+2
+You see the stream.
+~
+~
+-1
+1521
+0
+Exit
+3
+You see a small hut that is starting to fall apart.
+~
+~
+-1
+1519
+0
+EndRoom
+
+#ROOM
+Vnum 1519
+Name A Small Hut~
+Desc The hut is a mess!  Blood has stained the grass walls into a dark rich
+crimson color.  Torn clothes and trash lie all around, and you think you
+see a skeleton in the corner.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+skeleton~
+The skeleton still has a little flesh clinging to it and it is definitely
+humanoid.  The skull has been cracked open, but it is otherwise undamaged,
+except by time.
+~
+Exit
+1
+You see a small path.
+~
+~
+-1
+1518
+0
+EndRoom
+
+#ROOM
+Vnum 1520
+Name On the Stream~
+Desc The stream is cold and frigid, yet it supports plenty of life beneath its
+surface.  The current trickles west and there is a field to the south.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a small path.
+~
+~
+-1
+1517
+0
+Exit
+2
+You see a grassy field.
+~
+~
+-1
+1522
+0
+Exit
+3
+You see a small stream.
+~
+~
+-1
+1521
+0
+EndRoom
+
+#ROOM
+Vnum 1521
+Name On the Stream~
+Desc The current here flows from the east, but a logjam blocks you from 
+continuing onward.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a small path.
+~
+~
+-1
+1518
+0
+Exit
+1
+You see a small stream.
+~
+~
+-1
+1520
+0
+EndRoom
+
+#ROOM
+Vnum 1522
+Name The Field of Mice's Dreams~
+Desc This is a large green field of waist high grass.  You feel something
+scurry over your feet.  There is a cave to the east.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a small stream.
+~
+~
+-1
+1520
+0
+Exit
+1
+You see a dark mysterious cave.
+~
+~
+-1
+1523
+0
+EndRoom
+
+#ROOM
+Vnum 1523
+Name The Dark Cave~
+Desc The cave gleams as your light reflects off of it.  As you squint your eyes
+and try to look ahead, you think you see something move.
+~
+Room_flags 1
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1524
+0
+Exit
+3
+You see a grassy field.
+~
+~
+-1
+1522
+0
+EndRoom
+
+#ROOM
+Vnum 1524
+Name Darker Cave~
+Desc The cave gets even darker as your terror grows stronger.  You fear for your
+life as something emerges out of the shadows.
+~
+Room_flags 1
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+1523
+0
+EndRoom
+
+#ROOM
+Vnum 1526
+Name A Dusty Path~
+Desc You are on a well traveled path that leads in many directions.  To the north
+is a large house, and to the west is a fortress.
+~
+Room_flags 4
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+fortress~
+The fortress is a large gnome stronghold to defend the city.
+~
+Exit
+0
+You see a large white house.
+~
+~
+-1
+1558
+0
+Exit
+2
+You see a road.
+~
+~
+-1
+1506
+0
+Exit
+3
+You see the gateway to a large fortress.
+~
+~
+-1
+1527
+0
+EndRoom
+
+#ROOM
+Vnum 1527
+Name The Iron Gateway~
+Desc You stand at the entrance to the gnome fortress.  The place seems to be
+well fortified.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a small path.
+~
+~
+-1
+1526
+0
+Exit
+3
+You see a long hallway.
+~
+~
+-1
+1528
+0
+EndRoom
+
+#ROOM
+Vnum 1528
+Name A Long Hallway~
+Desc You are now inside of the fortress; you must be lucky that the guards 
+haven't killed you.  As you glance around, you notice that the walls and
+floors are spotlessly cleaned.  The barracks are to the north and a
+storage room is to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the barracks.
+~
+~
+-1
+1530
+0
+Exit
+1
+You see the gateway.
+~
+~
+-1
+1527
+0
+Exit
+2
+You see a storage room.
+~
+~
+-1
+1532
+0
+Exit
+3
+You see a long hallway.
+~
+~
+-1
+1529
+0
+EndRoom
+
+#ROOM
+Vnum 1529
+Name A Long Hallway~
+Desc You are now inside of the fortress; you must be lucky that the guards 
+haven't killed you.  As you glance around, you notice that the walls and
+floors are spotlessly cleaned.  A mess hall is to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a long hallway.
+~
+~
+-1
+1528
+0
+Exit
+2
+You see the mess hall.
+~
+~
+-1
+1534
+0
+Exit
+3
+You see a small room.
+~
+~
+-1
+1535
+0
+EndRoom
+
+#ROOM
+Vnum 1530
+Name The Barracks~
+Desc You now stand in the sleeping quarters of the gnome guards.  Every bed is
+made perfectly, and not single article of clothing is on the floor.  There
+is a small storage room to the east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a small storage room.
+~
+~
+-1
+1531
+0
+Exit
+2
+You see a long hallway.
+~
+~
+-1
+1528
+0
+EndRoom
+
+#ROOM
+Vnum 1531
+Name A Small Storage Room~
+Desc This is where the gnomes store all their spare clothing and armor.
+There is not much here, but you might come up with something.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see the barracks.
+~
+~
+-1
+1530
+0
+EndRoom
+
+#ROOM
+Vnum 1532
+Name A Small Storage Room~
+Desc This is where the gnomes store all their spare weapons.  A door leads off
+to the east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a long hallway.
+~
+~
+-1
+1528
+0
+Exit
+1
+You see a small room.
+~
+~
+-1
+1533
+0
+EndRoom
+
+#ROOM
+Vnum 1533
+Name A Small Storage Room~
+Desc This is yet another room for storing gnome stuff.  Maps and battle plans
+are stored in neat stacks on the shelves.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see a small room.
+~
+~
+-1
+1532
+0
+EndRoom
+
+#ROOM
+Vnum 1534
+Name The Mess Hall~
+Desc You are in the room where the guards come to get their grub.  The benches 
+and tables are neatly cleaned and straightened, while shiny plates line
+the walls.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a long hallway.
+~
+~
+-1
+1529
+0
+EndRoom
+
+#ROOM
+Vnum 1535
+Name A Small Room~
+Desc This is a small plain room.  Its only interesting feature is a ladder down.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a long hallway.
+~
+~
+-1
+1529
+0
+Exit
+5
+You see darkness.
+~
+~
+-1
+1536
+0
+EndRoom
+
+#ROOM
+Vnum 1536
+Name A Small Unused Room~
+Desc You stand in a small room in an unused section of the fortress.  The whole
+room is coated with dust and cobwebs.  The ladder leads back up, and
+a rusty door is to the east.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a rusty door.
+~
+rusty door~
+1500
+1537
+ABCF
+Exit
+4
+You see a small room.
+~
+~
+-1
+1535
+0
+EndRoom
+
+#ROOM
+Vnum 1537
+Name Dark Hallway~
+Desc You find yourself in a very old section of the fortress.  You must be the
+first person to pass through here in years.  The hallway continues south
+and a door leads off to the east.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1538
+0
+Exit
+2
+~
+~
+-1
+1539
+0
+Exit
+3
+You see a rusty door.
+~
+door~
+1500
+1536
+AF
+EndRoom
+
+#ROOM
+Vnum 1538
+Name Torture Chamber~
+Desc This is a room that was once used to extract lies out of helpless victims.
+The machines look unused, but could still work.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+machine~
+The machine consists of a large rack with winches on each end.  You can 
+almost feel them pulling your arms out of their sockets.
+~
+Exit
+3
+~
+~
+-1
+1537
+0
+EndRoom
+
+#ROOM
+Vnum 1539
+Name Dark Hallway~
+Desc The hall continues in a north-south direction.  The floor is coated with
+some kind of molded slime.  Doors lead east and west.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1537
+0
+Exit
+1
+~
+~
+-1
+1542
+0
+Exit
+2
+~
+~
+-1
+1540
+0
+Exit
+3
+~
+~
+-1
+1541
+0
+EndRoom
+
+#ROOM
+Vnum 1540
+Name Dark Hallway~
+Desc The hall continues in a north-south direction.  The floor is coated with
+some kind of molded slime.  Doors lead east and west.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1539
+0
+Exit
+1
+~
+~
+-1
+1544
+0
+Exit
+2
+~
+~
+-1
+1543
+0
+Exit
+3
+~
+~
+-1
+1545
+0
+EndRoom
+
+#ROOM
+Vnum 1541
+Name Prison Cell~
+Desc You are in a dark and nasty prison cell.  Bodies lying on the floor give off
+an unbearable stench.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1539
+0
+EndRoom
+
+#ROOM
+Vnum 1542
+Name Prison Cell~
+Desc You are in a dark and nasty prison cell.  Bodies lying on the floor give off
+an unbearable stench.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+1539
+0
+EndRoom
+
+#ROOM
+Vnum 1543
+Name Prison Cell~
+Desc You are in a dark and nasty prison cell.  Bodies lying on the floor give off
+an unbearable stench.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1540
+0
+EndRoom
+
+#ROOM
+Vnum 1544
+Name Prison Cell~
+Desc You are in a dark and nasty prison cell.  Bodies lying on the floor give off
+an unbearable stench.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+1540
+0
+EndRoom
+
+#ROOM
+Vnum 1545
+Name End of the Dark Hallway~
+Desc You have reached the end of the dark hallway and maybe the end of your puny
+life.  Something lumbers its way out of the shadows.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1540
+0
+Exit
+3
+You see a decaying door.
+~
+door~
+1501
+1546
+ABCF
+EndRoom
+
+#ROOM
+Vnum 1546
+Name A Ladder~
+Desc You have come into a vertical tunnel with a ladder.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a decaying door.
+~
+door~
+1501
+1545
+ABCF
+Exit
+5
+~
+~
+-1
+1547
+0
+EndRoom
+
+#ROOM
+Vnum 1547
+Name Lair~
+Desc You have entered a new lair in the fortress.  Anything could be lurking
+around the corner.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+1548
+0
+Exit
+4
+~
+~
+-1
+1546
+0
+EndRoom
+
+#ROOM
+Vnum 1548
+Name A Damp Hallway~
+Desc You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+Room_flags 8201
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1549
+0
+Exit
+0
+~
+~
+-1
+1547
+0
+Exit
+3
+~
+~
+-1
+1551
+0
+EndRoom
+
+#ROOM
+Vnum 1549
+Name A Damp Hallway~
+Desc You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+Room_flags 8201
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+1548
+0
+Exit
+2
+~
+~
+-1
+1550
+0
+EndRoom
+
+#ROOM
+Vnum 1550
+Name A Damp Hallway~
+Desc You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+Room_flags 8201
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1549
+0
+Exit
+2
+~
+~
+-1
+1555
+0
+EndRoom
+
+#ROOM
+Vnum 1551
+Name A Damp Hallway~
+Desc You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+Room_flags 8201
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1548
+0
+Exit
+2
+~
+~
+-1
+1552
+0
+EndRoom
+
+#ROOM
+Vnum 1552
+Name A Damp Hallway~
+Desc You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+Room_flags 8201
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+1553
+0
+Exit
+0
+~
+~
+-1
+1551
+0
+EndRoom
+
+#ROOM
+Vnum 1553
+Name A Damp Hallway~
+Desc You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+Room_flags 8201
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1552
+0
+Exit
+1
+~
+~
+-1
+1554
+0
+EndRoom
+
+#ROOM
+Vnum 1554
+Name A Damp Hallway~
+Desc You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+Room_flags 8201
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1556
+0
+Exit
+1
+~
+~
+-1
+1555
+0
+Exit
+3
+~
+~
+-1
+1553
+0
+EndRoom
+
+#ROOM
+Vnum 1555
+Name A Damp Hallway~
+Desc You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+Room_flags 8201
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1550
+0
+Exit
+3
+~
+~
+-1
+1554
+0
+EndRoom
+
+#ROOM
+Vnum 1556
+Name The End of the Hallway~
+Desc You make your way out of the hallway, just to find yourself in greater
+danger.  Before you looms the source of the great heat.
+~
+Room_flags 8201
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1557
+0
+Exit
+2
+~
+~
+-1
+1554
+0
+EndRoom
+
+#ROOM
+Vnum 1557
+Name The Altar~
+Desc You finally reach the end of the maze.  There is a great altar here in the
+shape of a bat.  A passageway leads off to the west.
+~
+Room_flags 8201
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+1556
+0
+EndRoom
+
+#ROOM
+Vnum 1558
+Name The Chief's House~
+Desc You enter into a large and luxurious house.  The floor is coated with carpets
+and the walls are covered in paintings.  You feel privileged just for stepping
+inside.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see a path.
+~
+~
+-1
+1526
+0
+EndRoom
+
+#ROOM
+Vnum 1559
+Name The Unused Path~
+Desc You are now on a fairly unused path that leads east out of the village.  
+You wonder what could be out this way.
+~
+Room_flags 4
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a path.
+~
+~
+-1
+1560
+0
+Exit
+3
+You see a path.
+~
+~
+-1
+1504
+0
+EndRoom
+
+#ROOM
+Vnum 1560
+Name The Overgrown Path~
+Desc As the path continues on, the grass grows higher.  You can't imagine
+what could possibly be out this way.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a clearing.
+~
+~
+-1
+1561
+0
+Exit
+3
+You see a path.
+~
+~
+-1
+1559
+0
+EndRoom
+
+#ROOM
+Vnum 1561
+Name The Clearing~
+Desc Your progress is suddenly stopped by mountains on all sides.  The path leads
+back to the west, and there appears to be an old mine shaft to the north.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a mine shaft.
+~
+~
+-1
+1562
+0
+Exit
+3
+You see a path.
+~
+~
+-1
+1560
+0
+EndRoom
+
+#ROOM
+Vnum 1562
+Name Entrance to the Mine Shaft~
+Desc As you enter the mine shaft, you get a sudden fear of the walls closing
+in on you.  You are surprised to notice that you don't need a light.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the shaft.
+~
+~
+-1
+1563
+0
+Exit
+2
+You see the clearing.
+~
+~
+-1
+1561
+0
+EndRoom
+
+#ROOM
+Vnum 1563
+Name Mine Shaft~
+Desc This mine shaft looks stable, at least in this area.  The wooden supports are
+thick and strong.  Torches line the walls.  Exits lead in all directions.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a small mine shaft.
+~
+~
+-1
+1582
+0
+Exit
+1
+You see the shaft.
+~
+~
+-1
+1564
+0
+Exit
+2
+You see the shaft.
+~
+~
+-1
+1574
+0
+Exit
+3
+You see the entrance.
+~
+~
+-1
+1562
+0
+EndRoom
+
+#ROOM
+Vnum 1564
+Name Mine Shaft~
+Desc This mine shaft looks stable, at least in this area.  The wooden supports are
+thick and strong.  Torches line the walls.  Exits lead in all directions.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a large room.
+~
+~
+-1
+1583
+0
+Exit
+1
+You see the shaft.
+~
+~
+-1
+1565
+0
+Exit
+2
+You see a large room.
+~
+~
+-1
+1573
+0
+Exit
+3
+You see the shaft.
+~
+~
+-1
+1563
+0
+EndRoom
+
+#ROOM
+Vnum 1565
+Name Mine Shaft~
+Desc This mine shaft looks stable, at least in this area.  The wooden supports are
+thick and strong.  Torches line the walls.  Exits lead in all directions
+except north.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the walkway.
+~
+~
+-1
+1566
+0
+Exit
+2
+You see a large room.
+~
+~
+-1
+1572
+0
+Exit
+3
+You see the shaft.
+~
+~
+-1
+1564
+0
+EndRoom
+
+#ROOM
+Vnum 1566
+Name Walkway~
+Desc You are on a well built path in the middle of a mountain.  You sense something
+great up ahead, considering the hard work that must have gone into creating
+this passage.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see the walkway.
+~
+~
+-1
+1567
+0
+Exit
+3
+You see the shaft.
+~
+~
+-1
+1565
+0
+EndRoom
+
+#ROOM
+Vnum 1567
+Name Walkway~
+Desc You are on a well built path in the middle of a mountain.  You sense something
+great up ahead, considering the hard work that must have gone into creating
+this passage.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the walkway.
+~
+~
+-1
+1566
+0
+Exit
+2
+You see a large hall.
+~
+~
+-1
+1568
+0
+EndRoom
+
+#ROOM
+Vnum 1568
+Name The Grand Hall~
+Desc You have stepped into the Grand Hall of the hobgoblin kingdom; your luck
+must be running low by now.  Golden pillars span the hallway, and you
+notice a red carpet beneath your feet.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the walkway.
+~
+~
+-1
+1567
+0
+Exit
+2
+You see a large room.
+~
+~
+-1
+1569
+0
+EndRoom
+
+#ROOM
+Vnum 1569
+Name The Throne Room~
+Desc This is large bright room filled with Hobgoblins.  To the south there is
+a large golden throne against the wall.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a large hall.
+~
+~
+-1
+1568
+0
+EndRoom
+
+#ROOM
+Vnum 1570
+Name The Treasury~
+Desc You are inside the hobgoblin's treasury.  Your eyes are almost blinded by the
+gold, silver and copper coins.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a large room.
+~
+~
+-1
+1571
+0
+EndRoom
+
+#ROOM
+Vnum 1571
+Name Guarded Room~
+Desc You are inside a well guarded room.  The place is slightly better built than
+the mine shafts, and is lit by lanterns.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a large room.
+~
+~
+-1
+1572
+0
+Exit
+2
+You see a large room.
+~
+~
+-1
+1570
+0
+EndRoom
+
+#ROOM
+Vnum 1572
+Name Guarded Room~
+Desc You are inside a well guarded room.  The place is slightly better built than
+the mine shafts, and is lit by lanterns.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a large room.
+~
+~
+-1
+1565
+0
+Exit
+2
+You see a large room.
+~
+~
+-1
+1571
+0
+EndRoom
+
+#ROOM
+Vnum 1573
+Name Hobgoblin Armory~
+Desc The guards store their spare weapons and armor here.  There are rusty swords
+on rotting shelves, and armor hanging from hooks or laying on the floor.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the shaft.
+~
+~
+-1
+1564
+0
+EndRoom
+
+#ROOM
+Vnum 1574
+Name Mine Shaft~
+Desc You enter a part of the mine shaft where the torches have grown dim
+and are almost ready to go out.  From what you can see, there are plenty
+of cobwebs on the walls and rats at your feet.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the shaft.
+~
+~
+-1
+1563
+0
+Exit
+2
+You see a dark and nasty room.
+~
+~
+-1
+1575
+0
+EndRoom
+
+#ROOM
+Vnum 1575
+Name Entrance to a Dungeon~
+Desc The floor dips slightly as you walk into this dark and nasty place.  Your
+skin crawls as you look at the filth on the walls and see it move.  Most
+of the exits lead into jail cells.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the shaft.
+~
+~
+-1
+1574
+0
+Exit
+1
+You see a cell.
+~
+~
+-1
+1577
+0
+Exit
+2
+You see a dark and nasty room.
+~
+~
+-1
+1576
+0
+Exit
+3
+You see a cell.
+~
+~
+-1
+1581
+0
+EndRoom
+
+#ROOM
+Vnum 1576
+Name A Dungeon~
+Desc You are in the deepest and darkest part of the mine shafts.  The light from
+the torches barely reaches to where you are.  Most directions from here
+lead to jail cells.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a dark and nasty room.
+~
+~
+-1
+1575
+0
+Exit
+1
+You see a cell.
+~
+~
+-1
+1578
+0
+Exit
+2
+You see a cell.
+~
+~
+-1
+1579
+0
+Exit
+3
+You see a cell.
+~
+~
+-1
+1580
+0
+EndRoom
+
+#ROOM
+Vnum 1577
+Name A Jail Cell~
+Desc You are in a musty, dark jail cell.  Wet and dirty straw covers the floor.
+The walls glisten with slime.  You see something stir in the straw.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see a dark and nasty room.
+~
+~
+-1
+1575
+0
+EndRoom
+
+#ROOM
+Vnum 1578
+Name The Jail Cell~
+Desc You are in a musty, dark jail cell.  Wet and dirty straw covers the floor.
+The walls glisten with slime.  You see something stir in the straw.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see a dark and nasty room.
+~
+~
+-1
+1576
+0
+EndRoom
+
+#ROOM
+Vnum 1579
+Name The Jail Cell~
+Desc You are in a musty, dark jail cell.  Wet and dirty straw covers the floor.
+The walls glisten with slime.  You see something stir in the straw.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a dark and nasty room.
+~
+~
+-1
+1576
+0
+EndRoom
+
+#ROOM
+Vnum 1580
+Name The Jail Cell~
+Desc You are in a musty, dark jail cell.  Wet and dirty straw covers the floor.
+The walls glisten with slime.  You see something stir in the straw.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a dark and nasty room.
+~
+~
+-1
+1576
+0
+EndRoom
+
+#ROOM
+Vnum 1581
+Name The Jail Cell~
+Desc You are in a musty, dark jail cell.  Wet and dirty straw covers the floor.
+The walls glisten with slime.  You see something stir in the straw.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a dark and nasty room.
+~
+~
+-1
+1575
+0
+EndRoom
+
+#ROOM
+Vnum 1582
+Name Small Mine Shaft~
+Desc You are in a small extension of the mine shaft.  The dust on the floor is
+undisturbed by footprints.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a small mine shaft.
+~
+~
+-1
+1588
+0
+Exit
+2
+You see the shaft.
+~
+~
+-1
+1563
+0
+EndRoom
+
+#ROOM
+Vnum 1583
+Name Hobgoblin Barracks~
+Desc You are suddenly surrounded by a small army of hobgoblin guards.  The room
+itself is a mess with clothes and armor everywhere.  The beds are unmade and
+stained.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a large room.
+~
+~
+-1
+1584
+0
+Exit
+1
+You see the mess hall.
+~
+~
+-1
+1585
+0
+Exit
+2
+You see the mine shaft.
+~
+~
+-1
+1564
+0
+EndRoom
+
+#ROOM
+Vnum 1584
+Name Hobgoblin Barracks~
+Desc Yech!  As you continue forward, the smell just keeps getting worse.
+What are you DOING here?
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see a large room~
+~
+-1
+1583
+0
+EndRoom
+
+#ROOM
+Vnum 1585
+Name Mess Hall~
+Desc You stand in the hobgoblin eating area.  There are a few rotting tables
+and many broken dishes scattered around the room.  You almost slip on a
+rotten piece of meat, but catch yourself just in time.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a small room.
+~
+~
+-1
+1586
+0
+Exit
+1
+You see a kitchen.
+~
+~
+-1
+1587
+0
+Exit
+3
+You see a large room.
+~
+~
+-1
+1583
+0
+EndRoom
+
+#ROOM
+Vnum 1586
+Name A Store Room~
+Desc You stand in a small room filled with flour, grain, fruit, and bat droppings.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see the mess hall.
+~
+~
+-1
+1585
+0
+EndRoom
+
+#ROOM
+Vnum 1587
+Name The Kitchen~
+Desc This kitchen hasn't been cleaned since the creation of humans.  The trash and
+spoiled food laying on the floor reach up to your knees.  Off to the side a
+pot is boiling over.  A human hand floats in it.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see the mess hall.
+~
+~
+-1
+1585
+0
+EndRoom
+
+#ROOM
+Vnum 1588
+Name A Small Mine Shaft~
+Desc You come to a place in the mine shaft where a tunnel leads down.  The
+small passage continues north and south.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see an almost caved in area.
+~
+~
+-1
+1589
+0
+Exit
+2
+You see a small mine shaft.
+~
+~
+-1
+1582
+0
+Exit
+5
+You see a hole.
+~
+~
+-1
+1590
+0
+EndRoom
+
+#ROOM
+Vnum 1589
+Name Hermit's Lair~
+Desc You are in a small section where the mine wall has collapsed to reveal a
+tiny one-room cave.  The area is barely lit, but you can make out something
+moving towards you.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see a small mine shaft.
+~
+~
+-1
+1588
+0
+EndRoom
+
+#ROOM
+Vnum 1590
+Name A Hole~
+Desc You are in a hole.
+~
+Room_flags 8
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+You see a small mine shaft.
+~
+~
+-1
+1588
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 1503 spec_cast_mage
+M 1505 spec_cast_cleric
+M 1509 spec_poison
+M 1510 spec_poison
+M 1511 spec_poison
+M 1513 spec_breath_acid
+M 1514 spec_cast_undead
+M 1515 spec_breath_fire
+M 1519 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 1536 1 2
+D 0 1545 3 2
+D 0 1546 1 2
+M 0 1502 3 1503 1
+E 0 1503 0 16
+M 0 1502 3 1505 1
+E 0 1503 0 16
+M 0 1502 3 1506 1
+E 0 1503 0 16
+M 0 1500 3 1509 1
+G 0 1502 0
+M 0 1501 3 1509 1
+M 0 1500 3 1510 1
+G 0 1502 0
+M 0 1501 3 1510 1
+M 0 1500 3 1511 1
+G 0 1502 0
+M 0 1501 3 1511 1
+M 0 1503 3 1513 1
+G 0 1511 0
+P 0 1513 12 1511 1
+M 0 1503 3 1514 1
+G 0 1511 0
+P 0 1512 12 1511 1
+M 0 1503 3 1515 1
+E 0 1514 0 16
+M 0 1504 6 1519 1
+G 0 1500 0
+G 0 1506 0
+E 0 1507 0 3
+M 0 1508 2 1522 2
+M 0 1508 2 1522 2
+M 0 1507 1 1524 1
+M 0 1504 6 1527 2
+E 0 1504 0 16
+M 0 1504 6 1530 2
+E 0 1504 0 16
+M 0 1504 6 1530 2
+E 0 1504 0 16
+M 0 1504 6 1534 1
+E 0 1504 0 16
+M 0 1509 3 1541 3
+E 0 1505 0 11
+M 0 1510 3 1542 3
+E 0 1503 0 16
+M 0 1511 3 1543 3
+M 0 1512 1 1545 1
+G 0 1501 0
+R 0 1548 4
+M 0 1513 10 1548 2
+M 0 1514 10 1548 2
+R 0 1549 4
+R 0 1550 4
+M 0 1513 10 1550 2
+M 0 1514 10 1550 2
+R 0 1551 4
+M 0 1513 10 1551 2
+M 0 1514 10 1551 2
+R 0 1552 4
+R 0 1553 4
+M 0 1513 10 1553 2
+M 0 1514 10 1553 2
+R 0 1554 4
+R 0 1555 4
+M 0 1513 10 1555 2
+M 0 1514 10 1555 2
+M 0 1515 1 1556 1
+G 0 1505 0
+G 0 1512 0
+G 0 1516 0
+O 0 1517 0 1557
+M 0 1505 1 1558 1
+E 0 1508 0 1
+E 0 1509 0 3
+E 0 1510 0 16
+M 0 1520 6 1563 2
+M 0 1520 6 1565 2
+M 0 1518 5 1569 5
+E 0 1521 0 16
+M 0 1518 5 1569 5
+E 0 1521 0 16
+M 0 1518 5 1569 5
+E 0 1521 0 16
+M 0 1518 5 1569 5
+E 0 1521 0 16
+M 0 1518 5 1569 5
+E 0 1521 0 16
+M 0 1519 1 1569 1
+E 0 1520 0 5
+M 0 1521 1 1570 1
+O 0 1516 0 1570
+O 0 1517 0 1570
+M 0 1517 30 1571 10
+E 0 1524 0 16
+M 0 1517 30 1571 10
+E 0 1524 0 16
+M 0 1517 30 1571 10
+E 0 1524 0 16
+M 0 1517 30 1571 10
+E 0 1524 0 16
+M 0 1517 30 1572 10
+E 0 1524 0 16
+M 0 1517 30 1572 10
+E 0 1524 0 16
+M 0 1517 30 1572 10
+E 0 1524 0 16
+M 0 1517 30 1572 10
+E 0 1524 0 16
+O 0 1521 0 1573
+M 0 1522 5 1577 1
+M 0 1522 5 1578 1
+M 0 1522 5 1579 1
+M 0 1523 5 1580 1
+M 0 1523 5 1581 1
+M 0 1517 30 1583 5
+M 0 1517 30 1583 5
+M 0 1517 30 1584 5
+M 0 1517 30 1584 5
+M 0 1526 1 1587 1
+M 0 1524 1 1589 1
+M 0 1520 6 1590 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

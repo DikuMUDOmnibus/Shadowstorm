@@ -1,0 +1,842 @@
+#AREADATA
+Name Newbie Stuffs~
+Builders None~
+VNUMs 200 299
+Credits (null)~
+Security 9
+Soundfile ~
+Continent 4
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 200
+Name no name~
+Short (no short description)~
+Long (no long description)
+~
+Description ~
+Race human~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level 108
+Hitroll 102
+Hit_dice 227d37+3216
+Mana_dice 219d37+3230
+Dam_dice 110d106+52
+Dam_type none
+Armor -65 -68 -69 -58
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 200
+Name glow beginning~
+Short {8The {cG{Cl{co{Cw{8 of the {CB{ce{8ginni{cn{Cg{0~
+Desc An illuminating sensation glows here.~
+Material aether~
+Item_type armor
+Extra ABS
+Extra2 0
+Wear AQ
+Values 0 0 0 0 0
+Level 1
+Weight 1
+Cost 40
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+5 2
+AffectObj
+4 2
+EndObj
+
+#OBJ
+Vnum 201
+Name bread roll~
+Short a {Ycrusty{0 bread roll~
+Desc A {Ycrusty{0 bread roll is here.~
+Material bread~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values ABCD ABCD 0 0 0
+Level 1
+Weight 1
+Cost 30
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 202
+Name leather satchel~
+Short a {8leather{0 satchel~
+Desc A slightly worn {8leather{0 satchel is here.~
+Material leather~
+Item_type container
+Extra SY
+Extra2 0
+Wear AK
+Values 1000 0 -1 100 50
+Level 1
+Weight 15
+Cost 90
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 15
+AffectObj
+19 15
+EndObj
+
+#OBJ
+Vnum 203
+Name white shirt~
+Short {xA {Ddull {Wwhite{x shirt{x~
+Desc A very dull coloured shirt is here.~
+Material cotton~
+Item_type armor
+Extra S
+Extra2 0
+Wear AD
+Values AB AB AB B 0
+Level 1
+Weight 2
+Cost 80
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+1 2
+AffectObj
+4 2
+AffectObj
+3 2
+EndObj
+
+#OBJ
+Vnum 204
+Name pants~
+Short a pair of {ydirty{0 work {8pants{0~
+Desc A pair of work {8pants{0 has been discarded here.~
+Material wool~
+Item_type armor
+Extra S
+Extra2 0
+Wear AF
+Values AC AC AC AC 0
+Level 1
+Weight 2
+Cost 50
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 5
+AffectObj
+18 2
+EndObj
+
+#OBJ
+Vnum 205
+Name sandals~
+Short {xA {Mfl{mim{Msy{x pair of {ysandals{x~
+Desc A flimsy pair of {ysandals{0 lie here.~
+Material leather~
+Item_type armor
+Extra IS
+Extra2 0
+Wear AG
+Values A A A A 0
+Level 1
+Weight 1
+Cost 90
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+14 100
+AffectObj
+4 -2
+EndObj
+
+#OBJ
+Vnum 206
+Name water skin~
+Short a {ytanned {Cw{ca{Ct{ce{Cr{cs{Ck{ci{Cn{0~
+Desc An old {ytanned {Cw{ca{Ct{ce{Cr{cs{Ck{ci{Cn{0 rests here.~
+Material skin~
+Item_type drink
+Extra S
+Extra2 0
+Wear AO
+Values 18 18 'water' 0 0
+Level 1
+Weight 2
+Cost 25
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 207
+Name stone symbol charm opal~
+Short {xA pure {Wwhite {wo{Wpa{wl{x the symbol of {RS{ry{Rnon{x~
+Desc A charm of {WSynon{0 radiates His goodness.~
+Material light~
+Item_type light
+Extra AS
+Extra2 0
+Wear A
+Values 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+Level 1
+Weight 1
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+stone~
+Enfused with the goodness of {WSynon{0, this beautifully radiant {Wopal{0
+shines with a bright clear light.  
+~
+ExtraDesc
+symbol~
+Enfused with the goodness of {WSynon{0, this beautifully radiant {Wopal{0
+shines with a bright clear light.  
+~
+ExtraDesc
+charm~
+Enfused with the goodness of {WSynon{0, this beautifully radiant {Wopal{0
+shines with a bright clear light.  
+~
+ExtraDesc
+opal~
+Brilliant light eminates from this opal enfused with the great powers of
+good that Synon controls.  
+afk
+~
+AffectObj
+3 2
+AffectObj
+19 5
+AffectObj
+18 5
+EndObj
+
+#OBJ
+Vnum 208
+Name stone symbol charm onyx~
+Short an {8onyx{0 black as {8n{ci{8g{Ch{8t{0, the symbol of {8Davion{0~
+Desc A charm of {8Davion{0, glowing with His {8darkness{0.~
+Material darkness~
+Item_type light
+Extra AS
+Extra2 0
+Wear A
+Values 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+Level 1
+Weight 1
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+stone~
+{8Darkness{0 flows over the shiny {8black onyx{0 surface, a strange dark
+light seeping from it's middle to reveal the paths of {8Davion{0.  
+~
+ExtraDesc
+symbol~
+{8Darkness{0 flows over the shiny {8black onyx{0 surface, a strange dark
+light seeping from it's middle to reveal the paths of {8Davion{0.  
+~
+ExtraDesc
+charm~
+{8Darkness{0 flows over the shiny {8black onyx{0 surface, a strange dark
+light seeping from it's middle to reveal the paths of {8Davion{0.  
+~
+ExtraDesc
+onyx~
+{8Darkness{0 flows over the shiny {8black onyx{0 surface, a strange dark
+light seeping from it's middle to reveal the paths of {8Davion{0.  
+~
+AffectObj
+18 5
+AffectObj
+19 5
+AffectObj
+3 2
+EndObj
+
+#OBJ
+Vnum 209
+Name stone symbol charm jet~
+Short {xA {Ddark {rflaming {Djet{x stone.~
+Desc A charm of some sort, is burning with an inner {Rfire{x here.~
+Material shadowfire~
+Item_type light
+Extra AS
+Extra2 0
+Wear A
+Values 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+Level 1
+Weight 1
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+jet~
+A polished {8jet {0stone, strangely burning brightly with a {rdeep red{0
+flame.  With the strength and power of {RSh{rad{bow{rFi{Rre{0.
+~
+ExtraDesc
+stone~
+A polished {8jet {0stone, strangely burning brightly with a {rdeep red{0
+flame.  With the strength and power of {RSh{rad{bow{rFi{Rre{0.  
+~
+ExtraDesc
+symbol~
+A polished {8jet {0stone, strangely burning brightly with a {rdeep red{0
+flame.  With the strength and power of {RSh{rad{bow{rFi{Rre{0.  
+~
+ExtraDesc
+charm~
+A polished {8jet {0stone, strangely burning brightly with a {rdeep red{0
+flame.  With the strength and power of {RSh{rad{bow{rFi{Rre{0.
+~
+AffectObj
+3 2
+AffectObj
+19 5
+AffectObj
+18 5
+EndObj
+
+#OBJ
+Vnum 210
+Name stone symbol charm crystal~
+Short {xA {Gc{grud{Ge{gly{x cut {Cc{cry{Cst{cal{x~
+Desc A small crystal glows faintly.~
+Material crystal~
+Item_type light
+Extra ASX
+Extra2 0
+Wear 0
+Values 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+Level 1
+Weight 1
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+stone~
+Glowing with a dim light, this crystal gives no more protection than an
+empty waterskin.  
+~
+ExtraDesc
+symbol~
+Glowing with a dim light, this crystal gives no more protection than an
+empty waterskin.  
+~
+ExtraDesc
+charm~
+Glowing with a dim light, this crystal gives no more protection than an
+empty waterskin.  
+~
+ExtraDesc
+crystal~
+Glowing with a dim light, this crystal gives no more protection than an
+empty waterskin.  
+~
+AffectObj
+19 5
+AffectObj
+18 5
+AffectObj
+3 2
+EndObj
+
+#OBJ
+Vnum 211
+Name stone symbol charm~
+Short {xA {Wd{wia{Wmon{wd{x, the symbol of {MG{mi{Mg{mi{x~
+Desc A charm of Gigi, light trapt in a diamond floats here.~
+Material unknown~
+Item_type light
+Extra ASX
+Extra2 0
+Wear A
+Values 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+Level 1
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+stone~
+to be added
+~
+ExtraDesc
+symbol~
+to be added
+~
+ExtraDesc
+charm~
+to be added
+~
+AffectObj
+3 2
+AffectObj
+19 5
+AffectObj
+18 5
+EndObj
+
+#OBJ
+Vnum 212
+Name sword~
+Short {xA small {Dsteel{x sword~
+Desc A small steel sword lies in the dust.~
+Material steel~
+Item_type weapon
+Extra AB
+Extra2 0
+Wear AN
+Values sword 5 8 slash 0
+Level 1
+Weight 1
+Cost 30
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 4
+AffectObj
+18 4
+EndObj
+
+#OBJ
+Vnum 213
+Name dagger~
+Short {xA tiny {Rd{ra{Rgg{re{Rr{x made of {Dsteel{x~
+Desc A sharp tiny dagger shines in the light.~
+Material iron~
+Item_type weapon
+Extra BI
+Extra2 0
+Wear AN
+Values dagger 5 8 stab 0
+Level 1
+Weight 1
+Cost 30
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 4
+AffectObj
+18 4
+EndObj
+
+#OBJ
+Vnum 214
+Name spear~
+Short {xA {clight {ywooden{x spear~
+Desc A lightweight wooden spear rests here.~
+Material wood~
+Item_type weapon
+Extra AI
+Extra2 0
+Wear AN
+Values exotic 5 8 pierce 0
+Level 1
+Weight 1
+Cost 30
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 4
+AffectObj
+19 4
+EndObj
+
+#OBJ
+Vnum 215
+Name mace~
+Short {xA {Dc{wr{Du{wd{De{wl{Dy{x formed {Rm{rac{Re{x~
+Desc A crudely formed mace is here.~
+Material iron~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values mace 5 8 thwack 0
+Level 1
+Weight 2
+Cost 30
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 4
+AffectObj
+19 4
+EndObj
+
+#OBJ
+Vnum 216
+Name axe~
+Short {xA small {ycopper {Daxe{x~
+Desc Light reflects off the sharp blade of the small copper axe here.~
+Material copper~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values axe 5 8 cleave 0
+Level 1
+Weight 1
+Cost 30
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 4
+AffectObj
+19 4
+EndObj
+
+#OBJ
+Vnum 217
+Name flail~
+Short {xA {rrusty {gflail{x~
+Desc A rusty iron flail lies here.~
+Material iron~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values flail 5 8 claw 0
+Level 1
+Weight 1
+Cost 30
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 4
+AffectObj
+19 4
+EndObj
+
+#OBJ
+Vnum 218
+Name whip~
+Short {xAn {Dold{x powerful {ywhip{x~
+Desc A many-tailed whip is lying here.~
+Material leather~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values whip 5 8 whip 0
+Level 1
+Weight 1
+Cost 30
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 4
+AffectObj
+19 4
+EndObj
+
+#OBJ
+Vnum 219
+Name polearm~
+Short {xA long {ywooden {Wpole{x~
+Desc A painted polearm is propped here.~
+Material wood~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values polearm 5 8 charge 0
+Level 1
+Weight 2
+Cost 30
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 4
+AffectObj
+19 4
+EndObj
+
+#OBJ
+Vnum 220
+Name shield small basic~
+Short {xA small {ws{Wi{wm{Wpl{we{x {Csh{cie{Cld{x~
+Desc A small, simple, iron shield glimmers in the light~
+Material iron~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AJ
+Values AC AC AC AB 0
+Level 0
+Weight 3
+Cost 30
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 10
+AffectObj
+19 3
+EndObj
+
+#OBJ
+Vnum 221
+Name loaf bread~
+Short {xA {Wloaf{x of {Ybr{yea{Yd{x~
+Desc A loaf of bread is here.~
+Material unknown~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values AC AC 0 0 0
+Level 0
+Weight 5
+Cost 2
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 222
+Name ring golden~
+Short {xA {Ygo{yld{Yen{x ring of {Wpromise{x~
+Desc A golden ring, lies tossed carelessly on the ground here.~
+Material gold~
+Item_type armor
+Extra BI
+Extra2 0
+Wear AB
+Values B B A A 0
+Level 1
+Weight 2
+Cost 3
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 10
+AffectObj
+13 5
+EndObj
+
+#OBJ
+Vnum 223
+Name bracelt wolf teeth~
+Short {xA {Cbr{cace{Clet{x made of a {Dwolf's{x {Wt{wee{Wth{x~
+Desc A shiny bracelet made of teeth, lies here on the ground~
+Material unknown~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AM
+Values AB AB AB A 0
+Level 1
+Weight 1
+Cost 2
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 5
+AffectObj
+18 5
+EndObj
+
+#OBJ
+Vnum 224
+Name gloves wool~
+Short {xA pair of {ywool {Dgloves{x~
+Desc {xA pair of finely crafted {ywool {Dgloves{x lay on the ground here.~
+Material unknown~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AH
+Values C C C B 0
+Level 1
+Weight 3
+Cost 2
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 15
+AffectObj
+19 3
+EndObj
+
+#OBJ
+Vnum 225
+Name helmet protective~
+Short {xA {Mpr{mo{Mtec{mtive{x {chelmet{x~
+Desc A hard looking metal object lies on the ground here.~
+Material unknown~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AE
+Values AC AC AC AB 0
+Level 1
+Weight 5
+Cost 3
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+2 2
+AffectObj
+20 -5
+EndObj
+
+#OBJ
+Vnum 226
+Name necklace determination~
+Short {x{GN{geck{Gla{gce{x of {Rde{rterm{Rin{ra{Rtion{x~
+Desc A necklace of determination lies on the ground here.~
+Material unknown~
+Item_type armor
+Extra AB
+Extra2 0
+Wear AC
+Values C C C A 0
+Level 1
+Weight 5
+Cost 2
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 10
+AffectObj
+1 5
+AffectObj
+4 2
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 200
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

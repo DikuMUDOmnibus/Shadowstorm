@@ -1,0 +1,10118 @@
+#AREADATA
+Name High Tower~
+Builders None~
+VNUMs 1300 1499
+Credits {10 30} Skylar  High Tower of Sorcery~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 1300
+Name oldstyle shadow guardian~
+Short a shadow guardian~
+Long A shadow guardian screams a challenge and attacks.
+~
+Description It seems to be made of nothing more than darkness ...
+~
+Race human~
+Act_flags ACFG
+Aff BDJP
+Align -350
+Group 0
+Level 9
+Hitroll 0
+Hit_dice 2d6+110
+Mana_dice 4d9+100
+Dam_dice 1d8+2
+Dam_type none
+Armor 2 2 2 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1301
+Name oldstyle adventurer~
+Short a lost adventurer~
+Long An emaciated adventurer is here looking lost and hopeless.
+~
+Description He looks haggard and sickly; no doubt he's been lost here for quite some time.
+~
+Race human~
+Act_flags ABCHQ
+Aff 0
+Align 400
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 8d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 8
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos stand
+Sex male
+Wealth 14
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1302
+Name oldstyle edgar~
+Short Edgar~
+Long Edgar the Human Swordpupil
+~
+Description Edgar says 'pardon me, can you tell me where to buy cups?'
+
+You see before you, one of Midgaard's finest fighting elite, the mighty
+bunny slayer himself, Edgar the Horrible!
+~
+Race human~
+Act_flags ACEH
+Aff 0
+Align 1000
+Group 0
+Level 1
+Hitroll 0
+Hit_dice 2d6+10
+Mana_dice 0d9+100
+Dam_dice 1d4+0
+Dam_type none
+Armor 9 9 9 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1303
+Name oldstyle diamond golem~
+Short the golem~
+Long A huge diamond golem is standing guard here.
+~
+Description It looks quite strong.
+~
+Race human~
+Act_flags ABG
+Aff D
+Align 500
+Group 0
+Level 23
+Hitroll 0
+Hit_dice 5d10+450
+Mana_dice 11d9+100
+Dam_dice 3d6+6
+Dam_type none
+Armor -6 -6 -6 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 49
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1304
+Name oldstyle mage young~
+Short a mage~
+Long A young mage wanders about, oblivious to all.
+~
+Description He seems to be contemplating life, love and the mysteries of the universe.
+Then again, he may just have a headache.
+~
+Race human~
+Act_flags AGHR
+Aff D
+Align 450
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d6+110
+Mana_dice 10d9+100
+Dam_dice 1d8+1
+Dam_type none
+Armor 2 2 2 6
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 21
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1305
+Name oldstyle strick bartender~
+Short Strick the bartender~
+Long Strick is here levitating drinks to his customers.
+~
+Description He looks rather harmless, but then again so does a sleeping dragon.
+~
+Race human~
+Act_flags ABG
+Aff D
+Align 750
+Group 0
+Level 25
+Hitroll 0
+Hit_dice 5d10+550
+Mana_dice 12d9+100
+Dam_dice 2d10+7
+Dam_type none
+Armor -7 -7 -7 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 100
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1306
+Name oldstyle tatorious wizard~
+Short Tatorious~
+Long Tatorious the wizard is here counting his earnings.
+~
+Description Tatorious winks at you mischievously.
+~
+Race human~
+Act_flags ABGR
+Aff D
+Align 900
+Group 0
+Level 25
+Hitroll 0
+Hit_dice 5d10+500
+Mana_dice 25d9+100
+Dam_dice 4d4+6
+Dam_type none
+Armor -6 -6 -6 2
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1307
+Name oldstyle ezmerelda cook~
+Short Ezmerelda~
+Long Ezmerelda the cook is here stirring a large pot of something.
+~
+Description ~
+Race human~
+Act_flags ABGR
+Aff D
+Align -500
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+308
+Mana_dice 20d9+100
+Dam_dice 3d4+4
+Dam_type none
+Armor -4 -4 -4 3
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 54
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1308
+Name oldstyle assistant mage~
+Short The cook's assistant~
+Long The cook's assistant is here assisting the cook.
+~
+Description ~
+Race human~
+Act_flags ABGHR
+Aff D
+Align -200
+Group 0
+Level 11
+Hitroll 0
+Hit_dice 2d7+121
+Mana_dice 11d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 1 1 1 6
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1309
+Name oldstyle prisoner~
+Short The prisoner~
+Long A prisoner is chained to the wall here.
+~
+Description Though his clothes are all in rags, you can see that at one time they must
+have been fine garments. A metal muzzle has been fitted over the poor
+wretch's mouth, whether to keep him from screaming, or to silence his spell
+casting you cannot tell.
+
+He looks quite mad, no doubt he's been mistreated horribly.
+~
+Race human~
+Act_flags ABCFGHR
+Aff 0
+Align 100
+Group 0
+Level 16
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 16d9+100
+Dam_dice 2d5+3
+Dam_type none
+Armor -2 -2 -2 4
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1310
+Name oldstyle jailor mage~
+Short the Jailor~
+Long The Jailor is here enjoying a comfortable nap.
+~
+Description He looks rather dirty.
+~
+Race human~
+Act_flags ABGR
+Aff D
+Align 100
+Group 0
+Level 17
+Hitroll 0
+Hit_dice 3d9+233
+Mana_dice 17d9+100
+Dam_dice 1d12+3
+Dam_type none
+Armor -2 -2 -2 4
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sleep
+Default_pos sleep
+Sex male
+Wealth 66
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1311
+Name oldstyle broom~
+Short a broom~
+Long A straw broom is here leaning against the wall.
+~
+Description The broom screams 'Take that you lout!'
+~
+Race human~
+Act_flags ABCFGS
+Aff DF
+Align 50
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 3d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 4 4 4 8
+Clevel0
+Cability 0
+Off BEFJNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1312
+Name oldstyle lesser guardian hands~
+Short a pair of disembodied hands~
+Long A pair of disembodied hands floats in the air here.
+~
+Description The hands twitch with anticipation of strangling someone.
+~
+Race human~
+Act_flags AFG
+Aff 0
+Align -400
+Group 0
+Level 9
+Hitroll 0
+Hit_dice 2d6+110
+Mana_dice 4d9+100
+Dam_dice 1d8+2
+Dam_type none
+Armor 2 2 2 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1313
+Name oldstyle guardian greater eyes~
+Short a pair of disembodied eyes~
+Long A pair of disembodied eyes floats here glaring at you.
+~
+Description The eyes smolder with hatred.
+~
+Race human~
+Act_flags AFG
+Aff D
+Align -600
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 7d9+100
+Dam_dice 2d6+3
+Dam_type none
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1314
+Name oldstyle mage visitor~
+Short the mage~
+Long A visiting mage is here snoring away in peaceful slumber.
+~
+Description He looks quite sleepy.
+~
+Race human~
+Act_flags ABCGHR
+Aff D
+Align 250
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d8+134
+Mana_dice 12d9+100
+Dam_dice 1d8+2
+Dam_type none
+Armor 1 1 1 6
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sleep
+Default_pos sleep
+Sex male
+Wealth 36
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1315
+Name oldstyle apprentice young~
+Short a young apprentice magic user~
+Long A young apprentice magic user is here doing magical studies.
+~
+Description She looks quite intent on her studies.
+~
+Race human~
+Act_flags ABGHR
+Aff 0
+Align 400
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 7d9+100
+Dam_dice 1d5+1
+Dam_type none
+Armor 4 4 4 7
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos sit
+Sex female
+Wealth 18
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1316
+Name oldstyle apprentice young~
+Short a young apprentice~
+Long A young apprentice is here mumbling words of magic to himself.
+~
+Description He looks to be oblivious to all but the spell he is memorizing.
+~
+Race human~
+Act_flags ABGHR
+Aff 0
+Align 380
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 7d9+100
+Dam_dice 1d5+1
+Dam_type none
+Armor 4 4 4 7
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 24
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1317
+Name oldstyle apprentice young~
+Short a young apprentice~
+Long A young apprentice is sleeping here.
+~
+Description He seems to be dreaming.
+~
+Race human~
+Act_flags ABGHR
+Aff 0
+Align 350
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 7d9+100
+Dam_dice 1d5+1
+Dam_type none
+Armor 4 4 4 7
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sleep
+Default_pos sleep
+Sex male
+Wealth 10
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1318
+Name oldstyle apprentice young~
+Short A young apprentice~
+Long A young apprentice is here teasing a cornered kitten.
+~
+Description He looks like a mischievous youth.
+~
+Race human~
+Act_flags ABGHR
+Aff 0
+Align -200
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 7d9+100
+Dam_dice 1d5+1
+Dam_type none
+Armor 4 4 4 7
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 19
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1319
+Name oldstyle kitten~
+Short a small kitten~
+Long A small kitten is here meowing in terror.
+~
+Description The little ball of fur looks very unhappy.  Singed fur and a few minor burns
+mark its mottled coat.
+~
+Race human~
+Act_flags ABGH
+Aff 0
+Align 500
+Group 0
+Level 1
+Hitroll 0
+Hit_dice 2d6+10
+Mana_dice 0d9+100
+Dam_dice 1d4+0
+Dam_type none
+Armor 9 9 9 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1320
+Name oldstyle student~
+Short a student~
+Long A student of spells is here looking quite bored
+~
+Description The student yawns.
+~
+Race human~
+Act_flags ABGHR
+Aff 0
+Align 350
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d6+85
+Mana_dice 8d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 4 4 4 7
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos sit
+Sex male
+Wealth 13
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1321
+Name oldstyle instructor teacher mage~
+Short an instructor of magic~
+Long The instructor screams at your interruption and attacks you.
+~
+Description He looks quite angry at your interruption.
+~
+Race human~
+Act_flags ABFGR
+Aff D
+Align 300
+Group 0
+Level 14
+Hitroll 0
+Hit_dice 2d10+170
+Mana_dice 14d9+100
+Dam_dice 1d10+2
+Dam_type none
+Armor -1 -1 -1 5
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 44
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1322
+Name oldstyle student~
+Short a student of spells~
+Long A student of spells is here trying to master invisibility.
+~
+Description He blinks in and out of existence, trying to master the spell.
+~
+Race human~
+Act_flags ABGHR
+Aff BD
+Align 400
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d6+85
+Mana_dice 8d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 4 4 4 7
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 9
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1323
+Name oldstyle teacher mage~
+Short a spell teacher~
+Long A spell teacher screams at your interruption and attacks.
+~
+Description ~
+Race human~
+Act_flags ABFGR
+Aff BD
+Align 300
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 2d10+190
+Mana_dice 15d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor -1 -1 -1 5
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 62
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1324
+Name oldstyle student~
+Short a student of spells~
+Long A student of spells has fallen asleep at her desk here.
+~
+Description She looks to have collapsed from sheer boredom.
+~
+Race human~
+Act_flags ABGHR
+Aff D
+Align 400
+Group 0
+Level 9
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 9d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 3 3 3 7
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sleep
+Default_pos sleep
+Sex female
+Wealth 28
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1325
+Name oldstyle wizard speaker mage~
+Short a wizard~
+Long An old wizard is here making a speech
+~
+Description ~
+Race human~
+Act_flags ABGHR
+Aff D
+Align 400
+Group 0
+Level 18
+Hitroll 0
+Hit_dice 3d9+258
+Mana_dice 18d9+100
+Dam_dice 2d6+3
+Dam_type none
+Armor -3 -3 -3 4
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 123
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1326
+Name oldstyle mage young~
+Short a young mage~
+Long A young mage is here learning hand to hand combat.
+~
+Description ~
+Race human~
+Act_flags ABGHR
+Aff D
+Align 300
+Group 0
+Level 9
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 9d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 3 3 3 7
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 34
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1327
+Name oldstyle mistress battle~
+Short the battle mistress~
+Long The battle mistress is here teaching the fine uses of a dagger.
+~
+Description She looks quite rugged. In fact, she more resembles a warrior than a magic
+user.
+~
+Race human~
+Act_flags ABFGR
+Aff D
+Align 200
+Group 0
+Level 17
+Hitroll 0
+Hit_dice 3d9+233
+Mana_dice 17d9+100
+Dam_dice 1d12+3
+Dam_type none
+Armor -2 -2 -2 4
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 160
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1328
+Name oldstyle mage teacher~
+Short a spell teacher~
+Long A spell teacher is here relaxing.
+~
+Description ~
+Race human~
+Act_flags ABGR
+Aff D
+Align 200
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 2d10+190
+Mana_dice 15d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor -1 -1 -1 5
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos rest
+Default_pos rest
+Sex male
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1329
+Name oldstyle wizard~
+Short an aged wizard~
+Long An aged wizard is sleeping here.
+~
+Description ~
+Race human~
+Act_flags ABFGHR
+Aff D
+Align 350
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+308
+Mana_dice 20d9+100
+Dam_dice 3d4+4
+Dam_type none
+Armor -4 -4 -4 3
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sleep
+Default_pos sleep
+Sex male
+Wealth 78
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1330
+Name oldstyle scribe mage~
+Short a scribe~
+Long A scribe is here working on some manuscripts.
+~
+Description ~
+Race human~
+Act_flags ABCGHR
+Aff D
+Align 400
+Group 0
+Level 14
+Hitroll 0
+Hit_dice 2d10+170
+Mana_dice 14d9+100
+Dam_dice 1d10+2
+Dam_type none
+Armor -1 -1 -1 5
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 15
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1331
+Name oldstyle scribe mage~
+Short a scribe~
+Long A scribe is here working diligently on some translations.
+~
+Description She's quite cute.  Too bad her only interest seems to be the words of
+lore she is translating.
+~
+Race human~
+Act_flags ABGHR
+Aff D
+Align 500
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 2d10+190
+Mana_dice 15d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor -1 -1 -1 5
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 34
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1332
+Name oldstyle master scribe~
+Short the master scribe~
+Long The master scribe is here looking a little upset
+~
+Description He seems to be so old, his skin has become nothing but a giant wrinkle.
+The master scribe screams 'How dare you interrupt my important work???'
+~
+Race human~
+Act_flags ABFGHR
+Aff D
+Align 100
+Group 0
+Level 22
+Hitroll 0
+Hit_dice 4d10+360
+Mana_dice 22d9+100
+Dam_dice 2d7+5
+Dam_type none
+Armor -5 -5 -5 3
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 281
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1333
+Name oldstyle assistant scribe~
+Short the scribe's assistant~
+Long The scribe's assistant is here folding parchments.
+~
+Description ~
+Race human~
+Act_flags ABFGHR
+Aff D
+Align 100
+Group 0
+Level 16
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 16d9+100
+Dam_dice 2d5+3
+Dam_type none
+Armor -2 -2 -2 4
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 52
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1334
+Name oldstyle master enchanter mage~
+Short the Enchanter~
+Long The Enchanter is here placing a dweomer upon well made sword.
+~
+Description ~
+Race human~
+Act_flags ABFGR
+Aff D
+Align -200
+Group 0
+Level 23
+Hitroll 0
+Hit_dice 5d10+400
+Mana_dice 23d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -5 -5 -5 3
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 340
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1335
+Name oldstyle sword dancing~
+Short a dancing sword~
+Long A well crafted sword lies on the work table here.
+~
+Description It looks quite sharp.
+~
+Race human~
+Act_flags ABFG
+Aff 0
+Align -500
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d7+121
+Mana_dice 5d9+100
+Dam_dice 2d4+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1336
+Name oldstyle alchemist~
+Short the Mad Alchemist~
+Long The Mad Alchemist babbles something incomprehensible and attacks.
+~
+Description He looks like he's been quaffing too many potions. His eyes dart around
+wildly, and he starts to drool.
+
+The Mad Alchemist throws back his head and cackles with insane glee!
+~
+Race human~
+Act_flags ABCFGHR
+Aff D
+Align 150
+Group 0
+Level 24
+Hitroll 0
+Hit_dice 5d10+450
+Mana_dice 24d9+100
+Dam_dice 4d4+5
+Dam_type none
+Armor -6 -6 -6 2
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 117
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1337
+Name oldstyle master summoner~
+Short the master summoner~
+Long The master summoner is here holding gateways open to other planes.
+~
+Description ~
+Race human~
+Act_flags ABFGHR
+Aff D
+Align -200
+Group 0
+Level 22
+Hitroll 0
+Hit_dice 4d10+360
+Mana_dice 22d9+100
+Dam_dice 2d7+5
+Dam_type none
+Armor -5 -5 -5 3
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1338
+Name oldstyle master charmer~
+Short the master charmer~
+Long The master charmer utters the words, 'uuuzzldctz'.
+~
+Description The master charmer sizes you up, always looking for a new pet.
+~
+Race human~
+Act_flags ABFR
+Aff D
+Align -400
+Group 0
+Level 23
+Hitroll 0
+Hit_dice 5d10+400
+Mana_dice 23d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -5 -5 -5 3
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 233
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1339
+Name oldstyle golem wooden~
+Short a wooden golem~
+Long A wooden golem stands a silent vigil here, guarding the stairs.
+~
+Description He looks flammable.
+~
+Race human~
+Act_flags ABFG
+Aff D
+Align 100
+Group 0
+Level 16
+Hitroll 0
+Hit_dice 3d9+233
+Mana_dice 8d9+100
+Dam_dice 2d6+4
+Dam_type none
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1340
+Name oldstyle master binder~
+Short the master spell binder~
+Long The master spell binder is here re-charging a blackened wand.
+~
+Description The master spell binder snarls at you and attacks.
+~
+Race human~
+Act_flags ABCFGHR
+Aff D
+Align -500
+Group 0
+Level 23
+Hitroll 0
+Hit_dice 5d10+400
+Mana_dice 23d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -5 -5 -5 3
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 115
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1341
+Name oldstyle master maker~
+Short the golem maker~
+Long The golem maker is here chiseling some stone.
+~
+Description ~
+Race human~
+Act_flags ABFGR
+Aff D
+Align 300
+Group 0
+Level 21
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 21d9+100
+Dam_dice 2d7+4
+Dam_type none
+Armor -4 -4 -4 3
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 133
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1342
+Name oldstyle golem granite~
+Short a granite golem~
+Long A granite golem stands here waiting to do its master's bidding.
+~
+Description It looks like a statue, until you see it shamble towards you.
+~
+Race human~
+Act_flags ABFG
+Aff 0
+Align 300
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1343
+Name oldstyle golem bronze~
+Short a bronze golem~
+Long A bronze golem stands here shining in the light.
+~
+Description He looks rather dim witted.
+~
+Race human~
+Act_flags ABG
+Aff 0
+Align 350
+Group 0
+Level 18
+Hitroll 0
+Hit_dice 3d9+283
+Mana_dice 9d9+100
+Dam_dice 2d7+4
+Dam_type none
+Armor -3 -3 -3 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1344
+Name oldstyle golem flesh~
+Short a flesh golem~
+Long A flesh golem stands guard here
+~
+Description It looks to be made of a potpourri of different body parts; some don't even
+resemble anything human.
+~
+Race human~
+Act_flags ABFG
+Aff 0
+Align 200
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 6d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor 0 0 0 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1345
+Name oldstyle golem cloth~
+Short a cloth golem~
+Long A cloth golem wanders around here.
+~
+Description It looks like a bunch of old rags, quite surprising it can actually walk.
+~
+Race human~
+Act_flags ABCG
+Aff 0
+Align 350
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1346
+Name oldstyle golem adamantite~
+Short an adamantite golem~
+Long An adamantite golem stands here looking very dangerous.
+~
+Description It seems to be forged of dark metal.  It looks strong and durable,
+but somewhat un-intelligent.
+~
+Race human~
+Act_flags ABCG
+Aff 0
+Align 350
+Group 0
+Level 25
+Hitroll 0
+Hit_dice 5d10+550
+Mana_dice 12d9+100
+Dam_dice 2d10+7
+Dam_type none
+Armor -7 -7 -7 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 500
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1347
+Name oldstyle golem clay~
+Short a clay golem~
+Long A clay golem stands guard here.
+~
+Description ~
+Race human~
+Act_flags ABCFG
+Aff D
+Align 200
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 7d9+100
+Dam_dice 2d6+3
+Dam_type none
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1348
+Name oldstyle master illusionist mage~
+Short the master of illusions~
+Long An enormous multi-colored three-headed dragon growls at you.
+~
+Description The image of an ugly dragon flickers slightly, and where the dragon was
+now stands a small harmless looking old man.
+~
+Race human~
+Act_flags ABCGHR
+Aff D
+Align 150
+Group 0
+Level 21
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 21d9+100
+Dam_dice 2d7+4
+Dam_type none
+Armor -4 -4 -4 3
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 117
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1349
+Name oldstyle necromancer master~
+Short the Necromancer~
+Long The Necromancer is here raising undead servants
+~
+Description Attired all in black, the Necromancer is tall and gangly, but still quite
+an imposing figure.  A dark cowl shrouds most of his face, but two blazing
+embers which serve as eyes can be seen through the shadow.
+The Necromancer shrieks some obscenities and orders his minions to attack.
+~
+Race human~
+Act_flags ABCFGHR
+Aff D
+Align -950
+Group 0
+Level 25
+Hitroll 0
+Hit_dice 5d10+500
+Mana_dice 25d9+100
+Dam_dice 4d4+6
+Dam_type none
+Armor -6 -6 -6 2
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 584
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1350
+Name oldstyle skeleton undead~
+Short an animated skeleton~
+Long An animated skeleton screams silently and attacks.
+~
+Description It feels no pain, and hacks at you ruthlessly.
+~
+Race human~
+Act_flags ABFG
+Aff D
+Align -500
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 7d9+100
+Dam_dice 2d6+3
+Dam_type none
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1351
+Name oldstyle undead giant~
+Short an undead giant~
+Long An undead giant lumbers towards you.
+~
+Description ~
+Race human~
+Act_flags ABCFG
+Aff D
+Align -500
+Group 0
+Level 18
+Hitroll 0
+Hit_dice 3d9+283
+Mana_dice 9d9+100
+Dam_dice 2d7+4
+Dam_type none
+Armor -3 -3 -3 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1352
+Name oldstyle witch hag~
+Short an ugly witch~
+Long An ugly witch is here scrying out secrets.
+~
+Description She has no face at all, just blank skin, rather disturbing.  From about where
+her mouth should be, comes a disgusting giggling sound that makes your skin
+crawl with revulsion.
+~
+Race human~
+Act_flags ABCFGR
+Aff D
+Align -450
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+308
+Mana_dice 20d9+100
+Dam_dice 3d4+4
+Dam_type none
+Armor -4 -4 -4 3
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 107
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1353
+Name oldstyle librarian mage~
+Short the Librarian~
+Long The Librarian has fallen asleep at his desk here.
+~
+Description He looks like a rather peaceful old man.
+~
+Race human~
+Act_flags ABFGHR
+Aff D
+Align 450
+Group 0
+Level 23
+Hitroll 0
+Hit_dice 5d10+400
+Mana_dice 23d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -5 -5 -5 3
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sleep
+Default_pos sleep
+Sex male
+Wealth 64
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1354
+Name oldstyle apprentice~
+Short the master's apprentice~
+Long The master's apprentice leaps to halt your passage.
+~
+Description A powerful wizard in his own right, the apprentice of the master of balance
+has given up his station in the mage guild hierarchy in order to serve the
+great master in hopes of gleaning secrets one could never hope to uncover
+alone.
+~
+Race human~
+Act_flags ABCFGR
+Aff D
+Align 0
+Group 0
+Level 24
+Hitroll 0
+Hit_dice 5d10+450
+Mana_dice 24d9+100
+Dam_dice 4d4+5
+Dam_type none
+Armor -6 -6 -6 2
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 336
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1355
+Name oldstyle cat grey familiar~
+Short a grey cat~
+Long A grey cat is lounging lazily here.
+~
+Description The grey cat cocks an ear towards you, sensing your scrutiny, then purrs
+contentedly.  It looks rather harmless, until you notice its very large claws.
+~
+Race cat~
+Act_flags ABGR
+Aff BPZ
+Align 0
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 2d10+190
+Mana_dice 15d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor -1 -1 -1 5
+Clevel0
+Cability 0
+Off FHR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form AGV
+Parts ACDEFHJKQUV
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1356
+Name oldstyle master guildmaster grey~
+Short the master of Neutrality~
+Long The master of Neutrality stands here contemplating the balance of the universe.
+~
+Description He looks quite peaceful.
+~
+Race human~
+Act_flags ABGR
+Aff DH
+Align 0
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+778
+Mana_dice 30d9+100
+Dam_dice 5d4+7
+Dam_type none
+Armor -9 -9 -9 1
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 767
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1357
+Name oldstyle apprentice black~
+Short a black robed apprentice~
+Long A black robed apprentice jumps from the shadows and attacks.
+~
+Description She bears a wicked looking scar down the side of her face, though once she
+must have been beautiful, now the scar combined with what seems to be a
+permanent scowl make her looks quite fearsome.
+~
+Race human~
+Act_flags ABCFGR
+Aff DP
+Align -750
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+308
+Mana_dice 20d9+100
+Dam_dice 3d4+4
+Dam_type none
+Armor -4 -4 -4 3
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 693
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1358
+Name oldstyle cat black familiar~
+Short a black cat~
+Long A black cat with its fur up hisses at you.
+~
+Description It looks both mean and dangerous.  Petting seems to be completely out of
+the question.
+~
+Race cat~
+Act_flags ABGR
+Aff DPZ
+Align -800
+Group 0
+Level 16
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 16d9+100
+Dam_dice 2d5+3
+Dam_type none
+Armor -2 -2 -2 4
+Clevel0
+Cability 0
+Off FHR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGV
+Parts ACDEFHJKQUV
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1359
+Name oldstyle master guildmaster black~
+Short the master of the black robes~
+Long The master of the black robes is here plotting vile deeds.
+~
+Description The master glares at you.
+~
+Race human~
+Act_flags ABCGR
+Aff DH
+Align -1000
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+778
+Mana_dice 30d9+100
+Dam_dice 5d4+7
+Dam_type none
+Armor -9 -9 -9 1
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1105
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1360
+Name oldstyle apprentice white~
+Short a white robed apprentice~
+Long A white robed apprentice screams at your desecration of goodness.
+~
+Description He looks like a fanatic.
+The apprentice screams 'Thou art unworthy of this honor!'
+~
+Race human~
+Act_flags ABFGR
+Aff D
+Align 750
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+308
+Mana_dice 20d9+100
+Dam_dice 3d4+4
+Dam_type none
+Armor -4 -4 -4 3
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 370
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1361
+Name oldstyle cat white familiar~
+Short a white cat~
+Long A white cat is here preening its fur.
+~
+Description It seems to be nothing more than a large ball of fluff with claws.
+~
+Race cat~
+Act_flags ABGR
+Aff DPZ
+Align 800
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 2d10+190
+Mana_dice 15d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor -1 -1 -1 5
+Clevel0
+Cability 0
+Off FHR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGV
+Parts ACDEFHJKQUV
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1362
+Name oldstyle master guildmaster white~
+Short The master of goodness~
+Long The master of goodness is here frowning at your intrusion.
+~
+Description He looks like a self-righteous bastard.
+~
+Race human~
+Act_flags ABGR
+Aff DH
+Align 1000
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+778
+Mana_dice 30d9+100
+Dam_dice 5d4+7
+Dam_type none
+Armor -9 -9 -9 1
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1095
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1363
+Name oldstyle cat calico familiar~
+Short A calico cat~
+Long A large calico cat is here
+~
+Description It looks incredibly large for a cat, no doubt a giant of its species.
+A beautiful jewel encrusted collar about its neck is its only adornment.
+~
+Race cat~
+Act_flags ABGR
+Aff DPZ
+Align 800
+Group 0
+Level 25
+Hitroll 0
+Hit_dice 5d10+500
+Mana_dice 25d9+100
+Dam_dice 4d4+6
+Dam_type none
+Armor -6 -6 -6 2
+Clevel0
+Cability 0
+Off FHR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form AGV
+Parts ACDEFHJKQUV
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1364
+Name oldstyle guildmaster grand mistress~
+Short The Grand Mistress~
+Long The Grand Mistress of Magic is sitting here.
+~
+Description She looks quite comfortable on her emerald throne. Amazingly young and
+pretty for one of such stature in the guild, no doubt she has kept her
+youthful appearance through the use of strong magics.
+The Grand Master pets her familiar and smiles at you in confidence.
+~
+Race human~
+Act_flags ABGR
+Aff DH
+Align 0
+Group 0
+Level 50
+Hitroll 0
+Hit_dice 50d10+4000
+Mana_dice 50d9+100
+Dam_dice 6d6+17
+Dam_type none
+Armor -19 -19 -19 -4
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 2500
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1365
+Name oldstyle wizard~
+Short a wizard~
+Long A wandering wizard is here mumbling to himself.
+~
+Description ~
+Race human~
+Act_flags ACGR
+Aff DP
+Align 350
+Group 0
+Level 17
+Hitroll 0
+Hit_dice 3d9+233
+Mana_dice 17d9+100
+Dam_dice 1d12+3
+Dam_type none
+Armor -2 -2 -2 4
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 160
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 1301
+Name oven black~
+Short an oven~
+Desc A huge black oven is here.~
+Material oldstyle~
+Item_type container
+Extra A
+Extra2 0
+Wear 0
+Values 0 0 -1 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1302
+Name locker~
+Short a meat locker~
+Desc An enormous meat locker is here.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 -1 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+locker~
+You just had the horrid thought that a cadaver might be in there.
+~
+EndObj
+
+#OBJ
+Vnum 1304
+Name pizza slice~
+Short a slice of pizza~
+Desc A slice of pizza is here looking very tasty.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values ABCD ABCD 0 0 0
+Level 0
+Weight 10
+Cost 10
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+pizza slice~
+Ahh!  Round Table pizza!  How appropriate.  Any root beer?
+~
+EndObj
+
+#OBJ
+Vnum 1305
+Name chunk meat~
+Short a large chunk of meat~
+Desc A large chunk of meat is here.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values DE DE 0 A 0
+Level 0
+Weight 20
+Cost 24
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1306
+Name sandwich~
+Short a finger sandwich~
+Desc A finger sandwich is here.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values CE CE 0 0 0
+Level 0
+Weight 20
+Cost 18
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+sandwich finger~
+It would look quite tasty if someone had first removed the fingernails!
+~
+EndObj
+
+#OBJ
+Vnum 1307
+Name broom straw~
+Short a straw broom~
+Desc A straw broom is here leaning against the wall.~
+Material oldstyle~
+Item_type trash
+Extra 0
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 0
+Weight 50
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+broom straw~
+A magical flying broomstick?  Nah!  Not here.
+~
+EndObj
+
+#OBJ
+Vnum 1308
+Name machine coffee~
+Short a coffee machine~
+Desc A coffee machine is here.~
+Material oldstyle~
+Item_type container
+Extra B
+Extra2 0
+Wear 0
+Values 0 0 -1 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1309
+Name cabinet~
+Short a cabinet~
+Desc A cabinet is here.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 -1 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1310
+Name bar silver~
+Short a bar of silver~
+Desc A bar of silver has been left here.~
+Material oldstyle~
+Item_type treasure
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 60
+Cost 100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1311
+Name bar gold~
+Short a bar of gold~
+Desc A bar of gold has been left here.~
+Material oldstyle~
+Item_type treasure
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 60
+Cost 5000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1312
+Name bar mithril~
+Short a bar of mithril~
+Desc A bar of mithril has been left here.~
+Material oldstyle~
+Item_type treasure
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 120
+Cost 5000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1313
+Name bar adamantite~
+Short a bar of adamantite~
+Desc A bar of adamantite has been left here.~
+Material oldstyle~
+Item_type treasure
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 150
+Cost 5000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1314
+Name hammer mithril~
+Short a mithril hammer~
+Desc A mithril hammer has been left here~
+Material oldstyle~
+Item_type weapon
+Extra G
+Extra2 0
+Wear AN
+Values mace 2 6 pound 0
+Level 12
+Weight 190
+Cost 1410
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 2
+AffectObj
+1 1
+EndObj
+
+#OBJ
+Vnum 1315
+Name chest~
+Short a chest~
+Desc A chest is here.~
+Material oldstyle~
+Item_type container
+Extra A
+Extra2 0
+Wear 0
+Values 0 0 -1 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1316
+Name key~
+Short a small key~
+Desc A small key has been left here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values ABFIK 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1317
+Name long sword~
+Short a long sword~
+Desc A long sword has been left here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values sword 1 8 slash 0
+Level 6
+Weight 80
+Cost 720
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 1318
+Name dagger silver~
+Short a silver dagger~
+Desc A finely crafted dagger made of silver is on the ground here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values dagger 3 3 pierce 0
+Level 10
+Weight 50
+Cost 970
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 2
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 1319
+Name scimitar~
+Short a curved scimitar~
+Desc A curved scimitar is here in a jewel-covered sheath.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values sword 2 7 slash 0
+Level 13
+Weight 100
+Cost 990
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 3
+EndObj
+
+#OBJ
+Vnum 1320
+Name staff wooden~
+Short a wooden staff~
+Desc A wooden staff is against the wall here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values exotic 1 4 crush 0
+Level 0
+Weight 60
+Cost 42
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1321
+Name cabinet silver~
+Short a silver chased cabinet~
+Desc A large cabinet with a silver finish is here.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 -1 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1322
+Name cabinet silver~
+Short a silver chased cabinet~
+Desc A large cabinet with a silver finish is here.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 -1 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1323
+Name key old~
+Short an old key~
+Desc An old key is here~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1324
+Name silvery key~
+Short a silvery key~
+Desc A silvery key has been left here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values ADFIK 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1325
+Name silvery key~
+Short a silvery key~
+Desc A silvery key has been left here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values BDFIK 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1326
+Name staff red white~
+Short a red and white staff~
+Desc A red and white staff is leaning against the wall here~
+Material oldstyle~
+Item_type staff
+Extra 0
+Extra2 0
+Wear AO
+Values 20 3 3 'heal' 0
+Level 15
+Weight 80
+Cost 5600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1327
+Name staff burnt~
+Short a burnt staff~
+Desc A burnt staff is leaning against the wall here.~
+Material oldstyle~
+Item_type staff
+Extra 0
+Extra2 0
+Wear AO
+Values 20 4 4 'blindness' 0
+Level 6
+Weight 60
+Cost 1720
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1328
+Name rod black~
+Short a black rod~
+Desc A black rod has been left here.~
+Material oldstyle~
+Item_type wand
+Extra 0
+Extra2 0
+Wear AO
+Values 20 3 3 'dispel evil' 0
+Level 11
+Weight 40
+Cost 2200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1329
+Name wand wooden~
+Short a wooden stick~
+Desc A wooden stick is here~
+Material oldstyle~
+Item_type wand
+Extra 0
+Extra2 0
+Wear AO
+Values 20 10 10 'bless' 0
+Level 7
+Weight 40
+Cost 1640
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1330
+Name wand metal~
+Short a metal wand~
+Desc A metal wand is here.~
+Material oldstyle~
+Item_type wand
+Extra 0
+Extra2 0
+Wear AO
+Values 20 20 4 'energy drain' 0
+Level 14
+Weight 50
+Cost 3200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1331
+Name cauldron black~
+Short a black cauldron~
+Desc A large black cauldron is here bubbling.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 -1 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1332
+Name wings~
+Short a small pair of bat wings~
+Desc A small pair of bat wings is here.~
+Material oldstyle~
+Item_type trash
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 20
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1333
+Name eye eyeball~
+Short an eyeball~
+Desc An eyeball has been left here~
+Material oldstyle~
+Item_type trash
+Extra 0
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1334
+Name book tome~
+Short the book of magic~
+Desc An enormous book is lying open here~
+Material oldstyle~
+Item_type container
+Extra A
+Extra2 0
+Wear 0
+Values 0 0 -1 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1335
+Name spectacles glasses~
+Short a pair of spectacles~
+Desc A pair of wire-rimmed spectacles has been left here.~
+Material oldstyle~
+Item_type clothing
+Extra G
+Extra2 0
+Wear AE
+Values 0 0 0 0 0
+Level 7
+Weight 40
+Cost 1140
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+3 1
+AffectObj
+4 1
+EndObj
+
+#OBJ
+Vnum 1336
+Name altar~
+Short a golden altar~
+Desc ~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 -1 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1337
+Name medallion heart~
+Short a heart shaped medallion~
+Desc A heart shaped medallion is here.~
+Material oldstyle~
+Item_type jewelry
+Extra GI
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 13
+Weight 30
+Cost 2200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+4 2
+AffectObj
+5 -1
+EndObj
+
+#OBJ
+Vnum 1338
+Name chest~
+Short a large chest~
+Desc A large chest is here.~
+Material oldstyle~
+Item_type container
+Extra AG
+Extra2 0
+Wear 0
+Values 0 0 -1 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1339
+Name key intricate~
+Short an intricately carved key~
+Desc An intricately carved key has been left here.~
+Material oldstyle~
+Item_type key
+Extra AG
+Extra2 0
+Wear AO
+Values BDEFIK 0 0 0 0
+Level 0
+Weight 10
+Cost 150
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+20 -1
+EndObj
+
+#OBJ
+Vnum 1340
+Name a pile of coins~
+Short a pile of coins~
+Desc A pile of coins is here.~
+Material oldstyle~
+Item_type money
+Extra 0
+Extra2 0
+Wear A
+Values ACDFGH ABD 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1341
+Name cloak brown~
+Short a brown cloak~
+Desc A travel worn cloak has carelessly been left here.~
+Material oldstyle~
+Item_type clothing
+Extra 0
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 35
+Weight 50
+Cost 4300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -5
+AffectObj
+20 -3
+EndObj
+
+#OBJ
+Vnum 1342
+Name chameleon poncho~
+Short a chameleon poncho~
+Desc Some multicolored cloth is on the ground here~
+Material oldstyle~
+Item_type clothing
+Extra G
+Extra2 0
+Wear AK
+Values 0 0 0 0 0
+Level 17
+Weight 40
+Cost 3600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+2 2
+AffectObj
+17 -3
+EndObj
+
+#OBJ
+Vnum 1343
+Name boots worn~
+Short a pair of old boots~
+Desc A pair of old boots is here, they look very comfortable.~
+Material oldstyle~
+Item_type clothing
+Extra G
+Extra2 0
+Wear AG
+Values 0 0 0 0 0
+Level 10
+Weight 20
+Cost 270
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+14 15
+EndObj
+
+#OBJ
+Vnum 1344
+Name ring seashell~
+Short a seashell ring~
+Desc A small seashell has been left here.~
+Material oldstyle~
+Item_type boat
+Extra G
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 0
+Weight 20
+Cost 1000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1345
+Name backpack leather~
+Short a leather backpack~
+Desc A leather backpack is here.~
+Material oldstyle~
+Item_type container
+Extra GY
+Extra2 0
+Wear AKO
+Values 0 0 -1 0 0
+Level 0
+Weight 90
+Cost 1000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1351
+Name cup brew herbal~
+Short a herbal brew~
+Desc A herbal brew is here.~
+Material oldstyle~
+Item_type drink
+Extra 0
+Extra2 0
+Wear A
+Values 6 6 'tea' 1 0
+Level 0
+Weight 10
+Cost 12
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1352
+Name waybread~
+Short a waybread~
+Desc A loaf of waybread has been left here.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values ADE F 0 0 0
+Level 0
+Weight 10
+Cost 50
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1355
+Name cleaver~
+Short a meat cleaver~
+Desc A meat cleaver is sticking in the wall here.~
+Material mithril~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values dagger 3 5 cleave D
+Level 17
+Weight 20
+Cost 840
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1356
+Name shackles chain~
+Short some chain shackles~
+Desc Some chain shackles have been discarded here~
+Material oldstyle~
+Item_type trash
+Extra GH
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 150
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 -100
+AffectObj
+14 -82
+EndObj
+
+#OBJ
+Vnum 1357
+Name dagger silvery~
+Short a silvery dagger~
+Desc A long dagger that seems to be made of silver is here.~
+Material mithril~
+Item_type weapon
+Extra G
+Extra2 0
+Wear AN
+Values dagger 3 5 pierce 0
+Level 15
+Weight 10
+Cost 910
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 1359
+Name scroll~
+Short a scroll~
+Desc A scroll is here.~
+Material oldstyle~
+Item_type scroll
+Extra 0
+Extra2 0
+Wear A
+Values 21 'blindness' 'curse' 'sleep' ''
+Level 11
+Weight 50
+Cost 1570
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1360
+Name scroll bound~
+Short a bound scroll~
+Desc A bound scroll is here blowing in the breeze.~
+Material oldstyle~
+Item_type scroll
+Extra G
+Extra2 0
+Wear AO
+Values 16 'armor' 'teleport' 'protection evil' ''
+Level 24
+Weight 30
+Cost 3000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -6
+EndObj
+
+#OBJ
+Vnum 1361
+Name tube~
+Short a long cylindrical tube~
+Desc A long cylindrical tube is rolling around here.~
+Material oldstyle~
+Item_type container
+Extra GY
+Extra2 0
+Wear A
+Values 0 0 -1 0 0
+Level 0
+Weight 10
+Cost 50
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1362
+Name scroll old~
+Short an old scroll~
+Desc An old scroll has been left here.~
+Material oldstyle~
+Item_type scroll
+Extra 0
+Extra2 0
+Wear A
+Values 10 'create food' '' '' ''
+Level 0
+Weight 20
+Cost 400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1363
+Name scroll blue~
+Short a scroll written on blue paper~
+Desc A blue scroll has been left here.~
+Material oldstyle~
+Item_type scroll
+Extra G
+Extra2 0
+Wear A
+Values 35 'enchant weapon' '' '' ''
+Level 8
+Weight 50
+Cost 1530
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1364
+Name pouch leather~
+Short a leather pouch~
+Desc A leather pouch is on the ground here.~
+Material oldstyle~
+Item_type container
+Extra GY
+Extra2 0
+Wear AO
+Values 0 0 -1 0 0
+Level 0
+Weight 20
+Cost 100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1365
+Name spoon silver~
+Short a silver stirring spoon~
+Desc A silver stirring spoon has been left here.~
+Material oldstyle~
+Item_type furniture
+Extra G
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 150
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+20 -1
+EndObj
+
+#OBJ
+Vnum 1366
+Name potion blue~
+Short a blue potion~
+Desc A blue potion is here.~
+Material oldstyle~
+Item_type potion
+Extra G
+Extra2 0
+Wear A
+Values 24 'harm' 'harm' 'harm' ''
+Level 11
+Weight 20
+Cost 2100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1367
+Name potion red~
+Short a bright red potion~
+Desc A bright red potion is here.~
+Material oldstyle~
+Item_type potion
+Extra G
+Extra2 0
+Wear A
+Values 15 'cure critical' '' '' ''
+Level 5
+Weight 20
+Cost 390
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1368
+Name potion green~
+Short a green potion~
+Desc A green potion is here.~
+Material oldstyle~
+Item_type potion
+Extra G
+Extra2 0
+Wear A
+Values 20 'blindness' 'teleport' 'cure blindness' ''
+Level 5
+Weight 20
+Cost 470
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1369
+Name potion effervescent~
+Short an effervescent potion~
+Desc An effervescent potion is bubbling away here~
+Material oldstyle~
+Item_type potion
+Extra G
+Extra2 0
+Wear A
+Values 16 'detect evil' 'detect invis' 'detect magic' ''
+Level 0
+Weight 20
+Cost 260
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+potion effervescent~
+Ahh!  Schwepes Sparkling Soda a refreshing drink.
+~
+EndObj
+
+#OBJ
+Vnum 1370
+Name white milky potion~
+Short a milky white potion~
+Desc A milky white potion is here.~
+Material oldstyle~
+Item_type potion
+Extra 0
+Extra2 0
+Wear A
+Values 14 'word of recall' '' '' ''
+Level 17
+Weight 20
+Cost 1350
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1371
+Name staff black~
+Short a black staff~
+Desc A black staff is leaning against the wall here.~
+Material oldstyle~
+Item_type staff
+Extra G
+Extra2 0
+Wear AO
+Values 18 2 2 'teleport' 0
+Level 9
+Weight 50
+Cost 2600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1372
+Name flute golden~
+Short a golden flute~
+Desc A golden flute has been left here.~
+Material oldstyle~
+Item_type staff
+Extra FG
+Extra2 0
+Wear AO
+Values 22 1 1 'charm person' 0
+Level 1
+Weight 40
+Cost 1000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+3 -6
+EndObj
+
+#OBJ
+Vnum 1373
+Name figurine~
+Short a small figurine~
+Desc A small figurine in the shape of a humanoid is standing here.~
+Material oldstyle~
+Item_type staff
+Extra G
+Extra2 0
+Wear AO
+Values 21 15 15 'cure serious' 0
+Level 8
+Weight 40
+Cost 3400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1374
+Name belt holster~
+Short a holstered belt~
+Desc A holstered belt is here.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear AL
+Values 0 0 -1 0 0
+Level 0
+Weight 40
+Cost 100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1375
+Name wand~
+Short a blackened wand~
+Desc A blackened wand is here.~
+Material oldstyle~
+Item_type wand
+Extra G
+Extra2 0
+Wear AO
+Values 17 5 1 'fireball' 0
+Level 14
+Weight 40
+Cost 3800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1376
+Name chisel runed~
+Short a runed chisel~
+Desc A runed chisel is here.~
+Material diamond~
+Item_type weapon
+Extra AG
+Extra2 0
+Wear AN
+Values dagger 3 6 pierce 0
+Level 20
+Weight 60
+Cost 2100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+2 1
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 1377
+Name pouch belt beltpouch~
+Short a beltpouch~
+Desc A beltpouch is here.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear AL
+Values 0 0 -1 0 0
+Level 0
+Weight 50
+Cost 50
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1378
+Name dust~
+Short some sparkling dust~
+Desc Some sparkling dust is in a pile here.~
+Material oldstyle~
+Item_type staff
+Extra 0
+Extra2 0
+Wear AO
+Values 20 1 1 'sleep' 0
+Level 5
+Weight 20
+Cost 1930
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1379
+Name cowl dark~
+Short a dark cowl~
+Desc A dark cowl is here.~
+Material oldstyle~
+Item_type clothing
+Extra GJ
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 26
+Weight 50
+Cost 2900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -6
+AffectObj
+20 -2
+EndObj
+
+#OBJ
+Vnum 1380
+Name wand ashen~
+Short an ashen wand~
+Desc An ashen wand is here~
+Material oldstyle~
+Item_type wand
+Extra J
+Extra2 0
+Wear AO
+Values 20 4 4 'cause critical' 0
+Level 9
+Weight 40
+Cost 1860
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1381
+Name club~
+Short a huge spiked club~
+Desc A huge spiked club has been left here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values mace 3 5 crush 0
+Level 15
+Weight 290
+Cost 750
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1382
+Name robe grey~
+Short a grey robe~
+Desc A pile of grey cloth has been left here.~
+Material oldstyle~
+Item_type container
+Extra GJKY
+Extra2 0
+Wear AK
+Values 0 0 -1 0 0
+Level 26
+Weight 80
+Cost 2900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -6
+AffectObj
+20 -2
+EndObj
+
+#OBJ
+Vnum 1383
+Name cloak grey~
+Short a long grey cloak~
+Desc A pile of grey cloth has been left here.~
+Material oldstyle~
+Item_type clothing
+Extra GJK
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 29
+Weight 70
+Cost 3300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -7
+AffectObj
+20 -2
+EndObj
+
+#OBJ
+Vnum 1384
+Name bracelet silver~
+Short a glinting silver bracelet~
+Desc A glinting hoop of silvery metal is here.~
+Material oldstyle~
+Item_type jewelry
+Extra G
+Extra2 0
+Wear AM
+Values 0 0 0 0 0
+Level 20
+Weight 50
+Cost 1440
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -5
+EndObj
+
+#OBJ
+Vnum 1385
+Name staff~
+Short an iron shod staff~
+Desc A grey piece of wood shod in iron has been left here.~
+Material oldstyle~
+Item_type weapon
+Extra G
+Extra2 0
+Wear AN
+Values exotic 3 9 pound F
+Level 27
+Weight 70
+Cost 1280
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 3
+EndObj
+
+#OBJ
+Vnum 1386
+Name minor ward cube clear~
+Short a ward minor~
+Desc A small clear cube is sitting here.~
+Material oldstyle~
+Item_type gem
+Extra AG
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 20
+Weight 50
+Cost 1440
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -5
+EndObj
+
+#OBJ
+Vnum 1387
+Name robe black~
+Short a black robe~
+Desc A pile of black cloth is on the ground here.~
+Material oldstyle~
+Item_type container
+Extra GJLY
+Extra2 0
+Wear AK
+Values 0 0 -1 0 0
+Level 22
+Weight 80
+Cost 2400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -5
+AffectObj
+20 -2
+EndObj
+
+#OBJ
+Vnum 1388
+Name bracelet onyx~
+Short an onyx bracelet~
+Desc A hoop of black onyx is here.~
+Material oldstyle~
+Item_type jewelry
+Extra G
+Extra2 0
+Wear AM
+Values 0 0 0 0 0
+Level 20
+Weight 60
+Cost 1150
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 1389
+Name cloak black dark~
+Short a dark black cloak~
+Desc A pile of black cloth is on the ground here.~
+Material oldstyle~
+Item_type clothing
+Extra GJL
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 29
+Weight 80
+Cost 3300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -7
+AffectObj
+20 -2
+EndObj
+
+#OBJ
+Vnum 1390
+Name shard black obsidian~
+Short a sharp shard of obsidian~
+Desc A piece of black glass is here.~
+Material obsidian~
+Item_type weapon
+Extra J
+Extra2 0
+Wear AN
+Values dagger 4 6 slice 0
+Level 29
+Weight 80
+Cost 2500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 3
+EndObj
+
+#OBJ
+Vnum 1391
+Name robe white~
+Short a white robe~
+Desc A pile of white cloth is on the ground here.~
+Material oldstyle~
+Item_type container
+Extra GKLY
+Extra2 0
+Wear AK
+Values 0 0 -1 0 0
+Level 22
+Weight 70
+Cost 2400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -5
+AffectObj
+20 -2
+EndObj
+
+#OBJ
+Vnum 1392
+Name bracelet white gold~
+Short a white gold bracelet~
+Desc A hoop of silvery metal is here.~
+Material oldstyle~
+Item_type jewelry
+Extra G
+Extra2 0
+Wear AM
+Values 0 0 0 0 0
+Level 20
+Weight 50
+Cost 1150
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 2
+EndObj
+
+#OBJ
+Vnum 1393
+Name cloak white~
+Short a white cloak~
+Desc A pile of white cloth is on the ground here.~
+Material oldstyle~
+Item_type clothing
+Extra GIKL
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 29
+Weight 70
+Cost 3300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -7
+AffectObj
+20 -2
+EndObj
+
+#OBJ
+Vnum 1394
+Name ivory dagger~
+Short an ivory hilted dagger~
+Desc An ivory hilted dagger has been left here~
+Material oldstyle~
+Item_type weapon
+Extra GIK
+Extra2 0
+Wear AN
+Values dagger 3 8 pierce 0
+Level 27
+Weight 10
+Cost 2100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 1395
+Name collar spiked~
+Short a spiked collar~
+Desc A small spiked collar is here.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AC
+Values B B B 0 0
+Level 20
+Weight 90
+Cost 1970
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -2
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 1396
+Name cloak shimmering~
+Short a shimmering cloak of many colors~
+Desc A multi-colored pile of cloth is here.~
+Material oldstyle~
+Item_type container
+Extra AGY
+Extra2 0
+Wear AC
+Values 0 0 -1 0 0
+Level 50
+Weight 80
+Cost 10800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -12
+AffectObj
+20 -4
+EndObj
+
+#OBJ
+Vnum 1397
+Name emerald ring~
+Short a small emerald ring~
+Desc A small ring with a green gemstone is here.~
+Material oldstyle~
+Item_type jewelry
+Extra G
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 20
+Weight 50
+Cost 580
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 20
+EndObj
+
+#OBJ
+Vnum 1398
+Name bracelet emerald~
+Short an emerald bracelet~
+Desc A beautifully crafted hoop of emerald is here.~
+Material oldstyle~
+Item_type jewelry
+Extra G
+Extra2 0
+Wear AM
+Values 0 0 0 0 0
+Level 20
+Weight 50
+Cost 2200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -5
+AffectObj
+3 1
+EndObj
+
+#OBJ
+Vnum 1399
+Name ward major clear crystal~
+Short a ward major~
+Desc A large clear crystal cube is here.~
+Material oldstyle~
+Item_type gem
+Extra AG
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 40
+Weight 60
+Cost 5100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -10
+AffectObj
+20 -2
+EndObj
+
+#OBJ
+Vnum 1400
+Name ebony kris~
+Short the ebony kris~
+Desc A wavy bladed knife made of ebony is here.~
+Material oldstyle~
+Item_type weapon
+Extra G
+Extra2 0
+Wear AN
+Values dagger 6 6 pierce 0
+Level 46
+Weight 30
+Cost 10700
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+2 2
+AffectObj
+19 5
+EndObj
+
+#OBJ
+Vnum 1401
+Name green scale shirt~
+Short a tight fitting green dragon scale shirt~
+Desc Some green dragon scales which have been sewn together are here.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AD
+Values BD BD BD AC 0
+Level 37
+Weight 90
+Cost 17800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+green scale shirt~
+Green dragon scale shirt was made from a poor unfortunate green dragon.
+~
+AffectObj
+2 3
+AffectObj
+17 -5
+EndObj
+
+#OBJ
+Vnum 1402
+Name fridge refrigerator~
+Short a fridge~
+Desc A small refrigerator.~
+Material oldstyle~
+Item_type container
+Extra B
+Extra2 0
+Wear 0
+Values 0 0 -1 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1403
+Name bottle vodka~
+Short a bottle of Absolut vodka~
+Desc A bottle of Absolut vodka is here to drink.~
+Material oldstyle~
+Item_type drink
+Extra 0
+Extra2 0
+Wear AO
+Values 25 25 'vodka' 0 0
+Level 0
+Weight 250
+Cost 100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1404
+Name juice bottle~
+Short a bottle of cranberry juice~
+Desc A bottle of cranberry juice is here.~
+Material oldstyle~
+Item_type drink
+Extra 0
+Extra2 0
+Wear AO
+Values 25 25 'cranberry juice' 0 0
+Level 0
+Weight 250
+Cost 100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 1300
+Name Entrance to the Shadow Grove~
+Desc Before you, the grove of shadows lies. Giant grey trees are all that
+can be seen through the thick shadows. A great sense of both power and
+menace permeates the surrounding area. You have a strange urge to turn
+back and go back the way you've come.
+  A small path leads north into the shadows and back south to the road.
+~
+Room_flags 4
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The shadows cloud your vision.
+~
+~
+-1
+1308
+0
+Exit
+2
+~
+~
+-1
+6137
+0
+EndRoom
+
+#ROOM
+Vnum 1301
+Name The Shadow Grove~
+Desc You are inside the shadow grove. Giant trees seem to glare at you
+from all sides. The shadowy mist obscures most of your vision. Strange
+sounds of moaning and growling come from all directions.
+  All exits lead into shadows, you are very confused.
+~
+Room_flags 8193
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The shadows cloud your vision.
+~
+~
+-1
+1302
+0
+Exit
+2
+The shadows cloud your vision.
+~
+~
+-1
+1304
+0
+Exit
+0
+The shadows cloud your vision.
+~
+~
+-1
+1307
+0
+Exit
+3
+The shadows cloud your vision.
+~
+~
+-1
+1303
+0
+EndRoom
+
+#ROOM
+Vnum 1302
+Name The Shadow Grove~
+Desc You are inside the shadow grove. Giant trees seem to glare at you
+from all sides. The shadowy mist obscures most of your vision. Strange
+sounds moaning and growling come from all directions.
+  All exits lead into shadows, you are very confused.
+~
+Room_flags 8193
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+The shadows cloud your vision.
+~
+~
+-1
+1301
+0
+Exit
+0
+You see a small clearing in the shadows.
+~
+~
+-1
+1311
+0
+Exit
+1
+The shadows cloud your vision.
+~
+~
+-1
+1303
+0
+Exit
+2
+The shadows cloud your vision.
+~
+~
+-1
+1305
+0
+EndRoom
+
+#ROOM
+Vnum 1303
+Name The Shadow Grove~
+Desc You are inside the shadow grove. Giant trees seem the glare at you
+from all sides. The shadowy mist obscures most of your vision. Strange
+sounds of moaning and growling come from all directions.
+  All exits lead into shadows, you are very confused.
+~
+Room_flags 8193
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The shadows cloud your vision.
+~
+~
+-1
+1309
+0
+Exit
+1
+The shadows cloud your vision.
+~
+~
+-1
+1301
+0
+Exit
+2
+The shadows cloud your vision.
+~
+~
+-1
+1306
+0
+Exit
+3
+The shadows cloud your vision.
+~
+~
+-1
+1302
+0
+EndRoom
+
+#ROOM
+Vnum 1304
+Name The Shadow Grove~
+Desc You are inside the shadow grove. Giant trees seem to glare at you
+from all sides. The shadowy mist obscures most of your vision. Strange
+sounds of moaning and growling come from all directions.
+  All exits lead into shadows, you are very confused.
+~
+Room_flags 8193
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+The shadows cloud your vision.
+~
+~
+-1
+1307
+0
+Exit
+0
+The shadows cloud your vision.
+~
+~
+-1
+1301
+0
+Exit
+1
+The shadows cloud your vision.
+~
+~
+-1
+1305
+0
+Exit
+3
+Dark gates loom in the mist.
+~
+~
+-1
+2201
+0
+EndRoom
+
+#ROOM
+Vnum 1305
+Name The Shadow Grove~
+Desc You are inside the shadow grove. Giant trees seem to glare at you
+from all sides. The shadowy mist obscures most of your vision. Strange
+sounds of moaning and growling come from all directions.
+  All exits lead into shadows, you are very confused.
+~
+Room_flags 8193
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+The shadows cloud your vision.
+~
+~
+-1
+1304
+0
+Exit
+1
+The shadows cloud your vision.
+~
+~
+-1
+1306
+0
+Exit
+0
+The shadows cloud your vision.
+~
+~
+-1
+1302
+0
+Exit
+2
+The shadows cloud your vision.
+~
+~
+-1
+1308
+0
+EndRoom
+
+#ROOM
+Vnum 1306
+Name The Shadow Grove~
+Desc You are inside the shadow grove. Giant trees seem to glare at you
+from all sides. The shadowy mist obscures most of your vision. Strange
+sounds of moaning and growling come from all directions.
+  All exits lead into shadows, you are very confused.
+~
+Room_flags 8193
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+The shadows cloud your vision.
+~
+~
+-1
+1309
+0
+Exit
+3
+The shadows cloud your vision.
+~
+~
+-1
+1305
+0
+Exit
+0
+The shadows cloud your vision.
+~
+~
+-1
+1303
+0
+Exit
+1
+You see a shadowy tavern.
+~
+~
+-1
+9301
+0
+EndRoom
+
+#ROOM
+Vnum 1307
+Name The Shadow Grove~
+Desc You are inside the shadow grove. Giant trees seem to glare at you
+from all sides. The shadowy mist obscures most of your vision. Strange
+sounds of moaning and growling come from all directions.
+  All exits lead into shadows, you are very confused.
+~
+Room_flags 8193
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+The shadows cloud your vision.
+~
+~
+-1
+1301
+0
+Exit
+0
+The shadows cloud your vision.
+~
+~
+-1
+1304
+0
+Exit
+1
+The shadows cloud your vision.
+~
+~
+-1
+1308
+0
+Exit
+3
+The shadows cloud your vision.
+~
+~
+-1
+1309
+0
+EndRoom
+
+#ROOM
+Vnum 1308
+Name The Shadow Grove~
+Desc You are inside the shadow grove. Giant trees seem to glare at you
+from all sides. The shadowy mist obscures most of your vision. Strange
+sounds of moaning and growling come from all directions.
+  All exits lead into shadows, you are very confused.
+~
+Room_flags 8193
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The shadows cloud your vision.
+~
+~
+-1
+1309
+0
+Exit
+3
+The shadows cloud your vision.
+~
+~
+-1
+1307
+0
+Exit
+0
+The shadows cloud your vision.
+~
+~
+-1
+1305
+0
+Exit
+2
+The shadows cloud your vision.
+~
+~
+-1
+1300
+0
+EndRoom
+
+#ROOM
+Vnum 1309
+Name The Shadow Grove~
+Desc You are inside the shadow grove. Giant trees seem to glare at you
+from all sides. The shadowy mist obscures most of your vision. Strange
+sounds of moaning and growling come from all directions.
+  All directions lead into shadows, you are very confused.
+~
+Room_flags 8193
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+The shadows cloud your vision.
+~
+~
+-1
+1308
+0
+Exit
+2
+The shadows cloud your vision.
+~
+~
+-1
+1303
+0
+Exit
+0
+The shadows cloud your vision.
+~
+~
+-1
+1306
+0
+Exit
+1
+The shadows cloud your vision.
+~
+~
+-1
+1307
+0
+EndRoom
+
+#ROOM
+Vnum 1311
+Name A small clearing~
+Desc You are in a small clearing in the shadow grove. There is charred grass
+underfoot, and the signs of fire here and there. It is almost as if the
+plant life shuns this spot. The shadowy mist hovers all around, obscuring
+your view into the grove.
+  A small path leads north to some shadowy structure. All other exits are
+shrouded in shadowy mist.
+~
+Room_flags 1
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You can barely make out some sort of building to the north.
+~
+~
+-1
+1312
+0
+Exit
+2
+The shadows cloud your vision.
+~
+~
+-1
+1302
+0
+EndRoom
+
+#ROOM
+Vnum 1312
+Name Entrance to the High Tower~
+Desc You have reached the entrance to the high tower of sorcery. The
+tower looms above you at an incredible height. It seems to disappear
+into the storm clouds above.
+  A diamond gate is to the north, guarded by a huge golem. The trail
+back south has disappeared behind you.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The diamond gate looks incredibly strong.
+~
+gate diamond~
+-1
+1313
+0
+EndRoom
+
+#ROOM
+Vnum 1313
+Name Inside the High Tower of Sorcerery~
+Desc You are inside the high tower of sorcery. The sight is truly amazing.
+From here, it is obvious that somehow, the tower is much larger on the
+inside than it is on the outside. Young mages walk about, completely
+oblivious to your presence.
+  Exits lead north to the common room, west to the dinning room, east to
+a plain hallway and back south through the gate.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The common room looks quite busy and noisy.
+~
+~
+-1
+1314
+0
+Exit
+1
+~
+~
+-1
+1315
+0
+Exit
+2
+~
+diamond gate~
+-1
+1312
+0
+Exit
+3
+~
+~
+-1
+1316
+0
+EndRoom
+
+#ROOM
+Vnum 1314
+Name Common Room~
+Desc You are in the common room. There are many apprentice warlocks here
+talking and resting, playing games, comparing notes. Obviously they
+are taking a break from their rigorous studies. There are benches,
+tables and a small water fountain here, otherwise the room is quite
+unremarkable.
+  Exits lead off in all directions.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1317
+0
+Exit
+1
+The mages bar can be seen to the east.
+~
+~
+-1
+1318
+0
+Exit
+2
+~
+~
+-1
+1313
+0
+Exit
+3
+~
+~
+-1
+1319
+0
+EndRoom
+
+#ROOM
+Vnum 1315
+Name The Hallway~
+Desc You are in a long hallway, it seems rather unremarkable.
+  The hallway continues east and back west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1330
+0
+Exit
+3
+~
+~
+-1
+1313
+0
+EndRoom
+
+#ROOM
+Vnum 1316
+Name Dining Room~
+Desc You are in the dining area of the student mages. From the number of
+tables and chairs here, you can see that this room could easily seat
+several hundred people. It is oddly deserted here, obviously not meal time.
+  Exits lead west to the kitchen, and back east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1313
+0
+Exit
+3
+~
+door wooden~
+-1
+1320
+AB
+EndRoom
+
+#ROOM
+Vnum 1317
+Name Dark Hallway~
+Desc You are in a dark hallway. It is apparent that this area is seldom
+used by the regular occupants of the tower. Dust covers the floors
+here.
+  The faint outline of a trapdoor can be seen in the dust.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+1314
+0
+Exit
+5
+~
+trapdoor~
+-1
+1321
+AB
+EndRoom
+
+#ROOM
+Vnum 1318
+Name Mages Tavern~
+Desc You are in mages tavern. The air is smokey and filled with the smells
+of foreign food and drink. The other patrons pay you little heed, as
+they obviously have more interesting things to contemplate. Strick the
+bartender is here waiting to take your order.
+  The only exit leads back west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+1314
+0
+EndRoom
+
+#ROOM
+Vnum 1319
+Name The Magic Shop~
+Desc You are in the High Tower's store of magic. Tatorious stands behind
+the counter, selling all sorts of herbs, parchment and other reagents
+used in magical studies.
+  The only exit leads back east to the common room.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1314
+0
+EndRoom
+
+#ROOM
+Vnum 1320
+Name the kitchen~
+Desc You are in a small kitchen. All the usual kitchen type utensils and
+equipment is here, including some not so usual ones. Among the later,
+a huge black oven against one wall, it must be at least 12 feet high.
+Opposite the oven is an equally enormous meat locker, large enough to
+comfortably store several hapless adventurers no doubt. In the middle of
+the room, hanging in mid-air is a spice rack.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+door wooden~
+-1
+1316
+AB
+EndRoom
+
+#ROOM
+Vnum 1321
+Name Below the trapdoor~
+Desc You are below the trapdoor. It is very dark and dusty here, very little
+light filters through from above. A faint sound of dripping water can be
+heard in the distance below.
+  A rope ladder leads down.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+trapdoor~
+-1
+1317
+AB
+Exit
+5
+~
+~
+-1
+1322
+0
+EndRoom
+
+#ROOM
+Vnum 1322
+Name A damp intersection~
+Desc You are in a damp intersection of what seems to be the basement of the
+tower. The sound of running water can be heard coming from the south,
+other than that, an almost tangible stillness fills the air.
+  Passages lead off in all directions, and a ladder leads up.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1323
+0
+Exit
+1
+A faint light can be seen in the distance up the east passage.
+~
+~
+-1
+1324
+0
+Exit
+2
+~
+~
+-1
+1325
+0
+Exit
+3
+~
+~
+-1
+1326
+0
+Exit
+4
+~
+~
+-1
+1321
+0
+EndRoom
+
+#ROOM
+Vnum 1323
+Name A dark passage~
+Desc You are at the end of a dark passage which ends in a stout wooden door.
+Other then through the door, the only apparent exit is back the way you
+came.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+oak door~
+1323
+1327
+ABC
+Exit
+2
+~
+~
+-1
+1322
+0
+EndRoom
+
+#ROOM
+Vnum 1324
+Name A dark passage~
+Desc You are at the end of a dark passage. A half opened door is to the east,
+shedding soft light around the edges. Faint snoring sounds can be heard
+behind the door.
+  Exits lead east through the door, or back west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+door~
+-1
+1328
+A
+Exit
+3
+~
+~
+-1
+1322
+0
+EndRoom
+
+#ROOM
+Vnum 1325
+Name The stagnant pool~
+Desc You are at the edge of a stagnant pool of water. The smell here is quite
+nauseating. This is apparently where the denizens of the tower dispose of
+their garbage. Faint gurgling can be heard from beneath the surface of the
+pool.
+  Exits lead back north, or perhaps for the very adventurous, down into the
+pool.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1322
+0
+Exit
+5
+No light penetrates the gloom of the stagnant pool.
+~
+~
+-1
+1329
+0
+EndRoom
+
+#ROOM
+Vnum 1326
+Name A dark passage~
+Desc You are in a dark passage, which comes to an abrupt stop at what appears
+to be a cave-in to the west. It is certainly unpassable, and perhaps quite
+dangerous just being this close.
+  The only exit leads back east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1322
+0
+EndRoom
+
+#ROOM
+Vnum 1327
+Name A dark cell~
+Desc You are in a dark cell. Straw and dirt cover the floors here, it is
+very dark. Someone, or something seems to be chained to the far wall.
+  The only exit is back south.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+oak door~
+-1
+1323
+ABC
+EndRoom
+
+#ROOM
+Vnum 1328
+Name The Jailor's office~
+Desc You are in the Jailor's office. It is rather messy here. Judging by the
+sleeping form of the Jailor on duty, you can surmise that very few, if any
+prisoners survive long enough to spend much time in these dank dungeons.
+  The only exit leads back west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+door~
+-1
+1324
+A
+EndRoom
+
+#ROOM
+Vnum 1329
+Name Below the stagnant pool~
+Desc As you dive beneath the putrid waters, you feel a strong tug and a whirlpool
+drags you under.  You are sucked into blackness.  You feel your lungs burst
+from lack of oxygen.  Just as you feel your life fading, you notice a change in
+direction ... and are sucked under by a rip tide.
+~
+Room_flags 13
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 1330
+Name The hallway~
+Desc You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door wooden~
+-1
+1332
+AB
+Exit
+1
+~
+~
+-1
+1331
+0
+Exit
+2
+~
+door wooden~
+-1
+1333
+AB
+Exit
+3
+~
+~
+-1
+1315
+0
+EndRoom
+
+#ROOM
+Vnum 1331
+Name A bend in the hallway~
+Desc You are at a bend in the hallway. The walls emit a faint magical glow
+which provides enough light to see by.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door wooden~
+-1
+1334
+AB
+Exit
+1
+~
+door wooden~
+-1
+1336
+AB
+Exit
+2
+~
+door wooden~
+-1
+1335
+AB
+Exit
+3
+~
+~
+-1
+1330
+0
+EndRoom
+
+#ROOM
+Vnum 1332
+Name A store room~
+Desc You are in a small store room. Assorted junk is piled on shelves or
+leaning against walls.
+  The only apparent exit it back south.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+door wooden~
+-1
+1330
+AB
+EndRoom
+
+#ROOM
+Vnum 1333
+Name A broom closet~
+Desc You are in a dark broom closet. Many straw brooms and other cleaning
+instruments have been left here, apparently unused (perhaps the maid quit?).
+  The only exit leads back north to the hallway.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door wooden~
+-1
+1330
+AB
+EndRoom
+
+#ROOM
+Vnum 1334
+Name A hallway~
+Desc You are in a long hallway leading north and south. The walls emit a
+faint magical glow which provides enough light to see by.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+walls wall~
+The walls shed a warm light
+~
+Exit
+0
+~
+~
+-1
+1338
+0
+Exit
+1
+~
+door wooden~
+-1
+1337
+AB
+Exit
+2
+~
+door wooden~
+-1
+1331
+AB
+EndRoom
+
+#ROOM
+Vnum 1335
+Name Guardians chamber~
+Desc You are in the chamber of the tower guardians. It is rather sparsely
+furnished, but then again the odd occupants don't look to need furniture.
+Here and there a disembodied pair of hands or eyes flits about.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door wooden~
+-1
+1331
+AB
+EndRoom
+
+#ROOM
+Vnum 1336
+Name A guest bedroom~
+Desc You are in a small guest bedroom. A small cot is in one corner, and a
+dusty mirror on one wall, other than that the room looks quite bare, and
+unused.
+  The only apparent exit leads back west to the hallway.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+mirror~
+Why, someone seems to be looking back at you from the other side!
+~
+Exit
+3
+~
+door wooden~
+-1
+1331
+AB
+EndRoom
+
+#ROOM
+Vnum 1337
+Name A guest bedroom~
+Desc You are in a comfortable looking bedroom. A small globe of magical energy
+floats overhead, providing light. A small cot is in one corner looking
+ever so comfortable, so comfortable in fact ...someone is sleeping in it.
+  The only apparent exit leads back west to the hallway.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+door wooden~
+-1
+1334
+AB
+EndRoom
+
+#ROOM
+Vnum 1338
+Name A hallway~
+Desc You are in a long hallway leading from the south. The walls emit a faint
+magical glow which provides enough light to see by.
+  Stairs lead up to the next level and the hallway leads back south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+door wooden~
+-1
+1339
+AB
+Exit
+2
+~
+~
+-1
+1334
+0
+Exit
+4
+~
+~
+-1
+1340
+0
+EndRoom
+
+#ROOM
+Vnum 1339
+Name The burnt room~
+Desc You are in what looks to have once been a guest bed room. The walls are
+blackened and burnt by what you could only imagine to be magical fire.
+There is no sign of the previous occupant, undoubtedly he left in a hurry.
+  The only exit leads back west to the hallway.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+door charred~
+-1
+1338
+AB
+EndRoom
+
+#ROOM
+Vnum 1340
+Name A hallway~
+Desc You are in a long hallway leading west from here. The walls emit a faint
+magical glow which provides enough light to see by. Some faint moonlight
+can be seen in the culdesac to the east.
+  The hallway continues west and stairs lead down to the level below.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door oak~
+-1
+1342
+AB
+Exit
+1
+Faint moonlight can be seen to the east
+~
+~
+-1
+1341
+0
+Exit
+3
+~
+~
+-1
+1343
+0
+Exit
+5
+~
+~
+-1
+1338
+0
+EndRoom
+
+#ROOM
+Vnum 1341
+Name A culdesac~
+Desc You are in a small culdesac. A window to the east is letting in moonlight
+and a pleasant breeze. Through it, the surrounding country side can be seen.
+  The only apparent exit leads back west to the hallway.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+window east~
+Stretching out as far as the eye can see is a canopy of dark tree tops
+which can only be the Haon-Dor-Dark Forest. A faint light in the distance
+to the northeast marks what is probably the city of midgaard.
+~
+Exit
+3
+~
+~
+-1
+1340
+0
+EndRoom
+
+#ROOM
+Vnum 1342
+Name The Apprentice's Barracks~
+Desc You are in the barracks of the apprentice magic users. Here and there, a
+young apprentice sits engrossed in magical study, or practicing a feeble
+cantrip. Cots line the walls, and the room continues west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+door oak~
+-1
+1340
+AB
+Exit
+3
+~
+~
+-1
+1344
+0
+EndRoom
+
+#ROOM
+Vnum 1343
+Name A hallway~
+Desc You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.
+  There is a door to the north, and the hallway continues west or back east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door oak~
+-1
+1344
+AB
+Exit
+1
+~
+~
+-1
+1340
+0
+Exit
+3
+~
+~
+-1
+1345
+0
+EndRoom
+
+#ROOM
+Vnum 1344
+Name The Apprentice's barracks~
+Desc You are in the barracks of the apprentice magic users. Here and there, a
+young apprentice sits engrossed in magical study, or practicing a feeble
+cantrip. Cots line the walls, and the room continues east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1342
+0
+Exit
+2
+~
+door oak~
+-1
+1343
+AB
+EndRoom
+
+#ROOM
+Vnum 1345
+Name A hallway~
+Desc You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by. Flashes of light can
+be seen under the doorway to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+A flash of blue light momentarily lights up the doors outline
+~
+door oak~
+-1
+1346
+AB
+Exit
+1
+~
+~
+-1
+1343
+0
+Exit
+3
+~
+~
+-1
+1347
+0
+EndRoom
+
+#ROOM
+Vnum 1346
+Name The apprentice's workshop~
+Desc You are in a small workshop. Writing implements and parchment are strewn
+about on a few worktables. In the far corner several young mages have a
+small kitten cornered and seem to be testing spells upon it.
+  The only apparent exit leads back south to the hallway.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+door oak~
+-1
+1345
+AB
+EndRoom
+
+#ROOM
+Vnum 1347
+Name A bend in the hallway~
+Desc You are at a bend in the hallway. The walls emit a faint magical glow
+which provides enough light to see by.
+  The hallway continues south and back east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1345
+0
+Exit
+2
+~
+~
+-1
+1348
+0
+EndRoom
+
+#ROOM
+Vnum 1348
+Name The hallway~
+Desc You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+  There is a closed metal door to the west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1347
+0
+Exit
+2
+~
+~
+-1
+1350
+0
+Exit
+3
+~
+door metal~
+-1
+1349
+AB
+EndRoom
+
+#ROOM
+Vnum 1349
+Name A classroom~
+Desc You are in a large classroom filled with bored looking students of the
+art. The instructor stops in his lecture on the fine uses of magic missile
+at your entry and lunges to attack you.
+  The only apparent exit is back east to the hallway.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+door metal~
+-1
+1348
+AB
+EndRoom
+
+#ROOM
+Vnum 1350
+Name A hallway~
+Desc You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1348
+0
+Exit
+2
+~
+~
+-1
+1351
+0
+Exit
+3
+~
+door metal~
+-1
+1352
+AB
+EndRoom
+
+#ROOM
+Vnum 1351
+Name A hallway~
+Desc You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1350
+0
+Exit
+2
+~
+~
+-1
+1353
+0
+Exit
+3
+~
+door metal~
+-1
+1354
+AB
+EndRoom
+
+#ROOM
+Vnum 1352
+Name An empty classroom~
+Desc You are in an empty classroom. Some strange sigils are written on a
+blackboard which is floating in the air here. Other than a few desks,
+it is bare of furnishings.
+  The only apparent exit leads back east to the hallway.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+door metal~
+-1
+1350
+AB
+EndRoom
+
+#ROOM
+Vnum 1353
+Name A bend in the hallway~
+Desc You are at a bend in the hallway. The walls emit a faint magical glow
+which provides enough light to see by.
+  The hallway continues east and north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1351
+0
+Exit
+1
+~
+~
+-1
+1355
+0
+EndRoom
+
+#ROOM
+Vnum 1354
+Name An empty classroom~
+Desc You are in an apparently empty classroom. A strange feeling of being
+watched comes over you, and you hear the faint rustle of robes.
+  The only apparent exit is back east to the hallway.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+door metal~
+-1
+1351
+AB
+EndRoom
+
+#ROOM
+Vnum 1355
+Name A hallway~
+Desc You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.
+  A sturdy iron door can be seen to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1356
+0
+Exit
+2
+~
+door sturdy iron~
+-1
+1357
+AB
+Exit
+3
+~
+~
+-1
+1353
+0
+EndRoom
+
+#ROOM
+Vnum 1356
+Name A hallway~
+Desc You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.
+  There is a large oaken door to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1358
+0
+Exit
+2
+~
+door large oaken~
+-1
+1359
+AB
+Exit
+3
+~
+~
+-1
+1355
+0
+EndRoom
+
+#ROOM
+Vnum 1357
+Name The Amphitheater~
+Desc You are in a small amphitheater. Rows of comfortable looking chairs circle
+a large podium. The echos of your footsteps seem very loud here.
+  The only apparent exit leads north to the hallway.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door sturdy iron~
+-1
+1355
+AB
+EndRoom
+
+#ROOM
+Vnum 1358
+Name A hallway~
+Desc You are in a long hallway leading east and west. The walls emit a faint
+magical glow providing enough light to see by.
+  A small door can be seen to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1360
+0
+Exit
+2
+~
+door small~
+-1
+1361
+AB
+Exit
+3
+~
+~
+-1
+1356
+0
+EndRoom
+
+#ROOM
+Vnum 1359
+Name The training room~
+Desc You are in a large training room. It is filled with battle scared manikins
+, and many other devices used in the practice of fighting.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door~
+-1
+1356
+AB
+EndRoom
+
+#ROOM
+Vnum 1360
+Name A bend in the hallway~
+Desc You are at a bend in the hallway. The walls emit a faint magical glow
+which provides enough light to see by.
+  The hallway continues north and west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1362
+0
+Exit
+3
+~
+~
+-1
+1358
+0
+EndRoom
+
+#ROOM
+Vnum 1361
+Name A dueling room~
+Desc You are in a large room used for duals arcane. The walls, ceiling and
+floor all bare the scars of many fiery spells, but still look quite strong
+and hold fast.
+  The only exit leads north to the hallway.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door small~
+-1
+1358
+AB
+EndRoom
+
+#ROOM
+Vnum 1362
+Name A hallway~
+Desc You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+  A doorway can be seen to the east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1363
+0
+Exit
+1
+~
+door~
+-1
+1364
+AB
+Exit
+2
+~
+~
+-1
+1360
+0
+EndRoom
+
+#ROOM
+Vnum 1363
+Name A hallway~
+Desc You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+  A wooden door can been seen to the east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1366
+0
+Exit
+1
+~
+door wooden~
+-1
+1365
+AB
+Exit
+2
+~
+~
+-1
+1362
+0
+EndRoom
+
+#ROOM
+Vnum 1364
+Name The spellmaster's lounge~
+Desc You are in a large comfortable looking lounge. Off duty spell teachers
+are here relaxing in their idle time. A large coffee machine is against
+the far wall.
+  The only apparent exit leads back west to the hallway.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+door wooden~
+-1
+1362
+AB
+EndRoom
+
+#ROOM
+Vnum 1365
+Name A bedroom~
+Desc You are in a large, plush bedroom. The owner is obviously someone of high
+standing in the magical community here. An ice mirror is on one wall, and
+a scrying globe sit on a stand in the middle of the room. An enormous bed
+can be seen floating about a meter above the floor.
+  The only exit leads back west to the hallway.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+door wooden~
+-1
+1363
+AB
+EndRoom
+
+#ROOM
+Vnum 1366
+Name A hallway~
+Desc You are in a long hallway leading north and south. The walls emit a faint
+magical glow providing enough light to see by.
+  A glass door can be seen to the east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1368
+0
+Exit
+1
+~
+door glass~
+-1
+1367
+AB
+Exit
+2
+~
+~
+-1
+1363
+0
+EndRoom
+
+#ROOM
+Vnum 1367
+Name The study~
+Desc You are in a small, well kept study. Ancient tomes are on shelves on the
+walls, A huge table sits in the middle of the room, with maps weighted
+down upon it. The only light source here comes from an interestingly non-
+magical oil lamp.
+  The only apparent exit leads back west to the hallway.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+door glass~
+-1
+1366
+AB
+EndRoom
+
+#ROOM
+Vnum 1368
+Name Below the stairs~
+Desc You are at the end of a long hallway. The walls emit a faint magical glow
+which provides enough light to see by. A lesser guardian is here keeping
+silent watch on the entrance to the levels above.
+  Stairs lead up and the hallway continues back south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+1366
+0
+Exit
+4
+~
+~
+-1
+1369
+0
+EndRoom
+
+#ROOM
+Vnum 1369
+Name Atop the stairway~
+Desc You are atop a stairway. The halls here look quite a bit less used than
+those below. Obviously access to these magic filled corridors is limited
+to those of the upper echelon of mages. The walls here emit a faint blue
+magical aura which provides some light.
+  The hallway leads west from here and the stairs go down.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+1370
+0
+Exit
+5
+~
+~
+-1
+1368
+0
+EndRoom
+
+#ROOM
+Vnum 1370
+Name A hallway~
+Desc You are in a long hallway stretching east and west. The walls here emit
+a faint magical energy providing enough light to see by.
+  There is a thick looking wooden door to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door wooden~
+-1
+1371
+AB
+Exit
+1
+~
+~
+-1
+1369
+0
+Exit
+3
+~
+~
+-1
+1372
+0
+EndRoom
+
+#ROOM
+Vnum 1371
+Name A small office~
+Desc You are in a small office. It looks like a calligrapher's study, there
+are quills, inkpots and parchments all about on desks and worktables.
+A section to the west seems to be curtained off, but the flicker of a
+candle can be seen through the curtain.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+door wooden~
+-1
+1370
+AB
+Exit
+3
+~
+curtain~
+-1
+1373
+AB
+EndRoom
+
+#ROOM
+Vnum 1372
+Name A hallway~
+Desc You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1370
+0
+Exit
+3
+~
+~
+-1
+1374
+0
+EndRoom
+
+#ROOM
+Vnum 1373
+Name The master scribe's workshop~
+Desc You are in the workshop of the tower's master scribe. Many half finished
+scrolls lay on the writing table in the center of the room. A giant candle
+flickering with soft blue flames provides the only light here.
+  The only apparent exit is the way you came in.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+curtain~
+-1
+1371
+AB
+EndRoom
+
+#ROOM
+Vnum 1374
+Name A hallway~
+Desc You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.
+  A half closed door can be seen to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+A dark room can be seen through the half opened door
+~
+door wooden~
+-1
+1375
+AB
+Exit
+1
+~
+~
+-1
+1372
+0
+Exit
+3
+~
+~
+-1
+1376
+0
+EndRoom
+
+#ROOM
+Vnum 1375
+Name A store room~
+Desc You are in a small dark store room. A few common items are stacked upon
+the shelves here, but very little looks interesting.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+door wooden~
+-1
+1374
+AB
+EndRoom
+
+#ROOM
+Vnum 1376
+Name A bend in the hallway~
+Desc You are at a bend in the long hallway. The walls emit a faint magical
+glow which provides enough light to see by.
+  The hallway continues south and east from here.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1374
+0
+Exit
+2
+~
+~
+-1
+1377
+0
+EndRoom
+
+#ROOM
+Vnum 1377
+Name A hallway~
+Desc You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+  An iron bound door can be seen to the west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1376
+0
+Exit
+2
+~
+~
+-1
+1378
+0
+Exit
+3
+~
+door iron~
+-1
+1379
+AB
+EndRoom
+
+#ROOM
+Vnum 1378
+Name A hallway~
+Desc You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+  The sharp sound of metal on metal can be heard to the west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1377
+0
+Exit
+2
+~
+~
+-1
+1380
+0
+Exit
+3
+~
+door iron~
+-1
+1381
+AB
+EndRoom
+
+#ROOM
+Vnum 1379
+Name A store room~
+Desc You are in a large store room. Bins of ores, minerals and other rare
+materials are here along with many neatly stacked piles of precious metals.
+A large cabinet with sigils of warding is bolted to one wall.
+  The ring of metal on metal can be heard to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+door iron~
+-1
+1377
+AB
+Exit
+2
+~
+~
+-1
+1381
+0
+EndRoom
+
+#ROOM
+Vnum 1380
+Name A hallway~
+Desc You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1378
+0
+Exit
+2
+~
+~
+-1
+1383
+0
+EndRoom
+
+#ROOM
+Vnum 1381
+Name A very hot room~
+Desc You are in a very hot room. Against one wall is a large forge, magical
+fires crackle within and heavy blue smoke pours into a vent in the ceiling.
+A rune-encrusted mithril anvil is in the center of the room, looking well
+used. Other tools of metallurgy hang on a rack which floats about three
+meters in the air of its own force.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1379
+A
+Exit
+1
+~
+door iron~
+-1
+1378
+AB
+Exit
+2
+~
+door ~
+-1
+1382
+AB
+Exit
+4
+~
+vent~
+-1
+1412
+AB
+EndRoom
+
+#ROOM
+Vnum 1382
+Name The master Enchanter's chamber~
+Desc You have entered the master enchanter's chamber. Upon all the walls here
+are racks of finely crafted weapons. A huge chest with a glowing lock is
+set to one side. Several unfinished looking blades rest atop a small work
+table.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door~
+-1
+1381
+AB
+EndRoom
+
+#ROOM
+Vnum 1383
+Name A bend in the hallway~
+Desc You are at a bend in a long hallway. The walls emit a faint magical glow
+which provides enough light to see by.
+  The hallway continues north and east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1380
+0
+Exit
+1
+~
+~
+-1
+1384
+0
+EndRoom
+
+#ROOM
+Vnum 1384
+Name A hallway~
+Desc You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.
+  A steel door can be seen to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1385
+0
+Exit
+2
+~
+door steel~
+-1
+1386
+AB
+Exit
+3
+~
+~
+-1
+1383
+0
+EndRoom
+
+#ROOM
+Vnum 1385
+Name A hallway~
+Desc You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1387
+0
+Exit
+3
+~
+~
+-1
+1384
+0
+EndRoom
+
+#ROOM
+Vnum 1386
+Name A laboratory~
+Desc You are in a small laboratory. Many strange instruments, vials, bottles
+and some scrawled notes are piled about a workbench. This room is very
+untidy, looking almost abandoned, or used by a madman.
+  The only apparent exits are east and north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door steel~
+-1
+1384
+AB
+Exit
+1
+~
+~
+-1
+1388
+0
+EndRoom
+
+#ROOM
+Vnum 1387
+Name A hallway~
+Desc You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.
+  You can see a steel door to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1389
+0
+Exit
+2
+~
+door steel~
+-1
+1390
+AB
+Exit
+3
+~
+~
+-1
+1385
+0
+EndRoom
+
+#ROOM
+Vnum 1388
+Name The Mad Alchemist's workroom~
+Desc You are in the workroom of The Mad Alchemist. Bubbling braziers, long
+glass tubes and scores of oddly shaped vials and bottles are everywhere.
+It is incredibly messy here, crushed glass and other trash litter the floor.
+  The only apparent exit is the one you entered by.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+1386
+0
+EndRoom
+
+#ROOM
+Vnum 1389
+Name A bend in the hallway~
+Desc You are at a bend in a long hallway. The walls emit a faint magical glow
+which provides enough light to see by.
+  The hallway continues north and west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1391
+0
+Exit
+3
+~
+~
+-1
+1387
+0
+EndRoom
+
+#ROOM
+Vnum 1390
+Name The pentagram chamber~
+Desc You are in a large room with a five pointed star etched into the floor.
+A crackling energy field can be seen to the south, it looks quite dangerous.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door steel~
+-1
+1387
+AB
+Exit
+2
+The energy field crackles and glows, nothing seems to be beyond.
+~
+~
+-1
+1392
+0
+EndRoom
+
+#ROOM
+Vnum 1391
+Name A hallway~
+Desc You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+  A bronze door can be seen to the east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1393
+0
+Exit
+1
+~
+door bronze~
+-1
+1394
+AB
+Exit
+2
+~
+~
+-1
+1389
+0
+EndRoom
+
+#ROOM
+Vnum 1392
+Name Inside the Energy Field~
+Desc You feel a stomach twisting sensation as you enter the energy field.
+Nice going!  You might as well wait here until the wizard who built this
+trap comes back to imprison your soul as well as your body.
+~
+Room_flags 8200
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+9141
+0
+Exit
+5
+~
+~
+0
+3460
+0
+Exit
+1
+~
+~
+0
+5113
+0
+Exit
+3
+~
+~
+0
+7428
+0
+Exit
+4
+~
+~
+0
+938
+0
+EndRoom
+
+#ROOM
+Vnum 1393
+Name A hallway~
+Desc You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+  A bronze door can be seen to the east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1396
+0
+Exit
+1
+~
+door bronze~
+-1
+1395
+A
+Exit
+2
+~
+~
+-1
+1391
+0
+EndRoom
+
+#ROOM
+Vnum 1394
+Name An empty room~
+Desc You are in an empty room. It is both quiet and comfortable here, it looks
+like a safe place to rest.
+~
+Room_flags 12
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+door bronze~
+-1
+1391
+AB
+EndRoom
+
+#ROOM
+Vnum 1395
+Name The charm master's chamber~
+Desc You are in the chambers of the tower's master of charm. Some straw and
+dirt litters the floor here, it looks to have been recently used by wild
+animals.
+  Strange sounds can be heard through the bars to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+cage bars~
+-1
+1397
+AB
+Exit
+3
+~
+door bronze~
+-1
+1393
+AB
+EndRoom
+
+#ROOM
+Vnum 1396
+Name A hallway~
+Desc You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1398
+0
+Exit
+2
+~
+~
+-1
+1393
+0
+EndRoom
+
+#ROOM
+Vnum 1397
+Name The animal pens~
+Desc You are in the animal pens. Many caged animals are here looking unhappy.
+Obviously they are destined to be enslaved, or used in some cruel magical
+experimentation.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+cage bars~
+-1
+1395
+AB
+EndRoom
+
+#ROOM
+Vnum 1398
+Name The end of the hallway~
+Desc You are at the end of a long north-south hallway. The walls emit a faint
+magical glow which provides enough light to see by.
+  Stairs here lead up to the next level, and the hallway continues south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+1396
+0
+Exit
+4
+~
+~
+-1
+1399
+0
+EndRoom
+
+#ROOM
+Vnum 1399
+Name Atop the stairway~
+Desc You are atop the stairway to the upper levels of the high tower. The walls
+emit a faint magical glow which provides enough light to see by.
+  A hallway leads west from here, and the stairs lead down.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+1400
+0
+Exit
+5
+~
+~
+-1
+1398
+0
+EndRoom
+
+#ROOM
+Vnum 1400
+Name A hallway~
+Desc You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.
+  A silver door can be seen to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door silver~
+-1
+1401
+AB
+Exit
+1
+~
+~
+-1
+1399
+0
+Exit
+3
+~
+~
+-1
+1404
+0
+EndRoom
+
+#ROOM
+Vnum 1401
+Name A store room~
+Desc You are in a large store room. Raw materials are neatly bundled and piled
+here and here. Many freshly cut staves rods and wands of different sizes
+are here.
+  You can see a silver door to the west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+door silver~
+-1
+1400
+AB
+Exit
+3
+~
+door silver~
+-1
+1402
+AB
+EndRoom
+
+#ROOM
+Vnum 1402
+Name The master spellbinder's chamber~
+Desc You are in the chambers of the master spell binder. Unlike other work
+shops of similar nature, this one is without furnishings or tools. The
+spell binder obviously needs none for the working of his art.
+  A silver door can be seen to the west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+door silver~
+-1
+1401
+AB
+Exit
+3
+~
+door silver~
+-1
+1403
+AB
+EndRoom
+
+#ROOM
+Vnum 1403
+Name The spellbinder's cache~
+Desc You have discovered the cache of the master spell binder. There are two
+very large silver chased cabinets here, other than that, the room is bare.
+  A silver door can be seen to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+door silver~
+-1
+1402
+AB
+Exit
+2
+~
+door silver~
+-1
+1405
+AB
+EndRoom
+
+#ROOM
+Vnum 1404
+Name A hallway~
+Desc You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1400
+0
+Exit
+3
+~
+~
+-1
+1405
+0
+EndRoom
+
+#ROOM
+Vnum 1405
+Name A hallway~
+Desc You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.
+  A silver door can be seen to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door silver~
+-1
+1403
+AB
+Exit
+1
+~
+~
+-1
+1404
+0
+Exit
+3
+~
+~
+-1
+1406
+0
+EndRoom
+
+#ROOM
+Vnum 1406
+Name A bend in the hallway~
+Desc You are at a bend in the long hallway. The walls emit a faint magical
+glow which provides enough light to see by.
+  The hallway continues east and south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1405
+0
+Exit
+2
+~
+~
+-1
+1407
+0
+EndRoom
+
+#ROOM
+Vnum 1407
+Name A hallway~
+Desc You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1406
+0
+Exit
+2
+~
+~
+-1
+1408
+0
+EndRoom
+
+#ROOM
+Vnum 1408
+Name A hallway~
+Desc You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+  A rusty old door can be seen to the west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1407
+0
+Exit
+2
+~
+~
+-1
+1413
+0
+Exit
+3
+~
+door rusty~
+-1
+1409
+AB
+EndRoom
+
+#ROOM
+Vnum 1409
+Name The golem master's workshop~
+Desc You are in the golem master's workshop. A few unfinished looking humanoid
+forms of different make are here, some moving, some not. The animated forms
+lunge to attack you.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1410
+0
+Exit
+1
+~
+door rusty~
+-1
+1408
+AB
+Exit
+2
+~
+~
+-1
+1411
+0
+Exit
+5
+~
+trapdoor~
+-1
+1412
+AB
+EndRoom
+
+#ROOM
+Vnum 1410
+Name A store room~
+Desc You are in a small store room. Large chunks of clay, stone, wood and many
+other raw materials are here.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+1409
+0
+EndRoom
+
+#ROOM
+Vnum 1411
+Name The golem chamber~
+Desc You are in the golem chamber. Golems made of every imaginable material
+are here, ranging in size from a hand-span to nearly the ceiling. They all
+seem to be sleeping.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1409
+0
+EndRoom
+
+#ROOM
+Vnum 1412
+Name It is very dark here...~
+Desc It is very dark here...
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+trapdoor~
+-1
+1409
+AB
+Exit
+5
+~
+vent~
+-1
+1381
+AB
+EndRoom
+
+#ROOM
+Vnum 1413
+Name A hallway~
+Desc You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1408
+0
+Exit
+2
+~
+~
+-1
+1414
+0
+EndRoom
+
+#ROOM
+Vnum 1414
+Name A bend in the hallway~
+Desc You are at a bend in the long hallway. The walls emit a faint magical
+glow which provides enough light to see by.
+  The hallway continues north and east from here.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1413
+0
+Exit
+1
+~
+~
+-1
+1415
+0
+EndRoom
+
+#ROOM
+Vnum 1415
+Name A hallway~
+Desc You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1416
+0
+Exit
+3
+~
+~
+-1
+1414
+0
+EndRoom
+
+#ROOM
+Vnum 1416
+Name A hallway~
+Desc You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.
+  An emerald door can be seen to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1419
+0
+Exit
+2
+~
+door emerald~
+-1
+1417
+AB
+Exit
+3
+~
+~
+-1
+1415
+0
+EndRoom
+
+#ROOM
+Vnum 1417
+Name The master of illusion's chamber~
+Desc You are in the chamber of the master of illusions. The walls here are
+ever-changing in color and texture, as if they were reforming before your
+very eyes. Many splendorous treasures lie all around in heaps and piles, or
+at least they seem to be treasures...
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door emerald~
+-1
+1416
+AB
+Exit
+3
+~
+~
+-1
+1418
+0
+EndRoom
+
+#ROOM
+Vnum 1418
+Name A bedroom~
+Desc You are in the bedroom of the master of illusions. Strange looking items
+and artifacts float here and there in the air. The ripples of strong magic
+can be felt everywhere.
+  The room seems much larger than it looks...
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1417
+0
+EndRoom
+
+#ROOM
+Vnum 1419
+Name A hallway~
+Desc You are in a long hallway leading east and west. The walls emit a faint
+magical glow which provides enough light to see by.
+  A glass door can be seen to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1421
+0
+Exit
+2
+~
+door glass~
+-1
+1420
+AB
+Exit
+3
+~
+~
+-1
+1416
+0
+EndRoom
+
+#ROOM
+Vnum 1420
+Name The meditation chamber~
+Desc You are in a meditation chamber. It is very silent here, in fact you
+can not even hear your own footsteps.
+  You feel very peaceful.
+~
+Room_flags 524
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door glass~
+-1
+1419
+AB
+EndRoom
+
+#ROOM
+Vnum 1421
+Name A bend in the hallway~
+Desc You are at a bend in the long hallway. The walls emit a faint magical
+glow which provides enough light to see by.
+  The hallway continues north and west from here.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1422
+0
+Exit
+3
+~
+~
+-1
+1419
+0
+EndRoom
+
+#ROOM
+Vnum 1422
+Name A hallway~
+Desc You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+  A blackened door can be seen to the east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1426
+0
+Exit
+1
+~
+door black~
+-1
+1423
+AB
+Exit
+2
+~
+~
+-1
+1421
+0
+EndRoom
+
+#ROOM
+Vnum 1423
+Name A dark room~
+Desc You are in a large dark room. The air here seems quite stale, and a sense
+of extreme dread comes over you. The stench of rotten flesh seems to be
+wafting in from the open doorway to the north.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1424
+0
+Exit
+3
+~
+door black~
+-1
+1422
+AB
+EndRoom
+
+#ROOM
+Vnum 1424
+Name A dark room~
+Desc You are in a large dark room. The stench here makes you gag and wretch.
+There are body parts and half rotted corpses strewn about with complete
+abandon. Several operating tables with still forms that resemble nothing
+you've ever seen alive are here.
+  Tortured screams can be heard from the north.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Upon gazing northwards, you are filled with deep dread
+~
+~
+-1
+1425
+0
+Exit
+2
+~
+~
+-1
+1423
+0
+EndRoom
+
+#ROOM
+Vnum 1425
+Name The Necromancer's Lair~
+Desc You are in the lair of the evil Necromancer. Undead minions of all types,
+human and otherwise stand here waiting to do their master's bidding. Some
+glowing arcane sigils have been etched into walls and floor, no doubt to
+protect the evil master from his own ungodly creations.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+1424
+0
+EndRoom
+
+#ROOM
+Vnum 1426
+Name A hallway~
+Desc You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1427
+0
+Exit
+2
+~
+~
+-1
+1422
+0
+EndRoom
+
+#ROOM
+Vnum 1427
+Name A hallway~
+Desc You are in a long hallway leading north and south. The walls emit a faint
+magical glow which provides enough light to see by.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1428
+0
+Exit
+2
+~
+~
+-1
+1426
+0
+EndRoom
+
+#ROOM
+Vnum 1428
+Name The end of the hallway~
+Desc You are at the end of a long hallway. The walls here glow with a faint
+magical energy which provides plenty of light.
+  Stairs lead up to the next level here and the hallway continues south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+1427
+0
+Exit
+4
+~
+~
+-1
+1429
+0
+EndRoom
+
+#ROOM
+Vnum 1429
+Name A corridor~
+Desc You are at the east end of a long corridor. Obsidian walls engraved with
+ancient runes of power stretch out before you. Magical energies seem to
+crackle with power all around and whisper in tongues long forgotten, almost
+as if the corridor it self were alive.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+1430
+0
+Exit
+5
+~
+~
+-1
+1428
+0
+EndRoom
+
+#ROOM
+Vnum 1430
+Name A corridor~
+Desc You are in a long corridor. Obsidian walls engraved with ancient runes
+of power stretch out before you. Magical energies seem to crackle with
+power all around and whisper in tongues long forgotten, almost as if the
+corridor itself were alive.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1429
+0
+Exit
+3
+~
+~
+-1
+1431
+0
+EndRoom
+
+#ROOM
+Vnum 1431
+Name A bend in the corridor~
+Desc You are at a bend in the long corridor. Obsidian walls engraved with
+ancient runes of power stretch out before you. Magical energies seem to
+crackle with power all around and whisper in tongues long forgotten, almost
+as if the corridor itself were alive.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1430
+0
+Exit
+2
+~
+~
+-1
+1432
+0
+EndRoom
+
+#ROOM
+Vnum 1432
+Name A corridor~
+Desc You are in a long corridor leading north and south. Obsidian walls
+engraved with ancient runes of power stretch out before you. Magical
+energies seem to crackle with power all around and whisper in tongues
+long forgotten, almost as if the corridor itself were alive.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1431
+0
+Exit
+2
+~
+~
+-1
+1433
+0
+EndRoom
+
+#ROOM
+Vnum 1433
+Name An intersection~
+Desc You are at an intersection in the corridor. The obsidian walled halls
+lead off in every direction from here, pulsing with the power of their
+ancient runes.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1432
+0
+Exit
+1
+~
+~
+-1
+1434
+0
+Exit
+2
+~
+~
+-1
+1446
+0
+Exit
+3
+~
+~
+-1
+1436
+0
+EndRoom
+
+#ROOM
+Vnum 1434
+Name A corridor~
+Desc You are at the end of a long corridor. Obsidian walls engraved with
+ancient runes of power stretch out before you. A darkened door is to the
+east. Tendrils of mist cling to the floor here, they seem to be seeping
+from under the door.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+door black~
+-1
+1435
+AB
+Exit
+3
+~
+~
+-1
+1433
+0
+EndRoom
+
+#ROOM
+Vnum 1435
+Name The scrying chamber~
+Desc You are in the scrying chamber of the high tower of sorcerery. It is here
+that arcane rituals are performed to enable those of the art to look in
+upon denizens throughout the world and spy out their darkest secrets.
+  A huge black cauldron is in the center of the room, bubbling and gurgling,
+it pours forth a constant stream of smokey fog into the air about you. Here
+and there on stands of different sizes are crystal balls and oddly shaped
+mirrors.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+door black~
+-1
+1434
+AB
+EndRoom
+
+#ROOM
+Vnum 1436
+Name A corridor~
+Desc You have reached an end in the long corridor. Obsidian walls engraved
+with ancient runes of power stretch out before you. The sound of snoring
+can barely be heard through the door to the west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1433
+0
+Exit
+3
+~
+door wooden~
+-1
+1437
+A
+EndRoom
+
+#ROOM
+Vnum 1437
+Name The entrance to the library~
+Desc You are in the entrance to the great library of magic. A giant desk is
+here, covered with books parchments and scrolls. Long shelves loaded with
+row upon row of books stretch out in every direction as far as the eye can
+see.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1439
+0
+Exit
+1
+~
+~
+-1
+1436
+0
+Exit
+2
+All you can see are books
+~
+~
+-1
+1440
+0
+Exit
+3
+All you can see are books
+~
+~
+-1
+1438
+0
+EndRoom
+
+#ROOM
+Vnum 1438
+Name In the library~
+Desc You are in the great library of magic. A strong musty smell permeates the
+entire area. Upon shelves which float just out of reach are hundreds of
+books, tomes and scrolls of every possible shape size and color. The elusive
+books seem to wink in and out of existence before your untrained eyes.
+  It is very quiet here.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1441
+0
+Exit
+1
+~
+~
+-1
+1437
+0
+Exit
+2
+~
+~
+-1
+1442
+0
+Exit
+3
+~
+~
+-1
+1443
+0
+EndRoom
+
+#ROOM
+Vnum 1439
+Name In the library~
+Desc You are in the great library of magic. A strong musty smell permeates the
+entire area. Upon shelves which float just out of reach are hundreds of
+books, tomes and scrolls of every possible shape size and color. The elusive
+books seem to wink in and out of existence before your untrained eyes.
+  It is very quiet here.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1440
+0
+Exit
+1
+~
+~
+-1
+1442
+0
+Exit
+2
+~
+~
+-1
+1437
+0
+Exit
+3
+~
+~
+-1
+1441
+0
+EndRoom
+
+#ROOM
+Vnum 1440
+Name In the library~
+Desc You are in the great library of magic. A strong musty smell permeates the
+entire area. Upon shelves which float just out of reach are hundreds of
+books, tomes and scrolls of every possible shape size and color. The elusive
+books seem to wink in and out of existence before your untrained eyes.
+  It is very quiet here.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1437
+0
+Exit
+1
+~
+~
+-1
+1441
+0
+Exit
+2
+~
+~
+-1
+1439
+0
+Exit
+3
+~
+~
+-1
+1442
+0
+EndRoom
+
+#ROOM
+Vnum 1441
+Name In the library~
+Desc You are in the great library of magic. A strong musty smell permeates the
+entire area. Upon shelves which float just out of reach are hundreds of
+books, tomes and scrolls of every possible shape size and color. The elusive
+books seem to wink in and out of existence before your untrained eyes.
+  It is very quiet here.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1442
+0
+Exit
+1
+~
+~
+-1
+1439
+0
+Exit
+2
+~
+~
+-1
+1438
+0
+Exit
+3
+~
+~
+-1
+1440
+0
+EndRoom
+
+#ROOM
+Vnum 1442
+Name In the library~
+Desc You are in the great library of magic. A strong musty smell permeates the
+entire area. Upon shelves which float just out of reach are hundreds of
+books, tomes and scrolls of every possible shape size and color. The elusive
+books seem to wink in and out of existence before your untrained eyes.
+  It is very quiet here.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1438
+0
+Exit
+1
+~
+~
+-1
+1440
+0
+Exit
+2
+~
+~
+-1
+1441
+0
+Exit
+3
+~
+~
+-1
+1439
+0
+EndRoom
+
+#ROOM
+Vnum 1443
+Name In the library~
+Desc You are in the great library of magic. A strong musty smell permeates the
+entire area. Upon shelves which float just out of reach are hundreds of
+books, tomes and scrolls of every possible shape size and color. The elusive
+books seem to wink in and out of existence before your untrained eyes.
+  It is very quiet here.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1438
+0
+Exit
+3
+~
+~
+-1
+1444
+0
+EndRoom
+
+#ROOM
+Vnum 1444
+Name Between the shelves~
+Desc You are in the great library of magic. The shelves seem uncomfortably
+close here, you can barely maneuver between them. The musty smell is still
+strong, and the elusive books still hover just out of reach.
+  A faint flicker of light can barely be made out to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1445
+0
+Exit
+1
+~
+~
+-1
+1443
+0
+EndRoom
+
+#ROOM
+Vnum 1445
+Name The reading room~
+Desc You are in a small room completely devoid of furnishings. The only thing
+here is an enormous tome, lying face open on the floor. The great book looks
+both heavy and ancient. Its jewel encrusted bindings are well worn as the
+bark of a tree. Spidery writings seem to crawls across the pages, totally
+incomprehensible to your mortal eye. Something seems to be wedged between
+the pages.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+1444
+0
+EndRoom
+
+#ROOM
+Vnum 1446
+Name A corridor~
+Desc You are in a long corridor leading north and south. Obsidian walls
+engraved with ancient runes of power stretch out before you. Magical
+energies seem to crackle with power all around and whisper in tongues
+long forgotten, almost as if the corridor itself were alive.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1433
+0
+Exit
+2
+~
+~
+-1
+1447
+0
+EndRoom
+
+#ROOM
+Vnum 1447
+Name The end of the corridor~
+Desc You are at the end of a long corridor. The obsidian walls come to an
+abrupt halt at the edge of a golden archway here. The hum of power is so
+strong it nearly numbs your body.
+  The archway lies before you, glowing and pulsing with energy.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1446
+0
+Exit
+2
+~
+~
+-1
+1448
+0
+EndRoom
+
+#ROOM
+Vnum 1448
+Name The arched entrance~
+Desc You feel a slight tingle as you pass through the archway, as if the living
+magical energies here had infused your body, found it wanting and left. The
+intense glow from the arch above you is almost blinding. Through the light
+you can barely make out a stairway leading up.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1447
+0
+Exit
+4
+~
+~
+-1
+1449
+0
+EndRoom
+
+#ROOM
+Vnum 1449
+Name The landing~
+Desc You are on a small landing in the middle of a long stairway leading up.
+Your senses seem dulled here, no sound or smell can be detected at all, and
+the only thing you can see in any direction is endless stairway.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+-1
+1450
+0
+Exit
+5
+~
+~
+-1
+1448
+0
+EndRoom
+
+#ROOM
+Vnum 1450
+Name An intersection~
+Desc You are at an intersection of several hallways. You feel as if strange
+mystical forces are pushing and pulling at each other from all around you.
+The sensation of being trapped, in the middle is almost tangible in the air
+here.
+  A grey tiled hallway leads south, black tiled east, white tiled west, and
+a multi-colored hallway swirling with patterns that remain just barely
+unrecognizable is to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1473
+0
+Exit
+1
+~
+~
+-1
+1458
+0
+Exit
+2
+~
+~
+-1
+1451
+0
+Exit
+3
+~
+~
+-1
+1465
+0
+Exit
+5
+~
+~
+-1
+1449
+0
+EndRoom
+
+#ROOM
+Vnum 1451
+Name A grey tiled hallway~
+Desc You are in a grey tiled hallway leading north and south. Dim balls of
+energy float here and there shedding a warm light, and showing the way.
+A feeling of peace and balance comes over you.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1450
+0
+Exit
+2
+~
+~
+-1
+1452
+0
+EndRoom
+
+#ROOM
+Vnum 1452
+Name A grey tiled hallway~
+Desc You are in a grey tiled hallway leading north and south. Dim balls of
+energy float here and there shedding a warm light, and showing the way.
+A feeling of peace and balance comes over you.
+  Large grey metal double doors can be seen to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1451
+0
+Exit
+2
+~
+door grey~
+-1
+1453
+AB
+EndRoom
+
+#ROOM
+Vnum 1453
+Name The antechamber~
+Desc You are in the antechamber of the master magician of the grey light. A
+feeling of strong magic floats in the air about you, almost as if you could
+taste the power held within these walls.
+  Once your eyes adjust to the semi-light, you can make out a larger room
+to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door grey~
+-1
+1452
+AB
+Exit
+2
+~
+~
+-1
+1454
+0
+EndRoom
+
+#ROOM
+Vnum 1454
+Name The main chamber~
+Desc A feeling of tranquility comes over you as you enter the main chamber of
+neutrality. Some artifacts are hung on the walls here, or set on stands.
+The room in general looks both comfortable and official. Probably where the
+master of neutrality holds audience.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1453
+0
+Exit
+1
+~
+~
+-1
+1456
+0
+Exit
+2
+~
+~
+-1
+1457
+0
+Exit
+3
+~
+~
+-1
+1455
+0
+EndRoom
+
+#ROOM
+Vnum 1455
+Name The study~
+Desc You are in a large study. Shelves filled with many books or arcane
+knowledge are on every wall. A large oaken desk is in the center, with
+many parchments and scrolls on it. The most notable thing in the room is
+a small set of scales, which floats about eye level. In perfect balance,
+the scales are no doubt a sign of the master's neutrality.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1454
+0
+EndRoom
+
+#ROOM
+Vnum 1456
+Name A closet~
+Desc You are in a small closet. It is filled with many cloaks, and some other
+apparel.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+1454
+0
+EndRoom
+
+#ROOM
+Vnum 1457
+Name A bedroom~
+Desc You are in the bedroom of the master magician of neutrality. Curtained
+windows can be seen on the south wall. A large comfortable looking bed
+takes up most of the room.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1454
+0
+EndRoom
+
+#ROOM
+Vnum 1458
+Name A dark hallway~
+Desc You are in a long dark hallway leading east and west. Not much can be
+seen in the unnatural darkness here, but you get a deep sense of dread
+the further you go.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1459
+0
+Exit
+3
+~
+~
+-1
+1450
+0
+EndRoom
+
+#ROOM
+Vnum 1459
+Name A dark hallway~
+Desc You are in a long dark hallway leading east and west. Not much can be
+seen in the unnatural darkness here, but you get a deep sense of dread
+the further you go.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1460
+0
+Exit
+3
+~
+~
+-1
+1458
+0
+EndRoom
+
+#ROOM
+Vnum 1460
+Name The end of the hallway~
+Desc You are at the end of a long dark hallway. The darkness here is almost
+tangible in its thickness. A deep sense of fear and loathing comes over
+you.
+  A pair of obsidian doors can be seen to the east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+door obsidian~
+-1
+1461
+AB
+Exit
+3
+~
+~
+-1
+1459
+0
+EndRoom
+
+#ROOM
+Vnum 1461
+Name The chamber of darkness~
+Desc You are in a vast chamber. The walls fade into darkness, leaving you
+with a very vague idea of the actual size of the room. Swirling here and
+there in the dark, are patches of pure black which seem to suck in your
+light and leave it that much darker here.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1462
+0
+Exit
+1
+~
+~
+-1
+1464
+0
+Exit
+2
+~
+~
+-1
+1463
+0
+Exit
+3
+~
+door obsidian~
+-1
+1460
+AB
+EndRoom
+
+#ROOM
+Vnum 1462
+Name It is very dark here...~
+Desc It is very dark here...
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+1461
+0
+EndRoom
+
+#ROOM
+Vnum 1463
+Name Torture chamber~
+Desc You are in an ill lit chamber. Instruments of torture hang from a rack
+on the wall, they seem to quiver with anticipation of a victim as if they
+had a mind of their own. An operating table is here, though it is bare.
+  An extreme feeling of evil permeates the entire area.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1461
+0
+EndRoom
+
+#ROOM
+Vnum 1464
+Name The inner chamber~
+Desc You are in a small dark chamber. Upon the walls are glowing sigils of
+dark power, scrawled and traced in an evil language no longer known to most
+of this plane of existence. There is an obsidian altar here which seems to
+glow, but does not shed any light, in fact it seems to be taking light in.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+1461
+0
+EndRoom
+
+#ROOM
+Vnum 1465
+Name A bright hallway~
+Desc You are in a long well lit hallway leading east and west. The walls here
+are a milky white color, and glow with a warm luminescence, as does the
+floor. A feeling of goodness permeates the area, and you feel unworthy to
+tread upon these sacred floors.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1450
+0
+Exit
+3
+~
+~
+-1
+1466
+0
+EndRoom
+
+#ROOM
+Vnum 1466
+Name A bright hallway~
+Desc You are in a long well lit hallway leading east and west. The walls here
+are a milky white color, and glow with a warm luminescence, as does the
+floor. A feeling of goodness permeates the area, and you feel unworthy to
+tread upon these sacred floors.
+  A huge set of double doors in finely worked ivory can be seen to the west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1465
+0
+Exit
+3
+~
+door ivory~
+-1
+1467
+AB
+EndRoom
+
+#ROOM
+Vnum 1467
+Name An antechamber~
+Desc You are in a small antechamber. It is well lit here, though the source
+of light cannot be seen. It is almost as if the room itself exudes a warm
+glow of goodness. A larger chamber can be seen to the west, but you do not
+feel worthy to pass into it.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+door ivory~
+-1
+1466
+AB
+Exit
+3
+~
+~
+-1
+1469
+0
+EndRoom
+
+#ROOM
+Vnum 1469
+Name The chamber of the white light~
+Desc You are in a vast chamber, its walls floor and ceiling are of an unknown
+metallic material, the brightest white, almost blindingly stark. A flickering
+flame is in the center of the room, seeming to feed off of darkness and
+cleansing the room of any evil. You feel a slight tug at your being as the
+flame flickers towards you.
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1470
+0
+Exit
+1
+~
+~
+-1
+1467
+0
+Exit
+2
+~
+~
+-1
+1471
+0
+Exit
+3
+~
+~
+-1
+1472
+0
+EndRoom
+
+#ROOM
+Vnum 1470
+Name The meditation chamber~
+Desc You are in a small meditation chamber. White silk cushions are everywhere,
+looking very comfortable. You get an easy peaceful feeling of relaxation
+here, almost making you want to lie down and fall asleep.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+1469
+0
+EndRoom
+
+#ROOM
+Vnum 1471
+Name A study~
+Desc You are in a spacious study. It is extremely tidy here, to an almost
+antiseptic nature. One would wonder how anyone could study without a
+mess all around them, the master of this chamber obviously can.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1469
+0
+EndRoom
+
+#ROOM
+Vnum 1472
+Name A closet~
+Desc You are in a small closet. Cloaks and vests hang from hooks in the wall,
+and a few old boots are all that can be seen here. Rather featureless.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1469
+0
+EndRoom
+
+#ROOM
+Vnum 1473
+Name A wide hallway~
+Desc You are in a large hallway, wide enough to accommodate several people
+standing abreast. The floor here is a swirl of multicolored patterns, in
+constant motion.
+  A huge grey metal door blocks the way north, it looks quite sturdy.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door metal grey~
+1473
+1474
+ABF
+Exit
+2
+~
+~
+-1
+1450
+0
+EndRoom
+
+#ROOM
+Vnum 1474
+Name A wide hallway~
+Desc You are in a large hallway, wide enough to accommodate several people
+standing abreast. The floor here is a swirl of multicolored patterns, in
+constant motion.
+  A huge black obsidian door blocks the way north, it looks quite sturdy.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door obsidian black~
+1474
+1475
+ABF
+Exit
+2
+~
+door metal grey~
+1473
+1473
+ABF
+EndRoom
+
+#ROOM
+Vnum 1475
+Name A wide hallway~
+Desc You are in a large hallway, wide enough to accommodate several people
+standing abreast. The floor here is a swirl of multicolored patterns, in
+constant motion.
+  A huge white ivory door blocks the way north, it looks quite sturdy.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door ivory white~
+1475
+1476
+ABF
+Exit
+2
+~
+door obsidian black~
+1474
+1474
+ABF
+EndRoom
+
+#ROOM
+Vnum 1476
+Name The entranceway~
+Desc You are at the entrance to the audience chamber of the grand master of
+magic. Beautiful tapestries displaying the ancient masters of lore are on
+the walls, and the floor is covered with a plush multicolored carpet, which
+seems to rustle and move at the touch of your boots.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+1477
+0
+Exit
+2
+~
+door white ivory~
+1475
+1475
+ABF
+EndRoom
+
+#ROOM
+Vnum 1477
+Name The audience chamber~
+Desc You are in a large chamber. Small bolts of energy leap from wall to wall,
+crackling with power. The floor is a swirl of indeterminable colors and
+patterns ever changing. Bright bursts of color seem to explode into the air
+and fade again at random times. All this splendor plays about and draws
+attention to a large throne in the center of the room, it seems to be cut
+from a single enormous emerald.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+throne~
+The giant emerald is flawless, and must be incredibly valuable.
+~
+Exit
+0
+~
+~
+-1
+1480
+0
+Exit
+1
+~
+~
+-1
+1478
+0
+Exit
+2
+~
+~
+-1
+1476
+0
+Exit
+3
+~
+~
+-1
+1479
+0
+EndRoom
+
+#ROOM
+Vnum 1478
+Name A dressing room~
+Desc You are in a plush dressing room. Fine garments of many styles and some
+outlandish colors hang from a rack suspended in mid air at eye level. The
+only other interesting feature in the room is a large silver mirror on a
+finely crafted gold stand.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+1477
+0
+EndRoom
+
+#ROOM
+Vnum 1479
+Name The library~
+Desc You are in a small cozy looking library. A few well made books sit atop
+shelves which span every wall. A large oaken writing table is in the center
+of the room with odd papers and parchments on it. The illumination here,
+to your surprise is a quite un-magical oil lamp.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+1477
+0
+EndRoom
+
+#ROOM
+Vnum 1480
+Name The altar~
+Desc You are in a small chapel designed around a beautifully crafted golden
+altar. Many icons to lesser deities line the room, but it is obvious by one
+glance at the symbols on the altar, that this room was designed for the
+worship of Mystra, the goddess of magic.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+door secret~
+-1
+1481
+AB
+Exit
+2
+~
+~
+-1
+1477
+0
+Exit
+3
+~
+door secret~
+-1
+1482
+AB
+EndRoom
+
+#ROOM
+Vnum 1481
+Name The treasury~
+Desc You are in a small chamber, the stale air here is testament to the fact
+that it has gone undisturbed for many years.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+door secret~
+-1
+1480
+AB
+EndRoom
+
+#ROOM
+Vnum 1482
+Name A passage~
+Desc You are in a small dark passage, which would be unremarkable if not for
+the fact that it ends in a blinding blue light to the west. On hooks set
+into the wall here there hang several travel worthy cloaks, and a small
+leather backpack.  It looks as if someone has prepared this room to be used
+in the event speedy of a evacuation.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+1483
+0
+EndRoom
+
+#ROOM
+Vnum 1483
+Name In the light~
+Desc You seem to be floating in a magical energy field, though you cannot see
+the source of the energy, you can feel its power pushing at you from all
+sides, completely negating the effects of gravity.
+  An imperfection in the uniform blue can be seen overhead, it might be an
+exit.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+-1
+3001
+0
+EndRoom
+
+#ROOM
+Vnum 1499
+Name Skylar's Hideout~
+Desc You are in a small, very messy room. An unmade bed is against one wall, and
+books and papers cover every available flat surface. Empty beer cans lie here
+and there, discarded with total abandon. A few over full ashtrays can be seen
+on a desk.
+~
+Room_flags 524
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 1300 spec_cast_undead
+M 1301 spec_cast_cleric
+M 1304 spec_cast_mage
+M 1306 spec_cast_mage
+M 1307 spec_cast_mage
+M 1308 spec_cast_mage
+M 1309 spec_cast_mage
+M 1310 spec_cast_mage
+M 1311 spec_thief
+M 1312 spec_cast_undead
+M 1313 spec_cast_undead
+M 1314 spec_cast_mage
+M 1315 spec_cast_mage
+M 1316 spec_cast_mage
+M 1317 spec_cast_mage
+M 1318 spec_cast_mage
+M 1320 spec_cast_mage
+M 1321 spec_cast_mage
+M 1322 spec_cast_mage
+M 1323 spec_cast_mage
+M 1324 spec_cast_mage
+M 1325 spec_cast_mage
+M 1326 spec_cast_mage
+M 1327 spec_cast_mage
+M 1328 spec_cast_mage
+M 1329 spec_cast_mage
+M 1330 spec_cast_mage
+M 1331 spec_cast_mage
+M 1332 spec_cast_mage
+M 1333 spec_cast_mage
+M 1334 spec_cast_mage
+M 1336 spec_cast_mage
+M 1337 spec_summoner
+M 1338 spec_cast_mage
+M 1340 spec_cast_mage
+M 1341 spec_cast_mage
+M 1348 spec_cast_mage
+M 1349 spec_cast_mage
+M 1350 spec_cast_undead
+M 1351 spec_cast_undead
+M 1352 spec_cast_mage
+M 1353 spec_cast_mage
+M 1354 spec_cast_mage
+M 1355 spec_cast_mage
+M 1356 spec_cast_mage
+M 1357 spec_cast_mage
+M 1358 spec_cast_mage
+M 1359 spec_cast_mage
+M 1360 spec_cast_mage
+M 1361 spec_cast_mage
+M 1362 spec_cast_mage
+M 1363 spec_cast_mage
+M 1364 spec_cast_mage
+M 1365 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 1316 3 1
+D 0 1317 5 1
+D 0 1320 1 1
+D 0 1321 4 1
+D 0 1323 0 2
+D 0 1327 2 2
+D 0 1330 0 1
+D 0 1330 2 1
+D 0 1331 0 1
+D 0 1331 1 1
+D 0 1331 2 1
+D 0 1332 2 1
+D 0 1333 0 1
+D 0 1334 1 1
+D 0 1334 2 1
+D 0 1335 0 1
+D 0 1336 3 1
+D 0 1337 3 1
+D 0 1338 1 1
+D 0 1339 3 1
+D 0 1340 0 1
+D 0 1342 2 1
+D 0 1343 0 1
+D 0 1344 2 1
+D 0 1345 0 1
+D 0 1346 2 1
+D 0 1348 3 1
+D 0 1349 1 1
+D 0 1350 3 1
+D 0 1351 3 1
+D 0 1352 1 1
+D 0 1354 1 1
+D 0 1355 2 1
+D 0 1356 2 1
+D 0 1357 0 1
+D 0 1358 2 1
+D 0 1359 0 1
+D 0 1361 0 1
+D 0 1362 1 1
+D 0 1363 1 1
+D 0 1364 3 1
+D 0 1365 3 1
+D 0 1366 1 1
+D 0 1367 3 1
+D 0 1370 0 1
+D 0 1371 2 1
+D 0 1371 3 1
+D 0 1373 1 1
+D 0 1374 0 1
+D 0 1375 2 1
+D 0 1377 3 1
+D 0 1378 3 1
+D 0 1379 1 1
+D 0 1381 1 1
+D 0 1381 2 1
+D 0 1381 4 1
+D 0 1382 0 1
+D 0 1384 2 1
+D 0 1386 0 1
+D 0 1387 2 1
+D 0 1390 0 1
+D 0 1391 1 1
+D 0 1394 3 1
+D 0 1395 0 1
+D 0 1395 3 1
+D 0 1397 2 1
+D 0 1400 0 1
+D 0 1401 2 1
+D 0 1401 3 1
+D 0 1402 1 1
+D 0 1402 3 1
+D 0 1403 1 1
+D 0 1403 2 1
+D 0 1405 0 1
+D 0 1408 3 1
+D 0 1409 1 1
+D 0 1409 5 1
+D 0 1412 4 1
+D 0 1412 5 1
+D 0 1416 2 1
+D 0 1417 0 1
+D 0 1419 2 1
+D 0 1420 0 1
+D 0 1422 1 1
+D 0 1423 3 1
+D 0 1434 1 1
+D 0 1435 3 1
+D 0 1452 2 1
+D 0 1453 0 1
+D 0 1460 1 1
+D 0 1461 3 1
+D 0 1466 3 1
+D 0 1467 1 1
+D 0 1473 0 1
+D 0 1474 0 1
+D 0 1474 2 1
+D 0 1475 0 1
+D 0 1475 2 1
+D 0 1476 2 1
+D 0 1480 1 1
+D 0 1480 3 1
+D 0 1481 3 1
+R 0 1301 4
+R 0 1302 4
+M 0 1300 6 1302 2
+R 0 1303 4
+R 0 1304 4
+M 0 1300 6 1304 2
+R 0 1305 4
+R 0 1306 4
+M 0 1300 6 1306 2
+R 0 1307 4
+M 0 1302 1 1307 1
+R 0 1308 4
+M 0 1300 6 1308 2
+R 0 1309 4
+M 0 1300 6 1311 2
+M 0 1301 1 1311 1
+M 0 1303 1 1312 1
+M 0 1304 7 1313 1
+M 0 1304 7 1314 1
+M 0 1304 7 1314 1
+M 0 1304 7 1315 1
+M 0 1304 7 1316 1
+M 0 1304 7 1318 1
+M 0 1305 1 1318 1
+G 0 1351 0
+G 0 1352 0
+M 0 1304 7 1319 1
+M 0 1306 1 1319 1
+O 0 1301 0 1320
+P 0 1304 20 1301 1
+O 0 1302 0 1320
+P 0 1305 1 1302 1
+P 0 1306 1 1302 1
+M 0 1307 1 1320 1
+E 0 1355 0 16
+M 0 1308 1 1320 1
+M 0 1309 1 1327 1
+E 0 1356 0 14
+M 0 1310 1 1328 1
+E 0 1323 0 17
+M 0 1311 2 1333 2
+M 0 1311 2 1333 2
+O 0 1307 0 1333
+O 0 1307 0 1333
+M 0 1312 10 1335 4
+M 0 1312 10 1335 4
+M 0 1312 10 1335 4
+M 0 1312 10 1335 4
+M 0 1313 7 1335 2
+M 0 1314 1 1337 1
+M 0 1312 10 1340 2
+M 0 1315 2 1342 1
+M 0 1316 2 1342 1
+M 0 1317 2 1342 1
+M 0 1315 2 1344 1
+M 0 1316 2 1344 1
+M 0 1317 2 1344 1
+M 0 1318 3 1345 3
+M 0 1318 3 1345 3
+M 0 1318 3 1345 3
+M 0 1319 1 1345 1
+M 0 1320 4 1349 4
+M 0 1320 4 1349 4
+M 0 1320 4 1349 4
+M 0 1320 4 1349 4
+M 0 1321 1 1349 1
+M 0 1322 4 1354 4
+M 0 1322 4 1354 4
+M 0 1322 4 1354 4
+M 0 1322 4 1354 4
+M 0 1323 1 1354 1
+M 0 1324 3 1357 3
+M 0 1324 3 1357 3
+M 0 1324 3 1357 3
+M 0 1325 1 1357 1
+M 0 1326 3 1359 3
+E 0 3351 0 16
+M 0 1326 3 1359 3
+E 0 3351 0 16
+M 0 1326 3 1359 3
+E 0 3351 0 16
+M 0 1327 1 1359 1
+E 0 1357 0 17
+M 0 1328 2 1364 2
+M 0 1329 1 1365 1
+M 0 1330 1 1367 1
+M 0 1312 10 1368 2
+M 0 1339 5 1368 1
+M 0 1331 2 1371 2
+M 0 1331 2 1371 2
+M 0 1332 1 1373 1
+G 0 1359 0
+G 0 1360 0
+G 0 1361 0
+M 0 1333 1 1373 1
+G 0 1362 0
+M 0 1313 7 1375 1
+O 0 1310 0 1379
+O 0 1311 0 1379
+O 0 1312 0 1379
+O 0 1313 0 1379
+O 0 1314 0 1381
+O 0 1315 0 1382
+P 0 1317 1 1315 1
+P 0 1318 1 1315 1
+P 0 1319 1 1315 1
+M 0 1334 1 1382 1
+E 0 1316 0 17
+G 0 1363 0
+M 0 1335 1 1382 1
+M 0 1336 1 1388 1
+E 0 1364 0 17
+P 0 1365 2 1364 1
+P 0 1367 2 1364 1
+P 0 1368 2 1364 1
+P 0 1369 2 1364 1
+P 0 1370 2 1364 1
+M 0 1337 1 1390 1
+E 0 1371 0 17
+R 0 1392 6
+M 0 1338 1 1395 1
+E 0 1372 0 17
+G 0 1373 0
+M 0 1339 5 1398 2
+M 0 1339 5 1398 2
+M 0 1313 7 1400 1
+O 0 1320 0 1401
+M 0 1340 1 1402 1
+E 0 1325 0 17
+E 0 1374 0 13
+P 0 1375 2 1374 1
+O 0 1321 0 1403
+P 0 1326 1 1321 1
+P 0 1327 1 1321 1
+O 0 1322 0 1403
+P 0 1328 1 1322 1
+P 0 1329 1 1322 1
+P 0 1330 1 1322 1
+M 0 1341 1 1409 1
+E 0 1376 0 17
+M 0 1342 1 1409 1
+M 0 1345 2 1409 2
+M 0 1343 1 1411 1
+M 0 1344 1 1411 1
+M 0 1346 1 1411 1
+M 0 1347 1 1411 1
+M 0 1348 1 1417 1
+E 0 1377 0 13
+P 0 1378 3 1377 1
+M 0 1349 1 1425 1
+E 0 1379 0 3
+E 0 1380 0 17
+M 0 1350 4 1425 4
+M 0 1350 4 1425 4
+M 0 1351 1 1425 1
+E 0 1381 0 16
+M 0 1339 5 1428 2
+M 0 1339 5 1428 2
+M 0 1312 10 1430 2
+M 0 1313 7 1433 2
+M 0 1352 3 1435 3
+M 0 1352 3 1435 3
+M 0 1352 3 1435 3
+O 0 1331 0 1435
+P 0 1332 1 1331 1
+P 0 1333 1 1331 1
+M 0 1353 1 1437 1
+O 0 1334 0 1445
+P 0 1335 1 1334 1
+M 0 1313 7 1449 1
+M 0 1354 1 1453 1
+E 0 1382 0 12
+E 0 1384 0 14
+M 0 1355 1 1454 1
+M 0 1356 1 1454 1
+E 0 1383 0 3
+E 0 1385 0 16
+E 0 1386 0 17
+M 0 1357 1 1461 1
+E 0 1387 0 12
+E 0 1388 0 14
+M 0 1358 1 1464 1
+M 0 1359 1 1464 1
+E 0 1389 0 3
+E 0 1390 0 16
+E 0 1386 0 17
+M 0 1360 1 1467 1
+E 0 1391 0 12
+E 0 1392 0 14
+M 0 1361 1 1469 1
+M 0 1362 1 1469 1
+E 0 1393 0 3
+E 0 1394 0 16
+E 0 1386 0 17
+M 0 1363 1 1477 1
+E 0 1395 0 3
+M 0 1364 1 1477 1
+E 0 1401 0 5
+E 0 1397 0 1
+E 0 1398 0 14
+E 0 1399 0 17
+E 0 1400 0 16
+G 0 1339 0
+O 0 1336 0 1480
+P 0 1337 1 1336 1
+O 0 1338 0 1481
+P 0 1340 1 1338 1
+O 0 1341 0 1482
+O 0 1342 0 1482
+O 0 1343 0 1482
+O 0 1345 0 1482
+P 0 1344 1 1345 1
+O 0 1402 0 1499
+P 0 1403 1 1402 1
+P 0 1404 1 1402 1
+S
+
+
+
+#SHOPS
+1305 17 19 0 0 0 210 50 0 23
+1306 2 3 4 10 21 250 30 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

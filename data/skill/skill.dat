@@ -1,0 +1,3407 @@
+262
+Name reserved~
+Levl 159 159 159 159 159 159 159 159 
+Rate 0 0 0 0 0 0 0 0 
+Spfun spell_null~
+Targ 0
+Minp 8
+Mmna 0
+Beat 0
+Ndam ~
+Moff ~
+Mobj ~
+END
+
+Name acid blast~
+Levl 28 53 35 32 20 50 30 28 
+Rate 1 1 2 1 1 2 2 2 
+Spfun spell_acid_blast~
+Targ 1
+Minp 7
+Mmna 20
+Beat 12
+Ndam acid blast~
+Moff !Acid Blast!~
+Mobj (null)~
+END
+
+Name wizards fire~
+Levl 50 151 151 151 40 151 151 151 
+Rate 4 5 5 5 3 4 4 4 
+Spfun spell_wizards_fire~
+Targ 1
+Minp 7
+Mmna 100
+Beat 12
+Ndam wizards fire~
+Moff !Wizards Fire!~
+Mobj (null)~
+END
+
+Name meteor swarm~
+Levl 50 151 151 151 40 151 151 151 
+Rate 2 2 2 2 1 2 2 2 
+Spfun spell_meteor_swarm~
+Targ 1
+Minp 7
+Mmna 20
+Beat 12
+Ndam meteor swarm~
+Moff !Meteor Swarm!~
+Mobj (null)~
+END
+
+Name tsunami~
+Levl 35 151 151 151 25 151 151 151 
+Rate 2 2 2 2 1 2 2 2 
+Spfun spell_tsunami~
+Targ 1
+Minp 7
+Mmna 200
+Beat 12
+Ndam tsunami~
+Moff !Tsunami!~
+Mobj (null)~
+END
+
+Name prismatic spray~
+Levl 35 151 151 151 30 151 151 151 
+Rate 2 2 2 2 1 2 2 2 
+Spfun spell_prismatic_spray~
+Targ 1
+Minp 7
+Mmna 200
+Beat 12
+Ndam prismatic spray~
+Moff !Prismatic Spray!~
+Mobj (null)~
+END
+
+Name mind shatter~
+Levl 30 151 151 151 25 151 151 151 
+Rate 2 2 2 2 1 2 2 2 
+Spfun spell_mind_shatter~
+Targ 1
+Minp 7
+Mmna 200
+Beat 12
+Ndam mind shatter~
+Moff !Mind Shatter!~
+Mobj (null)~
+END
+
+Name wizards firestorm~
+Levl 45 151 151 151 40 151 151 151 
+Rate 4 5 5 5 3 5 5 5 
+Spfun spell_wizards_firestorm~
+Targ 1
+Minp 7
+Mmna 200
+Beat 12
+Ndam wizards firestorm~
+Moff !Wizards Firestorm!~
+Mobj (null)~
+END
+
+Name wizards fury~
+Levl 151 151 151 151 80 151 151 151 
+Rate 8 8 8 8 7 8 8 8 
+Spfun spell_wizards_fury~
+Targ 1
+Minp 7
+Mmna 250
+Beat 12
+Ndam wizards fury~
+Moff !Wizards Fury!~
+Mobj (null)~
+END
+
+Name glacier~
+Levl 55 151 151 151 50 60 151 151 
+Rate 4 5 5 5 3 4 5 5 
+Spfun spell_glacier~
+Targ 1
+Minp 7
+Mmna 100
+Beat 5
+Ndam glacier~
+Moff !Glacier!~
+Mobj (null)~
+END
+
+Name fire blade~
+Levl 70 151 151 100 70 70 90 151 
+Rate 6 7 7 6 6 6 6 7 
+Spfun spell_fire_blade~
+Targ 0
+Minp 8
+Mmna 200
+Beat 10
+Ndam fire blade~
+Moff !Fire Blade!~
+Mobj (null)~
+END
+
+Name thunderstorm~
+Levl 80 151 151 151 60 151 151 151 
+Rate 4 5 5 5 3 5 5 5 
+Spfun spell_thunderstorm~
+Targ 1
+Minp 7
+Mmna 200
+Beat 12
+Ndam thunderstorm~
+Moff !Thunderstorm!~
+Mobj (null)~
+END
+
+Name moonblade~
+Levl 151 70 151 151 151 50 151 151 
+Rate 4 4 4 4 4 3 4 4 
+Spfun spell_moonblade~
+Targ 1
+Minp 7
+Mmna 200
+Beat 12
+Ndam moonblade~
+Moff !Moonblade!~
+Mobj (null)~
+END
+
+Name tornado~
+Levl 50 151 151 151 40 151 151 151 
+Rate 4 5 5 5 3 5 5 5 
+Spfun spell_tornado~
+Targ 1
+Minp 7
+Mmna 200
+Beat 12
+Ndam tornado~
+Moff !Tornado!~
+Mobj (null)~
+END
+
+Name desert fist~
+Levl 151 20 151 151 151 15 151 151 
+Rate 2 2 2 2 2 1 2 2 
+Spfun spell_desert_fist~
+Targ 1
+Minp 7
+Mmna 100
+Beat 12
+Ndam desert fist~
+Moff !Desert Fist!~
+Mobj (null)~
+END
+
+Name sandstorm~
+Levl 40 151 151 151 35 151 151 151 
+Rate 3 4 4 4 2 4 4 4 
+Spfun spell_sandstorm~
+Targ 1
+Minp 7
+Mmna 150
+Beat 12
+Ndam sandstorm~
+Moff !Sandstorm!~
+Mobj (null)~
+END
+
+Name banshee scream~
+Levl 40 151 151 151 35 151 151 151 
+Rate 3 4 4 4 2 4 4 4 
+Spfun spell_banshee_scream~
+Targ 1
+Minp 7
+Mmna 150
+Beat 12
+Ndam banshee scream~
+Moff !Banshee Scream!~
+Mobj (null)~
+END
+
+Name armor~
+Levl 7 151 151 151 5 151 151 151 
+Rate 1 2 2 2 1 2 2 2 
+Spfun spell_armor~
+Targ 2
+Minp 8
+Mmna 5
+Beat 12
+Ndam ~
+Moff You feel less armored.~
+Mobj ~
+END
+
+Name sate~
+Levl 7 5 10 5 4 4 4 4 
+Rate 1 1 2 2 1 2 2 2 
+Spfun spell_sate~
+Targ 2
+Minp 8
+Mmna 5
+Beat 12
+Ndam ~
+Moff !Not Hungry!~
+Mobj ~
+END
+
+Name quench~
+Levl 7 5 10 5 4 4 4 4 
+Rate 1 1 2 2 1 2 2 2 
+Spfun spell_quench~
+Targ 2
+Minp 8
+Mmna 5
+Beat 12
+Ndam ~
+Moff !Quenched!~
+Mobj ~
+END
+
+Name heroes feast~
+Levl 20 20 25 25 15 15 20 20 
+Rate 1 1 2 2 1 1 1 2 
+Spfun spell_heroes_feast~
+Targ 2
+Minp 8
+Mmna 50
+Beat 12
+Ndam ~
+Moff !Heroes Feast!~
+Mobj ~
+END
+
+Name bless~
+Levl 151 7 151 151 151 5 151 151 
+Rate 2 1 2 2 2 1 2 2 
+Spfun spell_bless~
+Targ 5
+Minp 8
+Mmna 5
+Beat 12
+Ndam ~
+Moff You feel less righteous.~
+Mobj $p's holy aura fades.~
+END
+
+Name dark blessing~
+Levl 151 7 151 151 151 5 151 151 
+Rate 2 1 2 2 2 1 2 2 
+Spfun spell_dark_blessing~
+Targ 5
+Minp 8
+Mmna 50
+Beat 12
+Ndam ~
+Moff You are no longer aligned with the dark gods.~
+Mobj $p's dark aura fades.~
+END
+
+Name flame shield~
+Levl 40 35 151 151 35 30 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_flameshield~
+Targ 3
+Minp 8
+Mmna 40
+Beat 12
+Ndam flame shield~
+Moff The flames surrounding you die away.~
+Mobj ~
+END
+
+Name force shield~
+Levl 20 15 151 151 15 10 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_forceshield~
+Targ 3
+Minp 8
+Mmna 30
+Beat 12
+Ndam force shield~
+Moff The shield about you fades away.~
+Mobj ~
+END
+
+Name shockshield~
+Levl 30 22 151 151 25 20 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_staticshield~
+Targ 3
+Minp 8
+Mmna 35
+Beat 12
+Ndam shockshield~
+Moff The static around you grounds out.~
+Mobj ~
+END
+
+Name blindness~
+Levl 12 8 151 151 10 7 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_blindness~
+Targ 1
+Minp 7
+Mmna 5
+Beat 12
+Ndam ~
+Moff You can see again.~
+Mobj ~
+END
+
+Name burning hands~
+Levl 2 151 151 151 151 151 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_burning_hands~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam burning hands~
+Moff !Burning Hands!~
+Mobj ~
+END
+
+Name call lightning~
+Levl 25 18 151 151 22 15 151 151 
+Rate 2 2 3 3 1 1 3 3 
+Spfun spell_call_lightning~
+Targ 0
+Minp 7
+Mmna 15
+Beat 12
+Ndam lightning bolt~
+Moff !Call Lightning!~
+Mobj ~
+END
+
+Name holyblast~
+Levl 151 18 151 151 151 15 151 151 
+Rate 2 3 3 3 3 2 3 3 
+Spfun spell_holyblast~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam holyblast~
+Moff !Holyblast!~
+Mobj ~
+END
+
+Name lightningblast~
+Levl 18 22 151 151 15 19 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_lightningblast~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam lightningblast~
+Moff Lightningblast!~
+Mobj ~
+END
+
+Name electric blast~
+Levl 18 25 151 151 15 22 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_electric_blast~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam eletric blast~
+Moff !Electric Blast!~
+Mobj ~
+END
+
+Name call wolf~
+Levl 151 151 151 151 151 53 151 151 
+Rate 2 2 2 2 2 1 2 2 
+Spfun spell_call_wolf~
+Targ 0
+Minp 7
+Mmna 25
+Beat 12
+Ndam call wolf~
+Moff !Call Wolf!~
+Mobj ~
+END
+
+Name gasblast~
+Levl 18 25 151 151 15 22 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_gasblast~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam gasblast~
+Moff !gasblast!~
+Mobj ~
+END
+
+Name iceblast~
+Levl 18 25 151 151 15 22 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_iceblast~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam iceblast~
+Moff !iceblast!~
+Mobj ~
+END
+
+Name holy bolt~
+Levl 151 18 151 151 151 15 151 151 
+Rate 1 2 2 2 2 1 2 2 
+Spfun spell_holy_bolt~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam holy bolt~
+Moff !Holy Bolt!~
+Mobj ~
+END
+
+Name acid bolt~
+Levl 15 18 31 22 12 15 26 17 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_acid_bolt~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam acid bolt~
+Moff !Acid Bolt!~
+Mobj ~
+END
+
+Name gas bolt~
+Levl 15 151 151 151 12 151 151 151 
+Rate 1 2 2 2 1 2 2 2 
+Spfun spell_gas_bolt~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam gas bolt~
+Moff !Gas Bolt!~
+Mobj ~
+END
+
+Name sunbolt~
+Levl 20 18 31 25 18 16 29 23 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_sunbolt~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam sunbolt~
+Moff !Sunbolt!~
+Mobj ~
+END
+
+Name fire bolt~
+Levl 25 151 151 151 20 151 151 151 
+Rate 1 2 2 2 1 2 2 2 
+Spfun spell_fire_bolt~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam fire bolt~
+Moff !Fire Bolt!~
+Mobj ~
+END
+
+Name ice bolt~
+Levl 25 151 151 151 20 151 151 151 
+Rate 1 2 2 2 1 2 2 2 
+Spfun spell_ice_bolt~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam ice bolt~
+Moff !Ice Bolt!~
+Mobj ~
+END
+
+Name cone of cold~
+Levl 20 25 30 35 15 20 25 30 
+Rate 1 2 2 2 1 2 2 2 
+Spfun spell_cone_of_cold~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam cone of cold~
+Moff !Cone of Cold!~
+Mobj ~
+END
+
+Name calm~
+Levl 35 16 151 151 30 11 151 151 
+Rate 2 1 2 2 2 1 2 2 
+Spfun spell_calm~
+Targ 0
+Minp 7
+Mmna 30
+Beat 12
+Ndam ~
+Moff You have lost your peace of mind.~
+Mobj ~
+END
+
+Name cancellation~
+Levl 18 26 151 151 15 23 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_cancellation~
+Targ 2
+Minp 7
+Mmna 20
+Beat 12
+Ndam !cancellation!~
+Moff ~
+Mobj (null)~
+END
+
+Name cause critical~
+Levl 151 13 151 151 151 10 151 151 
+Rate 2 1 2 2 2 1 2 2 
+Spfun spell_cause_critical~
+Targ 1
+Minp 7
+Mmna 20
+Beat 12
+Ndam spell~
+Moff !Cause Critical!~
+Mobj ~
+END
+
+Name cause light~
+Levl 151 1 151 151 151 1 151 151 
+Rate 2 1 2 2 2 1 2 2 
+Spfun spell_cause_light~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam spell~
+Moff !Cause Light!~
+Mobj ~
+END
+
+Name cause serious~
+Levl 151 7 151 151 151 5 151 151 
+Rate 2 1 2 2 2 1 2 2 
+Spfun spell_cause_serious~
+Targ 1
+Minp 7
+Mmna 17
+Beat 12
+Ndam spell~
+Moff !Cause Serious!~
+Mobj ~
+END
+
+Name trivia pill~
+Levl 151 151 151 151 151 151 151 151 
+Rate 0 0 0 0 0 0 0 0 
+Spfun spell_trivia_pill~
+Targ 2
+Minp 8
+Mmna 5
+Beat 18
+Ndam ~
+Moff !Trivia Pill!~
+Mobj ~
+END
+
+Name vicegrip~
+Levl 20 20 20 20 20 20 20 20 
+Rate 4 4 4 4 4 4 4 4 
+Spfun spell_vicegrip~
+Targ 2
+Minp 8
+Mmna 5
+Beat 15
+Ndam ~
+Moff Your vice like grip softens!~
+Mobj ~
+END
+
+Name hurricane~
+Levl 55 151 151 151 45 151 151 151 
+Rate 4 4 4 4 3 4 4 4 
+Spfun spell_hurricane~
+Targ 1
+Minp 8
+Mmna 5
+Beat 20
+Ndam hurricane~
+Moff !Hurricane!~
+Mobj ~
+END
+
+Name chain lightning~
+Levl 30 151 151 151 25 151 151 151 
+Rate 1 2 2 2 1 2 2 2 
+Spfun spell_chain_lightning~
+Targ 1
+Minp 7
+Mmna 25
+Beat 12
+Ndam lightning~
+Moff !Chain Lightning!~
+Mobj ~
+END
+
+Name change sex~
+Levl 151 40 151 151 151 35 151 151 
+Rate 2 1 2 2 2 1 2 2 
+Spfun spell_change_sex~
+Targ 2
+Minp 7
+Mmna 15
+Beat 12
+Ndam ~
+Moff Your body feels familiar again.~
+Mobj ~
+END
+
+Name charm person~
+Levl 25 151 151 151 20 151 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_charm_person~
+Targ 1
+Minp 8
+Mmna 5
+Beat 12
+Ndam ~
+Moff You feel more self-confident.~
+Mobj ~
+END
+
+Name chill touch~
+Levl 4 151 6 6 2 151 5 5 
+Rate 1 2 2 2 1 2 1 1 
+Spfun spell_chill_touch~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam chilling touch~
+Moff You feel less cold.~
+Mobj ~
+END
+
+Name colour spray~
+Levl 16 151 25 151 14 151 23 151 
+Rate 1 2 2 2 1 2 1 2 
+Spfun spell_colour_spray~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam colour spray~
+Moff !Colour Spray!~
+Mobj ~
+END
+
+Name continual light~
+Levl 6 4 151 151 5 3 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_continual_light~
+Targ 0
+Minp 8
+Mmna 7
+Beat 12
+Ndam ~
+Moff !Continual Light!~
+Mobj ~
+END
+
+Name control weather~
+Levl 15 151 151 151 15 15 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_control_weather~
+Targ 0
+Minp 8
+Mmna 25
+Beat 12
+Ndam ~
+Moff !Control Weather!~
+Mobj ~
+END
+
+Name create food~
+Levl 151 5 151 151 5 5 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_create_food~
+Targ 0
+Minp 8
+Mmna 5
+Beat 12
+Ndam ~
+Moff !Create Food!~
+Mobj ~
+END
+
+Name create rose~
+Levl 16 151 151 151 15 151 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_create_rose~
+Targ 0
+Minp 8
+Mmna 30
+Beat 12
+Ndam ~
+Moff !Create Rose!~
+Mobj ~
+END
+
+Name create spring~
+Levl 14 151 151 151 14 14 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_create_spring~
+Targ 0
+Minp 8
+Mmna 20
+Beat 12
+Ndam ~
+Moff !Create Spring!~
+Mobj ~
+END
+
+Name create water~
+Levl 8 151 151 151 5 5 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_create_water~
+Targ 4
+Minp 8
+Mmna 5
+Beat 12
+Ndam ~
+Moff !Create Water!~
+Mobj ~
+END
+
+Name cure blindness~
+Levl 151 6 151 151 151 5 151 151 
+Rate 1 1 2 2 1 2 2 2 
+Spfun spell_cure_blindness~
+Targ 2
+Minp 7
+Mmna 5
+Beat 12
+Ndam ~
+Moff !Cure Blindness!~
+Mobj ~
+END
+
+Name cure critical~
+Levl 151 13 151 151 151 10 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_cure_critical~
+Targ 2
+Minp 7
+Mmna 20
+Beat 12
+Ndam ~
+Moff !Cure Critical!~
+Mobj ~
+END
+
+Name cure disease~
+Levl 151 13 151 151 151 10 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_cure_disease~
+Targ 2
+Minp 8
+Mmna 20
+Beat 12
+Ndam ~
+Moff !Cure Disease!~
+Mobj ~
+END
+
+Name cure light~
+Levl 151 1 151 151 151 1 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_cure_light~
+Targ 2
+Minp 7
+Mmna 10
+Beat 12
+Ndam ~
+Moff !Cure Light!~
+Mobj ~
+END
+
+Name cure poison~
+Levl 151 14 151 151 151 11 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_cure_poison~
+Targ 2
+Minp 8
+Mmna 5
+Beat 12
+Ndam ~
+Moff !Cure Poison!~
+Mobj ~
+END
+
+Name cure serious~
+Levl 151 7 151 151 151 5 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_cure_serious~
+Targ 2
+Minp 7
+Mmna 15
+Beat 12
+Ndam ~
+Moff !Cure Serious!~
+Mobj ~
+END
+
+Name curse~
+Levl 18 18 151 151 15 15 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_curse~
+Targ 6
+Minp 7
+Mmna 20
+Beat 12
+Ndam curse~
+Moff The curse wears off.~
+Mobj $p is no longer impure.~
+END
+
+Name demonfire~
+Levl 30 35 151 151 25 30 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_demonfire~
+Targ 1
+Minp 7
+Mmna 20
+Beat 12
+Ndam torments~
+Moff !Demonfire!~
+Mobj ~
+END
+
+Name detect evil~
+Levl 11 4 10 151 10 11 12 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_detect_evil~
+Targ 3
+Minp 8
+Mmna 5
+Beat 12
+Ndam ~
+Moff The red in your vision disappears.~
+Mobj ~
+END
+
+Name detect good~
+Levl 11 4 151 151 10 3 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_detect_good~
+Targ 3
+Minp 8
+Mmna 5
+Beat 12
+Ndam ~
+Moff The gold in your vision disappears.~
+Mobj ~
+END
+
+Name detect hidden~
+Levl 15 11 12 151 10 6 7 151 
+Rate 1 1 1 2 1 1 1 2 
+Spfun spell_detect_hidden~
+Targ 3
+Minp 8
+Mmna 5
+Beat 12
+Ndam ~
+Moff You feel less aware of your surroundings.~
+Mobj ~
+END
+
+Name detect invis~
+Levl 3 8 151 151 3 8 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_detect_invis~
+Targ 3
+Minp 8
+Mmna 5
+Beat 12
+Ndam ~
+Moff You no longer see invisible objects.~
+Mobj ~
+END
+
+Name detect magic~
+Levl 2 6 151 151 2 2 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_detect_magic~
+Targ 3
+Minp 8
+Mmna 5
+Beat 12
+Ndam ~
+Moff The detect magic wears off.~
+Mobj ~
+END
+
+Name detect poison~
+Levl 15 7 151 151 10 5 5 151 
+Rate 1 1 2 2 1 1 1 2 
+Spfun spell_detect_poison~
+Targ 4
+Minp 8
+Mmna 5
+Beat 12
+Ndam ~
+Moff !Detect Poison!~
+Mobj ~
+END
+
+Name dispel evil~
+Levl 151 15 151 151 151 151 151 151 
+Rate 2 1 2 2 2 1 2 2 
+Spfun spell_dispel_evil~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam dispel evil~
+Moff !Dispel Evil!~
+Mobj ~
+END
+
+Name dispel good~
+Levl 151 15 151 151 151 151 151 151 
+Rate 2 1 2 2 2 1 2 2 
+Spfun spell_dispel_good~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam dispel good~
+Moff !Dispel Good!~
+Mobj ~
+END
+
+Name dispel magic~
+Levl 16 24 151 151 15 20 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_dispel_magic~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam ~
+Moff !Dispel Magic!~
+Mobj ~
+END
+
+Name earthquake~
+Levl 151 10 151 151 151 5 151 151 
+Rate 2 1 2 2 2 1 2 2 
+Spfun spell_earthquake~
+Targ 0
+Minp 7
+Mmna 15
+Beat 12
+Ndam earthquake~
+Moff !Earthquake!~
+Mobj ~
+END
+
+Name enchant armor~
+Levl 15 151 151 151 10 151 151 151 
+Rate 2 2 4 4 2 2 4 4 
+Spfun spell_enchant_armor~
+Targ 4
+Minp 8
+Mmna 100
+Beat 24
+Ndam ~
+Moff !Enchant Armor!~
+Mobj ~
+END
+
+Name enchant weapon~
+Levl 17 151 151 151 15 151 151 151 
+Rate 2 2 4 4 2 2 4 4 
+Spfun spell_enchant_weapon~
+Targ 4
+Minp 8
+Mmna 100
+Beat 24
+Ndam ~
+Moff !Enchant Weapon!~
+Mobj ~
+END
+
+Name weapon bless~
+Levl 15 15 151 151 15 15 151 151 
+Rate 2 2 4 4 2 2 4 4 
+Spfun spell_weapon_bless~
+Targ 4
+Minp 8
+Mmna 100
+Beat 24
+Ndam ~
+Moff !Weapon Bless!~
+Mobj ~
+END
+
+Name energy drain~
+Levl 19 151 151 151 18 151 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_energy_drain~
+Targ 1
+Minp 7
+Mmna 35
+Beat 12
+Ndam energy drain~
+Moff !Energy Drain!~
+Mobj ~
+END
+
+Name faerie fire~
+Levl 6 151 5 151 5 151 5 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_faerie_fire~
+Targ 1
+Minp 7
+Mmna 5
+Beat 12
+Ndam faerie fire~
+Moff The pink aura around you fades away.~
+Mobj ~
+END
+
+Name faerie fog~
+Levl 14 151 16 151 151 151 15 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_faerie_fog~
+Targ 0
+Minp 8
+Mmna 12
+Beat 12
+Ndam faerie fog~
+Moff !Faerie Fog!~
+Mobj ~
+END
+
+Name farsight~
+Levl 14 16 16 151 14 15 15 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_farsight~
+Targ 0
+Minp 8
+Mmna 36
+Beat 20
+Ndam farsight~
+Moff !Farsight!~
+Mobj ~
+END
+
+Name fireball~
+Levl 22 151 30 151 20 151 25 151 
+Rate 1 2 2 2 1 2 2 2 
+Spfun spell_fireball~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam fireball~
+Moff !Fireball!~
+Mobj ~
+END
+
+Name fireproof~
+Levl 13 12 151 151 13 12 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_fireproof~
+Targ 4
+Minp 8
+Mmna 10
+Beat 12
+Ndam ~
+Moff ~
+Mobj $p's protective aura fades.~
+END
+
+Name flamestrike~
+Levl 151 20 151 151 151 20 151 151 
+Rate 2 1 2 2 2 1 2 2 
+Spfun spell_flamestrike~
+Targ 1
+Minp 7
+Mmna 20
+Beat 12
+Ndam flamestrike~
+Moff !Flamestrike!~
+Mobj ~
+END
+
+Name fly~
+Levl 10 151 151 151 10 151 151 151 
+Rate 1 2 2 2 1 2 2 2 
+Spfun spell_fly~
+Targ 2
+Minp 8
+Mmna 10
+Beat 18
+Ndam ~
+Moff You slowly float to the ground.~
+Mobj ~
+END
+
+Name floating disc~
+Levl 4 151 151 151 4 151 151 151 
+Rate 1 2 2 2 1 2 2 2 
+Spfun spell_floating_disc~
+Targ 0
+Minp 8
+Mmna 40
+Beat 24
+Ndam ~
+Moff !Floating disc!~
+Mobj ~
+END
+
+Name frenzy~
+Levl 151 24 151 151 151 20 151 151 
+Rate 2 1 2 2 1 1 2 2 
+Spfun spell_frenzy~
+Targ 2
+Minp 8
+Mmna 30
+Beat 24
+Ndam ~
+Moff Your rage ebbs.~
+Mobj ~
+END
+
+Name synon aura~
+Levl 159 159 159 159 159 159 159 159 
+Rate 10 10 10 10 10 10 10 10 
+Spfun spell_synon_aura~
+Targ 2
+Minp 8
+Mmna 0
+Beat 0
+Ndam ~
+Moff ~
+Mobj ~
+END
+
+Name gate~
+Levl 20 20 152 152 20 152 120 152 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_gate~
+Targ 0
+Minp 7
+Mmna 80
+Beat 12
+Ndam ~
+Moff !Gate!~
+Mobj ~
+END
+
+Name giant strength~
+Levl 20 151 151 20 151 151 151 15 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_giant_strength~
+Targ 2
+Minp 8
+Mmna 20
+Beat 12
+Ndam ~
+Moff You feel weaker.~
+Mobj ~
+END
+
+Name harm~
+Levl 151 23 151 28 151 20 151 25 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_harm~
+Targ 1
+Minp 7
+Mmna 35
+Beat 12
+Ndam harm spell~
+Moff !Harm!,		~
+Mobj (null)~
+END
+
+Name haste~
+Levl 151 151 20 25 151 15 15 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_haste~
+Targ 2
+Minp 7
+Mmna 30
+Beat 12
+Ndam ~
+Moff You feel yourself slow down.~
+Mobj ~
+END
+
+Name heal~
+Levl 40 30 50 50 30 20 40 40 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_heal~
+Targ 2
+Minp 7
+Mmna 50
+Beat 12
+Ndam ~
+Moff !Heal!~
+Mobj ~
+END
+
+Name greater heal~
+Levl 50 40 151 151 45 151 151 151 
+Rate 4 4 4 4 4 4 4 4 
+Spfun spell_greater_heal~
+Targ 2
+Minp 7
+Mmna 100
+Beat 15
+Ndam ~
+Moff !Greater Heal!~
+Mobj ~
+END
+
+Name super heal~
+Levl 151 70 151 151 55 151 151 151 
+Rate 5 5 5 5 5 5 5 5 
+Spfun spell_super_heal~
+Targ 2
+Minp 7
+Mmna 150
+Beat 15
+Ndam ~
+Moff !Super Heal!~
+Mobj ~
+END
+
+Name ultimate heal~
+Levl 151 100 151 151 70 151 151 0 
+Rate 6 6 6 6 0 0 0 0 
+Spfun spell_ultimate_heal~
+Targ 2
+Minp 7
+Mmna 200
+Beat 15
+Ndam ~
+Moff !Ultimate Heal!~
+Mobj ~
+END
+
+Name group heal~
+Levl 151 50 151 151 151 151 151 151 
+Rate 4 4 4 4 4 4 4 4 
+Spfun spell_group_heal~
+Targ 2
+Minp 7
+Mmna 100
+Beat 15
+Ndam ~
+Moff !Group Heal!~
+Mobj ~
+END
+
+Name revitalize~
+Levl 151 110 151 151 151 50 151 151 
+Rate 5 5 5 5 5 4 5 5 
+Spfun spell_revitalize~
+Targ 2
+Minp 7
+Mmna 200
+Beat 15
+Ndam ~
+Moff !Revitalize!~
+Mobj ~
+END
+
+Name channel~
+Levl 50 151 151 151 40 151 151 151 
+Rate 4 4 4 4 3 4 4 4 
+Spfun spell_null~
+Targ 2
+Minp 7
+Mmna 100
+Beat 15
+Ndam ~
+Moff !Channel!~
+Mobj ~
+END
+
+Name heat metal~
+Levl 53 16 53 23 0 0 0 0 
+Rate 1 1 2 2 0 0 0 0 
+Spfun spell_heat_metal~
+Targ 1
+Minp 7
+Mmna 25
+Beat 18
+Ndam spell~
+Moff !Heat Metal!~
+Mobj ~
+END
+
+Name holy word~
+Levl 151 36 151 151 151 31 151 151 
+Rate 3 2 4 4 3 2 4 4 
+Spfun spell_holy_word~
+Targ 0
+Minp 7
+Mmna 200
+Beat 24
+Ndam divine wrath~
+Moff !Holy Word!~
+Mobj ~
+END
+
+Name identify~
+Levl 15 151 151 151 10 151 151 151 
+Rate 1 2 2 2 1 2 2 2 
+Spfun spell_identify~
+Targ 4
+Minp 8
+Mmna 12
+Beat 24
+Ndam ~
+Moff !Identify!~
+Mobj ~
+END
+
+Name infravision~
+Levl 9 151 10 151 9 151 10 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_infravision~
+Targ 2
+Minp 8
+Mmna 5
+Beat 18
+Ndam ~
+Moff You no longer see in the dark.~
+Mobj ~
+END
+
+Name invisibility~
+Levl 5 151 9 151 5 151 9 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_invis~
+Targ 5
+Minp 8
+Mmna 5
+Beat 12
+Ndam ~
+Moff You are no longer invisible.~
+Mobj $p fades into view.~
+END
+
+Name know alignment~
+Levl 12 9 151 151 12 9 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_know_alignment~
+Targ 2
+Minp 7
+Mmna 9
+Beat 12
+Ndam ~
+Moff !Know Alignment!~
+Mobj ~
+END
+
+Name lightning bolt~
+Levl 13 23 18 16 13 23 18 16 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_lightning_bolt~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam lightning bolt~
+Moff !Lightning Bolt!~
+Mobj ~
+END
+
+Name locate object~
+Levl 9 15 11 151 9 15 11 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_locate_object~
+Targ 0
+Minp 8
+Mmna 20
+Beat 18
+Ndam ~
+Moff !Locate Object!~
+Mobj ~
+END
+
+Name Energy spike~
+Levl 1 1 152 152 1 1 152 152 
+Rate 1 1 2 2 1 1 1 1 
+Spfun spell_energy_spike~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam energy spike~
+Moff !Energy Spike!~
+Mobj ~
+END
+
+Name mass healing~
+Levl 151 40 151 151 151 35 151 151 
+Rate 4 4 4 4 4 4 4 4 
+Spfun spell_mass_healing~
+Targ 0
+Minp 8
+Mmna 100
+Beat 36
+Ndam ~
+Moff !Mass Healing!~
+Mobj ~
+END
+
+Name mass invis~
+Levl 40 151 151 151 35 151 151 151 
+Rate 2 2 2 2 1 2 2 2 
+Spfun spell_mass_invis~
+Targ 0
+Minp 8
+Mmna 20
+Beat 24
+Ndam ~
+Moff You are no longer invisible.~
+Mobj ~
+END
+
+Name nexus~
+Levl 40 151 151 151 35 151 151 151 
+Rate 2 4 4 4 2 4 4 4 
+Spfun spell_nexus~
+Targ 0
+Minp 8
+Mmna 150
+Beat 36
+Ndam ~
+Moff !Nexus!~
+Mobj ~
+END
+
+Name pass door~
+Levl 24 32 25 37 20 28 21 33 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_pass_door~
+Targ 3
+Minp 8
+Mmna 20
+Beat 12
+Ndam ~
+Moff You feel solid again.~
+Mobj ~
+END
+
+Name knock~
+Levl 40 151 151 151 151 151 20 151 
+Rate 2 2 2 2 2 2 1 2 
+Spfun spell_knock~
+Targ 1
+Minp 8
+Mmna 20
+Beat 12
+Ndam ~
+Moff !Knock!~
+Mobj ~
+END
+
+Name group defense~
+Levl 50 50 151 151 40 40 151 151 
+Rate 4 4 5 5 3 3 5 5 
+Spfun spell_group_defense~
+Targ 2
+Minp 8
+Mmna 20
+Beat 12
+Ndam ~
+Moff The group defense fades.~
+Mobj ~
+END
+
+Name plague~
+Levl 20 17 151 151 20 17 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_plague~
+Targ 1
+Minp 7
+Mmna 20
+Beat 12
+Ndam sickness~
+Moff Your sores vanish.~
+Mobj ~
+END
+
+Name poison~
+Levl 151 151 15 151 151 151 10 151 
+Rate 2 2 1 2 2 2 1 2 
+Spfun spell_poison~
+Targ 6
+Minp 7
+Mmna 10
+Beat 12
+Ndam poison~
+Moff You feel less sick.~
+Mobj The poison on $p dries up.~
+END
+
+Name portal~
+Levl 35 151 151 151 30 151 151 151 
+Rate 2 2 4 4 2 2 4 4 
+Spfun spell_portal~
+Targ 0
+Minp 8
+Mmna 100
+Beat 24
+Ndam ~
+Moff !Portal!~
+Mobj ~
+END
+
+Name protection evil~
+Levl 151 9 151 151 151 9 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_protection_evil~
+Targ 3
+Minp 8
+Mmna 5
+Beat 12
+Ndam ~
+Moff You feel less protected.~
+Mobj ~
+END
+
+Name protection good~
+Levl 12 9 151 151 12 9 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_protection_good~
+Targ 3
+Minp 8
+Mmna 5
+Beat 12
+Ndam ~
+Moff You feel less protected.~
+Mobj ~
+END
+
+Name ray of truth~
+Levl 151 35 151 151 151 30 151 151 
+Rate 2 1 2 2 2 1 2 2 
+Spfun spell_ray_of_truth~
+Targ 1
+Minp 7
+Mmna 20
+Beat 12
+Ndam ray of truth~
+Moff !Ray of Truth!~
+Mobj ~
+END
+
+Name recharge~
+Levl 9 151 151 151 5 151 151 151 
+Rate 1 2 2 2 1 2 2 2 
+Spfun spell_recharge~
+Targ 4
+Minp 8
+Mmna 60
+Beat 24
+Ndam ~
+Moff !Recharge!~
+Mobj ~
+END
+
+Name refresh~
+Levl 8 5 151 151 8 5 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_refresh~
+Targ 2
+Minp 8
+Mmna 12
+Beat 18
+Ndam refresh~
+Moff !Refresh!~
+Mobj ~
+END
+
+Name remove curse~
+Levl 151 18 151 151 151 15 151 151 
+Rate 2 1 2 2 2 1 2 2 
+Spfun spell_remove_curse~
+Targ 5
+Minp 8
+Mmna 5
+Beat 12
+Ndam ~
+Moff !Remove Curse!~
+Mobj ~
+END
+
+Name sanctuary~
+Levl 35 20 40 40 30 15 35 35 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_sanctuary~
+Targ 2
+Minp 8
+Mmna 75
+Beat 12
+Ndam ~
+Moff The white aura around your body fades.~
+Mobj ~
+END
+
+Name group sanctuary~
+Levl 151 50 151 151 151 40 151 151 
+Rate 4 4 4 4 4 3 4 4 
+Spfun spell_group_sanctuary~
+Targ 2
+Minp 8
+Mmna 75
+Beat 12
+Ndam ~
+Moff The white aura around your body fades.~
+Mobj ~
+END
+
+Name divine protection~
+Levl 151 30 151 151 151 25 151 151 
+Rate 2 1 2 2 2 1 2 2 
+Spfun spell_divine_protection~
+Targ 2
+Minp 8
+Mmna 100
+Beat 18
+Ndam ~
+Moff You are no longer protected by the gods.~
+Mobj ~
+END
+
+Name shield~
+Levl 30 151 35 40 25 151 30 35 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_shield~
+Targ 2
+Minp 8
+Mmna 12
+Beat 18
+Ndam ~
+Moff Your force shield shimmers then fades away.~
+Mobj ~
+END
+
+Name shadow shield~
+Levl 151 40 151 151 151 35 151 0 
+Rate 2 2 2 2 2 2 1 2 
+Spfun spell_shadow_shield~
+Targ 2
+Minp 8
+Mmna 100
+Beat 18
+Ndam ~
+Moff The shadow about your body fades away.~
+Mobj ~
+END
+
+Name steel skin~
+Levl 151 151 151 151 151 151 151 35 
+Rate 2 2 2 2 2 2 2 2 
+Spfun spell_steel_skin~
+Targ 2
+Minp 8
+Mmna 100
+Beat 18
+Ndam ~
+Moff Your skin returns to normal.~
+Mobj ~
+END
+
+Name sturning~
+Levl 80 151 151 151 70 151 151 151 
+Rate 4 5 5 5 3 5 5 5 
+Spfun spell_sturning~
+Targ 2
+Minp 8
+Mmna 150
+Beat 18
+Ndam ~
+Moff You are no longer surrounded by a magical shield.~
+Mobj ~
+END
+
+Name mystic armor~
+Levl 20 151 151 151 15 151 151 151 
+Rate 3 4 4 4 2 4 4 4 
+Spfun spell_mystic_armor~
+Targ 2
+Minp 8
+Mmna 100
+Beat 18
+Ndam ~
+Moff You feel somewhat vulnerable as your mystic armor fades out of existance.~
+Mobj ~
+END
+
+Name resilience~
+Levl 20 30 151 151 18 28 151 151 
+Rate 3 3 4 4 2 2 4 4 
+Spfun spell_resilience~
+Targ 2
+Minp 8
+Mmna 50
+Beat 18
+Ndam ~
+Moff Your no longer resist draining attacks.~
+Mobj (null)~
+END
+
+Name magic resistance~
+Levl 20 151 151 35 18 151 15 30 
+Rate 4 4 4 4 4 4 4 4 
+Spfun spell_magic_resistance~
+Targ 2
+Minp 8
+Mmna 50
+Beat 18
+Ndam ~
+Moff Your no longer resist magic.~
+Mobj (null)~
+END
+
+Name shocking grasp~
+Levl 10 151 151 13 8 151 151 11 
+Rate 1 2 2 2 1 2 2 1 
+Spfun spell_shocking_grasp~
+Targ 1
+Minp 7
+Mmna 15
+Beat 12
+Ndam shocking grasp~
+Moff !Shocking Grasp!~
+Mobj ~
+END
+
+Name sleep~
+Levl 10 151 11 151 8 151 9 151 
+Rate 1 2 2 2 1 2 1 2 
+Spfun spell_sleep~
+Targ 1
+Minp 8
+Mmna 15
+Beat 12
+Ndam ~
+Moff You feel less tired.~
+Mobj ~
+END
+
+Name slow~
+Levl 23 30 151 151 20 27 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_slow~
+Targ 1
+Minp 7
+Mmna 30
+Beat 12
+Ndam ~
+Moff You feel yourself speed up.~
+Mobj ~
+END
+
+Name stone skin~
+Levl 151 151 40 40 151 151 35 35 
+Rate 2 2 2 2 2 2 1 1 
+Spfun spell_stone_skin~
+Targ 3
+Minp 8
+Mmna 12
+Beat 18
+Ndam ~
+Moff Your skin feels soft again.~
+Mobj ~
+END
+
+Name bark skin~
+Levl 151 50 151 151 151 40 151 151 
+Rate 2 1 2 2 2 1 2 2 
+Spfun spell_bark_skin~
+Targ 3
+Minp 8
+Mmna 12
+Beat 18
+Ndam ~
+Moff Your skin feels soft again.~
+Mobj ~
+END
+
+Name diamond skin~
+Levl 40 151 151 151 20 30 151 151 
+Rate 1 2 2 2 2 2 2 2 
+Spfun spell_diamond_skin~
+Targ 3
+Minp 8
+Mmna 12
+Beat 18
+Ndam ~
+Moff Your skin feels soft again.~
+Mobj ~
+END
+
+Name mud skin~
+Levl 151 151 151 151 151 25 151 151 
+Rate 2 1 2 2 2 1 2 2 
+Spfun spell_mud_skin~
+Targ 3
+Minp 8
+Mmna 12
+Beat 18
+Ndam ~
+Moff Your skin feels clean again.~
+Mobj ~
+END
+
+Name moss skin~
+Levl 151 151 151 151 151 30 151 151 
+Rate 2 2 2 2 2 1 2 2 
+Spfun spell_moss_skin~
+Targ 3
+Minp 8
+Mmna 12
+Beat 18
+Ndam ~
+Moff Your skin feels normal again.~
+Mobj ~
+END
+
+Name music~
+Levl 1 1 1 1 1 1 1 1 
+Rate 20 20 20 20 20 20 20 20 
+Spfun spell_null~
+Targ 0
+Minp 5
+Mmna 0
+Beat 5
+Ndam ~
+Moff !music!~
+Mobj ~
+END
+
+Name summon~
+Levl 24 151 151 151 20 151 151 151 
+Rate 1 2 2 2 1 2 2 2 
+Spfun spell_summon~
+Targ 0
+Minp 8
+Mmna 50
+Beat 12
+Ndam ~
+Moff !Summon!~
+Mobj ~
+END
+
+Name summon ggolem~
+Levl 40 151 151 151 35 151 151 151 
+Rate 3 4 4 4 3 4 4 4 
+Spfun spell_summon_ggolem~
+Targ 0
+Minp 8
+Mmna 50
+Beat 12
+Ndam ~
+Moff !Summon Ggolem!~
+Mobj ~
+END
+
+Name lesser ggolem~
+Levl 40 151 151 151 35 151 151 151 
+Rate 3 4 4 4 3 4 4 4 
+Spfun spell_lesser_golem~
+Targ 0
+Minp 8
+Mmna 25
+Beat 6
+Ndam ~
+Moff !Lesser Golem!~
+Mobj ~
+END
+
+Name slayer~
+Levl 40 151 151 151 35 151 151 151 
+Rate 3 4 4 4 3 4 4 4 
+Spfun spell_call_slayer~
+Targ 0
+Minp 8
+Mmna 25
+Beat 6
+Ndam ~
+Moff !Slayer!~
+Mobj ~
+END
+
+Name create mummy~
+Levl 40 151 151 151 35 151 151 151 
+Rate 3 4 4 4 3 4 4 4 
+Spfun spell_create_mummy~
+Targ 0
+Minp 8
+Mmna 25
+Beat 6
+Ndam ~
+Moff !Create Mummy!~
+Mobj ~
+END
+
+Name decay corpse~
+Levl 40 151 151 151 35 151 151 151 
+Rate 3 4 4 4 3 4 4 4 
+Spfun spell_decay_corpse~
+Targ 0
+Minp 8
+Mmna 25
+Beat 6
+Ndam ~
+Moff !Decay Corpse!~
+Mobj ~
+END
+
+Name magic plate~
+Levl 40 151 151 151 35 151 151 151 
+Rate 3 4 4 4 3 4 4 4 
+Spfun spell_magic_plate~
+Targ 0
+Minp 8
+Mmna 25
+Beat 6
+Ndam ~
+Moff !Magic Plate!~
+Mobj ~
+END
+
+Name raise dead~
+Levl 40 151 151 151 35 151 151 151 
+Rate 3 4 4 4 3 4 4 4 
+Spfun spell_raise_dead~
+Targ 0
+Minp 8
+Mmna 25
+Beat 6
+Ndam ~
+Moff !Raise Dead!~
+Mobj ~
+END
+
+Name adamantite golem~
+Levl 40 151 151 151 35 151 151 151 
+Rate 3 4 4 4 3 4 4 4 
+Spfun spell_adamantite_golem~
+Targ 0
+Minp 8
+Mmna 25
+Beat 6
+Ndam ~
+Moff !Adamantite Golem!~
+Mobj ~
+END
+
+Name stone golem~
+Levl 40 151 151 151 35 151 151 151 
+Rate 3 4 4 4 3 4 4 4 
+Spfun spell_stone_golem~
+Targ 0
+Minp 8
+Mmna 25
+Beat 6
+Ndam ~
+Moff !Stone Golem!~
+Mobj ~
+END
+
+Name iron golem~
+Levl 40 151 151 151 35 151 151 151 
+Rate 3 4 4 4 3 4 4 4 
+Spfun spell_iron_golem~
+Targ 0
+Minp 8
+Mmna 25
+Beat 6
+Ndam ~
+Moff !Iron Golem!~
+Mobj ~
+END
+
+Name raise skeleton~
+Levl 40 151 151 151 35 151 151 151 
+Rate 3 4 4 4 3 4 4 4 
+Spfun spell_raise_skeleton~
+Targ 0
+Minp 8
+Mmna 25
+Beat 6
+Ndam ~
+Moff !Raise Skeleton!~
+Mobj ~
+END
+
+Name resurrect~
+Levl 40 151 151 151 35 151 151 151 
+Rate 3 4 4 4 3 4 4 4 
+Spfun spell_resurrect~
+Targ 0
+Minp 8
+Mmna 25
+Beat 6
+Ndam ~
+Moff !Resurrect!~
+Mobj ~
+END
+
+Name fire and ice~
+Levl 151 60 151 151 55 151 151 151 
+Rate 4 5 5 5 4 5 5 5 
+Spfun spell_fire_and_ice~
+Targ 1
+Minp 8
+Mmna 50
+Beat 12
+Ndam fire and ice~
+Moff !Fire and Ice!~
+Mobj ~
+END
+
+Name preserve~
+Levl 25 12 151 151 20 10 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_preserve~
+Targ 4
+Minp 8
+Mmna 50
+Beat 12
+Ndam ~
+Moff !Preserve!~
+Mobj ~
+END
+
+Name teleport~
+Levl 13 151 151 151 151 151 151 0 
+Rate 1 2 2 2 1 2 2 2 
+Spfun spell_teleport~
+Targ 3
+Minp 7
+Mmna 35
+Beat 12
+Ndam ~
+Moff !Teleport!~
+Mobj ~
+END
+
+Name ventriloquate~
+Levl 1 151 2 151 1 151 1 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_ventriloquate~
+Targ 0
+Minp 8
+Mmna 5
+Beat 12
+Ndam ~
+Moff !Ventriloquate!~
+Mobj ~
+END
+
+Name weaken~
+Levl 11 14 151 151 10 13 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_weaken~
+Targ 1
+Minp 7
+Mmna 20
+Beat 12
+Ndam spell~
+Moff You feel stronger.~
+Mobj ~
+END
+
+Name word of recall~
+Levl 20 25 151 151 15 20 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_word_of_recall~
+Targ 3
+Minp 5
+Mmna 5
+Beat 12
+Ndam ~
+Moff !Word of Recall!~
+Mobj ~
+END
+
+Name acid breath~
+Levl 31 32 151 151 30 31 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_acid_breath~
+Targ 1
+Minp 7
+Mmna 100
+Beat 24
+Ndam blast of acid~
+Moff !Acid Breath!~
+Mobj ~
+END
+
+Name fire breath~
+Levl 33 34 151 151 31 32 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_fire_breath~
+Targ 1
+Minp 7
+Mmna 200
+Beat 24
+Ndam blast of flame~
+Moff The smoke leaves your eyes.~
+Mobj ~
+END
+
+Name frost breath~
+Levl 32 33 151 151 30 31 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_frost_breath~
+Targ 1
+Minp 7
+Mmna 125
+Beat 24
+Ndam blast of frost~
+Moff !Frost Breath!~
+Mobj ~
+END
+
+Name gas breath~
+Levl 35 42 151 151 33 40 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_gas_breath~
+Targ 0
+Minp 7
+Mmna 175
+Beat 24
+Ndam blast of gas~
+Moff !Gas Breath!~
+Mobj ~
+END
+
+Name lightning breath~
+Levl 30 40 151 151 25 35 151 151 
+Rate 1 1 2 2 1 1 2 2 
+Spfun spell_lightning_breath~
+Targ 1
+Minp 7
+Mmna 150
+Beat 24
+Ndam blast of lightning~
+Moff !Lightning Breath!~
+Mobj ~
+END
+
+Name random~
+Levl 152 152 152 152 152 152 152 152 
+Rate 0 0 0 0 0 0 0 0 
+Spfun spell_random~
+Targ 0
+Minp 8
+Mmna 20
+Beat 12
+Ndam ~
+Moff ~
+Mobj ~
+END
+
+Name drain blade~
+Levl 151 151 151 151 151 151 151 151 
+Rate 0 0 0 0 0 0 0 0 
+Spfun spell_drain_blade~
+Targ 4
+Minp 8
+Mmna 15
+Beat 12
+Ndam ~
+Moff !Drain Blade!~
+Mobj $p looks less malevolant.~
+END
+
+Name shocking blade~
+Levl 151 151 151 151 151 151 151 151 
+Rate 0 0 0 0 0 0 0 0 
+Spfun spell_shocking_blade~
+Targ 4
+Minp 8
+Mmna 15
+Beat 12
+Ndam ~
+Moff !Shocking Blade!~
+Mobj $p looses its electrical charge.~
+END
+
+Name flame blade~
+Levl 151 151 151 151 151 151 151 151 
+Rate 0 0 0 0 0 0 0 0 
+Spfun spell_flame_blade~
+Targ 4
+Minp 8
+Mmna 15
+Beat 12
+Ndam ~
+Moff !Flame Blade!~
+Mobj $p looses its fiery glow.~
+END
+
+Name frost blade~
+Levl 151 151 151 151 151 151 151 151 
+Rate 0 0 0 0 0 0 0 0 
+Spfun spell_frost_blade~
+Targ 4
+Minp 8
+Mmna 15
+Beat 12
+Ndam ~
+Moff !Frost Blade!~
+Mobj $p warms back up.~
+END
+
+Name sharp blade~
+Levl 151 151 151 151 151 151 151 151 
+Rate 0 0 0 0 0 0 0 0 
+Spfun spell_sharp_blade~
+Targ 4
+Minp 8
+Mmna 15
+Beat 12
+Ndam ~
+Moff !Sharp Blade!~
+Mobj $p becomes quite dull.~
+END
+
+Name vorpal blade~
+Levl 151 151 151 151 151 151 151 151 
+Rate 0 0 0 0 0 0 0 0 
+Spfun spell_vorpal_blade~
+Targ 4
+Minp 8
+Mmna 15
+Beat 12
+Ndam ~
+Moff !Vorpal Blade!~
+Mobj $p becomes quite dull.~
+END
+
+Name general purpose~
+Levl 151 151 151 151 151 151 151 151 
+Rate 0 0 0 0 0 0 0 0 
+Spfun spell_general_purpose~
+Targ 1
+Minp 7
+Mmna 0
+Beat 12
+Ndam general purpose ammo~
+Moff !General Purpose Ammo!~
+Mobj ~
+END
+
+Name high explosive~
+Levl 151 151 151 151 151 151 151 151 
+Rate 0 0 0 0 0 0 0 0 
+Spfun spell_high_explosive~
+Targ 1
+Minp 7
+Mmna 0
+Beat 12
+Ndam high explosive ammo~
+Moff !High Explosive Ammo!~
+Mobj ~
+END
+
+Name axe~
+Levl 151 151 151 1 151 151 151 1 
+Rate 6 6 5 4 6 6 5 4 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Axe!~
+Mobj ~
+END
+
+Name dagger~
+Levl 1 1 1 1 1 1 1 1 
+Rate 2 3 2 2 2 3 2 2 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Dagger!~
+Mobj ~
+END
+
+Name flail~
+Levl 151 151 151 1 151 151 151 1 
+Rate 6 3 6 4 6 3 6 4 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Flail!~
+Mobj ~
+END
+
+Name mace~
+Levl 1 1 1 1 1 1 1 1 
+Rate 5 2 3 3 5 2 3 3 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Mace!~
+Mobj ~
+END
+
+Name polearm~
+Levl 151 151 151 1 151 151 150 1 
+Rate 6 6 6 4 6 6 6 4 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Polearm!~
+Mobj ~
+END
+
+Name shield block~
+Levl 1 1 1 1 1 1 1 1 
+Rate 6 4 6 2 6 4 6 2 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Shield!~
+Mobj ~
+END
+
+Name spear~
+Levl 1 1 1 1 1 1 1 1 
+Rate 4 4 4 3 4 4 4 3 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Spear!~
+Mobj ~
+END
+
+Name sword~
+Levl 1 1 1 1 1 1 1 1 
+Rate 5 6 3 2 5 6 3 2 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam ~
+Moff !sword!~
+Mobj ~
+END
+
+Name whip~
+Levl 1 1 1 1 1 1 1 1 
+Rate 6 5 5 4 6 5 5 4 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Whip!~
+Mobj ~
+END
+
+Name backstab~
+Levl 151 151 1 151 151 1 151 151 
+Rate 5 5 4 5 5 5 3 5 
+Spfun spell_null~
+Targ 0
+Minp 8
+Mmna 0
+Beat 24
+Ndam backstab~
+Moff !Backstab!~
+Mobj ~
+END
+
+Name cleave~
+Levl 151 151 1 151 151 1 151 151 
+Rate 5 5 4 5 5 5 3 5 
+Spfun spell_null~
+Targ 0
+Minp 8
+Mmna 0
+Beat 24
+Ndam cleave~
+Moff !Cleave!~
+Mobj ~
+END
+
+Name blackjack~
+Levl 151 151 1 151 151 1 151 151 
+Rate 5 5 4 5 5 5 3 5 
+Spfun spell_null~
+Targ 0
+Minp 8
+Mmna 0
+Beat 24
+Ndam blackjack~
+Moff !Blackjack!~
+Mobj ~
+END
+
+Name stake~
+Levl 151 45 151 151 151 40 151 151 
+Rate 5 4 5 5 5 4 5 5 
+Spfun spell_null~
+Targ 0
+Minp 8
+Mmna 0
+Beat 24
+Ndam stake~
+Moff !Stake!~
+Mobj ~
+END
+
+Name bash~
+Levl 151 151 151 1 151 151 151 1 
+Rate 5 5 5 4 4 4 4 3 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 24
+Ndam bash~
+Moff !Bash!~
+Mobj ~
+END
+
+Name tail~
+Levl 151 151 151 1 151 151 151 1 
+Rate 5 5 5 4 4 4 4 3 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 24
+Ndam tail~
+Moff !Tail!~
+Mobj ~
+END
+
+Name doorbash~
+Levl 151 151 151 1 151 151 151 1 
+Rate 5 5 5 4 4 4 4 3 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 24
+Ndam doorbash~
+Moff !Doorbash!~
+Mobj ~
+END
+
+Name gouge~
+Levl 151 151 25 25 151 151 20 20 
+Rate 4 4 3 3 4 4 3 3 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 20
+Ndam gouge~
+Moff !Gouge!~
+Mobj ~
+END
+
+Name smithing~
+Levl 151 151 151 25 151 151 151 25 
+Rate 4 4 3 3 4 4 3 3 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 20
+Ndam ~
+Moff !Smithing!~
+Mobj ~
+END
+
+Name tithe~
+Levl 151 50 151 151 151 45 151 151 
+Rate 4 4 3 3 4 4 3 3 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 15
+Ndam ~
+Moff !Tithe!~
+Mobj ~
+END
+
+Name sharpen~
+Levl 151 151 151 40 151 151 151 35 
+Rate 4 4 3 3 4 4 3 3 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 15
+Ndam ~
+Moff !Sharpen!~
+Mobj ~
+END
+
+Name srush~
+Levl 151 151 151 40 151 151 151 35 
+Rate 5 5 5 4 4 4 4 4 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 24
+Ndam srush~
+Moff !Srush!~
+Mobj ~
+END
+
+Name berserk~
+Levl 151 151 151 20 151 151 151 15 
+Rate 4 4 4 4 4 4 4 3 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 24
+Ndam ~
+Moff You feel your pulse slow down.~
+Mobj ~
+END
+
+Name warcry~
+Levl 151 151 151 15 151 151 151 10 
+Rate 4 4 4 4 4 4 4 3 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 20
+Ndam ~
+Moff Your battle rage slowly fades away.~
+Mobj ~
+END
+
+Name bloodlust~
+Levl 151 151 151 151 151 151 151 15 
+Rate 5 5 5 5 5 5 5 4 
+Spfun spell_null~
+Targ 0
+Minp 8
+Mmna 50
+Beat 20
+Ndam ~
+Moff Your lust for blood fades away.~
+Mobj ~
+END
+
+Name nature~
+Levl 151 151 151 151 151 15 151 151 
+Rate 5 5 5 5 5 4 5 5 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 50
+Beat 20
+Ndam ~
+Moff You feel more human again.~
+Mobj ~
+END
+
+Name bow~
+Levl 20 20 20 20 20 20 20 20 
+Rate 4 4 4 4 4 4 4 4 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam arrow~
+Moff !Bow!~
+Mobj ~
+END
+
+Name dirt kicking~
+Levl 151 151 3 3 151 151 3 3 
+Rate 5 5 4 4 5 5 3 3 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 24
+Ndam kicked dirt~
+Moff You rub the dirt out of your eyes.~
+Mobj ~
+END
+
+Name track~
+Levl 151 151 10 10 151 10 10 10 
+Rate 5 5 4 3 5 5 4 3 
+Spfun spell_null~
+Targ 0
+Minp 8
+Mmna 0
+Beat 12
+Ndam ~
+Moff !Track!~
+Mobj ~
+END
+
+Name disarm~
+Levl 151 151 12 11 151 151 10 9 
+Rate 5 5 5 4 5 5 5 4 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 24
+Ndam ~
+Moff !Disarm!~
+Mobj ~
+END
+
+Name engage~
+Levl 151 151 40 30 151 151 35 25 
+Rate 5 5 4 3 5 5 4 3 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 5
+Ndam ~
+Moff !Engage!~
+Mobj ~
+END
+
+Name whirlwind~
+Levl 151 151 151 50 151 151 151 45 
+Rate 5 5 5 4 5 5 5 3 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 5
+Ndam WhirlWind~
+Moff !Whirlwind!~
+Mobj ~
+END
+
+Name circle~
+Levl 151 151 50 151 151 151 45 151 
+Rate 5 5 4 5 5 5 3 5 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 8
+Ndam Circle~
+Moff !Circle!~
+Mobj ~
+END
+
+Name assassinate~
+Levl 151 151 151 151 151 151 45 151 
+Rate 7 7 6 7 7 7 5 7 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 8
+Ndam Assassinate~
+Moff !Assassinate!~
+Mobj ~
+END
+
+Name spin~
+Levl 151 50 151 151 151 45 151 151 
+Rate 5 4 5 5 5 3 5 5 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 10
+Ndam Spin~
+Moff !Spin!~
+Mobj ~
+END
+
+Name rage~
+Levl 151 151 151 151 151 151 151 80 
+Rate 10 10 10 10 10 10 10 8 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 10
+Ndam Rage~
+Moff !Rage!~
+Mobj ~
+END
+
+Name peek~
+Levl 151 151 20 151 151 151 15 151 
+Rate 4 4 4 4 4 4 3 4 
+Spfun spell_null~
+Targ 0
+Minp 8
+Mmna 0
+Beat 5
+Ndam Peek~
+Moff !Peek!~
+Mobj ~
+END
+
+Name dodge~
+Levl 25 22 1 13 20 20 1 10 
+Rate 7 7 4 5 7 7 3 4 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Dodge!~
+Mobj ~
+END
+
+Name enhanced damage~
+Levl 50 40 25 1 45 35 20 1 
+Rate 7 7 5 3 7 7 4 2 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Enhanced Damage!~
+Mobj ~
+END
+
+Name ultra damage~
+Levl 151 151 80 75 151 151 75 70 
+Rate 8 8 7 5 8 8 7 5 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Ultra Damage!~
+Mobj ~
+END
+
+Name hero damage~
+Levl 151 151 151 150 151 151 151 150 
+Rate 10 10 10 8 10 10 10 7 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Hero Damage!~
+Mobj ~
+END
+
+Name demand~
+Levl 151 151 151 30 151 151 151 25 
+Rate 5 5 5 4 5 5 5 3 
+Spfun spell_null~
+Targ 0
+Minp 8
+Mmna 0
+Beat 12
+Ndam ~
+Moff ~
+Mobj ~
+END
+
+Name envenom~
+Levl 151 151 10 151 151 151 8 151 
+Rate 6 5 4 6 6 5 3 6 
+Spfun spell_null~
+Targ 0
+Minp 5
+Mmna 0
+Beat 36
+Ndam ~
+Moff !Envenom!~
+Mobj ~
+END
+
+Name hand to hand~
+Levl 151 151 15 6 151 151 10 2 
+Rate 7 6 6 4 7 6 6 3 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Hand to Hand!~
+Mobj ~
+END
+
+Name kick~
+Levl 151 18 24 6 151 45 24 5 
+Rate 12 5 4 4 12 7 6 4 
+Spfun spell_null~
+Targ 1
+Minp 7
+Mmna 0
+Beat 12
+Ndam kick~
+Moff !Kick!~
+Mobj ~
+END
+
+Name butchering~
+Levl 4 4 4 4 4 4 4 3 
+Rate 3 3 3 2 3 3 3 1 
+Spfun spell_null~
+Targ 1
+Minp 5
+Mmna 0
+Beat 12
+Ndam butchering~
+Moff !Butchering!~
+Mobj ~
+END
+
+Name knee~
+Levl 151 151 25 20 151 151 20 15 
+Rate 4 4 4 2 4 4 4 1 
+Spfun spell_null~
+Targ 1
+Minp 7
+Mmna 0
+Beat 12
+Ndam knee~
+Moff !Knee!~
+Mobj ~
+END
+
+Name feed~
+Levl 151 151 25 20 151 151 20 15 
+Rate 4 4 4 2 4 4 4 1 
+Spfun spell_null~
+Targ 1
+Minp 7
+Mmna 0
+Beat 8
+Ndam feed~
+Moff !Feed!~
+Mobj ~
+END
+
+Name parry~
+Levl 22 20 13 1 20 18 11 1 
+Rate 5 5 5 4 5 5 5 3 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Parry!~
+Mobj ~
+END
+
+Name rescue~
+Levl 151 151 151 1 151 151 151 1 
+Rate 4 4 4 4 4 4 4 3 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 12
+Ndam ~
+Moff !Rescue!~
+Mobj ~
+END
+
+Name familiar~
+Levl 45 151 151 151 40 151 151 151 
+Rate 3 3 3 3 3 3 3 3 
+Spfun spell_null~
+Targ 0
+Minp 8
+Mmna 0
+Beat 10
+Ndam ~
+Moff !Familiar!~
+Mobj ~
+END
+
+Name spell craft~
+Levl 80 151 151 151 70 151 151 151 
+Rate 5 7 7 7 4 7 7 7 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 12
+Ndam ~
+Moff !Spell Craft!~
+Mobj ~
+END
+
+Name trip~
+Levl 151 151 1 14 151 151 1 10 
+Rate 6 6 4 5 6 6 3 4 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 24
+Ndam trip~
+Moff !Trip!~
+Mobj ~
+END
+
+Name second attack~
+Levl 30 24 12 5 25 20 8 4 
+Rate 7 6 4 3 6 5 3 2 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Second Attack!~
+Mobj ~
+END
+
+Name third attack~
+Levl 151 151 45 40 151 151 40 35 
+Rate 5 5 5 4 5 5 5 5 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Third Attack!~
+Mobj ~
+END
+
+Name fourth attack~
+Levl 151 151 151 80 151 151 151 70 
+Rate 5 5 5 4 5 5 5 4 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Fourth Attack!~
+Mobj ~
+END
+
+Name fifth attack~
+Levl 151 151 151 100 151 151 151 90 
+Rate 7 7 7 5 7 7 7 5 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Fifth Attack!~
+Mobj ~
+END
+
+Name critical strike~
+Levl 151 151 75 65 151 151 65 55 
+Rate 4 4 4 4 4 4 3 3 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Critical Strike!~
+Mobj ~
+END
+
+Name counter~
+Levl 151 151 80 70 151 151 70 60 
+Rate 4 4 4 4 4 4 4 4 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam counter~
+Moff !Counter!~
+Mobj ~
+END
+
+Name phase~
+Levl 151 151 50 45 151 151 40 35 
+Rate 4 4 5 4 4 4 4 4 
+Spfun spell_null~
+Targ 0
+Minp 7
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Phase!~
+Mobj ~
+END
+
+Name dual wield~
+Levl 151 151 40 20 151 151 30 10 
+Rate 4 4 3 3 4 4 3 3 
+Spfun spell_null~
+Targ 0
+Minp 5
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Dual Wield!~
+Mobj ~
+END
+
+Name brew~
+Levl 15 9 16 6 14 8 15 5 
+Rate 5 5 5 4 5 5 5 4 
+Spfun spell_null~
+Targ 0
+Minp 8
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Brew!~
+Mobj ~
+END
+
+Name fast healing~
+Levl 151 151 15 5 151 151 10 5 
+Rate 5 5 5 4 5 5 5 4 
+Spfun spell_null~
+Targ 0
+Minp 4
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Fast Healing!~
+Mobj ~
+END
+
+Name haggle~
+Levl 10 18 1 14 10 18 1 14 
+Rate 5 5 3 5 5 5 2 5 
+Spfun spell_null~
+Targ 0
+Minp 5
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Haggle!~
+Mobj ~
+END
+
+Name hide~
+Levl 151 151 1 151 151 151 1 151 
+Rate 4 4 3 4 4 4 3 4 
+Spfun spell_null~
+Targ 0
+Minp 5
+Mmna 0
+Beat 12
+Ndam ~
+Moff !Hide!~
+Mobj ~
+END
+
+Name lore~
+Levl 10 10 10 20 10 10 10 10 
+Rate 4 4 3 6 4 4 3 6 
+Spfun spell_null~
+Targ 0
+Minp 5
+Mmna 0
+Beat 36
+Ndam ~
+Moff !Lore!~
+Mobj ~
+END
+
+Name meditation~
+Levl 5 6 151 151 5 5 151 151 
+Rate 4 4 6 6 3 3 5 5 
+Spfun spell_null~
+Targ 0
+Minp 4
+Mmna 0
+Beat 0
+Ndam ~
+Moff Meditation~
+Mobj ~
+END
+
+Name peek~
+Levl 121 121 12 121 121 10 121 121 
+Rate 5 7 3 5 5 2 5 5 
+Spfun spell_null~
+Targ 0
+Minp 8
+Mmna 0
+Beat 0
+Ndam ~
+Moff !Peek!~
+Mobj ~
+END
+
+Name pick lock~
+Levl 151 151 7 151 151 151 5 151 
+Rate 5 5 4 5 5 5 3 5 
+Spfun spell_null~
+Targ 0
+Minp 8
+Mmna 0
+Beat 8
+Ndam ~
+Moff !Pick!~
+Mobj ~
+END
+
+Name sneak~
+Levl 151 151 4 151 151 151 3 151 
+Rate 5 5 4 6 5 5 3 5 
+Spfun spell_null~
+Targ 0
+Minp 8
+Mmna 0
+Beat 12
+Ndam ~
+Moff You no longer feel stealthy.~
+Mobj ~
+END
+
+Name steal~
+Levl 151 151 5 151 151 151 151 151 
+Rate 5 5 4 5 5 5 3 5 
+Spfun spell_null~
+Targ 0
+Minp 8
+Mmna 0
+Beat 24
+Ndam ~
+Moff !Steal!~
+Mobj ~
+END
+
+Name scrolls~
+Levl 1 1 18 149 1 1 18 151 
+Rate 2 3 5 8 2 3 5 8 
+Spfun spell_null~
+Targ 0
+Minp 8
+Mmna 0
+Beat 24
+Ndam ~
+Moff !Scrolls!~
+Mobj ~
+END
+
+Name staves~
+Levl 1 1 18 149 1 1 18 151 
+Rate 2 3 5 8 2 3 5 8 
+Spfun spell_null~
+Targ 0
+Minp 8
+Mmna 0
+Beat 12
+Ndam ~
+Moff !Staves!~
+Mobj ~
+END
+
+Name wands~
+Levl 1 1 18 149 1 1 18 151 
+Rate 2 3 5 8 2 3 5 8 
+Spfun spell_null~
+Targ 0
+Minp 8
+Mmna 0
+Beat 12
+Ndam ~
+Moff !Wands!~
+Mobj ~
+END
+
+Name recall~
+Levl 1 1 1 1 1 1 1 1 
+Rate 2 2 2 2 2 2 2 2 
+Spfun spell_null~
+Targ 0
+Minp 8
+Mmna 0
+Beat 12
+Ndam ~
+Moff !Recall!~
+Mobj ~
+END
+
+Name riding~
+Levl 1 1 1 1 1 1 1 1 
+Rate 2 2 2 2 2 2 2 2 
+Spfun spell_null~
+Targ 0
+Minp 8
+Mmna 0
+Beat 12
+Ndam ~
+Moff !Riding!~
+Mobj ~
+END
+
+Name forge~
+Levl 1 1 1 1 1 1 1 1 
+Rate 2 2 2 2 2 2 2 2 
+Spfun spell_null~
+Targ 0
+Minp 8
+Mmna 0
+Beat 12
+Ndam ~
+Moff !Riding!~
+Mobj ~
+END
+
+Name Essence of mist~
+Levl 50 50 151 151 45 45 151 151 
+Rate 5 5 7 7 4 4 7 7 
+Spfun spell_essence_of_mist~
+Targ 3
+Minp 8
+Mmna 100
+Beat 1
+Ndam ~
+Moff ~
+Mobj ~
+END
+
+Name Throatchop~
+Levl 151 151 151 151 151 151 75 151 
+Rate 0 0 0 0 0 0 5 0 
+Spfun spell_null~
+Targ 0
+Minp 8
+Mmna 0
+Beat 12
+Ndam throatchop~
+Moff !Throatchop!~
+Mobj ~
+END
+
+Name Lifeforce~
+Levl 50 50 50 50 50 50 50 50 
+Rate 4 4 4 4 4 4 4 4 
+Spfun spell_lifeforce~
+Targ 3
+Minp 8
+Mmna 0
+Beat 2
+Ndam ~
+Moff ~
+Mobj ~
+END
+
+Name Silver fire~
+Levl 75 75 151 151 70 70 151 151 
+Rate 5 5 6 6 5 5 6 6 
+Spfun spell_silver_fire~
+Targ 1
+Minp 7
+Mmna 100
+Beat 10
+Ndam ~
+Moff ~
+Mobj ~
+END
+
+Name Soulburn~
+Levl 50 50 50 50 50 50 50 50 
+Rate 5 5 5 5 5 5 5 5 
+Spfun spell_soulburn~
+Targ 1
+Minp 0
+Mmna 100
+Beat 10
+Ndam ~
+Moff ~
+Mobj ~
+END
+
+Name Shield of darkness~
+Levl 0 0 0 0 0 0 0 0 
+Rate 0 0 0 0 0 0 0 0 
+Spfun spell_shield_darkness~
+Targ 3
+Minp 8
+Mmna 50
+Beat 12
+Ndam ~
+Moff Your dark aura fades in the light.~
+Mobj ~
+END
+

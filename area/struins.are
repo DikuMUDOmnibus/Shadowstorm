@@ -1,0 +1,658 @@
+#AREADATA
+Name The Stone Ruins~
+Builders Kera~
+VNUMs 4200 4299
+Credits Kera The Stone Ruins 70 140~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 4200
+Name Rubble Cliff~
+Desc At the edge of this cliff, small marble chipped rubble can be seen to the
+naked eye.  All that spans the land is mummified rock and loose gravel from
+battles lost by many.  It is said a fierce rock creature roams this
+sparseness.  A path, filled with shallow rock leads to the North, whilst to
+the east a slope tilts downwards, towards something dark and mysterious.  
+~
+Room_flags 67109376
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4201
+0
+Exit
+1
+~
+~
+0
+4202
+0
+EndRoom
+
+#ROOM
+Vnum 4201
+Name A Stone Rubble Path~
+Desc Rough and loose, the loose rubble path is narrow and steep.  As the path
+leads North, a rather tall, open rocky structure can be seen.  Its dark in
+colour and the rocks seem well fossiled into the walls.  Travel north to
+take a closer look.  The path is extremely unstable and a sign cautioning
+travellers to take care hangs rigidly on an old wooden post.  It would be
+wise to heed the warnings here.  
+~
+Room_flags 67108864
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4203
+0
+Exit
+2
+~
+~
+0
+4200
+0
+EndRoom
+
+#ROOM
+Vnum 4202
+Name The Forbidden Slope~
+Desc Standing at the top of the slope, the sounds of mysterious noises travel
+in the wind.  Looking down the slope is dark, the ground covered in a
+smooth, mud like texture smothers the ground beneath those who travel it. 
+It feels somewhat forbidden, as the path continues east stone like faces can
+be made out in the side of the cliff.  The faces look horrid and dark ,
+gruesome looks upon the carved out faces glare across at ones souls.  Be
+very careful, the ground is slippery and the path is becoming darker and
+colder as it moves closer towards a rocky inclosure.  
+~
+Room_flags 67108864
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4207
+0
+Exit
+3
+~
+~
+0
+4200
+0
+EndRoom
+
+#ROOM
+Vnum 4203
+Name A fossiled Rocky Structure~
+Desc Fossiled and rigid in appearance, this large structure looks to be the
+remains of an old stone cottage, abandoned quite some time ago.  There are
+only three walls standing, their texture rough and ragged to touch.  Some of
+the stones appear fossiled showing signs of an aged dwelling.  The open
+space inside the structure has an eerie feeling to it, to the left hand
+corner a small pile of loose marble looking rocks are piled up.  The rocky
+path continues north, but the naked land suddenly seems to become thick and
+overgrown in the distance.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4204
+0
+Exit
+2
+~
+~
+0
+4201
+0
+EndRoom
+
+#ROOM
+Vnum 4204
+Name The Overgrown Pathways~
+Desc The path has become thick and overgrown with lifeless plants, one could
+ponder the lifelessness of the overgrowth yet the stabilty.  The ground
+beneath is still unstable and loose, winding branches span accross the path
+making it interlock with whatever comes in its direction.  There is a turn
+to the west and to the east, both directions looking thicker and narrower. 
+On either side of the path, overgrown bushes and branches sway downwards
+becoming an entangled web should anything become entwined in them.  Be
+careful if taking the path West, those who have chosen this direction have
+never returned.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4206
+0
+Exit
+2
+~
+~
+0
+4203
+0
+Exit
+3
+~
+~
+0
+4205
+0
+EndRoom
+
+#ROOM
+Vnum 4205
+Name The Rumble of Mochata~
+Desc Thickly overwhelmed with dead heavy follage, the rugged stone path has
+become dark and cold beneath.  The wind is strong and makes howling sounds
+amongst the surroundings.  Travelling down the path, a monstrosity of a
+seemingly still, stone statue can be seen on the left.  Large and humped
+over, the anger on this beasts face would have been one only for the brave
+to get closer.  Next to the feet of the stone beast, a name etched in a
+thick black sticky substance reads 'Beware the Rumble of Mochata.  A sense
+of uneasiness surrounds this area, as more stone creatures can be seen
+hiding amongst the thickness of this path.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4204
+0
+EndRoom
+
+#ROOM
+Vnum 4206
+Name The Statue of Light~
+Desc Here standing amongst the thick, bushy covered stones sits a tall, rustic
+statue.  Towering well over 2 metres in height and ornately carved in the
+figure of a women an enscription reads 'Kera, The Statue of Light'.  Locks
+and curls are delicately etched into the womens head.  Her Body crumbling
+with aged rocks decays as the expression on her face never changes.  It is
+said those come to Kera for blessing on the darker ventures that lay ahead. 
+A small jar lay at Kera's feet, But Beware nothing in this world comes
+without sacrifice.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+4204
+0
+EndRoom
+
+#ROOM
+Vnum 4207
+Name Gruesome Carvings~
+Desc As the path becomes narrow, the gruesome faces that are carved into the
+cliffside grow closer to the path.  Three eyed creatures and evil looking
+things almost feel like they are about to come alive.  As travellers walk
+down the narrow path, feelings of being watched follow them.  On the far
+left, one particular carving stands out.  It is the face of a rock creature
+once feared to roam these lands.  Large fangs and deathly eyes stare and
+glare at those who look, for a moment it looked to have moved.  Some call it
+the "Rock of evil".  Others have'nt returned to tell.  It is best not to
+rest here, for if one does it tis best to watch their backs.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4208
+0
+Exit
+3
+~
+~
+0
+4202
+0
+EndRoom
+
+#ROOM
+Vnum 4208
+Name A Branched off pathway~
+Desc The deserted path is branched off to the south, on the corner edge of the
+cliff where the "Rock of Evil" is etched into the fossiled cliffside rock. 
+Those who continue east follow a dark secluded path and those that take the
+southern exit know not what lay ahead.  The wind blows more fiercly in the
+south, with whispers of turbulent wind giving off eerie sounds in the
+distance.  If taking the southern exit, take heed of the rusty sign that is
+seen in the distance, legend has it these rocks of evil seek revenge on
+those who travel upon their ground.  Be careful on the eastern path, whilst
+the southern path has leveled out the eastern dives into a deeper and
+slippery slope downwards towards what looks to be a rock cavern.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4209
+0
+Exit
+2
+~
+~
+0
+4210
+0
+Exit
+3
+~
+~
+0
+4207
+0
+EndRoom
+
+#ROOM
+Vnum 4209
+Name Slippery Downwards Slope~
+Desc As the path grows deeper, a rock cavern can be seen up ahead.  The
+entrance looks extremely dark and jagged edges surround it yielding onto the
+cliffside around it.  Approaching the entrance should be taken with care,
+not only is it hauntingly dark, but the thickly bushes seem to grab ahold of
+everything.  Be sure to have a light with, or it may be one spot one dare
+not enter.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4211
+0
+Exit
+3
+~
+~
+0
+4208
+0
+EndRoom
+
+#ROOM
+Vnum 4210
+Name The Rusty Sign ~
+Desc At last the sign is close enough to read, although a disgusting stench
+hovers around the rustic pole in which it sits on.  Dont forget to read the
+sign, it has some sort of message on there that all travellers need to
+aquire.  The only way is south still after branching off the main eastern
+path.  It is becoming very dark all around and the edges of the cliffside
+rub closely to the path.  Not far in the distance it seems the path comes to
+an end but strange rumbling noises start to be heard, almost as if something
+is briskly scurrying amongst the rocky cliffside.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4208
+0
+EndRoom
+
+#ROOM
+Vnum 4211
+Name The Dark, Mysterious Rock Cavern~
+Desc The entrance to the cavern is dark and cold.  Wind seems to blow in every
+direction as those who prepare to step inside must light their way to see. 
+It feels very emtpy inside and very open, not very welcoming at all.  The
+walls are very rigid to touch, wetness covering them coldly.  Look out for
+flying creatures and other pests scurrying beneath ones feet.  Becareful not
+to get lost in this dwelling as there seems to be many exits ahead.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4213
+0
+Exit
+1
+~
+~
+0
+4212
+0
+Exit
+2
+~
+~
+0
+4214
+0
+Exit
+3
+~
+~
+0
+4209
+0
+EndRoom
+
+#ROOM
+Vnum 4212
+Name A Stone Door~
+Desc Large and Enticing this doorway looks very inviting after the trek in
+this dark cavern.  A large iron door knocker is attached to the door, the
+words written above on a steal plate "Harbarcus Canori".  The walls
+surrounding this end of the cavern are narrow and still wet, their edges
+even sharper than before.  Small creatures scurry near the door scavenging
+for remains of whatever they can find.  Before contemplating entering this
+doorway, take heed of past warnings and make sure you are well equipped, for
+one not know what lay behind this mass of stone.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+4211
+0
+EndRoom
+
+#ROOM
+Vnum 4213
+Name The Mud Hole~
+Desc Taking the exit here may not of been such a great idea, the pool of mud
+that lay ahead looks ghastly creepy.  Black slush surrounds the edges of the
+hole, making it harder to get a closer look.  Moans can be heard faintly
+coming from the rocky walls.  This room is very eerie, it is easy to become
+trapped within these walls if one were to get stuck in the slush.  Watch
+very closely and be sure the light doesnt go out, it said strange things
+happen in the dark beneath these cliffs.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+4211
+0
+EndRoom
+
+#ROOM
+Vnum 4214
+Name The Misty Hollow~
+Desc This exit has a welcoming feel to it coming from the dark, gloomy pathway
+of the cavern.  It appears dark at first but moving closer green bushes and
+mists of water delight your sense buds.  The walls appear smooth and lushly
+covered in a thick green moss.  To the left, a large mass of rock appears to
+have an arrow pointing south on it.  There seems to be a hole at the back of
+a large green plant, it doesnt appear to look dangerous, but one should take
+caution anyhow.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4211
+0
+Exit
+2
+~
+~
+0
+4215
+0
+EndRoom
+
+#ROOM
+Vnum 4215
+Name The Rock Entrance~
+Desc Behind the green lush, an entrance to a whole new existence can be seen. 
+Suddenly what was dark and gloomy is transformed into a sight of light and
+beauty.  It looks like a different kind of living roams these lands as it is
+thick with green hills, and lushious plants let off a pleasing aroma.  There
+is a smooth dirt road leading to the east and a crystal clear pebble one to
+the west.  Ahead in the southern direction is a large, green hill.  No
+matter which exit is taken, this surely seems more welcoming than the cavern
+from which one came.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4214
+0
+Exit
+1
+~
+~
+0
+4216
+0
+Exit
+2
+~
+~
+0
+4218
+0
+Exit
+3
+~
+~
+0
+4217
+0
+EndRoom
+
+#ROOM
+Vnum 4216
+Name ~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+4215
+0
+EndRoom
+
+#ROOM
+Vnum 4217
+Name ~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4215
+0
+EndRoom
+
+#ROOM
+Vnum 4218
+Name A Large Green Hill~
+Desc Roaming down this road, a calming green hill lay at the feet of those who
+travel.  Plush with greenery, a small open dwelling can be seen about half
+way up.  A small narrow path leads up the hill, to what looks like a place
+of adventure.  As one becomes closer to the enclosure, soft voices can be
+heard whispering from within.  Its pleasing to know its not so empty out
+here after all.  Think carefully before entering what lay ahead, for one
+never knows the mysterys of new places.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4215
+0
+Exit
+4
+~
+~
+0
+4219
+0
+EndRoom
+
+#ROOM
+Vnum 4219
+Name A Small Open Dwelling~
+Desc Alas, the entrance to this dwelling seems inviting with a warm feel to
+the sides of this somewhat cave.  The voices can be heard inside, and tiny
+footsteps appear in front leading to the back of the cave.  Walking within,
+one cant help notice the delicate, detailed etches on the muddy walls of the
+caves.  Its hard to make out what they are, but it seems to be some sort of
+language from another race.  Suddenly something scurrys past, whistling and
+babbling to itself, better be quick to catch it before it disappears up
+beyong the bulk of the cave.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+0
+4220
+0
+Exit
+5
+~
+~
+0
+4218
+0
+EndRoom
+
+#ROOM
+Vnum 4220
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+~
+~
+0
+4219
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

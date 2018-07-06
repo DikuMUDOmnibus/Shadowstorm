@@ -1,0 +1,8528 @@
+#AREADATA
+Name Hell~
+Builders None~
+VNUMs 10400 10599
+Credits {32 51} Strahd  Descent to Hell~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 10401
+Name oldstyle Guardian guard~
+Short the Guardian of Hell~
+Long A Guardian of Hell stands here, keeping you the Hell out.
+~
+Description The guardian is a stone devil, a hideous creation from the dark laboratories
+of Hell.  Its black eyes stare into your soul with a hunger that makes you
+shiver.  The guardian stands motionless before you.  Its rough grey skin
+looks impervious to normal weapons.
+~
+Race human~
+Act_flags ABF
+Aff DFJ
+Align -900
+Group 0
+Level 45
+Hitroll 0
+Hit_dice 25d10+3000
+Mana_dice 22d9+100
+Dam_dice 8d4+16
+Dam_type none
+Armor -15 -15 -15 4
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10402
+Name oldstyle pile coins~
+Short the pile of gold coins~
+Long A pile of gold coins lies on the ground.
+~
+Description A large sparkly pile of gold coins.
+~
+Race human~
+Act_flags ABS
+Aff DFJ
+Align -800
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+778
+Mana_dice 15d9+100
+Dam_dice 2d12+8
+Dam_type none
+Armor -9 -9 -9 4
+Clevel0
+Cability 0
+Off BEFJNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10403
+Name oldstyle male dee demon~
+Short the male Dee~
+Long The male demon Dee lies on the bed, waiting to please you.
+~
+Description This is the most handsome male you have ever seen.  The well-defined
+muscles on his naked body make your mouth water.
+~
+Race human~
+Act_flags ABF
+Aff JV
+Align -1000
+Group 0
+Level 40
+Hitroll 0
+Hit_dice 15d10+1850
+Mana_dice 20d9+100
+Dam_dice 4d8+13
+Dam_type none
+Armor -13 -13 -13 5
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10404
+Name oldstyle female dee demon~
+Short the female Dee~
+Long The female demon Dee lies on the bed, waiting to please you.
+~
+Description This is the most beautiful female you have ever seen. The curves of her
+naked body make you sweat and babble uncontrollably.
+~
+Race human~
+Act_flags ABF
+Aff JV
+Align -1000
+Group 0
+Level 40
+Hitroll 0
+Hit_dice 15d10+1850
+Mana_dice 20d9+100
+Dam_dice 4d8+13
+Dam_type none
+Armor -13 -13 -13 5
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10405
+Name oldstyle bar gold~
+Short the gold bar~
+Long A shiny gold bar lies on the ground.
+~
+Description This gold bar must be worth bucks!
+~
+Race human~
+Act_flags ABS
+Aff DFJ
+Align -800
+Group 0
+Level 37
+Hitroll 0
+Hit_dice 10d10+1400
+Mana_dice 18d9+100
+Dam_dice 3d10+11
+Dam_type none
+Armor -12 -12 -12 3
+Clevel0
+Cability 0
+Off BEFJNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10406
+Name oldstyle chicken pot pie~
+Short a scrumptious chicken pot pie~
+Long A yummy looking chicken pot pie is here.
+~
+Description You see a golden-crusted pot pie filled with chicken and vegetables.
+~
+Race human~
+Act_flags AB
+Aff JV
+Align -800
+Group 0
+Level 42
+Hitroll 0
+Hit_dice 25d10+2250
+Mana_dice 21d9+100
+Dam_dice 3d12+14
+Dam_type none
+Armor -14 -14 -14 4
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10407
+Name oldstyle beef pot pie~
+Short a yummy beef pot pie~
+Long A yummy looking beef pot pie is here.
+~
+Description You see a golden-crusted pot pie filled with beef and vegetables.
+~
+Race human~
+Act_flags AB
+Aff JV
+Align -800
+Group 0
+Level 42
+Hitroll 0
+Hit_dice 25d10+2250
+Mana_dice 21d9+100
+Dam_dice 3d12+18
+Dam_type none
+Armor -14 -14 -14 4
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10408
+Name oldstyle vegetable pot pie~
+Short a yummy vegetable pot pie~
+Long A yummy looking vegetable pot pie is here.
+~
+Description You see a golden-crusted pot pie filled with vegetables.
+~
+Race human~
+Act_flags AB
+Aff JV
+Align -800
+Group 0
+Level 42
+Hitroll 0
+Hit_dice 25d10+2250
+Mana_dice 21d9+100
+Dam_dice 3d12+14
+Dam_type none
+Armor -14 -14 -14 4
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10409
+Name oldstyle damned soul~
+Short a damned soul~
+Long A damned soul wanders aimlessly here.
+~
+Description You see the faint silhouette of a person. Looking closely at it, you can barely 
+make out features that would identify it as the person it was in life.
+~
+Race human~
+Act_flags AGQ
+Aff J
+Align -700
+Group 0
+Level 32
+Hitroll 0
+Hit_dice 10d10+1000
+Mana_dice 32d9+100
+Dam_dice 4d6+9
+Dam_type none
+Armor -10 -10 -10 4
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10410
+Name oldstyle tortured soul~
+Short a tortured soul~
+Long A tortured soul screams out in pain.
+~
+Description You see a unrecognizable person going through unheard-of and
+indescribable torture. It screams out at you in pain and terror.
+~
+Race human~
+Act_flags ABR
+Aff J
+Align -800
+Group 0
+Level 34
+Hitroll 0
+Hit_dice 10d10+1100
+Mana_dice 34d9+100
+Dam_dice 4d6+9
+Dam_type none
+Armor -11 -11 -11 0
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10411
+Name oldstyle half-eaten person~
+Short the half-eaten person~
+Long A half-eaten person lies here, writhing in agony.
+~
+Description This poor soul looks as if he has been chewed on and spit out.  He writhes
+He is in agony and terror as he gasps frantically for Death to answer his
+desperate plea...
+~
+Race human~
+Act_flags ABD
+Aff JV
+Align -757
+Group 0
+Level 46
+Hitroll 0
+Hit_dice 25d10+3250
+Mana_dice 23d9+100
+Dam_dice 6d6+16
+Dam_type none
+Armor -16 -16 -16 4
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10412
+Name oldstyle living wall~
+Short the living wall~
+Long A wall stands here. Its surface seems to move and come to life...
+~
+Description The wall consists of greying and sinewy flesh - faces, hands,
+broken bones, feet, and toes jutting from the surface. You hear low moans
+of horror, pain, and sorrow issuing from within.
+~
+Race human~
+Act_flags AB
+Aff JV
+Align -1000
+Group 0
+Level 50
+Hitroll 0
+Hit_dice 50d10+4500
+Mana_dice 25d9+100
+Dam_dice 5d8+19
+Dam_type none
+Armor -20 -20 -20 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10413
+Name oldstyle skeletal warrior~
+Short skeletal warrior~
+Long A skeletal warrior wanders the planes of Hell.
+~
+Description Rotting flesh and gore drop from the bones of this creature.
+Its decaying eyes stare at you intently as it sees only your
+delicious and juicy brain.
+~
+Race human~
+Act_flags AD
+Aff JV
+Align -743
+Group 0
+Level 35
+Hitroll 0
+Hit_dice 10d10+1300
+Mana_dice 17d9+100
+Dam_dice 4d7+11
+Dam_type none
+Armor -11 -11 -11 5
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10414
+Name oldstyle bloody severed arm~
+Short bloody severed arm~
+Long A bloody severed arm lies here.
+~
+Description The bloody arm of some poor, luckless individual.  The stench of the
+gore-covered limb makes you want to retch.
+~
+Race human~
+Act_flags AB
+Aff J
+Align -884
+Group 0
+Level 33
+Hitroll 0
+Hit_dice 10d10+1100
+Mana_dice 16d9+100
+Dam_dice 6d4+10
+Dam_type none
+Armor -11 -11 -11 5
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10415
+Name oldstyle bloody severed foot~
+Short bloody severed foot~
+Long A bloody severed foot lies here.
+~
+Description This bloody foot definitely wasn't a lucky one.
+~
+Race human~
+Act_flags AB
+Aff J
+Align -800
+Group 0
+Level 33
+Hitroll 0
+Hit_dice 10d10+1100
+Mana_dice 16d9+100
+Dam_dice 6d4+10
+Dam_type none
+Armor -11 -11 -11 5
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10416
+Name oldstyle bloody severed nose~
+Short bloody severed nose~
+Long A bloody severed nose lies here.
+~
+Description I wonder how the person that lost this smells...Hopefully not as bad as
+this nose does...
+~
+Race human~
+Act_flags AB
+Aff J
+Align -800
+Group 0
+Level 33
+Hitroll 0
+Hit_dice 10d10+1100
+Mana_dice 16d9+100
+Dam_dice 6d4+10
+Dam_type none
+Armor -11 -11 -11 5
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10417
+Name oldstyle blood~
+Short the blood from the fountain~
+Long The blood in the fountain gurgles merrily.
+~
+Description You see gallons and gallons of thick red blood gurgling in the fountain.
+~
+Race human~
+Act_flags AB
+Aff J
+Align -950
+Group 0
+Level 45
+Hitroll 0
+Hit_dice 25d10+3000
+Mana_dice 22d9+100
+Dam_dice 8d4+16
+Dam_type none
+Armor -15 -15 -15 4
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10418
+Name oldstyle Lost soul~
+Short the lost soul~
+Long A lost soul stands here looking lost.
+~
+Description This soul is definitely clueless to as where he is. He holds a ticket
+that reads #14349023402342039840293481234900049.
+~
+Race human~
+Act_flags ABR
+Aff JV
+Align -500
+Group 0
+Level 44
+Hitroll 0
+Hit_dice 25d10+2500
+Mana_dice 44d9+100
+Dam_dice 4d8+14
+Dam_type none
+Armor -15 -15 -15 -2
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10419
+Name oldstyle crispy critter~
+Short the crispy critter~
+Long A crispy critter is here, being burned to death.
+~
+Description This was once a person.  Now it is only a charred and smoking hulk that
+is being burned for eternity.  It screams out as the flames lick at its
+body and devour its flesh...
+~
+Race human~
+Act_flags AB
+Aff J
+Align -800
+Group 0
+Level 44
+Hitroll 0
+Hit_dice 25d10+2750
+Mana_dice 22d9+100
+Dam_dice 8d4+15
+Dam_type none
+Armor -15 -15 -15 4
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10420
+Name oldstyle pile bones skeleton~
+Short pile of bones~
+Long A decaying pile of bones lies on the ground.
+~
+Description Stringy bits of flesh blow gently in the breeze. The bones rattle as you walk
+by them.
+~
+Race human~
+Act_flags AB
+Aff JV
+Align -700
+Group 0
+Level 37
+Hitroll 0
+Hit_dice 10d10+1500
+Mana_dice 18d9+100
+Dam_dice 3d10+12
+Dam_type none
+Armor -12 -12 -12 5
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10421
+Name oldstyle manes sub-demon~
+Short the manes~
+Long A manes wanders the planes of Hell, looking for something to kill.
+~
+Description A gruesome sub-demon who used to be mortal, this is a semi-intelligent
+creature who attacks, with nails and teeth, anyone it encounters.  It is
+often fed upon by demon lords and princes.  Its green-and-red blotched
+skin gives it a diseased and decaying look.  It somewhat resembles a
+shadow or a ghost.
+~
+Race human~
+Act_flags AH
+Aff JV
+Align -900
+Group 0
+Level 35
+Hitroll 0
+Hit_dice 10d10+1300
+Mana_dice 17d9+100
+Dam_dice 4d7+11
+Dam_type none
+Armor -11 -11 -11 5
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10422
+Name oldstyle prisoner raiden~
+Short the prisoner Raiden~
+Long The prisoner of Hell, Raiden sits here for eternity.
+~
+Description This is a sad individual. He smells strongly of the rotten food that has been
+thrown at him. He sits here chained to the wall, banished to Hell forever by
+the gods.
+~
+Race human~
+Act_flags AB
+Aff J
+Align -1000
+Group 0
+Level 35
+Hitroll 0
+Hit_dice 10d10+1300
+Mana_dice 17d9+100
+Dam_dice 4d7+11
+Dam_type none
+Armor -11 -11 -11 5
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10423
+Name oldstyle prisoner hell~
+Short a prisoner in Hell~
+Long A sad looking individual sits here, awaiting torture.
+~
+Description She is sad-looking, indeed:  cuts and scrapes all over her.  Many scars
+and burns cover her face and arms.  The appalling condition of her once-lovely
+breasts makes you avert your eyes.
+~
+Race human~
+Act_flags AB
+Aff JV
+Align -800
+Group 0
+Level 38
+Hitroll 0
+Hit_dice 10d10+1600
+Mana_dice 19d9+100
+Dam_dice 5d6+12
+Dam_type none
+Armor -13 -13 -13 5
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10424
+Name oldstyle prisoner hell~
+Short a prisoner in Hell~
+Long A sad looking individual sits here ,awaiting torture.
+~
+Description He is sad-looking, indeed:  cuts and scrapes all over him.  Many scars
+and burns cover his face and arms.  One of his arms is broken at the
+elbow and hangs limply by his side.
+~
+Race human~
+Act_flags AB
+Aff JV
+Align -800
+Group 0
+Level 38
+Hitroll 0
+Hit_dice 10d10+1600
+Mana_dice 19d9+100
+Dam_dice 5d6+12
+Dam_type none
+Armor -13 -13 -13 5
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10425
+Name oldstyle demonguard demon guard~
+Short demonguard~
+Long A demonguard patrols the planes of Hell.
+~
+Description This very large demon stands before you, licking his daggerlike teeth.
+Yellow spittle runs down the scales of his blackened skin.
+~
+Race human~
+Act_flags AFG
+Aff J
+Align -800
+Group 0
+Level 40
+Hitroll 0
+Hit_dice 15d10+1850
+Mana_dice 20d9+100
+Dam_dice 4d8+13
+Dam_type none
+Armor -13 -13 -13 5
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10426
+Name oldstyle burning fool~
+Short the burning fool~
+Long A burning fool is here, crisping away.
+~
+Description You can barely make out anything on it. All you can make out are the flames 
+of Hell consuming it, and the smell of burning flesh.
+~
+Race human~
+Act_flags AB
+Aff J
+Align -900
+Group 0
+Level 42
+Hitroll 0
+Hit_dice 25d10+2250
+Mana_dice 21d9+100
+Dam_dice 3d12+14
+Dam_type none
+Armor -14 -14 -14 4
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10427
+Name oldstyle construction worker male~
+Short male construction worker~
+Long A construction worker is here, welding pipework.
+~
+Description He is the typical construction worker:  T-shirt, jeans, yellow hard hat.
+As you look closer at the hard hat, you notice that it says:
+             '4th DEMONsion Construction Co.'
+~
+Race human~
+Act_flags AB
+Aff JV
+Align -666
+Group 0
+Level 45
+Hitroll 0
+Hit_dice 25d10+3000
+Mana_dice 22d9+100
+Dam_dice 8d4+16
+Dam_type none
+Armor -15 -15 -15 4
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10428
+Name oldstyle construction worker female~
+Short the female construction worker~
+Long A construction worker, is here working riviting framework.
+~
+Description She is the typical construction worker:  T-shirt, jeans, yellow hard hat.
+As you look closer at the hard hat, you notice that it says:
+             '4th DEMONsion Construction Co.'
+~
+Race human~
+Act_flags AB
+Aff JV
+Align -666
+Group 0
+Level 46
+Hitroll 0
+Hit_dice 25d10+3250
+Mana_dice 23d9+100
+Dam_dice 6d6+16
+Dam_type none
+Armor -16 -16 -16 4
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10430
+Name oldstyle fire devil~
+Short the fire devil~
+Long A fire devil stands here with a box of matches, lighting up poor souls.
+~
+Description It is an indescribably grotesque creature.  Its pale, green-yellow skin
+erupts with blisters and puss.  As you look at it, it smiles at you with
+sharp, blood-covered teeth.  This is definitely a face only a mother could
+love.
+~
+Race human~
+Act_flags AB
+Aff J
+Align -1000
+Group 0
+Level 48
+Hitroll 0
+Hit_dice 25d10+3750
+Mana_dice 24d9+100
+Dam_dice 6d6+18
+Dam_type none
+Armor -18 -18 -18 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10431
+Name oldstyle wall fire~
+Short the wall of fire~
+Long A wall of fire is here, creeping slowly across the room.
+~
+Description It is simply a large, door-sized wall of fire.  It slowly inches across the
+room, burning everything in its path, including the poor souls that are chained
+to the various posts around the room.
+~
+Race human~
+Act_flags AB
+Aff JTV
+Align -600
+Group 0
+Level 46
+Hitroll 0
+Hit_dice 25d10+3250
+Mana_dice 23d9+100
+Dam_dice 6d6+16
+Dam_type none
+Armor -16 -16 -16 4
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10432
+Name oldstyle hell hound~
+Short the hell hound~
+Long A hell hound runs freely through the halls of hell.
+~
+Description This freak of a canine is rusty red to red-brown in color. Its eyes glow a
+ghastly red. Its sooty black teeth and tongue are covered with green spittle
+that runs down its dung covered coat.
+~
+Race human~
+Act_flags ABD
+Aff DFJ
+Align -900
+Group 0
+Level 45
+Hitroll 0
+Hit_dice 25d10+3000
+Mana_dice 22d9+100
+Dam_dice 8d4+16
+Dam_type none
+Armor -15 -15 -15 4
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10433
+Name oldstyle frozen body~
+Short the frozen body~
+Long A frozen body lies on the ground.
+~
+Description As you look at the corpse, you recoil when you see that its eyes still
+move.  They stare intently from its bluish face, as if pleading for your
+help.
+~
+Race human~
+Act_flags AB
+Aff J
+Align -900
+Group 0
+Level 47
+Hitroll 0
+Hit_dice 25d10+3500
+Mana_dice 23d9+100
+Dam_dice 6d6+17
+Dam_type none
+Armor -17 -17 -17 4
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10434
+Name oldstyle ice devil~
+Short the ice devil~
+Long A Greater Ice Devil stands here, cheerfully freezing souls.
+~
+Description This devil is a mix of bug, bird, humanoid, and who knows what else.
+Its multi-faceted eyes stare everywhere. It goes about its business of 
+slowly and painfully freezing the damned souls, quickly thawing them
+and then starting over. Every couple of minutes, it takes time out to 
+break an appendage off a nearby soul and beat the soul with it.
+~
+Race human~
+Act_flags AB
+Aff JTV
+Align -1000
+Group 0
+Level 52
+Hitroll 0
+Hit_dice 50d10+5500
+Mana_dice 26d9+100
+Dam_dice 6d7+20
+Dam_type none
+Armor -22 -22 -22 2
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10435
+Name oldstyle trapped soul ice~
+Short the trapped soul~
+Long A soul trapped under the ice gasps desperately for air.
+~
+Description This poor soul has been incased in ice, almost as though it were caught
+under an iceflow.  It will desperately gasp for air for a few minutes,
+then will seem to die briefly.  Always, it is restored and begins thrashing
+about again.
+~
+Race human~
+Act_flags AB
+Aff JV
+Align -789
+Group 0
+Level 49
+Hitroll 0
+Hit_dice 50d10+4000
+Mana_dice 24d9+100
+Dam_dice 4d10+18
+Dam_type none
+Armor -19 -19 -19 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10436
+Name oldstyle half frozen body~
+Short the half frozen body~
+Long A half frozen body hangs on a meat hook.
+~
+Description A large meat hook is imbedded deep within the back of the corpse. You
+see small white maggots eating away at the body. The flesh seems to
+move and wriggle with a life of its own...
+~
+Race human~
+Act_flags AB
+Aff JV
+Align -876
+Group 0
+Level 51
+Hitroll 0
+Hit_dice 50d10+5000
+Mana_dice 25d9+100
+Dam_dice 5d8+20
+Dam_type none
+Armor -21 -21 -21 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10437
+Name oldstyle killer penguin~
+Short the killer penguin~
+Long A small penguin waddles around on the ice.
+~
+Description What a cute little penguin! Wait, why is it looking at you that way?
+HEY! Penguins don't have teeth!
+~
+Race human~
+Act_flags ABFR
+Aff J
+Align -876
+Group 0
+Level 52
+Hitroll 0
+Hit_dice 50d10+5000
+Mana_dice 52d9+100
+Dam_dice 4d10+18
+Dam_type none
+Armor -21 -21 -21 -5
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10438
+Name oldstyle I-scream worker~
+Short the I-scream worker~
+Long An I-scream worker runs from machine to machine.
+~
+Description It moves about so frantically that you can't really get a chance to look at it.
+It runs about screaming, 'I SCREAM, YOU SCREAM!
+
+WE ALL SCREAM FOR I SCREAM!!!'
+
+~
+Race human~
+Act_flags AB
+Aff J
+Align -706
+Group 0
+Level 52
+Hitroll 0
+Hit_dice 50d10+5500
+Mana_dice 26d9+100
+Dam_dice 6d7+20
+Dam_type none
+Armor -22 -22 -22 2
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10439
+Name oldstyle Ice Screamer~
+Short the Ice Screamer~
+Long An Ice Screamer is yelling into empty cartons.
+~
+Description He is dressed in a white jumpsuit with the words,
+
+'Eye Spleen I Screamery'
+
+written on it in large, yellow letters.
+~
+Race human~
+Act_flags AB
+Aff JV
+Align -706
+Group 0
+Level 52
+Hitroll 0
+Hit_dice 50d10+5500
+Mana_dice 26d9+100
+Dam_dice 6d7+20
+Dam_type none
+Armor -22 -22 -22 2
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10440
+Name oldstyle Construction Foreman Demonic~
+Short the Demonic Foreman~
+Long A Demonic Foreman sits here, looking at blueprints.
+~
+Description This huge demon has somehow managed to fit himself into
+a oversized, orange jumpsuit. The words,
+
+'4th DEMONsion Construction Co.' are written on the 
+back in large, black letters.
+He seems none too happy to see you.
+~
+Race human~
+Act_flags ABFGT
+Aff DFJV
+Align -1000
+Group 0
+Level 53
+Hitroll 0
+Hit_dice 50d10+6000
+Mana_dice 26d9+100
+Dam_dice 6d7+21
+Dam_type none
+Armor -23 -23 -23 2
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10441
+Name oldstyle Secretary of Hell~
+Short Secretary of Hell~
+Long The Secretary of Hell sits here, watching the phones ring.
+~
+Description This very sexy secretary seems to be just sitting here amusing herself
+by watching the little lights on the telephone blink. She is oblivious
+to your presence and seems fascinated by the phones.
+~
+Race human~
+Act_flags AB
+Aff DFJ
+Align -700
+Group 0
+Level 43
+Hitroll 0
+Hit_dice 25d10+2500
+Mana_dice 21d9+100
+Dam_dice 3d12+15
+Dam_type none
+Armor -15 -15 -15 4
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10442
+Name oldstyle office worker hell~
+Short office worker from Hell~
+Long An office worker from Hell is looking for a boss to piss off.
+~
+Description Just looking at him makes your blood boil. 
+AAAAAAAAAAaaaaaaaaaaaarrrrrrrrgggggghhhhh!!!!!!!!!!!
+~
+Race human~
+Act_flags ABS
+Aff DFJV
+Align -1000
+Group 0
+Level 44
+Hitroll 0
+Hit_dice 25d10+2500
+Mana_dice 22d9+100
+Dam_dice 3d12+15
+Dam_type none
+Armor -15 -15 -15 2
+Clevel0
+Cability 0
+Off BEFJNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10443
+Name oldstyle records worker~
+Short records worker~
+Long A records worker is here, filing bad reports.
+~
+Description You see a rather plain-looking office personel here, filing paperwork on
+someone.
+~
+Race human~
+Act_flags AB
+Aff DFJV
+Align -1000
+Group 0
+Level 44
+Hitroll 0
+Hit_dice 25d10+2750
+Mana_dice 22d9+100
+Dam_dice 8d4+15
+Dam_type none
+Armor -15 -15 -15 4
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10444
+Name oldstyle santa claus~
+Short Santa Claus~
+Long Santa Claus is here, checking on who has been naughty...
+~
+Description It's a jolly old man, with red cheeks and a roly-poly belly and a laugh
+as jolly as you can get. Must be Santa Claus!
+~
+Race human~
+Act_flags AB
+Aff DFJV
+Align -1000
+Group 0
+Level 44
+Hitroll 0
+Hit_dice 25d10+2750
+Mana_dice 22d9+100
+Dam_dice 8d4+15
+Dam_type none
+Armor -15 -15 -15 4
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10445
+Name oldstyle high priest ell~
+Short High Priest of Hell~
+Long The High Priest of Hell is here, eating 'I Scream'.
+~
+Description The dark, black robes hide most of his features, but you can nearly make
+out his emaciated face beneath the hood.
+~
+Race human~
+Act_flags ABFQ
+Aff DFJV
+Align -1000
+Group 0
+Level 53
+Hitroll 0
+Hit_dice 50d10+6000
+Mana_dice 53d9+100
+Dam_dice 5d8+21
+Dam_type none
+Armor -23 -23 -23 -1
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10446
+Name oldstyle bowl blood~
+Short a bowl of blood~
+Long A bowl of blood sits on the altar.
+~
+Description It is a wooden bowl filled with blood and bits of flesh.
+~
+Race human~
+Act_flags ABF
+Aff DFJ
+Align -900
+Group 0
+Level 48
+Hitroll 0
+Hit_dice 25d10+3750
+Mana_dice 24d9+100
+Dam_dice 6d6+18
+Dam_type none
+Armor -18 -18 -18 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10447
+Name oldstyle jury member~
+Short jury member~
+Long A jury member sits here with a "Guilty" sign, waiting for the trial to begin.
+~
+Description It seems to be a lesser demon disguised as mortal. Fair trial?  Not likely.
+~
+Race human~
+Act_flags AB
+Aff DFJV
+Align -1000
+Group 0
+Level 40
+Hitroll 0
+Hit_dice 15d10+1850
+Mana_dice 20d9+100
+Dam_dice 4d8+13
+Dam_type none
+Armor -13 -13 -13 5
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10448
+Name oldstyle Judge Whopper~
+Short Judge Whopper~
+Long Judge Whopper sits here, trying to think of a painful sentence.
+~
+Description This is the High Judge of Hell. He has never found anyone innocent
+and is notorious for his painful and harsh punishments.
+~
+Race human~
+Act_flags AB
+Aff DFJV
+Align -1000
+Group 0
+Level 52
+Hitroll 0
+Hit_dice 50d10+5500
+Mana_dice 26d9+100
+Dam_dice 6d7+20
+Dam_type none
+Armor -22 -22 -22 2
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10449
+Name oldstyle lawyer hell~
+Short Lawyer from Hell~
+Long The Lawyer from Hell sits here, playing games on his laptop computer.
+~
+Description Slimy, sleezy, and with very sharp teeth... A lawyer all right...
+~
+Race human~
+Act_flags AB
+Aff DFJV
+Align -1000
+Group 0
+Level 52
+Hitroll 0
+Hit_dice 50d10+5500
+Mana_dice 26d9+100
+Dam_dice 6d7+20
+Dam_type none
+Armor -22 -22 -22 2
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10450
+Name oldstyle complaints officer~
+Short Complaints Officer~
+Long The Complaints Officer is here, watching her favorite soap opera.
+~
+Description She seems not to notice you, but is absorbed in her favorite soap,
+'As The Hell Burns'
+
+~
+Race human~
+Act_flags AB
+Aff DFJV
+Align -1000
+Group 0
+Level 51
+Hitroll 0
+Hit_dice 50d10+5000
+Mana_dice 25d9+100
+Dam_dice 5d8+20
+Dam_type none
+Armor -21 -21 -21 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10451
+Name oldstyle bastard hiramoto~
+Short bastard hiramoto~
+Long The Bastard Hiramoto stands here, trying to learn Kung Fu from a book.
+~
+Description He looks at you and says, 'I think my Kung Fu is no good'
+and then goes back to practicing.
+
+He is known to buy anything, and to sell anything sold to him.
+~
+Race human~
+Act_flags AB
+Aff DFJV
+Align -1000
+Group 0
+Level 51
+Hitroll 0
+Hit_dice 50d10+5000
+Mana_dice 25d9+100
+Dam_dice 5d8+20
+Dam_type none
+Armor -21 -21 -21 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10452
+Name oldstyle maintenance worker~
+Short maintenance worker~
+Long A maintenance worker is here, fixing stuff.
+~
+Description He is in a yellow jumpsuit with a large nuclear-warning symbol on the back.
+~
+Race human~
+Act_flags AB
+Aff DFJV
+Align -1000
+Group 0
+Level 51
+Hitroll 0
+Hit_dice 50d10+5000
+Mana_dice 25d9+100
+Dam_dice 5d8+20
+Dam_type none
+Armor -21 -21 -21 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10453
+Name oldstyle weeds~
+Short weeds~
+Long A weed is growing out of the cement.
+~
+Description You see a nasty yellow-and-purple weed.
+~
+Race human~
+Act_flags AB
+Aff DFJ
+Align -1000
+Group 0
+Level 40
+Hitroll 0
+Hit_dice 15d10+1850
+Mana_dice 20d9+100
+Dam_dice 4d8+13
+Dam_type none
+Armor -13 -13 -13 5
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10454
+Name oldstyle stanley~
+Short Stanley~
+Long Stanley stands here, waiting to sell you one of his wonderful figurines. 
+~
+Description He is a crafty old fart who looks about 1000 years old, but his figurines
+are pretty well-known.  He was rumored to have disappeared around Solace 100
+years ago.
+~
+Race human~
+Act_flags AB
+Aff DFJ
+Align -1000
+Group 0
+Level 54
+Hitroll 0
+Hit_dice 50d10+6500
+Mana_dice 27d9+100
+Dam_dice 7d6+22
+Dam_type none
+Armor -24 -24 -24 2
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10455
+Name oldstyle half eaten horse carcass~
+Short horse carcass~
+Long A half-eaten horse carcass is here being digested. 
+~
+Description This is what used to be a horse.  Hmm, maybe - it's hard to tell.  Half
+of it has been digested already.
+~
+Race human~
+Act_flags AB
+Aff DFJ
+Align -800
+Group 0
+Level 51
+Hitroll 0
+Hit_dice 50d10+5000
+Mana_dice 25d9+100
+Dam_dice 5d8+20
+Dam_type none
+Armor -21 -21 -21 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10456
+Name oldstyle stomach dragon~
+Short stomach dragon~
+Long A stomach dragon is here, digesting Big Mouth's food.
+~
+Description A large, brown-and-green, slime-covered reptile, its function seems to be
+to move to each food item and barf acid all over it.
+~
+Race human~
+Act_flags AB
+Aff DFJ
+Align -800
+Group 0
+Level 51
+Hitroll 0
+Hit_dice 50d10+5000
+Mana_dice 25d9+100
+Dam_dice 5d8+20
+Dam_type none
+Armor -21 -21 -21 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10457
+Name oldstyle rancid turkey leg~
+Short rancid turkey leg~
+Long A rancid turkey leg sits in a pool of slime.
+~
+Description It's one of those really nasty pieces of food in the refrigerator that
+disappears, and you wonder if it just walked away....
+~
+Race human~
+Act_flags AB
+Aff DFJ
+Align -800
+Group 0
+Level 51
+Hitroll 0
+Hit_dice 50d10+5000
+Mana_dice 25d9+100
+Dam_dice 5d8+20
+Dam_type none
+Armor -21 -21 -21 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10458
+Name oldstyle reactor specialist~
+Short reactor specialist~
+Long A reactor specialist sits here, checking on the reactor core.
+~
+Description He is dressed in a black jumpsuit with a large nuclear-warning symbol on
+the back.
+~
+Race human~
+Act_flags AB
+Aff DFJ
+Align -800
+Group 0
+Level 51
+Hitroll 0
+Hit_dice 50d10+5000
+Mana_dice 25d9+100
+Dam_dice 5d8+20
+Dam_type none
+Armor -21 -21 -21 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10459
+Name oldstyle reactor worker~
+Short reactor worker~
+Long A reactor worker sits here, monitoring various screens.
+~
+Description He is dressed in a black jumpsuit with a large lighting bolt symbol on
+the back.
+~
+Race human~
+Act_flags AB
+Aff DFJ
+Align -800
+Group 0
+Level 51
+Hitroll 0
+Hit_dice 50d10+5000
+Mana_dice 25d9+100
+Dam_dice 5d8+20
+Dam_type none
+Armor -21 -21 -21 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10460
+Name oldstyle homer simpson~
+Short Homer Simpson~
+Long Homer Simpson sits here, eating donuts.
+~
+Description A balding fat man with jelly stains on his uniform.
+
+He suddenly spills his coffee and shouts out, 'DOH!'
+Warning lights blink rapidly as the coffee shorts out the control panel.
+Homer calmly stands up, unplugs the control panel, and sits down
+for a nap.
+~
+Race human~
+Act_flags AB
+Aff DFJ
+Align -800
+Group 0
+Level 51
+Hitroll 0
+Hit_dice 50d10+5000
+Mana_dice 25d9+100
+Dam_dice 5d8+20
+Dam_type none
+Armor -21 -21 -21 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10461
+Name oldstyle devil's food cake~
+Short devil's food cake~
+Long A nice slice of devil's food cake is here, waiting to be eaten.
+~
+Description Mmmmmm...Don't you just want to take a bite?
+~
+Race human~
+Act_flags AB
+Aff DFJ
+Align -800
+Group 0
+Level 51
+Hitroll 0
+Hit_dice 50d10+5000
+Mana_dice 25d9+100
+Dam_dice 5d8+20
+Dam_type none
+Armor -21 -21 -21 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10462
+Name oldstyle mad cook~
+Short mad cook~
+Long A mad cook is here, cooking up a storm.
+~
+Description He spots you and screams, 'Git awa froom mi food!  I'll kill you!'
+~
+Race human~
+Act_flags AB
+Aff DFJ
+Align -800
+Group 0
+Level 51
+Hitroll 0
+Hit_dice 50d10+5000
+Mana_dice 25d9+100
+Dam_dice 5d8+20
+Dam_type none
+Armor -21 -21 -21 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10463
+Name oldstyle frantic lady~
+Short frantic lady~
+Long A frantic lady is here, looking in vain for a sale and tearing her hair out.
+~
+Description ~
+Race human~
+Act_flags AG
+Aff JV
+Align -600
+Group 0
+Level 42
+Hitroll 0
+Hit_dice 25d10+2250
+Mana_dice 21d9+100
+Dam_dice 3d12+14
+Dam_type none
+Armor -14 -14 -14 4
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10464
+Name oldstyle nuclear technician~
+Short nuclear technician~
+Long A nuclear technician is here, fiddling with his rad suit.
+~
+Description ~
+Race human~
+Act_flags AB
+Aff DFJV
+Align -800
+Group 0
+Level 51
+Hitroll 0
+Hit_dice 50d10+5000
+Mana_dice 25d9+100
+Dam_dice 5d8+20
+Dam_type none
+Armor -21 -21 -21 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10465
+Name oldstyle stray proton~
+Short stray proton~
+Long A stray proton is here, whizzing about.
+~
+Description ~
+Race human~
+Act_flags AB
+Aff DFJV
+Align -800
+Group 0
+Level 51
+Hitroll 0
+Hit_dice 50d10+5000
+Mana_dice 25d9+100
+Dam_dice 5d8+20
+Dam_type none
+Armor -21 -21 -21 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10466
+Name oldstyle radiation~
+Short radiation~
+Long The radiation in the room does unknown things to you.
+~
+Description ~
+Race human~
+Act_flags AB
+Aff DFJV
+Align -800
+Group 0
+Level 51
+Hitroll 0
+Hit_dice 50d10+5000
+Mana_dice 25d9+100
+Dam_dice 5d8+20
+Dam_type none
+Armor -21 -21 -21 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10467
+Name oldstyle chief engineer hell~
+Short the Chief Engineer of Hell~
+Long The Chief Engineer of Hell is here, playing with the panic button.
+~
+Description He kinda reminds you of an old Bart Simpson.  He seems to be enjoying
+the panic button at the moment, chuckling happily as workers on the
+reactor floor below frantically check dials and gauges, while lights
+are flashing and sirens are screaming in the background.
+~
+Race human~
+Act_flags AB
+Aff DFJV
+Align -800
+Group 0
+Level 54
+Hitroll 0
+Hit_dice 50d10+6500
+Mana_dice 27d9+100
+Dam_dice 7d6+22
+Dam_type none
+Armor -24 -24 -24 2
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10468
+Name oldstyle Greater Fire Demon~
+Short the Greater Fire Demon~
+Long A Greater Fire Demon stands here, laughing at each scream he hears..
+~
+Description This large, black-scaled demon laughs merrily as he watches poor souls
+scream out in pain. He pokes and picks at the flesh of the damned who
+were unlucky enough to be tortured close to him.  His black-taloned
+nails rip slowly through their flesh as he cackles with glee at the
+sounds of their unending pain...
+~
+Race human~
+Act_flags AB
+Aff DFJV
+Align -800
+Group 0
+Level 51
+Hitroll 0
+Hit_dice 50d10+5000
+Mana_dice 25d9+100
+Dam_dice 5d8+20
+Dam_type none
+Armor -21 -21 -21 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10469
+Name oldstyle frozen side beef~
+Short side of frozen beef~
+Long A frozen side of beef hangs on a hook.
+~
+Description This enormous carcass looks as if it came from a small dragon or a very
+large cow.
+~
+Race human~
+Act_flags AB
+Aff J
+Align -675
+Group 0
+Level 43
+Hitroll 0
+Hit_dice 25d10+2500
+Mana_dice 21d9+100
+Dam_dice 3d12+15
+Dam_type none
+Armor -15 -15 -15 4
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10470
+Name oldstyle guard dog~
+Short guard dog~
+Long A guard dog sits here, guarding the break room.
+~
+Description A vicious-looking pit bull / demon-dog mix is here, slobbering on the donuts.
+~
+Race human~
+Act_flags ABD
+Aff JV
+Align -900
+Group 0
+Level 45
+Hitroll 0
+Hit_dice 25d10+3000
+Mana_dice 22d9+100
+Dam_dice 8d4+16
+Dam_type none
+Armor -15 -15 -15 4
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 10471
+Name oldstyle juicy steak~
+Short juicy steak~
+Long A mouth-watering, juicy steak is here, steaming.
+~
+Description Mmmmmmm.....Steak....Mmmmmm...You feel your mouth start to water.
+~
+Race human~
+Act_flags AB
+Aff DFJV
+Align -800
+Group 0
+Level 51
+Hitroll 0
+Hit_dice 50d10+5000
+Mana_dice 25d9+100
+Dam_dice 5d8+20
+Dam_type none
+Armor -21 -21 -21 3
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 5000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 10401
+Name wicked trident two-handed~
+Short a wicked-looking trident~
+Desc A wicked-looking trident is stuck into the ground.~
+Material oldstyle~
+Item_type weapon
+Extra AEGJ
+Extra2 0
+Wear AN
+Values exotic 4 10 stab F
+Level 45
+Weight 70
+Cost 3100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+AffectObj
+18 2
+AffectObj
+2 1
+EndObj
+
+#OBJ
+Vnum 10402
+Name black leather whip~
+Short a black leather whip~
+Desc A black leather whip lies on the ground.~
+Material oldstyle~
+Item_type weapon
+Extra BEJ
+Extra2 0
+Wear AN
+Values whip 5 6 whip 0
+Level 35
+Weight 70
+Cost 2100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 2
+EndObj
+
+#OBJ
+Vnum 10403
+Name hickey maker~
+Short a hickey maker~
+Desc A hickey maker lies on the ground, making a soft sucking sound.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values mace 3 10 suction 0
+Level 37
+Weight 70
+Cost 6300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 2
+AffectObj
+13 20
+AffectObj
+12 40
+EndObj
+
+#OBJ
+Vnum 10404
+Name sword farslayer two-handed~
+Short a black-hilted sword called "Farslayer"~
+Desc A black-hilted sword with engravings on the blade lies here.~
+Material oldstyle~
+Item_type weapon
+Extra BFGHM
+Extra2 0
+Wear AN
+Values sword 9 4 pierce F
+Level 50
+Weight 70
+Cost 15300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+sword~
+The blade of the sword is a full meter long and straight as an arrow, with
+lightly-fluted sides.  Both edges are keened down to perfect lines, invisibly
+sharp.  Perfection like this could have only been forged by a god.  The black
+hilt is contrasted only by the faint symbol of a white arrow.
+Upon the blade is engraved a poem:
+
+                      Farslayer howls across the world
+                      For thy heart, for thy heart, who hast wronged me!
+                      Vengeance is his who casts the blade
+                      Yet he will in the end no triumph see.
+
+~
+AffectObj
+19 5
+AffectObj
+18 2
+AffectObj
+13 50
+EndObj
+
+#OBJ
+Vnum 10405
+Name angel's skull~
+Short the angel's skull~
+Desc An angel's skull lies here on the ground.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AE
+Values CD CD CD CD 0
+Level 45
+Weight 40
+Cost 6900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10406
+Name rotting flesh~
+Short some rotting flesh~
+Desc Some rotting flesh lies here in a pile.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values D D D 0 0
+Level 25
+Weight 30
+Cost 3900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10407
+Name joe blade destruction~
+Short joe's blade of ultimate destruction~
+Desc Joes blade of ultimate destruction lies here on the ground.~
+Material oldstyle~
+Item_type weapon
+Extra B
+Extra2 0
+Wear AN
+Values sword 19 11 none 0
+Level 100
+Weight 51
+Cost 3005
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 4
+AffectObj
+19 4
+AffectObj
+18 4
+EndObj
+
+#OBJ
+Vnum 10408
+Name flaming claw~
+Short a flaming claw~
+Desc A flaming claw lies here, burning brightly.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values exotic 7 5 claw A
+Level 46
+Weight 40
+Cost 9400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 3
+AffectObj
+1 1
+EndObj
+
+#OBJ
+Vnum 10409
+Name demonskin~
+Short a demonskin~
+Desc A black, scaley pile of demonskin lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values BD BD BD AC 0
+Level 35
+Weight 40
+Cost 10000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+4 1
+AffectObj
+2 1
+AffectObj
+1 1
+EndObj
+
+#OBJ
+Vnum 10410
+Name demon teeth~
+Short demon teeth~
+Desc A bunch of very sharp, slimey teeth lie here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values exotic 7 4 bite 0
+Level 36
+Weight 10
+Cost 7600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 5
+EndObj
+
+#OBJ
+Vnum 10411
+Name burning flesh~
+Short some burning flesh~
+Desc A pile of burning flesh lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AI
+Values BD BD BD 0 0
+Level 35
+Weight 50
+Cost 3300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10412
+Name rivet gun~
+Short a rivet gun~
+Desc A rivet gun loaded with hot rivets lies here.~
+Material oldstyle~
+Item_type staff
+Extra 0
+Extra2 0
+Wear AO
+Values 46 10 10 'general purpose' 0
+Level 17
+Weight 70
+Cost 74600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10413
+Name circular saw~
+Short a circular saw~
+Desc A circular saw lies here.~
+Material oldstyle~
+Item_type weapon
+Extra B
+Extra2 0
+Wear AN
+Values axe 6 6 slice 0
+Level 43
+Weight 70
+Cost 7300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 4
+AffectObj
+17 -2
+EndObj
+
+#OBJ
+Vnum 10414
+Name box matches~
+Short a box of matches~
+Desc A box of matches lies here, ready to light something.~
+Material oldstyle~
+Item_type staff
+Extra A
+Extra2 0
+Wear AO
+Values 48 10 10 'sleep' 0
+Level 9
+Weight 20
+Cost 5000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10415
+Name bloody black talon~
+Short a bloody black talon~
+Desc A severed bloody, black talon lies here.~
+Material oldstyle~
+Item_type weapon
+Extra EG
+Extra2 0
+Wear AN
+Values dagger 4 10 claw C
+Level 46
+Weight 60
+Cost 5400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 25
+EndObj
+
+#OBJ
+Vnum 10416
+Name jar of blood~
+Short jar of blood~
+Desc A dark jar of blood lies here.~
+Material oldstyle~
+Item_type potion
+Extra 0
+Extra2 0
+Wear A
+Values 50 'teleport' 'remove curse' 'refresh' ''
+Level 11
+Weight 10
+Cost 1170
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10417
+Name hell hound teeth~
+Short hell hound teeth~
+Desc The bloody teeth of a hell hound sit here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values dagger 6 6 bite A
+Level 43
+Weight 20
+Cost 7500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+2 2
+EndObj
+
+#OBJ
+Vnum 10418
+Name icy bottle~
+Short an icy bottle~
+Desc An icy bottle sits on the floor.~
+Material oldstyle~
+Item_type potion
+Extra 0
+Extra2 0
+Wear A
+Values 47 '' 'create spring' 'faerie fog' ''
+Level 8
+Weight 10
+Cost 970
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10419
+Name ice spear two-handed~
+Short an ice spear~
+Desc A spear made out of ice lies here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values exotic 6 7 pierce BF
+Level 48
+Weight 50
+Cost 1330
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10420
+Name large meat hook two-handed~
+Short a large meat hook~
+Desc A large meat hook is stuck into the ground.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values polearm 9 4 stab BF
+Level 47
+Weight 30
+Cost 2400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 10421
+Name meat~
+Short some meat~
+Desc A chunk of meat lies here.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values BCDE BCDE 0 0 0
+Level 0
+Weight 20
+Cost 20
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10422
+Name blueprint~
+Short the blueprint~
+Desc A construction blueprint lies on the ground.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear AO
+Values ABCDE ABCDE 0 0 0
+Level 0
+Weight 10
+Cost 100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10423
+Name electric eraser~
+Short an electric eraser~
+Desc A electric eraser lies on the ground, waiting for an erasermate.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values mace 4 10 grep 0
+Level 44
+Weight 10
+Cost 3400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+AffectObj
+3 -1
+EndObj
+
+#OBJ
+Vnum 10424
+Name spectacles~
+Short spectacles~
+Desc A set of spectacles lies here on the ground. Don't step on them.~
+Material oldstyle~
+Item_type clothing
+Extra 0
+Extra2 0
+Wear AE
+Values 0 0 0 0 0
+Level 17
+Weight 10
+Cost 5500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+4 2
+AffectObj
+3 2
+EndObj
+
+#OBJ
+Vnum 10425
+Name unholy symbol~
+Short an unholy symbol~
+Desc A sinister-looking symbol of evil lies here smoldering.~
+Material oldstyle~
+Item_type wand
+Extra 0
+Extra2 0
+Wear AO
+Values 53 10 10 'cure poison' 0
+Level 12
+Weight 20
+Cost 5300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10426
+Name unholy robes pile cloth~
+Short unholy robes~
+Desc A stinking pile of cloth lies here.~
+Material oldstyle~
+Item_type armor
+Extra EJ
+Extra2 0
+Wear AK
+Values CD CD CD D 0
+Level 47
+Weight 40
+Cost 18300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 75
+EndObj
+
+#OBJ
+Vnum 10427
+Name sharp teeth lawyer~
+Short the sharp teeth of a lawyer~
+Desc A set of sharp, evil-looking teeth lie here. Probably a lawyer's.~
+Material oldstyle~
+Item_type weapon
+Extra G
+Extra2 0
+Wear AN
+Values exotic 12 3 none C
+Level 50
+Weight 20
+Cost 11800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+3 1
+AffectObj
+2 1
+EndObj
+
+#OBJ
+Vnum 10428
+Name golden ring~
+Short a golden ring~
+Desc A golden ring lies on the ground.~
+Material oldstyle~
+Item_type jewelry
+Extra 0
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 31
+Weight 10
+Cost 2900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 2
+AffectObj
+12 30
+EndObj
+
+#OBJ
+Vnum 10429
+Name engagement ring~
+Short an engagement ring~
+Desc An engagement ring lies here.~
+Material oldstyle~
+Item_type jewelry
+Extra 0
+Extra2 0
+Wear AY
+Values 0 0 0 0 0
+Level 33
+Weight 10
+Cost 2700
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 3
+AffectObj
+4 -1
+EndObj
+
+#OBJ
+Vnum 10430
+Name prenuptual agreement~
+Short a prenuptual agreement~
+Desc A prenuptual agreement lies here.~
+Material oldstyle~
+Item_type scroll
+Extra 0
+Extra2 0
+Wear A
+Values 51 'cure blindness' 'detect evil' 'shield' ''
+Level 11
+Weight 10
+Cost 2400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10431
+Name ionic torque wrench~
+Short an ionic torque wrench~
+Desc You see an ionic torque wrench on the ground.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values mace 5 8 pound 0
+Level 49
+Weight 30
+Cost 6500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 4
+AffectObj
+13 20
+EndObj
+
+#OBJ
+Vnum 10432
+Name figurine horse~
+Short a figurine of a horse~
+Desc You see a small figurine of a horse on the ground.~
+Material oldstyle~
+Item_type treasure
+Extra AG
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 45
+Weight 30
+Cost 11800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+14 75
+EndObj
+
+#OBJ
+Vnum 10433
+Name figurine winged horse pegasus~
+Short a figurine of a winged horse~
+Desc You see a small figurine of a winged horse on the ground.~
+Material oldstyle~
+Item_type wand
+Extra AG
+Extra2 0
+Wear AO
+Values 54 50 50 'summon' 0
+Level 19
+Weight 30
+Cost 16600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10434
+Name figurine dark horse nightmare~
+Short a figurine of a nightmare~
+Desc You see a small figurine of a dark horse on the ground.~
+Material oldstyle~
+Item_type wand
+Extra AG
+Extra2 0
+Wear AO
+Values 54 50 50 'teleport' 0
+Level 19
+Weight 30
+Cost 18900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10435
+Name figurine black dragon~
+Short a figurine of a black dragon~
+Desc You see a small figurine of a black dragon on the ground.~
+Material oldstyle~
+Item_type wand
+Extra AG
+Extra2 0
+Wear AO
+Values 54 10 10 'weaken' 0
+Level 10
+Weight 30
+Cost 3900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10436
+Name figurine red dragon~
+Short a figurine of a red dragon~
+Desc You see a small figurine of a red dragon on the ground.~
+Material oldstyle~
+Item_type wand
+Extra AG
+Extra2 0
+Wear AO
+Values 54 10 10 'mass invis' 0
+Level 18
+Weight 30
+Cost 11000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10437
+Name figurine white dragon~
+Short a figurine of a white dragon~
+Desc You see a small figurine of a white dragon on the ground.~
+Material oldstyle~
+Item_type wand
+Extra AG
+Extra2 0
+Wear AO
+Values 54 10 10 'acid blast' 0
+Level 23
+Weight 30
+Cost 17600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10438
+Name figurine green dragon~
+Short a figurine of a green dragon~
+Desc You see a small figurine of a green dragon on the ground.~
+Material oldstyle~
+Item_type wand
+Extra AG
+Extra2 0
+Wear AO
+Values 54 10 10 'gas breath' 0
+Level 31
+Weight 30
+Cost 37800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10439
+Name figurine blue dragon~
+Short a figurine of a blue dragon~
+Desc You see a small figurine of a blue dragon on the ground.~
+Material oldstyle~
+Item_type wand
+Extra AG
+Extra2 0
+Wear AO
+Values 54 10 10 'faerie fire' 0
+Level 4
+Weight 30
+Cost 1840
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10440
+Name geiger counter~
+Short a geiger counter~
+Desc You see a Geiger counter here.~
+Material oldstyle~
+Item_type wand
+Extra A
+Extra2 0
+Wear AO
+Values 52 10 10 'remove curse' 0
+Level 16
+Weight 20
+Cost 8500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+5 1
+EndObj
+
+#OBJ
+Vnum 10441
+Name photon displacement matrix~
+Short a photon-displacement matrix~
+Desc You see a photon-displacement matrix on the ground.~
+Material oldstyle~
+Item_type weapon
+Extra AB
+Extra2 0
+Wear AN
+Values axe 15 2 blast 0
+Level 45
+Weight 70
+Cost 6700
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+AffectObj
+18 4
+AffectObj
+12 -20
+EndObj
+
+#OBJ
+Vnum 10442
+Name black jumpsuit~
+Short a black jumpsuit~
+Desc You see a black jumpsuit on the ground.~
+Material A
+oldstyle~
+Item_type armor
+Extra A
+Extra2 0
+Wear AD
+Values CD CD CD D 0
+Level 45
+Weight 40
+Cost 13700
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 2
+EndObj
+
+#OBJ
+Vnum 10443
+Name antacid pill~
+Short an antacid pill~
+Desc You see an antacid pill here.~
+Material oldstyle~
+Item_type pill
+Extra 0
+Extra2 0
+Wear A
+Values 54 'pass door' 'refresh' '' ''
+Level 14
+Weight 10
+Cost 1520
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10444
+Name manes claws~
+Short a manes' claws~
+Desc The severed claws of a sub-demon lie here, twitching.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values dagger 1 30 claw 0
+Level 32
+Weight 40
+Cost 2900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 3
+EndObj
+
+#OBJ
+Vnum 10445
+Name welding torch~
+Short a welding torch~
+Desc A welding torch sits on the ground.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values mace 5 8 flame 0
+Level 47
+Weight 70
+Cost 6400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+AffectObj
+17 -5
+EndObj
+
+#OBJ
+Vnum 10446
+Name blond wig~
+Short a blond wig~
+Desc A blond wig lies on the ground.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AE
+Values CD CD CD 0 0
+Level 43
+Weight 20
+Cost 6100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+AffectObj
+3 -1
+EndObj
+
+#OBJ
+Vnum 10447
+Name yellow jumpsuit nuclear symbol~
+Short a yellow jumpsuit~
+Desc You see a yellow jumpsuit with a nuclear-warning symbol.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values BC BC BC CD 0
+Level 45
+Weight 30
+Cost 13700
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+20 -4
+AffectObj
+12 30
+EndObj
+
+#OBJ
+Vnum 10448
+Name cleaver~
+Short a cleaver~
+Desc You see a nasty-looking cleaver stuck in the ground.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values axe 7 5 cleave 0
+Level 45
+Weight 60
+Cost 6400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 3
+AffectObj
+18 2
+EndObj
+
+#OBJ
+Vnum 10449
+Name fire opal gem~
+Short a precious fire opal~
+Desc A flaming red gem lies on the ground.~
+Material oldstyle~
+Item_type warp_stone
+Extra T
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 5000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+fire opal gem~
+The fire opal is a nicely-polished round gem, with orange, gold, and red
+mixed together like the heart of flame.  You can almost feel the hellfire
+from whence it came.
+~
+EndObj
+
+#OBJ
+Vnum 10450
+Name hellstone hell stone~
+Short a hellstone~
+Desc An evil black gem rests here, hoping to seduce you with its evil.~
+Material oldstyle~
+Item_type warp_stone
+Extra ET
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 10000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+hellstone hell stone~
+The hellstones are mined from the deepest pits of Hell at the cost of the
+blood, sweat, and pain of hundreds of damned souls.  You feel vaguely ill
+as you gaze into its lustrous black heart.
+~
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 10401
+Name Stone Archway~
+Desc This is a ancient stone archway. Various faces of demons and other grim
+pictures are painted onto it. Stone gargoyles and demons glare down at
+you from atop the arch.
+There is a bronze plaque above the archway.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+plaque~
+***************
+Descent to Hell
+***************
+
+You just GO TO HELL!!!!
+*chuckle*
+
+Made for levels 30-50
+
+Brought to you by Strahd
+~
+Exit
+2
+The air seems cleaner to the south.
+~
+~
+-1
+3472
+0
+Exit
+3
+It's too dark to see.
+~
+~
+-1
+10402
+0
+EndRoom
+
+#ROOM
+Vnum 10402
+Name Ancient Room~
+Desc You are standing in a large stone room - feels like a crypt.  Ancient murals
+of Hell and punishment cover the walls.  In the middle of the room are stairs
+that lead down into the darkness.  From the stairway you can smell brimstone
+and sulfur.
+To the west, there appears to be a shrine.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+It is too dark to see.
+~
+~
+-1
+10401
+0
+Exit
+3
+You see an ancient shrine.
+~
+~
+-1
+10418
+0
+Exit
+5
+You see a dark stairway.
+~
+~
+-1
+10403
+0
+EndRoom
+
+#ROOM
+Vnum 10403
+Name Dark Stairway~
+Desc You are standing at the bottom of long dark stairway.  The smells of brimstone
+and sulfur choke you.  Screams of pain and terror fill the air.
+Stone faces carved into the walls seem to laugh at you.
+Maybe this is not such a good idea after all....
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+It's too dark to see.
+~
+~
+-1
+10404
+0
+Exit
+4
+You see a dark stairway.
+~
+~
+-1
+10402
+0
+EndRoom
+
+#ROOM
+Vnum 10404
+Name Landing~
+Desc This landing has been scorched as if a large brushfire had swept through it.
+Bits of ash and burnt vegetation cover everything.  The walls and floor are
+flawlessly smooth, and the ceiling is covered with carved faces and ancient
+symbols and runes.
+Large, black iron gates tower over you to the west.
+You see a large gateway to the west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+gates~
+These black iron gates are covered with grotesque faces and other
+creatures in various poses and acts of violence and lust. The gates
+make your blood run cold...
+~
+Exit
+1
+It's too dark to see.
+~
+~
+-1
+10403
+0
+Exit
+3
+You see the Gates of Hell
+~
+gates~
+-1
+10405
+AB
+EndRoom
+
+#ROOM
+Vnum 10405
+Name Gateway to Hell~
+Desc You stand next to the very gateway of Hell. You are surrounded by 
+the sounds of torture and pain. Screams pierce the air and rattle your
+nerves. Displays of the treats of Hell are in all directions.
+A large black iron gates tower over you to the east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+gates~
+These black iron gates are covered with grotesque faces and other
+creatures in various poses and acts of violence and lust. The gates
+seem to make your blood run cold...
+~
+Exit
+0
+It's too smoky to see.
+~
+~
+-1
+10416
+0
+Exit
+1
+The Gates of Hell
+~
+gates~
+-1
+10404
+AB
+Exit
+2
+It's too smoky to see.
+~
+~
+-1
+10426
+0
+Exit
+3
+It's too smoky to see.
+~
+~
+-1
+10406
+0
+EndRoom
+
+#ROOM
+Vnum 10406
+Name Hall of the Damned~
+Desc This hallway is a monument to the millions of damned souls in Hell.
+The walls are made up of various body parts and other, unidentifiable
+things. Many of the faces that make up the wall scream out to you for
+help. Their arms desperately grasp at your clothing as you pass.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+It's too smoky to see.
+~
+~
+-1
+10415
+0
+Exit
+1
+It's too smoky to see.
+~
+~
+-1
+10405
+0
+Exit
+2
+It's too smoky to see.
+~
+~
+-1
+10425
+0
+Exit
+3
+It's too smoky to see.
+~
+~
+-1
+10407
+0
+EndRoom
+
+#ROOM
+Vnum 10407
+Name Hall of the Damned~
+Desc This hallway is a monument to the millions of damned souls in Hell.
+The walls are made up of various body parts and other, unidentifiable
+things. Many of the faces that make up the wall scream out to you for
+help. Their arms desperately grasp at your clothing as you pass.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+It's too smoky to see.
+~
+~
+-1
+10414
+0
+Exit
+1
+It's too smoky to see.
+~
+~
+-1
+10406
+0
+Exit
+2
+It's too smoky to see.
+~
+~
+-1
+10424
+0
+Exit
+3
+It's too smoky to see.
+~
+~
+-1
+10408
+0
+EndRoom
+
+#ROOM
+Vnum 10408
+Name Hall of the Damned~
+Desc This hallway is a monument to the millions of damned souls in Hell.
+The walls are made up of various body parts and other, unidentifiable
+things. Many of the faces that make up the wall scream out to you for
+help. Their arms desperately grasp at your clothing as you pass.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+It's too smoky to see.
+~
+~
+-1
+10413
+0
+Exit
+1
+It's too smoky to see.
+~
+~
+-1
+10407
+0
+Exit
+2
+It's too smoky to see.
+~
+~
+-1
+10423
+0
+Exit
+3
+It's too smoky to see.
+~
+~
+-1
+10409
+0
+EndRoom
+
+#ROOM
+Vnum 10409
+Name Hall of the Damned~
+Desc This hallway is a monument to the millions of damned souls in Hell.
+The walls are made up of various body parts and other, unidentifiable
+things. Many of the faces that make up the wall scream out to you for
+help. Their arms desperately grasp at your clothing as you pass.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+It's too smoky to see.
+~
+~
+-1
+10412
+0
+Exit
+1
+It's too smoky to see.
+~
+~
+-1
+10408
+0
+Exit
+2
+It's too smoky to see.
+~
+~
+-1
+10422
+0
+Exit
+3
+It's too smoky to see.
+~
+~
+-1
+10410
+0
+Exit
+5
+You see a dark stairway leading down.
+~
+stairs~
+-1
+10421
+0
+EndRoom
+
+#ROOM
+Vnum 10410
+Name Hall of the Damned~
+Desc This hallway is a monument to the millions of damned souls in Hell.
+The walls are made up of various body parts and other, unidentifiable
+things. Many of the faces that make up the wall scream out to you for
+help. Their arms desperately grasp at your clothing as you pass.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+It's too smoky to see.
+~
+~
+-1
+10411
+0
+Exit
+1
+It's too smoky to see.
+~
+~
+-1
+10409
+0
+EndRoom
+
+#ROOM
+Vnum 10411
+Name Mural of the Dead~
+Desc You stand before a large mural. The mural depicts mountains of dead
+bodies piled up to the sky. The mural covers the whole north wall from
+floor to ceiling. You can smell the stench of decaying flesh.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+It's too smoky to see.
+~
+~
+-1
+10412
+0
+Exit
+2
+It's too smoky to see.
+~
+~
+-1
+10410
+0
+EndRoom
+
+#ROOM
+Vnum 10412
+Name Living Walls~
+Desc The walls here actually consist of greying and sinewy flesh - faces, hands,
+broken bones, feet, and toes jutting from the surface. You hear low moans
+of horror, pain, and sorrow issuing from within.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+It's too smoky to see.
+~
+~
+-1
+10413
+0
+Exit
+2
+It's too smoky to see.
+~
+~
+-1
+10409
+0
+Exit
+3
+It's too smoky to see.
+~
+~
+-1
+10411
+0
+EndRoom
+
+#ROOM
+Vnum 10413
+Name Trapped souls~
+Desc There are many souls trapped behind the walls of this room, almost as though 
+they were trapped beneath the surface of a frozen lake. Even the floor and 
+ceiling show the screaming faces behind them.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+It's too smoky to see.
+~
+~
+-1
+10414
+0
+Exit
+2
+It's too smoky to see.
+~
+~
+-1
+10408
+0
+Exit
+3
+It's too smoky to see.
+~
+~
+-1
+10412
+0
+EndRoom
+
+#ROOM
+Vnum 10414
+Name Tortured Beings~
+Desc This room is filled with instruments of torture. Beings of all shapes and
+sizes are being brought to the thresholds of pain and beyond. Some are
+being sliced into thousands of pieces.  Others are being stretched as though
+they were made of rubber.  All are caught in an unending play of agony.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+It's too smoky to see.
+~
+~
+-1
+10415
+0
+Exit
+2
+It's too smoky to see.
+~
+~
+-1
+10407
+0
+Exit
+3
+It's too smoky to see.
+~
+~
+-1
+10413
+0
+EndRoom
+
+#ROOM
+Vnum 10415
+Name Gluttony~
+Desc Before you is a room filled with all sorts of food. The smells of pastries and
+hamburger assault your senses. All sorts of food lay everywhere you look.
+Cookies, twinkies, steak, prime rib, almost anything you can think of, call
+out to you. You suddenly feel VERY hungry.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+It's too smoky to see.
+~
+~
+-1
+10416
+0
+Exit
+2
+It's too smoky to see.
+~
+~
+-1
+10406
+0
+Exit
+3
+It's too smoky to see.
+~
+~
+-1
+10414
+0
+EndRoom
+
+#ROOM
+Vnum 10416
+Name Greed~
+Desc What luck! A room full of treasure. Gold, diamonds, riches beyond
+imagination! Wait! You suddenly feel as if it were all slowly disappearing.
+Someone is taking your treasure. They have no right! It is yours! You
+found it first. Let them go get their own treasures!
+You see a door to the east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a bedroom door.
+~
+door~
+-1
+10417
+AB
+Exit
+2
+It's too smoky to see.
+~
+~
+-1
+10405
+0
+Exit
+3
+It's too smoky to see.
+~
+~
+-1
+10415
+0
+EndRoom
+
+#ROOM
+Vnum 10417
+Name Bedroom.~
+Desc This is a small bedroom. It is well furnished and is a drastic change from
+the room you just stepped out of. A bed stands against the far wall.
+Upon the headboard of the bed are carved two cherub-like figures, with the
+the words 'DEE & DEE' written below them.
+The door to the bedroom is to the west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see a bedroom door.
+~
+door~
+-1
+10416
+AB
+EndRoom
+
+#ROOM
+Vnum 10418
+Name Ancient Shrine~
+Desc This is an ancient, abandoned shrine of some unknown god. It has been
+vandalized and torn apart. What used to be the shrine has been reduced to
+a large pile of stone and other debris. Various runes and demonic faces
+have been spray-painted on the walls and floor.  Nailed to the ceiling are
+an assortment of skeletons.  All seem to have been dead for a very long
+time. All surfaces of the room are covered with dried blood and dust. 
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+It is too dark to see.
+~
+~
+-1
+10402
+0
+EndRoom
+
+#ROOM
+Vnum 10419
+Name Room full of Body Parts.~
+Desc The room is filled with piles of arms, legs, heads, and other, unidentifiable
+parts of many different creatures. The stench is overwhelming. The body
+parts seem to wiggle and scream as you get closer. They are still alive!!
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+It is too dark to see.
+~
+~
+-1
+10420
+0
+Exit
+2
+It is too dark to see.
+~
+~
+-1
+10429
+0
+EndRoom
+
+#ROOM
+Vnum 10420
+Name Fountain of Blood.~
+Desc This room is made of a rough black stone. The walls seem to ooze black
+sludge. In the middle of the room stands a stone fountain of a demon spitting
+blood.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+It is too dark to see.
+~
+~
+-1
+10430
+0
+Exit
+3
+It is too dark to see.
+~
+~
+-1
+10419
+0
+EndRoom
+
+#ROOM
+Vnum 10421
+Name Bloody Stairway.~
+Desc You are standing on a very slippy stairway. The walls and stairs are
+covered with blood and gore. Pieces of goo and ooze drip from the
+ceiling overhead. You almost slip a couple times on the stairway.
+The stench here is overwhelming.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+It is too dark to see.
+~
+~
+-1
+10409
+0
+Exit
+5
+It is too dark to see.
+~
+~
+-1
+10431
+0
+EndRoom
+
+#ROOM
+Vnum 10422
+Name Ancient Room~
+Desc This is a very old and dusty room. It looks empty except for a few shards
+or bone and flesh.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+It is too dark to see.
+~
+~
+-1
+10409
+0
+Exit
+1
+It is too dark to see.
+~
+~
+-1
+10423
+0
+EndRoom
+
+#ROOM
+Vnum 10423
+Name Room of Lost Souls~
+Desc This looks like a waiting room or sorts. Dust and cobwebs are everywhere.
+Wooden benches line the walls. A digital number sign is posted on the wall.
+It currently reads, 'Now Serving Number 1'.
+A ticket dispenser is bolted to the wall.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+dispenser~
+This is one of those red ticket dispensers that never seem to work right.
+~
+Exit
+0
+It is too dark to see.
+~
+~
+-1
+10408
+0
+Exit
+1
+It is too dark to see.
+~
+~
+-1
+10424
+0
+Exit
+3
+It is too dark to see.
+~
+~
+-1
+10422
+0
+EndRoom
+
+#ROOM
+Vnum 10424
+Name Room of Lost Souls~
+Desc This looks like a waiting room or sorts. Dust and cobwebs are everywhere.
+Wooden benches line the walls. A digital number sign is posted on the wall.
+It currently reads, 'Now Serving Number 1'.
+A ticket dispenser is bolted to the wall.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+dispenser~
+This is one of those red ticket dispensers that never seem to work right.
+~
+Exit
+0
+It is too dark to see.
+~
+~
+-1
+10407
+0
+Exit
+1
+It is too dark to see.
+~
+~
+-1
+10425
+0
+Exit
+3
+It is too dark to see.
+~
+~
+-1
+10423
+0
+EndRoom
+
+#ROOM
+Vnum 10425
+Name Pit of Fire~
+Desc You enter a plain stone room with a large fire pit in the center of it.
+As you look closer at the pit you realize that hundreds of people are being
+burned inside it. They Scream out to you. The noise is deafening. Several
+minor imps and workers push more people into the pit, whistling while
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+It is too dark to see.
+~
+~
+-1
+10406
+0
+Exit
+1
+It is too dark to see.
+~
+~
+-1
+10426
+0
+Exit
+3
+It is too dark to see.
+~
+~
+-1
+10424
+0
+EndRoom
+
+#ROOM
+Vnum 10426
+Name Blackened Hallway~
+Desc This dark hallway looks as if it was made by a lavaworm...All the surfaces
+in it are melted and burnt. The smell of brimstone and sulfur fill the air.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+It is too dark to see.
+~
+~
+-1
+10405
+0
+Exit
+1
+It is too dark to see.
+~
+~
+-1
+10427
+0
+Exit
+3
+It is too dark to see.
+~
+~
+-1
+10425
+0
+EndRoom
+
+#ROOM
+Vnum 10427
+Name Blackened Hallway~
+Desc This dark hallway looks as if it was made by a lavaworm...All the surfaces
+in it are melted and burnt. The smell of brimstone and sulfur fill the air.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+It is too dark to see.
+~
+~
+-1
+10428
+0
+Exit
+3
+It is too dark to see.
+~
+~
+-1
+10426
+0
+EndRoom
+
+#ROOM
+Vnum 10428
+Name Blood Room~
+Desc You enter the room and are immediately assaulted by the smell of rotting
+flesh and blood. The walls are covered with the crimson fluid as it runs
+down from the ceiling.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+It is too dark to see.
+~
+~
+-1
+10429
+0
+Exit
+3
+It is too dark to see.
+~
+~
+-1
+10427
+0
+EndRoom
+
+#ROOM
+Vnum 10429
+Name Living Walls~
+Desc The walls here actually consist of greying and sinewy flesh - faces, hands,
+broken bones, feet, and toes jutting from the surface. You hear low moans
+of horror, pain, and sorrow issuing from the walls.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+It is too dark to see.
+~
+~
+-1
+10419
+0
+Exit
+1
+It is too dark to see.
+~
+~
+-1
+10430
+0
+Exit
+3
+It is too dark to see.
+~
+~
+-1
+10428
+0
+EndRoom
+
+#ROOM
+Vnum 10430
+Name Skeleton Factory~
+Desc This is probably where they make all the skeletons for nightmares and
+graveyards. The room is simply littered with bones. A poster on the
+wall reads, "Remember ....the head bone is connected to the neck bone.."
+The poster continues on...but it seems to get very technical and boring..
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+It is too dark to see.
+~
+~
+-1
+10420
+0
+Exit
+3
+It is too dark to see.
+~
+~
+-1
+10429
+0
+EndRoom
+
+#ROOM
+Vnum 10431
+Name Bottom of Stairway~
+Desc You are standing at the bottom of a bloody stairway. Or at least you
+thought it was a stairway. It seems to be just a painting the the wall.
+This roughly carved room with evil runes carved  in to the stone floor.
+There is a hallway to the east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+It is too dark to see.
+~
+~
+-1
+10432
+0
+EndRoom
+
+#ROOM
+Vnum 10432
+Name Stone Hall~
+Desc This is a roughly carved hallway. The air here is damp and musty. You 
+hear the sound of something dripping in the distance. Your footsteps
+echo down the hall as you walk. There is a strange and deathly silence
+that fills these halls...
+The hall continues to the south and the west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+It is too dark to see.
+~
+~
+-1
+10442
+0
+Exit
+3
+It is too dark to see.
+~
+~
+-1
+10431
+0
+EndRoom
+
+#ROOM
+Vnum 10433
+Name Cell~
+Desc The cell is very damp and very musty. The walls are covered with moisture
+and dirt. The smell of urine is very potent here.
+The steel bars to the cell are to the south.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see bars
+~
+bars~
+-1
+10443
+AB
+EndRoom
+
+#ROOM
+Vnum 10434
+Name Stone Hall~
+Desc This is a roughly carved hallway. The air here is damp and musty. You 
+hear the sound of something dripping in the distance. Your footsteps
+echo down the hall as you walk. There is a strange and deathly silence
+that fills these halls...
+The hallway continues to the east and the south.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+It is too dark to see.
+~
+~
+-1
+10435
+0
+Exit
+2
+It is too dark to see.
+~
+~
+-1
+10444
+0
+EndRoom
+
+#ROOM
+Vnum 10435
+Name Stone Hall~
+Desc This is a roughly carved hallway. The air here is damp and musty. You 
+hear the sound of something dripping in the distance. Your footsteps
+echo down the hall as you walk. There is a strange and deathly silence
+that fills these halls...
+To the south you see the steel bars of a cell.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+It is too dark to see.
+~
+~
+-1
+10436
+0
+Exit
+2
+You see the steel bars of a cell.
+~
+bars~
+-1
+10445
+AB
+Exit
+3
+It is too dark to see.
+~
+~
+-1
+10434
+0
+EndRoom
+
+#ROOM
+Vnum 10436
+Name Stone Hall~
+Desc This is a roughly carved hallway. The air here is damp and musty. You 
+hear the sound of something dripping in the distance. Your footsteps
+echo down the hall as you walk. There is a strange and deathly silence
+that fills these halls...
+The hallway contines to the south and the west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+It is too dark to see.
+~
+~
+-1
+10446
+0
+Exit
+3
+It is too dark to see.
+~
+~
+-1
+10435
+0
+EndRoom
+
+#ROOM
+Vnum 10437
+Name Cell~
+Desc The cell is very damp and very musty. The walls are covered with moisture
+and dirt. The smell of urine is very potent here.
+The steel bars to the cell are to the south.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see bars
+~
+bars~
+-1
+10447
+AB
+EndRoom
+
+#ROOM
+Vnum 10438
+Name Stone Hall~
+Desc This is a roughly carved hallway. The air here is damp and musty. You 
+hear the sound of something dripping in the distance. Your footsteps
+echo down the hall as you walk. There is a strange and deathly silence
+that fills these halls...
+The hallway contines to the west and the east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+It is too dark to see.
+~
+~
+-1
+10439
+0
+Exit
+3
+It is too dark to see.
+~
+~
+-1
+10448
+0
+EndRoom
+
+#ROOM
+Vnum 10439
+Name Stone Hall~
+Desc This is a roughly carved hallway. The air here is damp and musty. You 
+hear the sound of something dripping in the distance. Your footsteps
+echo down the hall as you walk. There is a strange and deathly silence
+that fills these halls...
+The hallway contines to the west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the steel bars to a cell.
+~
+bars~
+-1
+10440
+AB
+Exit
+2
+You see the steel bars to a cell.
+~
+bars~
+-1
+10449
+AB
+Exit
+3
+It is too dark to see.
+~
+~
+-1
+10438
+0
+Exit
+5
+You see a dark stairway down....
+~
+~
+-1
+10450
+0
+EndRoom
+
+#ROOM
+Vnum 10440
+Name Cell~
+Desc The cell is very damp and very musty. The walls are covered with moisture
+and dirt. The smell of urine is very potent here.
+The steel bars to the cell are to the west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see bars
+~
+bars~
+-1
+10439
+AB
+EndRoom
+
+#ROOM
+Vnum 10441
+Name Hidden Room~
+Desc This is a long forgotten room. Ancient torture equipment stands around
+collecting dust. Most of this stuff was probably replace with modern
+hi tech torture devices and for sentimental reasons wasn't thrown away.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+It's too dark to see.
+~
+~
+-1
+10451
+0
+EndRoom
+
+#ROOM
+Vnum 10442
+Name Stone Hall~
+Desc This is a roughly carved hallway. The air here is damp and musty. You 
+hear the sound of something dripping in the distance. Your footsteps
+echo down the hall as you walk. There is a strange and deathly silence
+that fills these halls...
+The hallway contines to the north and east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+It's too dark to see.
+~
+~
+-1
+10432
+0
+Exit
+1
+It's too dark to see.
+~
+~
+-1
+10443
+0
+EndRoom
+
+#ROOM
+Vnum 10443
+Name Stone Hall~
+Desc This is a roughly carved hallway. The air here is damp and musty. You 
+hear the sound of something dripping in the distance. Your footsteps
+echo down the hall as you walk. There is a strange and deathly silence
+that fills these halls...
+The hallway contines to the east and west.
+The bars to a cell are to the north.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see bars to a cell.
+~
+bars~
+-1
+10433
+AB
+Exit
+1
+It's too dark to see.
+~
+~
+-1
+10444
+0
+Exit
+3
+It's too dark to see.
+~
+~
+-1
+10442
+0
+EndRoom
+
+#ROOM
+Vnum 10444
+Name Stone Hall~
+Desc This is a roughly carved hallway. The air here is damp and musty. You 
+hear the sound of something dripping in the distance. Your footsteps
+echo down the hall as you walk. There is a strange and deathly silence
+that fills these halls...
+The hallway contines to the north and west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+It's too dark to see.
+~
+~
+-1
+10434
+0
+Exit
+3
+It's too dark to see.
+~
+~
+-1
+10443
+0
+EndRoom
+
+#ROOM
+Vnum 10445
+Name Cell~
+Desc The cell is very damp and very musty. The walls are covered with moisture
+and dirt. The smell of urine is very potent here.
+The steel bars to the cell are to the north.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see bars
+~
+bars~
+-1
+10435
+AB
+EndRoom
+
+#ROOM
+Vnum 10446
+Name Stone Hall~
+Desc This is a roughly carved hallway. The air here is damp and musty. You 
+hear the sound of something dripping in the distance. Your footsteps
+echo down the hall as you walk. There is a strange and deathly silence
+that fills these halls...
+The hallway contines to the north and east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+It's too dark to see.
+~
+~
+-1
+10436
+0
+Exit
+1
+It's too dark to see.
+~
+~
+-1
+10447
+0
+EndRoom
+
+#ROOM
+Vnum 10447
+Name Stone Hall~
+Desc This is a roughly carved hallway. The air here is damp and musty. You 
+hear the sound of something dripping in the distance. Your footsteps
+echo down the hall as you walk. There is a strange and deathly silence
+that fills these halls...
+The hallway contines to the east and west.
+You see bars to a cell to the north.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see bars to a cell.
+~
+bars~
+-1
+10437
+AB
+Exit
+1
+It's too dark to see.
+~
+~
+-1
+10448
+0
+Exit
+3
+It's too dark to see.
+~
+~
+-1
+10446
+0
+EndRoom
+
+#ROOM
+Vnum 10448
+Name Stone Hall~
+Desc This is a roughly carved hallway. The air here is damp and musty. You 
+hear the sound of something dripping in the distance. Your footsteps
+echo down the hall as you walk. There is a strange and deathly silence
+that fills these halls...
+The hallway contines to the north and west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+It's too dark to see.
+~
+~
+-1
+10438
+0
+Exit
+3
+It's too dark to see.
+~
+~
+-1
+10447
+0
+EndRoom
+
+#ROOM
+Vnum 10449
+Name Cell~
+Desc The cell is very damp and very musty. The walls are covered with moisture
+and dirt. The smell of urine is very potent here.
+The steel bars to the cell are to the north.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see bars
+~
+bars~
+-1
+10439
+AB
+EndRoom
+
+#ROOM
+Vnum 10450
+Name Hot Stairs~
+Desc You are standing on a long stairway. The air around you is heavy and hot.
+The stone walls are hot to the touch and your sweat sizzles as it hits the
+ground. Cool air flows out from a crack in the wall to the east.
+The smell of brimstone and smoke is all around you.
+The stairs continue down.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+It is too dark to see.
+~
+~
+-1
+10439
+0
+Exit
+5
+It is too dark to see.
+~
+~
+-1
+10461
+0
+EndRoom
+
+#ROOM
+Vnum 10451
+Name Crack in Wall~
+Desc This is a rather large crack in the wall. On closer inspection it appears to be
+a passageway that was closed off long ago. It was probably reopened by
+an earthquake or something.
+An ancient passageway continues to the north.
+Hot gusts of air come from the west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+It is too dark to see.
+~
+~
+-1
+10441
+0
+Exit
+3
+It is too dark to see.
+~
+~
+-1
+10450
+0
+EndRoom
+
+#ROOM
+Vnum 10452
+Name Stone Arch~
+Desc Before you stands the a large stone arch decorated with many runes you
+cannot decifer. It looks as though it has been closed up for a long time.
+To the east is a hallway of fire.
+To the south you see a large metal door with the words, 'FOREMAN'
+written on the door.
+There is a dark stairway down in the corner of the room.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a hall of fire.
+~
+~
+-1
+10453
+0
+Exit
+2
+You see the Foreman's office.
+~
+~
+-1
+10462
+AB
+Exit
+5
+You see a dark stairway down.
+~
+~
+-1
+10463
+0
+EndRoom
+
+#ROOM
+Vnum 10453
+Name Hall of Fire~
+Desc You are standing in a hallway made of fire. The walls are ablaze with
+yellow and blue flames. The smell of the hot air and sulfur burn your
+lungs as you inhale, and dry your mouth as you exhale. The stone floor
+burns at your feet and hungrily drinks up every drop of sweat as they
+fall from your body.
+The hall of fire continues to the east.
+You see a stone archway to the west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a hall of fire.
+~
+~
+-1
+10454
+0
+Exit
+3
+You see a stone archway.
+~
+~
+-1
+10452
+0
+EndRoom
+
+#ROOM
+Vnum 10454
+Name Hall of Fire~
+Desc You are standing in a hallway made of fire. The walls are ablaze with
+yellow and blue flames. The smell of the hot air and sulfur burn your
+lungs as you inhale, and dry your mouth as you exhale. The stone floor
+burns at your feet and hungrily drinks up every drop of sweat as they
+fall from your body.
+The hall of fire continues to the south and west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see a hall of fire.
+~
+~
+-1
+10464
+0
+Exit
+3
+You see a stone archway.
+~
+~
+-1
+10453
+0
+EndRoom
+
+#ROOM
+Vnum 10455
+Name Construction Area~
+Desc This part of Hell seems to be under repair. Workers are fixing and replacing
+what look like various gas mains and other pipework. You can see many
+gas lines and electrical conduits within the dismantled walls. Partially
+hidden fire sprinklers are being installed in the ceilings.
+You see more contruction to the east and south.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a construction area.
+~
+~
+-1
+10456
+0
+Exit
+2
+You see a construction area.
+~
+~
+-1
+10465
+0
+EndRoom
+
+#ROOM
+Vnum 10456
+Name Construction Area~
+Desc This part of Hell seems to be under repair. Workers are fixing and replacing
+what look like various gas mains and other pipework. You can see many
+gas lines and electrical conduits within the dismantled walls. Partially
+hidden fire sprinklers are being installed in the ceilings.
+You see more contruction to the east and west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a construction area.
+~
+~
+-1
+10457
+0
+Exit
+2
+You see a construction area.
+~
+~
+-1
+10455
+0
+EndRoom
+
+#ROOM
+Vnum 10457
+Name Construction Area~
+Desc This part of Hell seems to be under repair. Workers are fixing and replacing
+what look like various gas mains and other pipework. You can see many
+gas lines and electrical conduits within the dismantled walls. Partially
+hidden fire sprinklers are being installed in the ceilings.
+You see more contruction to the south and west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see a construction area.
+~
+~
+-1
+10467
+0
+Exit
+3
+You see a construction area.
+~
+~
+-1
+10456
+0
+EndRoom
+
+#ROOM
+Vnum 10458
+Name Hall of Fire~
+Desc You are standing in a hallway made of fire. The walls are ablaze with
+yellow and blue flames. The smell of the hot air and sulfur burn your
+lungs as you inhale, and dry your mouth as you exhale. The stone floor
+burns at your feet and hungrily drinks up every drop of sweat as they
+fall from your body.
+The hall of fire continues to the east and south.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a hall of fire.
+~
+~
+-1
+10459
+0
+Exit
+2
+You see a hall of fire.
+~
+~
+-1
+10468
+0
+EndRoom
+
+#ROOM
+Vnum 10459
+Name Hall of Fire~
+Desc You are standing in a hallway made of fire. The walls are ablaze with
+yellow and blue flames. The smell of the hot air and sulfur burn your
+lungs as you inhale, and dry your mouth as you exhale. The stone floor
+burns at your feet and hungrily drinks up every drop of sweat as they
+fall from your body.
+The hall of fire continues to the west.
+A room full of fire pits lies to the east.
+A wall of fire crackles merrily to the south.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a room full of fire pits.
+~
+~
+-1
+10460
+0
+Exit
+2
+You see a wall of fire.
+~
+~
+-1
+10469
+0
+Exit
+3
+You see a hall of fire.
+~
+~
+-1
+10458
+0
+EndRoom
+
+#ROOM
+Vnum 10460
+Name Fire Pits of Hades~
+Desc This room is filled with many small fire pits. Countless damned souls are
+being burnt and roasted within the the white flames that erupt from the
+many pits. Wailing and screams of pain chill your bones in this hot room.
+To the south you see a lake of fire.
+A fire hall lies to the west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see a lake of fire.
+~
+~
+-1
+10470
+0
+Exit
+3
+You see a hall of fire.
+~
+~
+-1
+10459
+0
+EndRoom
+
+#ROOM
+Vnum 10461
+Name Fire Mural~
+Desc Apon all the walls of this room is an enormous mural. Pictures of burning
+bodies and tortured souls seem to be the main theme of the art. Bright reds
+and hot blues are enphasized throughout the mural. As you stare at it the
+characters within it seem to move and struggle in pain. The hot air around
+you smells of sulfur and methane. To the south you see a stone hallway.
+Hot air blows in at you from the doorway. The air stirs up the methane and
+steals your breath. You choke and gag...
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see a stone hallway.
+~
+~
+-1
+10471
+0
+EndRoom
+
+#ROOM
+Vnum 10462
+Name Foreman's Office~
+Desc You stand in a crudly constructed office. Blueprints and change orders are
+scattered everywhere. A metal filing cabinet stands in the corner. Before
+you stands a stone table covered with blueprints. On the wall is a 
+construction plaque that reads, "4th DEMONsion Contruction"
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the door to the office.
+~
+~
+-1
+10452
+AB
+EndRoom
+
+#ROOM
+Vnum 10463
+Name Cold Stairway~
+Desc You stand apon a cold stone stairway. Hot air blows down on you from
+higher up the stairwell. From below you a freezing gusts bite at your skin
+and make you shiver. Icicles drip slowly from the ceiling onto the frosted
+stone floor.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+It is too dark to see.
+~
+~
+-1
+10452
+0
+Exit
+5
+It is too dark to see.
+~
+~
+-1
+10472
+0
+EndRoom
+
+#ROOM
+Vnum 10464
+Name Hall of Fire~
+Desc You are standing in a hallway made of fire. The walls are ablaze with
+yellow and blue flames. The smell of the hot air and sulfur burn your
+lungs as you inhale, and dry your mouth as you exhale. The stone floor
+burns at your feet and hungrily drinks up every drop of sweat as they
+fall from your body.
+The hall of fire continues to the north and east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a hall of fire.
+~
+~
+-1
+10454
+0
+Exit
+1
+You see a wall of fire.
+~
+~
+-1
+10465
+0
+EndRoom
+
+#ROOM
+Vnum 10465
+Name Construction Area~
+Desc This part of Hell seems to be under repair. Workers are fixing and replacing
+what look like various gas mains and other pipework. You can see many
+gas lines and electrical conduits within the dismantled walls. Partially
+hidden fire sprinklers are being installed in the ceilings.
+You see more contruction to the north and east.
+A hall of fire is to the west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a construction area.
+~
+~
+-1
+10455
+0
+Exit
+1
+You see a construction area.
+~
+~
+-1
+10466
+0
+Exit
+3
+You see a Hall of fire.
+~
+~
+-1
+10464
+0
+EndRoom
+
+#ROOM
+Vnum 10466
+Name Construction Area~
+Desc This part of Hell seems to be under repair. Workers are fixing and replacing
+what look like various gas mains and other pipework. You can see many
+gas lines and electrical conduits within the dismantled walls. Partially
+hidden fire sprinklers are being installed in the ceilings.
+You see more contruction to the east and west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a construction area.
+~
+~
+-1
+10467
+0
+Exit
+3
+You see a construction area.
+~
+~
+-1
+10465
+0
+EndRoom
+
+#ROOM
+Vnum 10467
+Name Construction Area~
+Desc This part of Hell seems to be under repair. Workers are fixing and replacing
+what look like various gas mains and other pipework. You can see many
+gas lines and electrical conduits within the dismantled walls. Partially
+hidden fire sprinklers are being installed in the ceilings.
+You see more contruction to the north and west.
+A hall of fire lies to the east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a construction area.
+~
+~
+-1
+10457
+0
+Exit
+1
+You see a hall of fire.
+~
+~
+-1
+10468
+0
+Exit
+3
+You see a construction area.
+~
+~
+-1
+10466
+0
+EndRoom
+
+#ROOM
+Vnum 10468
+Name Hall of Fire~
+Desc You are standing in a hallway made of fire. The walls are ablaze with
+yellow and blue flames. The smell of the hot air and sulfur burn your
+lungs as you inhale, and dry your mouth as you exhale. The stone floor
+burns at your feet and hungrily drinks up every drop of sweat as they
+fall from your body.
+The hall of fire continues to the north.
+There are loud noises of contruction to the west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a hall of fire.
+~
+~
+-1
+10458
+0
+Exit
+3
+You see a construction area.
+~
+~
+-1
+10467
+0
+EndRoom
+
+#ROOM
+Vnum 10469
+Name Wall of Fire~
+Desc This large room is cut in into sections by small walls of fire. The walls
+to move slowly changing the layout of the room. As you examine the room
+further you notice various posts around the room to which people are
+chained. The firewalls seem to move in patterns that leave the poor
+people directly in the path of the oncoming fire. The walls seem to creep
+ever so slowly towards them. The people blister and scream as the fire gets
+closer. Their deaths seem like minutes of agony and pain, and even as they
+burst into flames they seem incapable of grasping the merciful attention of
+death...
+To the north you see a hall of fire.
+To the east you see a lake of fire.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a hall of fire.
+~
+~
+-1
+10459
+0
+Exit
+1
+You see a Lake of fire.
+~
+~
+-1
+10470
+0
+EndRoom
+
+#ROOM
+Vnum 10470
+Name Lake of Fire~
+Desc You stand one the shore of a large lake of fire. The smoke and heat fill this
+enormous room. You can barely make out shapes of something moving
+withing the dancing flames of blue and gold..
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+It is too smoky to see.
+~
+~
+-1
+10460
+0
+Exit
+1
+It is too smoky to see.
+~
+~
+-1
+10471
+0
+Exit
+3
+It is too smoky to see.
+~
+~
+-1
+10469
+0
+EndRoom
+
+#ROOM
+Vnum 10471
+Name Hot Hall~
+Desc The stone floor below you heats your feet uncomfortably. The ceiling and
+walls glow a dull red and you sweat uncomfortably under the heat.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a Mural Room.
+~
+~
+-1
+10461
+0
+Exit
+3
+It is too smoky to see.
+~
+~
+-1
+10470
+0
+EndRoom
+
+#ROOM
+Vnum 10472
+Name Icy Landing~
+Desc This landing is made entirely of ice. Its walls bear carvings of battle and
+hunting scenes in bas-relief. These carved scenes show ice devils slaying
+angels, hunting mortals and other gruesome pictures.
+To the east you see a room of ice.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a room of ice.
+~
+~
+-1
+10541
+0
+EndRoom
+
+#ROOM
+Vnum 10473
+Name Ice Room~
+Desc You are standing in a room of ice. Icicles of every size hang from the
+ceiling. Some shake with every sound. Your reflection off the ice walls
+seems to dance and wiggle as you move about.
+To the south you see more of the frozen room.
+To the west you see an Icy landing.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see a room of ice.
+~
+~
+-1
+10483
+0
+Exit
+3
+You see a room of ice.
+~
+~
+-1
+10541
+0
+EndRoom
+
+#ROOM
+Vnum 10474
+Name Meat Locker~
+Desc You are standing in what looks like a meat locker. Rows of beef and other
+meats hang from large steel hooks. You also notice that many of the
+things hanging from the hooks are corpses of people. They reach out to
+you as you pass them as if to plead for help from their frozen mouths. 
+The meat locker continues to the east and south.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see more of the Meat locker
+~
+~
+-1
+10475
+0
+Exit
+2
+You see more of the Meat locker
+~
+~
+-1
+10484
+0
+EndRoom
+
+#ROOM
+Vnum 10475
+Name Meat Locker~
+Desc Rows of beef and other meats hang from large steel hooks. You notice that 
+many of the things hanging from the hooks are corpses of people. They 
+reach out to you as you pass them as if to plead for help from their frozen 
+mouths. 
+The meat locker continues to the south and west.
+There is a freezer door to the east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a freezer door.
+~
+freezer~
+-1
+10476
+AB
+Exit
+2
+You see more of the Meat locker
+~
+~
+-1
+10485
+0
+EndRoom
+
+#ROOM
+Vnum 10476
+Name Penguin Room~
+Desc This is what appears to be a replica of an iceberg. Penguins waddle about
+the room pecking at many poor souls half trapped in the icy floor. You
+seem to be outside, as the walls are painted to seem as if you are standing
+on a vast icy slab with nothing but ocean around you. 
+The iceberg continues to the south and east.
+There is a freezer door to the west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see lots and lots of ice.
+~
+~
+-1
+10477
+0
+Exit
+2
+You see lots and lots of ice.
+~
+~
+-1
+10486
+0
+Exit
+3
+You see a freezer door.
+~
+door freezer~
+-1
+10475
+AB
+EndRoom
+
+#ROOM
+Vnum 10477
+Name Penguin Room~
+Desc This is what appears to be a replica of an iceberg. Penguins waddle about
+the room pecking at many poor souls half trapped in the icy floor. You
+seem to be outside, as the walls are painted to seem as if you are standing
+on a vast icy slab with nothing but ocean around you. 
+The iceberg continues to the south and west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see lots and lots of ice.
+~
+~
+-1
+10487
+0
+Exit
+3
+You see lots and lots of ice.
+~
+~
+-1
+10476
+0
+EndRoom
+
+#ROOM
+Vnum 10478
+Name Ice Creamery~
+Desc You appear to be standing in a ice-creamery. Many ice-cream workers run
+frantically around tending to the various machines.
+The factory continues to the east and south.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see lots of ice-cream machines.
+~
+~
+-1
+10479
+0
+Exit
+2
+You see lots of ice-cream machines.
+~
+~
+-1
+10488
+0
+EndRoom
+
+#ROOM
+Vnum 10479
+Name Ice Creamery~
+Desc You appear to be standing in a ice-creamery. There seems to be a
+group of people here shouting into containers and then quickly covering 
+them. How odd...
+The factory continues to the south and west.
+There is a steel door to the east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a steel door.
+~
+door steel~
+-1
+10480
+AB
+Exit
+2
+You see lots of ice-cream machines.
+~
+~
+-1
+10489
+0
+Exit
+3
+You see lots of ice-cream machines.
+~
+~
+-1
+10478
+0
+EndRoom
+
+#ROOM
+Vnum 10480
+Name White Marble Hall~
+Desc You are standing in a white marble hallway. It is dry and clean. Many
+portraits of demons and devils in business suits adorn the walls on either
+side of you.
+The hall continues to the south.
+To the west is a steel door.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see a marble hallway.
+~
+~
+-1
+10490
+0
+Exit
+3
+You see a steel door.
+~
+door steel~
+-1
+10479
+AB
+EndRoom
+
+#ROOM
+Vnum 10481
+Name Refrigerator Room~
+Desc This room is filled with giant refrigerators. All of them have no doors and
+their contents have spilled onto the floor.
+The only exit is east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a room of ice.
+~
+~
+-1
+10482
+0
+EndRoom
+
+#ROOM
+Vnum 10482
+Name Ice Room~
+Desc You are standing in a room of ice. Icicles of every size hang from the
+ceiling. Some shake with every sound. Your reflection off the ice walls
+seems to dance and wiggle as you move about.
+To the north and east you see more of the frozen room.
+To the west you see a room full of refrigerators.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a room of ice.
+~
+~
+-1
+10541
+0
+Exit
+1
+You see a room of ice.
+~
+~
+-1
+10483
+0
+Exit
+3
+You see a room full of refrigerators.
+~
+~
+-1
+10481
+0
+EndRoom
+
+#ROOM
+Vnum 10483
+Name Ice Room~
+Desc You are standing in a room of ice. Icicles of every size hang from the
+ceiling. Some shake with every sound. Your reflection off the ice walls
+seems to dance and wiggle as you move about.
+To the north and west you see more of the frozen room.
+To the east you see a freezer door.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a room of ice.
+~
+~
+-1
+10473
+0
+Exit
+1
+You see a freezer door.
+~
+door freezer~
+-1
+10484
+AB
+Exit
+3
+You see a room of ice.
+~
+~
+-1
+10482
+0
+EndRoom
+
+#ROOM
+Vnum 10484
+Name Meat Locker~
+Desc You stand in a large meat locker. Chunks of meat hang on the wall and 
+larger corpses hang from steel hooks. Frozen blood and other 
+unrecognizable pieces are littered on the floor.
+The meat locker continues to the north and east.
+There is a freezer door to the west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see more of the Meat locker
+~
+~
+-1
+10474
+0
+Exit
+1
+You see more of the Meat locker
+~
+~
+-1
+10485
+0
+Exit
+3
+You see a freezer door.
+~
+door freezer~
+-1
+10483
+AB
+EndRoom
+
+#ROOM
+Vnum 10485
+Name Meat Locker~
+Desc Rows of beef and other meats hang from large steel hooks. 
+The meat locker continues to the north and west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see more of the Meat locker
+~
+~
+-1
+10475
+0
+Exit
+3
+You see more of the Meat locker
+~
+~
+-1
+10484
+0
+EndRoom
+
+#ROOM
+Vnum 10486
+Name Penguin Room~
+Desc This is what appears to be a replica of an iceberg. Penguins waddle about
+the room pecking at many poor souls half trapped in the icy floor. You
+seem to be outside, as the walls are painted to seem as if you are standing
+on a vast icy slab with nothing but ocean around you. 
+The iceberg continues to the north and east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see lots and lots of ice.
+~
+~
+-1
+10476
+0
+Exit
+1
+You see lots and lots of ice.
+~
+~
+-1
+10487
+0
+EndRoom
+
+#ROOM
+Vnum 10487
+Name Penguin Room~
+Desc This is what appears to be a replica of an iceberg. Penguins waddle about
+the room pecking at many poor souls half trapped in the icy floor. You
+seem to be outside, as the walls are painted to seem as if you are standing
+on a vast icy slab with nothing but ocean around you. 
+The iceberg continues to the north and west.
+You can hear sounds of machinery to the east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see lots and lots of ice.
+~
+~
+-1
+10477
+0
+Exit
+1
+You see a dark passageway.
+~
+~
+-1
+10488
+0
+EndRoom
+
+#ROOM
+Vnum 10488
+Name Ice-Creamery~
+Desc You walk into part of an ice-cream factory. Many different types of
+ice-cream and other deserts are made by these machines. Above one
+of the machines a sign reads, 'Eye Spleen I Screamery'.
+The factory continues to the north and east.
+You can hear sounds of penguins to the west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see lots of ice-cream machines.
+~
+~
+-1
+10478
+0
+Exit
+1
+You see lots of ice-cream machines.
+~
+~
+-1
+10489
+0
+Exit
+3
+You see a dark passageway.
+~
+~
+-1
+10487
+0
+EndRoom
+
+#ROOM
+Vnum 10489
+Name Ice-Creamery~
+Desc You stand amidst dozens of ice-cream machines. Workers rush about
+for machine to machine, adjusting dials and checking gauges.
+The factory continues to the north and west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see lots of ice-cream machines.
+~
+~
+-1
+10479
+0
+Exit
+3
+You see lots of ice-cream machines.
+~
+~
+-1
+10488
+0
+EndRoom
+
+#ROOM
+Vnum 10490
+Name Marble Hall~
+Desc You are walking down a white marble hallway. Large portraits of demons
+and devils adorn the walls on either side of you. As you look again you
+realize that they aren't demons and devils after all, but lawyers....well ok...
+depends on your point of view...
+The hallway continues to the north.
+There is an office to the south.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a white marble hallway.
+~
+~
+-1
+10480
+0
+Exit
+2
+You see an office.
+~
+~
+-1
+10500
+0
+EndRoom
+
+#ROOM
+Vnum 10491
+Name Records Hall~
+Desc This Hallway is actually an enourmous records library. Millions of records
+are kept here detailing the status of peoples lives. These are confidential
+files and only authorized personnel are allowed to view them.
+The records room continues to the east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see rows and rows of records.
+~
+~
+-1
+10492
+0
+EndRoom
+
+#ROOM
+Vnum 10492
+Name Records Hall~
+Desc This Hallway is actually an enourmous records library. Millions of records
+are kept here detailing the status of peoples lives. These are confidential
+files and only authorized personnel are allowed to view them.
+The records room continues to the east and west.
+There is another hallway to the south.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see rows and rows of records.
+~
+~
+-1
+10493
+0
+Exit
+2
+You see the Halls of Judgement.
+~
+~
+-1
+10502
+0
+Exit
+3
+You see rows and rows of records.
+~
+~
+-1
+10491
+0
+EndRoom
+
+#ROOM
+Vnum 10493
+Name Records Hall~
+Desc This Hallway is actually an enourmous records library. Millions of records
+are kept here detailing the status of peoples lives. These are confidential
+files and only authorized personnel are allowed to view them.
+The records room continues to the east and west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see rows and rows of records.
+~
+~
+-1
+10494
+0
+Exit
+3
+You see rows and rows of records.
+~
+~
+-1
+10492
+0
+EndRoom
+
+#ROOM
+Vnum 10494
+Name Records Hall~
+Desc This Hallway is actually an enourmous records library. Millions of records
+are kept here detailing the status of peoples lives. These are confidential
+files and only authorized personnel are allowed to view them.
+The records room continues to the west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see rows and rows of records.
+~
+~
+-1
+10493
+0
+EndRoom
+
+#ROOM
+Vnum 10495
+Name Small Altar~
+Desc This is the private prayer room of the high priest. a small altar stands
+against the west wall. Evil symbols and pictures are plastered everywhere.
+The new propaganda posters for Hell are posted behind the altar.
+You see a blackened hall to the east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+poster~
+Don't go to heaven....They're boring....
+
+***GO TO HELL!!!****
+
+You'll be damned if you don't  ;)
+~
+Exit
+1
+You see a blackened hallway.
+~
+~
+-1
+10496
+0
+EndRoom
+
+#ROOM
+Vnum 10496
+Name Blackened Hall~
+Desc This hall looks as if it was burned out recently. The walls are charred and
+smoking. Ashes and bits of burnt timber crunch under your feet as you 
+walk down the hall. A sign on the wall reads, 'No Non-smoking Please'. 
+The hall continues to the south.
+There is a stone door to the east and a prayer room to the west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a stone door.
+~
+door stone~
+-1
+10497
+AB
+Exit
+2
+You see a blackened hall.
+~
+~
+-1
+10506
+0
+Exit
+3
+You see a prayer room.
+~
+~
+-1
+10495
+0
+EndRoom
+
+#ROOM
+Vnum 10497
+Name Office of the High Priest~
+Desc This is the office of the High Priest of Hell. A black stone desk stands
+before you. The office is lavishly furnished with gold, gems and many
+antiques. A large portrait of a demons face is on the wall behind his desk.
+You see a stone door to the west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see a stone door.
+~
+door stone~
+-1
+10496
+AB
+EndRoom
+
+#ROOM
+Vnum 10498
+Name Blackened Hall~
+Desc This hall looks as if it was burned out recently. The walls are charred and
+smoking. Ashes and bits of burnt timber crunch under your feet as you 
+walk down the hall. A sign on the wall reads, 'No Non-smoking Please'. 
+The hall continues to the east and south.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a blackened hall.
+~
+~
+-1
+10499
+0
+Exit
+2
+You see a blackened hall.
+~
+~
+-1
+10508
+0
+EndRoom
+
+#ROOM
+Vnum 10499
+Name Blackened Hall~
+Desc This hall looks as if it was burned out recently. The walls are charred and
+smoking. Ashes and bits of burnt timber crunch under your feet as you 
+walk down the hall. A sign on the wall reads, 'No Non-smoking Please'.
+The hall continues to the west.
+A glass door is to the east. 
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a glass door.
+~
+door glass~
+-1
+10500
+AB
+Exit
+3
+You see a blackened hall.
+~
+~
+-1
+10498
+0
+EndRoom
+
+#ROOM
+Vnum 10500
+Name Administration of Hell~
+Desc This is the entrance to the Administration offices of Hell. The secretaries
+desk sits quietly in the middle of the room. To the south is a metal door
+labeled, 'Authorized Personnel Only'
+To the west is a large glass door.
+There is a stairway down on the opposite side of the room.
+There is a sign posted next to the stairs.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+****ATTENTION***
+The Abyss is CLOSED for construction.
+
+We will open for your painful pleasures
+
+soon....
+
+-Strahd-
+~
+Exit
+0
+You see a marble hall.
+~
+~
+-1
+10490
+0
+Exit
+2
+You see a metal door.
+~
+door metal~
+-1
+10510
+AB
+Exit
+3
+You see a glass door.
+~
+door glass~
+-1
+10499
+AB
+Exit
+5
+You see a stairway down.
+~
+stairway~
+-1
+10509
+0
+EndRoom
+
+#ROOM
+Vnum 10501
+Name Halls of Judgement~
+Desc You are standing in the Halls of Judgement. There are many alcoves 
+which contain different methods of torture. Each more grotesque than
+the one before it. On the wall a plaque reads, 'If you are here...You are
+Guilty...You have been judged...sound fair? Too bad..'
+The hall continues to the east.
+The Courtroom is to the south.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the Halls of Judgement.
+~
+~
+-1
+10502
+0
+Exit
+2
+You see the Court of Hell.
+~
+~
+-1
+10511
+0
+EndRoom
+
+#ROOM
+Vnum 10502
+Name Halls of Judgement~
+Desc You are standing in the Halls of Judgement. There are many alcoves 
+which contain different methods of torture. Each more grotesque than
+the one before it. 
+The hall continues to the east and west.
+The hall of records is to the north.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the Hall of Records.
+~
+~
+-1
+10492
+0
+Exit
+1
+You see the Halls of Judgement.
+~
+~
+-1
+10503
+0
+Exit
+3
+You see the Halls of Judgement.
+~
+~
+-1
+10501
+0
+EndRoom
+
+#ROOM
+Vnum 10503
+Name Halls of Judgement~
+Desc You are standing in the Halls of Judgement. There are many alcoves 
+which contain different methods of torture. Each more grotesque than
+the one before it. 
+The hall continues to the east and west.
+The Office of Complaints is to the south.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the Halls of Judgement.
+~
+~
+-1
+10504
+0
+Exit
+2
+You see the Office of Complaints.
+~
+~
+-1
+10513
+0
+Exit
+3
+You see the Halls of Judgement.
+~
+~
+-1
+10502
+0
+EndRoom
+
+#ROOM
+Vnum 10504
+Name Halls of Judgement~
+Desc You are standing in the Halls of Judgement. There are many alcoves 
+which contain different methods of torture. Each more grotesque than
+the one before it. 
+The hall continues to the east and west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the Halls of Judgement.
+~
+~
+-1
+10505
+0
+Exit
+3
+You see the Halls of Judgement.
+~
+~
+-1
+10503
+0
+EndRoom
+
+#ROOM
+Vnum 10505
+Name Halls of Judgement~
+Desc You are standing in the Halls of Judgement. There are many alcoves 
+which contain different methods of torture. Each more grotesque than
+the one before it. 
+The hall continues to the east and west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the Halls of Judgement.
+~
+~
+-1
+10506
+0
+Exit
+3
+You see the Halls of Judgement.
+~
+~
+-1
+10504
+0
+EndRoom
+
+#ROOM
+Vnum 10506
+Name Blackened Hall~
+Desc This hall looks as if it was burned out recently. The walls are charred and
+smoking. Ashes and bits of burnt timber crunch under your feet as you 
+walk down the hall. A sign on the wall reads, 'No Non-smoking Please'.
+There are exits in all directions.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a blackened hall.
+~
+~
+-1
+10496
+0
+Exit
+1
+You see a blackened hall.
+~
+~
+-1
+10507
+0
+Exit
+2
+You see the hallway of the Mall from Hell .
+~
+~
+-1
+10516
+0
+Exit
+3
+You see the Halls of Judgement.
+~
+~
+-1
+10505
+0
+EndRoom
+
+#ROOM
+Vnum 10507
+Name Blackened Hall~
+Desc This hall looks as if it was burned out recently. The walls are charred and
+smoking. Ashes and bits of burnt timber crunch under your feet as you 
+walk down the hall. A sign on the wall reads, 'No Non-smoking Please'.
+The hallway continues to the east and west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a blackened hall.
+~
+~
+-1
+10508
+0
+Exit
+3
+You see a blackened hall.
+~
+~
+-1
+10506
+0
+EndRoom
+
+#ROOM
+Vnum 10508
+Name Blackened Hall~
+Desc This hall looks as if it was burned out recently. The walls are charred and
+smoking. Ashes and bits of burnt timber crunch under your feet as you 
+walk down the hall. A sign on the wall reads, 'No Non-smoking Please'.
+The hallway continues to the north and west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a blackened hall.
+~
+~
+-1
+10498
+0
+Exit
+3
+You see a blackened hall.
+~
+~
+-1
+10507
+0
+EndRoom
+
+#ROOM
+Vnum 10509
+Name Stairs to the Abyss~
+Desc These dark stairs are made out of the bones of the damned. They rattle
+softly as you tread apon them as if to cry out in protest. The air is filled
+with the wailing of lost souls and the blood curdling screams of the
+punished.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+You see the eternal darkness of the Abyss.
+~
+~
+-1
+10518
+0
+EndRoom
+
+#ROOM
+Vnum 10510
+Name Maintenance Walkway~
+Desc This is a maintence accessway. You walk on a metal catwalk hundreds of 
+feet above the floor. The catwalk sways unsteadily as you walk on it.
+The catwalk continues to the south.
+To the north is a steel door.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a steel door.
+~
+door steel~
+-1
+10500
+AB
+Exit
+2
+You see a maintenance walkway.
+~
+~
+-1
+10520
+0
+EndRoom
+
+#ROOM
+Vnum 10511
+Name Court Room~
+Desc This is the Courts of Hell. Here you are convicted, sentenced and punished.
+And no...you don't get a trial. You don't deserve one. The courtroom is
+filled with spectators and jury members. They seem to have no real reason
+to be here since there isn't going to be a trial. They jeer and boo you as you
+stand in the middle of the courtroom.
+To the north is the Halls of Judgement.
+Behind the judges bench is a wooden door.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the Halls of Judgement.
+~
+~
+-1
+10501
+0
+Exit
+2
+You see a large wooden door.
+~
+~
+-1
+10521
+0
+EndRoom
+
+#ROOM
+Vnum 10512
+Name Lawyers Office~
+Desc As you look around you, you realize you've entered a lawyers office. Now
+you know you are in Hell....Everything in this office seems to be made of
+snakeskin. This is the only lawyers office in Hell, so if you don't  like them
+you're out of luck. But then again...if you are in Hell...you must've run
+out of luck a while ago.
+To the east is the Office of Complaints.
+To the south you see a courtyard.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the Office of Complaints.
+~
+~
+-1
+10513
+0
+Exit
+2
+You see a courtyard.
+~
+~
+-1
+10522
+0
+EndRoom
+
+#ROOM
+Vnum 10513
+Name Office of Complaints~
+Desc This is a relatively small office. There is a large hole in the wall where a 
+clerk usually sits and takes complaints about Hell. As you peek behind
+the counter you see a large paper shredder and alot of shredded complaints.
+a sign over the clerks desk reads, 'Hours: 12:00am - 12:01am'
+To the west is a lawyers office.
+To the north you see the Halls of Judgement.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the Halls of Judgement.
+~
+~
+-1
+10503
+0
+Exit
+3
+You see a lawyers office
+~
+~
+-1
+10512
+0
+EndRoom
+
+#ROOM
+Vnum 10514
+Name Pawn Shop~
+Desc You are standing in Hiramoto's Buy & Sell. This poor bastard has
+been damned to Hell to serve the public for eternity. He will buy most
+anything you have, since business is slow. Not many people visit
+Hell. The store is filled with worthless junk. Piles of aluminum balls,
+and bottle cap collections fill the corners of the room. Junk of
+all kinds is scattered about the store.
+To the east you see the Mall from Hell.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the Mall from Hell.
+~
+~
+-1
+10515
+0
+EndRoom
+
+#ROOM
+Vnum 10515
+Name Hallway of The Mall from Hell~
+Desc This is definitely the Mall from Hell...there are no stores!
+Only in Hell would they have a mall with no stores.
+To the east you see the Mall from Hell.
+To the west you see Hiramoto's Buy & Sell.
+The hall continues to the east and south.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the Mall from Hell.
+~
+~
+-1
+10516
+0
+Exit
+2
+You see the Mall from Hell.
+~
+~
+-1
+10525
+0
+Exit
+3
+You see Hiramoto's Buy & Sell.
+~
+~
+-1
+10514
+0
+EndRoom
+
+#ROOM
+Vnum 10516
+Name Hallway of The Mall from Hell~
+Desc This is definitely the Mall from Hell...there are no stores!
+Only in Hell would they have a mall with no stores.
+To the north you see a blackened hallway.
+To the east you see the office of Big Mouth.
+The hallway continues to the west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a blackened hall.
+~
+~
+-1
+10506
+0
+Exit
+1
+You see the office of Big Mouth.
+~
+~
+-1
+10517
+0
+Exit
+3
+You see the hallways of the Mall from Hell.
+~
+~
+-1
+10515
+0
+EndRoom
+
+#ROOM
+Vnum 10517
+Name The Office of Big Mouth~
+Desc This is the office of Big Mouth, head demon of Hell's Administration.
+The room is decorated posters of naked women and autographed pictures
+of famous tortured souls. Behind a large oaken desk sleeps Big Mouth.
+This mouth looks large enough to step into if it were open. You wonder
+what this guy eats...
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see the hallways of the Mall from Hell.
+~
+~
+-1
+10516
+0
+Exit
+5
+You see Big Mouth's mouth.
+~
+mouth big mouth's~
+-1
+10526
+A
+EndRoom
+
+#ROOM
+Vnum 10518
+Name Stairs to the Abyss~
+Desc These dark stairs are made out of the bones of the damned. They rattle
+softly as you tread apon them as if to cry out in protest. The air is filled
+with the wailing of lost souls and the blood curdling screams of the
+punished.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+You see the eternal darkness of the Abyss.
+~
+~
+-1
+10527
+0
+EndRoom
+
+#ROOM
+Vnum 10519
+Name Maintenance Walkway~
+Desc This is a maintence accessway. You walk on a metal catwalk hundreds of 
+feet above the floor. The catwalk sways unsteadily as you walk on it.
+The catwalk continues to the east and south.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a maintenance walkway.
+~
+~
+-1
+10520
+0
+Exit
+2
+You see a maintenance walkway.
+~
+~
+-1
+10529
+0
+EndRoom
+
+#ROOM
+Vnum 10520
+Name Maintenance Walkway~
+Desc This is a maintence accessway. You walk on a metal catwalk hundreds of 
+feet above the floor. The catwalk sways unsteadily as you walk on it.
+The catwalk continues to the north and west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a maintenance walkway.
+~
+~
+-1
+10510
+0
+Exit
+3
+You see a maintenance walkway.
+~
+~
+-1
+10519
+0
+EndRoom
+
+#ROOM
+Vnum 10521
+Name Judge's Chambers~
+Desc This is the private chambers of the High Judge of Hell. He has a cushy job
+and his office reflects that. Golden torches light the walls with dancing
+blue and yellow flames. The judge's black crystal desk sparkles in the 
+torchlight.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the Courtroom of Hell.
+~
+~
+-1
+10511
+0
+EndRoom
+
+#ROOM
+Vnum 10522
+Name Courtyard~
+Desc This courtyard is barren and neglected. Small weeds grow up in between
+the concrete slabs. An old defunct fountain sputters with a grey-brown
+ooze.
+A lawyers office is to the north.
+The courtyard continues to the east and south.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a lawyers office.
+~
+~
+-1
+10512
+0
+Exit
+1
+You see a more of the courtyard.
+~
+~
+-1
+10523
+0
+Exit
+2
+You see a more of the courtyard.
+~
+~
+-1
+10532
+0
+EndRoom
+
+#ROOM
+Vnum 10523
+Name Courtyard~
+Desc This courtyard is barren and neglected. Small weeds grow up in between
+the concrete slabs. An old defunct fountain sputters with a grey-brown
+ooze.
+The courtyard continues to the west and south.
+Stanley's Magical Steeds is to the east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see Stanley's Magical Steeds store.
+~
+~
+-1
+10524
+0
+Exit
+2
+You see a more of the courtyard.
+~
+~
+-1
+10533
+0
+Exit
+3
+You see a more of the courtyard.
+~
+~
+-1
+10522
+0
+EndRoom
+
+#ROOM
+Vnum 10524
+Name Stanley's Magical Steeds~
+Desc This is the shop of Stanly. He used to be an old mage selling cursed
+trinkets at the town of Solace. He has recently set up shop in Hell selling
+magical figurines. Each figurine is in the shape of some sort of steed.
+Some are recognizable and some are not. Rumor has it that Stanley made
+a deal with a devil....so I guess his lease is up in seven years.....
+A courtyard is to the west.
+To the south you see the Mall from Hell.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see a hallway of the Mall from Hell.
+~
+~
+-1
+10534
+0
+Exit
+3
+You see an abandon courtyard.
+~
+~
+-1
+10523
+0
+EndRoom
+
+#ROOM
+Vnum 10525
+Name Hallway of The Mall from Hell~
+Desc This is definitely the Mall from Hell...there are no stores!
+Only in Hell would they have a mall with no stores.
+The hallway continues to the north and south.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a hall of the Mall from Hell.
+~
+~
+-1
+10515
+0
+Exit
+1
+You see a hall of the Mall from Hell.
+~
+~
+-1
+10535
+0
+EndRoom
+
+#ROOM
+Vnum 10526
+Name Inside Big Mouth's Stomach~
+Desc You are standing inside Big Mouth's stomach. It is roomy in here. Small
+animals and other odds and ends lie about the stomach. Is that a dragon  
+you see? Nah...couldn't be...
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+You see Big Mouth's throat.
+~
+mouth big mouth's throat~
+-1
+10517
+A
+EndRoom
+
+#ROOM
+Vnum 10527
+Name Stairs to the Abyss~
+Desc These dark stairs are made out of the bones of the damned. They rattle
+softly as you tread apon them as if to cry out in protest. The air is filled
+with the wailing of lost souls and the blood curdling screams of the
+punished.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+You see the eternal darkness of the Abyss.
+~
+~
+-1
+10536
+0
+EndRoom
+
+#ROOM
+Vnum 10528
+Name Reactor Control Room~
+Desc This is the reactor control room of Hell. From here the workers control
+the main reactor and power supply for all of Hell and the abyss. Workers
+stroll back and forth, from station to station monitoring the reactor core.
+A large glass window looks out onto the reactor floor below.
+There are some stairs down to the reactor floor to the south.
+There is a maintenance room to the east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a maintenance room.
+~
+~
+-1
+10529
+0
+Exit
+2
+You see stairs down to the reactor floor.
+~
+~
+-1
+10538
+0
+EndRoom
+
+#ROOM
+Vnum 10529
+Name Maintenance Room~
+Desc You are standing in the primary maintenance room of Hell. Tools of all
+shapes and sizes are neatly hung on the walls, each with its own painted-on
+silhouette behind it.
+To the west is the reactor control room.
+To the east is the break room.
+To the north is a maintenance walkway.
+To the south is the secondary control room.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a maintenance walkway.
+~
+~
+-1
+10519
+0
+Exit
+1
+You see a break room.
+~
+~
+-1
+10530
+0
+Exit
+2
+You see the secondary control room.
+~
+~
+-1
+10539
+0
+Exit
+3
+You see the reactor control room.
+~
+~
+-1
+10528
+0
+EndRoom
+
+#ROOM
+Vnum 10530
+Name Break Room~
+Desc This is the break room for the maintenance workers. tables are filled with
+donuts and coffee. As a cruel joke, the cheif engineer has posted his guard
+dogs to guard the room so that no one can take a break.
+To the west is the primary maintenance room.
+To the south is the chief engineers office.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see the chief engineers office.
+~
+~
+-1
+10540
+0
+Exit
+3
+You see the primary maintenance room.
+~
+~
+-1
+10529
+0
+EndRoom
+
+#ROOM
+Vnum 10531
+Name Hell's Kitchen~
+Desc Welcome to Hell's kitchen, where everything is delicious....you just can't
+have any....This is where the many foods of the world of Farside are made.
+The chefs are usually very busy, but they always have extra time to torture
+a guest....
+To the east is a courtyard.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see an abandon courtyard.
+~
+~
+-1
+10532
+0
+EndRoom
+
+#ROOM
+Vnum 10532
+Name Courtyard~
+Desc This courtyard is barren and neglected. Small weeds grow up in between
+the concrete slabs. An old defunct fountain sputters with a grey-brown
+ooze.
+The courtyard continues to the north and east.
+You see a kitchen to the west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see more of the courtyard.
+~
+~
+-1
+10522
+0
+Exit
+1
+You see a more of the courtyard.
+~
+~
+-1
+10533
+0
+Exit
+3
+You see a kitchen.
+~
+~
+-1
+10531
+0
+EndRoom
+
+#ROOM
+Vnum 10533
+Name Courtyard~
+Desc This courtyard is barren and neglected. Small weeds grow up in between
+the concrete slabs. An old defunct fountain sputters with a grey-brown
+ooze.
+The courtyard continues to the north and west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see more of the courtyard.
+~
+~
+-1
+10523
+0
+Exit
+3
+You see a more of the courtyard.
+~
+~
+-1
+10532
+0
+EndRoom
+
+#ROOM
+Vnum 10534
+Name Hallway of The Mall from Hell~
+Desc This is definitely the Mall from Hell...there are no stores!
+Only in Hell would they have a mall with no stores.
+The hallway continues to the east.
+Stanley's magic steeds are to the north.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see Stanley's Magic Steeds.
+~
+~
+-1
+10524
+0
+Exit
+1
+You see a hall of the Mall from Hell.
+~
+~
+-1
+10535
+0
+EndRoom
+
+#ROOM
+Vnum 10535
+Name Hallway of The Mall from Hell~
+Desc This is definitely the Mall from Hell...there are no stores!
+Only in Hell would they have a mall with no stores.
+The hallway continues to the north and west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a hall of the Mall from Hell.
+~
+~
+-1
+10525
+0
+Exit
+3
+You see a hall of the Mall from Hell.
+~
+~
+-1
+10534
+0
+EndRoom
+
+#ROOM
+Vnum 10536
+Name Stairs to the Abyss~
+Desc These dark stairs are made out of the bones of the damned. They rattle
+softly as you tread apon them as if to cry out in protest. The air is filled
+with the wailing of lost souls and the blood curdling screams of the
+punished. You can't seem to find the Abyss...you seem to recall a seeing a
+sign....now what did it say again?......
+~
+Room_flags 13
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 10537
+Name Inside the Reactor Core~
+Desc You are standing on the inside of the reactor core. Actually you seem to
+be floating in the plasma energy of the reactor. You can see the core
+chamber fall off into the distance as it seems to be bottomless. Nuclear
+particles and other strange things whiz by you at blinding speeds.
+You see a maintenance hatch to the east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a maintenance hatch.
+~
+hatch maintenance reactor core~
+-1
+10538
+AB
+EndRoom
+
+#ROOM
+Vnum 10538
+Name Reactor Room Floor~
+Desc The room is taken up almost entirely by the enormous reactor core. The
+core pulses rhythmically as it generates the heat and power for the entire
+region of Hell. Many workers in orange jumpsuits run frantically around
+with geiger counters and plasma torches fixing breaches in the core.
+You see a reactor core maintenance hatch to the west.
+A stairway to the control room is to the north.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the stairs to the control room.
+~
+~
+-1
+10528
+0
+Exit
+3
+You see a reactor core maintence hatch.
+~
+hatch maintenance reactor core~
+-1
+10537
+AB
+EndRoom
+
+#ROOM
+Vnum 10539
+Name Secondary Control Room~
+Desc This is the secondary control room for the reactor core. It is usually used in
+emergencies when the primary control room is contaminated or damaged.
+It isn't used very often since the primary control room is in perfect 
+working order.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the primary maintenance room.
+~
+~
+-1
+10529
+0
+EndRoom
+
+#ROOM
+Vnum 10540
+Name Office of the Chief Engineer~
+Desc This office belongs to the chief engineer of Hell. Blueprints and pencils 
+are scattered about the room. The air is heavy with the smell of ammonia
+and sweat. A display of the reactor core is mounted into the wall.
+One wall is completely filled with monitors, each showing various
+status reports for the reactor core.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the break room.
+~
+~
+-1
+10530
+0
+EndRoom
+
+#ROOM
+Vnum 10541
+Name Ice Room~
+Desc You are standing in a room of ice. Icicles of every size hang from the
+ceiling. Some shake with every sound. Your reflection off the ice walls
+seems to dance and wiggle as you move about.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a room of ice.
+~
+~
+-1
+10473
+0
+Exit
+2
+You see a room of ice.
+~
+~
+-1
+10482
+0
+Exit
+3
+You see a room of ice.
+~
+~
+-1
+10472
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 10401 spec_cast_judge
+M 10402 spec_thief
+M 10403 spec_breath_fire
+M 10405 spec_thief
+M 10406 spec_poison
+M 10407 spec_cast_judge
+M 10408 spec_cast_cleric
+M 10409 spec_cast_cleric
+M 10410 spec_cast_mage
+M 10411 spec_cast_undead
+M 10412 spec_breath_acid
+M 10417 spec_breath_gas
+M 10418 spec_cast_mage
+M 10419 spec_breath_fire
+M 10421 spec_fido
+M 10422 spec_breath_lightning
+M 10425 spec_poison
+M 10426 spec_breath_fire
+M 10430 spec_breath_fire
+M 10432 spec_breath_fire
+M 10433 spec_breath_frost
+M 10434 spec_breath_frost
+M 10437 spec_cast_mage
+M 10438 spec_breath_frost
+M 10439 spec_breath_frost
+M 10442 spec_thief
+M 10445 spec_cast_cleric
+M 10448 spec_cast_judge
+M 10456 spec_breath_acid
+M 10468 spec_breath_fire
+M 10469 spec_breath_frost
+M 10470 spec_fido
+S
+
+
+
+#RESETS
+D 0 10404 3 1
+D 0 10405 1 1
+D 0 10416 1 1
+D 0 10417 3 1
+D 0 10433 2 1
+D 0 10435 2 1
+D 0 10437 2 1
+D 0 10439 1 1
+D 0 10439 2 1
+D 0 10440 3 1
+D 0 10443 0 1
+D 0 10445 0 1
+D 0 10447 0 1
+D 0 10449 0 1
+D 0 10452 2 1
+D 0 10462 0 1
+D 0 10475 1 1
+D 0 10476 3 1
+D 0 10479 1 1
+D 0 10480 3 1
+D 0 10483 1 1
+D 0 10484 3 1
+D 0 10496 1 1
+D 0 10497 3 1
+D 0 10499 1 1
+D 0 10500 2 1
+D 0 10500 3 1
+D 0 10510 0 1
+D 0 10537 1 1
+D 0 10538 3 1
+M 0 10401 2 10405 2
+E 0 10401 0 16
+M 0 10401 2 10405 2
+E 0 10401 0 16
+M 0 10409 6 10406 2
+M 0 10409 6 10408 2
+M 0 10409 6 10410 2
+M 0 10412 2 10412 1
+G 0 10405 0
+M 0 10410 2 10413 2
+M 0 10411 1 10414 1
+M 0 10406 1 10415 1
+M 0 10407 1 10415 1
+M 0 10408 1 10415 1
+M 0 10402 1 10416 1
+M 0 10405 1 10416 1
+M 0 10403 1 10417 1
+E 0 10402 0 16
+M 0 10404 1 10417 1
+E 0 10403 0 16
+M 0 10414 1 10419 1
+M 0 10415 1 10419 1
+M 0 10416 1 10419 1
+M 0 10417 1 10420 1
+M 0 10418 4 10423 2
+M 0 10418 4 10424 2
+M 0 10419 1 10425 1
+E 0 10408 0 16
+M 0 10413 2 10426 1
+E 0 10406 0 5
+E 0 10407 0 16
+M 0 10413 2 10428 1
+E 0 10406 0 5
+E 0 10407 0 16
+M 0 10412 2 10429 1
+G 0 10404 0
+M 0 10420 2 10430 2
+M 0 10422 1 10433 1
+M 0 10425 3 10436 1
+E 0 10409 0 5
+E 0 10410 0 16
+M 0 10423 1 10437 1
+M 0 10425 3 10438 1
+E 0 10409 0 5
+E 0 10410 0 16
+M 0 10421 2 10440 1
+E 0 10444 0 16
+M 0 10425 3 10442 1
+E 0 10409 0 5
+E 0 10410 0 16
+M 0 10421 2 10445 1
+E 0 10444 0 16
+M 0 10424 1 10449 1
+M 0 10432 1 10454 1
+E 0 10417 0 16
+M 0 10427 3 10456 1
+E 0 10445 0 16
+M 0 10428 3 10456 1
+E 0 10412 0 16
+M 0 10426 2 10460 1
+E 0 10411 0 10
+M 0 10468 1 10460 1
+E 0 10415 0 16
+G 0 10416 0
+M 0 10440 1 10462 1
+G 0 10422 0
+M 0 10428 3 10465 1
+E 0 10413 0 16
+M 0 10427 3 10465 1
+E 0 10412 0 16
+M 0 10427 3 10467 1
+E 0 10445 0 16
+M 0 10428 3 10467 1
+E 0 10412 0 16
+M 0 10431 1 10469 1
+M 0 10426 2 10470 1
+E 0 10411 0 10
+M 0 10430 1 10470 1
+E 0 10414 0 16
+G 0 10449 0
+M 0 10435 1 10473 1
+M 0 10469 2 10474 1
+G 0 10421 0
+M 0 10436 2 10475 1
+E 0 10420 0 16
+M 0 10437 4 10476 1
+M 0 10437 4 10477 1
+M 0 10438 2 10478 1
+M 0 10439 1 10479 1
+M 0 10434 1 10483 1
+E 0 10419 0 16
+M 0 10436 2 10484 1
+E 0 10420 0 16
+M 0 10469 2 10485 1
+G 0 10421 0
+M 0 10437 4 10486 1
+M 0 10437 4 10487 1
+M 0 10438 2 10488 1
+M 0 10443 3 10491 1
+M 0 10443 3 10492 1
+M 0 10443 3 10493 1
+M 0 10444 1 10494 1
+E 0 10424 0 6
+M 0 10446 1 10495 1
+M 0 10445 1 10497 1
+E 0 10425 0 17
+E 0 10426 0 12
+G 0 10450 0
+M 0 10442 2 10498 1
+E 0 10423 0 16
+M 0 10441 1 10500 1
+E 0 10446 0 6
+M 0 10442 2 10506 1
+E 0 10423 0 16
+M 0 10447 6 10511 6
+M 0 10449 1 10512 1
+E 0 10427 0 16
+M 0 10450 1 10513 1
+M 0 10451 1 10514 1
+G 0 10428 0
+G 0 10429 0
+G 0 10430 0
+M 0 10463 2 10515 1
+M 0 10452 3 10519 1
+E 0 10431 0 16
+E 0 10447 0 5
+M 0 10452 3 10520 1
+E 0 10431 0 16
+E 0 10447 0 5
+M 0 10448 1 10521 1
+M 0 10453 2 10522 1
+M 0 10454 1 10524 1
+G 0 10432 0
+G 0 10433 0
+G 0 10434 0
+G 0 10435 0
+G 0 10436 0
+G 0 10437 0
+G 0 10438 0
+G 0 10439 0
+M 0 10455 1 10526 1
+M 0 10456 1 10526 1
+M 0 10457 1 10526 1
+M 0 10458 1 10528 1
+E 0 10440 0 17
+E 0 10442 0 5
+M 0 10459 1 10528 1
+E 0 10441 0 16
+E 0 10442 0 5
+M 0 10452 3 10529 1
+E 0 10431 0 16
+E 0 10447 0 5
+M 0 10470 2 10530 2
+M 0 10471 1 10531 1
+M 0 10461 1 10531 1
+M 0 10462 1 10531 1
+E 0 10448 0 16
+M 0 10453 2 10533 1
+M 0 10463 2 10535 1
+M 0 10465 1 10537 1
+M 0 10466 2 10537 1
+M 0 10464 1 10538 1
+E 0 10442 0 5
+M 0 10466 2 10538 1
+M 0 10460 1 10539 1
+M 0 10467 1 10540 1
+G 0 10443 0
+M 0 10433 1 10541 1
+G 0 10418 0
+S
+
+
+
+#SHOPS
+10451 0 0 0 0 0 110 75 0 23
+10454 2 3 4 10 0 225 15 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

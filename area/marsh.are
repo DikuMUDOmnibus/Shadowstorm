@@ -1,0 +1,1493 @@
+#AREADATA
+Name Marsh~
+Builders None~
+VNUMs 8300 8399
+Credits {15 25} Generic Old Marsh~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 8301
+Name oldstyle troll~
+Short a swamp troll~
+Long A swamp troll charges towards you.
+~
+Description This huge behemoth towers to a height of 15 feet.  He sneers at you 
+as he approaches and raises two black taloned claws to strike you.
+~
+Race unused~
+Act_flags ABCFG
+Aff 0
+Align -600
+Group 0
+Level 16
+Hitroll 0
+Hit_dice 3d9+233
+Mana_dice 8d9+100
+Dam_dice 2d6+4
+Dam_type none
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos rest
+Sex male
+Wealth 500
+Form 0
+Parts 0
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 8302
+Name oldstyle troll~
+Short a green troll~
+Long A green troll attempts to get a hold on you.
+~
+Description This big troll towers several feet over you.  He has a large spear
+which he seems to ply with utmost prowess.  He jabs his spear at you
+and cackles with glee.
+~
+Race unused~
+Act_flags ACFG
+Aff 0
+Align -400
+Group 0
+Level 14
+Hitroll 0
+Hit_dice 2d10+190
+Mana_dice 7d9+100
+Dam_dice 1d12+3
+Dam_type none
+Armor -1 -1 -1 8
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 400
+Form 0
+Parts 0
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 8303
+Name oldstyle ogre~
+Short an ogre~
+Long An ogre stands here getting ready to beat in your face.
+~
+Description This mean bastard looks like he could tear you limb from limb.
+~
+Race human~
+Act_flags ACFG
+Aff 0
+Align -500
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 500
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 8304
+Name oldstyle thing~
+Short the Swamp Thing~
+Long The Swamp Thing shambles about here.  It seems hungry.
+~
+Description The Swamp Thing has huge fists, which look like they could pound you flat.
+~
+Race human~
+Act_flags ACFG
+Aff 0
+Align -700
+Group 0
+Level 24
+Hitroll 0
+Hit_dice 5d10+500
+Mana_dice 12d9+100
+Dam_dice 2d10+6
+Dam_type none
+Armor -6 -6 -6 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos rest
+Sex none
+Wealth 1250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 8305
+Name oldstyle gnoll~
+Short a gnoll~
+Long There is a mean looking gnoll here.
+~
+Description The Gnoll seems annoyed at your presence.
+~
+Race human~
+Act_flags ACG
+Aff DF
+Align -1000
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+853
+Mana_dice 15d9+100
+Dam_dice 4d6+8
+Dam_type none
+Armor -9 -9 -9 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 8306
+Name oldstyle beast~
+Short a huge hairy beast~
+Long A huge hairy beast shambles towards you with death in his eyes.
+~
+Description This huge beast stands about 20 feet in height and has huge green clawed
+appendages. 
+~
+Race human~
+Act_flags ACFG
+Aff DF
+Align -450
+Group 0
+Level 21
+Hitroll 0
+Hit_dice 4d10+360
+Mana_dice 10d9+100
+Dam_dice 4d4+5
+Dam_type none
+Armor -5 -5 -5 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 500
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 8307
+Name oldstyle beast~
+Short a rather small beast~
+Long A rather small beast cringes in terror as it notices you.
+~
+Description This rather small beast looks like you could take it out with a single
+sword blow.
+~
+Race human~
+Act_flags ACGH
+Aff P
+Align 0
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d6+35
+Mana_dice 1d9+100
+Dam_dice 1d6+0
+Dam_type none
+Armor 7 7 7 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 25
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 8308
+Name oldstyle will will-o-wisp~
+Short the Will-O-Wisp~
+Long A Will-O-Wisp darts hear and there, making fun of you.
+~
+Description This strange little creature seems very hard to keep your eyes on.
+You stare as hard as you can at the glowing ball of floating light and
+are just able to notice a small pair of glowing eyes.
+~
+Race human~
+Act_flags ACGH
+Aff P
+Align 0
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d7+121
+Mana_dice 5d9+100
+Dam_dice 2d4+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 150
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 8309
+Name oldstyle snake anaconda~
+Short the monstrous snake~
+Long A monstrous snake slithers towards you, thinking 'breakfast'.
+~
+Description This 10 meter anaconda looks rather hungry.
+~
+Race snake~
+Act_flags ACFGH
+Aff PQ
+Align -100
+Group 0
+Level 16
+Hitroll 0
+Hit_dice 3d9+233
+Mana_dice 8d9+100
+Dam_dice 2d6+4
+Dam_type none
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res L
+Vuln I
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 500
+Form AGXYc
+Parts ADEFKLQVX
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 8310
+Name oldstyle snake python~
+Short a large snake~
+Long A rather large python rests in a coil here.
+~
+Description It's the largest Amazon python you have ever seen.
+~
+Race snake~
+Act_flags ACFGH
+Aff PQ
+Align -100
+Group 0
+Level 11
+Hitroll 0
+Hit_dice 2d8+134
+Mana_dice 5d9+100
+Dam_dice 1d10+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res L
+Vuln I
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form AGXYc
+Parts ADEFKLQVX
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 8312
+Name oldstyle hag~
+Short the Marsh Hag~
+Long A Marsh Hag is here.
+~
+Description Yech!  She manages to make even Smurfette look attractive.  That's ok,
+because she thinks you stink too, and she's about to do something about it.
+~
+Race human~
+Act_flags ACGS
+Aff DF
+Align -200
+Group 0
+Level 9
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 8
+Clevel0
+Cability 0
+Off BEFJNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 8313
+Name oldstyle slaad~
+Short a Death Slaad~
+Long A Death Slaad is standing here distraught.  He seems lost.
+~
+Description This dark apparition stands a meager 13 feet in height.  Even in the dim
+swamp light, the blade of his scythe gleams.
+~
+Race human~
+Act_flags ACG
+Aff DF
+Align -200
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 700
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 8314
+Name oldstyle wolf~
+Short a marsh wolf~
+Long A marsh wolf sniffs the ground has followed your scent.
+~
+Description This wolf looks plump.  She probably ate a friend or two of yours who came
+into the marsh.
+~
+Race wolf~
+Act_flags ACFG
+Aff Z
+Align -200
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off EFHNR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 8318
+Name oldstyle mound shambling~
+Short a shambling mound~
+Long A heap of garbage shambles towards you.
+~
+Description This grotesque pile of plant matter fills you with utmost horror.
+~
+Race human~
+Act_flags ACG
+Aff Q
+Align -100
+Group 0
+Level 13
+Hitroll 0
+Hit_dice 2d10+170
+Mana_dice 6d9+100
+Dam_dice 2d5+3
+Dam_type none
+Armor -1 -1 -1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 8319
+Name oldstyle shaman orc~
+Short the orc shaman~
+Long An orc shaman stands before you holding a staff and wearing robes.
+~
+Description This old orc has an array of bones stuck in his hair and strange symbols
+painted on his face and hands.
+~
+Race human~
+Act_flags ABCDFGQ
+Aff DF
+Align -100
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 12d9+100
+Dam_dice 2d4+3
+Dam_type none
+Armor 0 0 0 7
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 17
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 8320
+Name oldstyle giant~
+Short a marsh giant~
+Long A marsh giant stomps towards you.
+~
+Description This huge monster of a man has green gnarly teeth and a BIG stick.
+~
+Race giant~
+Act_flags ABCDFG
+Aff DF
+Align -100
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 7d9+100
+Dam_dice 2d6+3
+Dam_type none
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res HI
+Vuln JP
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 600
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 8321
+Name oldstyle gargoyle~
+Short a gargoyle~
+Long A large gargoyle lands next to you, baring his fangs at you.
+~
+Description This creepy fellow looks like he could use you as a meal.
+~
+Race human~
+Act_flags ABCDFG
+Aff DF
+Align -100
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 6d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor 0 0 0 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 100
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 8301
+Name spear long two-handed~
+Short a long spear~
+Desc A strange spear lies here.~
+Material oldstyle~
+Item_type weapon
+Extra J
+Extra2 0
+Wear AN
+Values exotic 1 12 stab F
+Level 11
+Weight 100
+Cost 1330
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+2 1
+AffectObj
+19 3
+EndObj
+
+#OBJ
+Vnum 8302
+Name horned helmet~
+Short a dark horned helmet~
+Desc A wicked looking horned helmet lies here.~
+Material oldstyle~
+Item_type armor
+Extra J
+Extra2 0
+Wear AE
+Values BC BC AC B 0
+Level 10
+Weight 50
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+horns horn~
+These horns appear to be made of adamantite.~
+AffectObj
+3 -3
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 8303
+Name chain mail chainmail~
+Short a suit of chainmail~
+Desc An old suit of chainmail lies here, corroded by the marsh.~
+Material oldstyle~
+Item_type armor
+Extra J
+Extra2 0
+Wear AD
+Values AC D ABC 0 0
+Level 20
+Weight 200
+Cost 2700
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 8306
+Name scythe~
+Short a huge, wicked-looking scythe~
+Desc An evil, wicked-looking scythe lies in the shadows.~
+Material oldstyle~
+Item_type weapon
+Extra HJ
+Extra2 0
+Wear AN
+Values polearm 4 4 slice F
+Level 19
+Weight 160
+Cost 1770
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 3
+AffectObj
+18 3
+EndObj
+
+#OBJ
+Vnum 8307
+Name green potion~
+Short a murky green potion~
+Desc A murky green potion lies here in the mud.~
+Material oldstyle~
+Item_type potion
+Extra AB
+Extra2 0
+Wear A
+Values 43 'cure critical' '' '' ''
+Level 5
+Weight 10
+Cost 690
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+potion~
+It looks really disgusting and doesn't smell very nice either.~
+EndObj
+
+#OBJ
+Vnum 8308
+Name claymore rusty sword~
+Short a rusty claymore~
+Desc A huge rusted sword lies in a pool of water.~
+Material iron~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values sword 4 7 cleave F
+Level 28
+Weight 100
+Cost 3000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 8301
+Name Muddy Path~
+Desc This section of the path is slowly being drowned by the nearby swamp to the
+south, which is creeping slowly inland.  Several caved-in buildings sprawl
+here, torn apart both by battle and the elements.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+swamp~
+The swamp to the south even reaches as far as this point ... it makes the
+ground and air about you moist and fetid.
+~
+Exit
+0
+The path looks drier here.
+~
+~
+-1
+6125
+0
+Exit
+2
+A broken road leading southward into the marsh.
+~
+~
+-1
+8302
+0
+EndRoom
+
+#ROOM
+Vnum 8302
+Name Swamp's Edge~
+Desc Briars and marsh plants stick to your boots and clothes, and clouds cover the
+skies above the murky marsh, leaving the path before you dark and sinister.
+You see some disturbances in the marsh, but after a few strangled screams,
+the sounds stop.
+~
+Room_flags 0
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+8301
+0
+Exit
+1
+To the east lies a series of bogs and shallows that look rather threatening.
+~
+~
+-1
+8303
+0
+Exit
+2
+You notice a large hill rising out of the marsh to the south.
+~
+~
+-1
+8304
+0
+EndRoom
+
+#ROOM
+Vnum 8303
+Name Marshy Forest~
+Desc This area is by no means a forest, but for those who dwell in these sparse
+trees it is one.  Occasionally you see a whole humanoid form floating face down
+in the water, but mostly you only find pieces.  You hear a loud bellow in the
+distance.  And feel fear creep into your heart.
+~
+Room_flags 1
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+pieces~
+You see severed limbs and spongy intestines.
+~
+ExtraDesc
+humanoid corpse~
+He looks mangled and shredded.  You see one large gash mark that looks
+like it came from the claw of some huge beast.
+~
+Exit
+1
+Eastward is the thick bog of ooze...
+~
+~
+-1
+8305
+0
+Exit
+3
+Westward lies the remanents of a broken and shattered roadway being swallowed
+by the marsh.
+~
+~
+-1
+8302
+0
+EndRoom
+
+#ROOM
+Vnum 8304
+Name On a hill.~
+Desc You stand atop a hill on the northwestern side of the evil swamp. Dark
+clouds whip around you and the wind raises its voice and assails you.
+~
+Room_flags 1
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+To the north lies a damp broken roadway.
+~
+~
+-1
+8302
+0
+Exit
+1
+A dark pool congeals to the east.
+~
+~
+-1
+8309
+0
+Exit
+2
+A gloomy path leads down the hill into the swamp.
+~
+~
+-1
+8310
+0
+EndRoom
+
+#ROOM
+Vnum 8305
+Name An Oozing Bog~
+Desc You stand in an oozing quagmire.  A creaking beat fills the air, 
+accompanied by groans and soughing of the air.  Several large winged
+beasts flap over you and send chilling glares your way.  You feel out
+of place, and feel that the occupants of this realm will soon 
+have you for a feast.
+~
+Room_flags 1
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+beasts~
+You see a large creature, possibly a demon, flapping heavily above you.
+~
+Exit
+1
+Eastward lies a horde of disgusting looking monsters.
+~
+~
+-1
+8306
+0
+Exit
+3
+Westward lies a marshy area.
+~
+~
+-1
+8303
+0
+EndRoom
+
+#ROOM
+Vnum 8306
+Name An Oozing Bog~
+Desc The ground here is soft and oozing.  You feel slimy water seeping into your
+boots.  Better stop and check for leeches when you get out of here.
+~
+Room_flags 1
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+limb~
+The limb looks like it is attached to a trap door in the ground.
+~
+Exit
+3
+You see a large tree limb that looks easily moved.
+~
+limb~
+-1
+8305
+A
+EndRoom
+
+#ROOM
+Vnum 8307
+Name Swamp Thing's Lair~
+Desc A horrible swamp thing resides here.  Mutilated corpses suffuse the air with
+the overwhelming stench of putrid flesh.
+~
+Room_flags 1
+Sector_type 6
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+corpses~
+You notice a note on one of the corpses reading:  'Best ye forget the temple,
+it is not for the likes of you...'
+~
+Exit
+3
+A pool of quick sand lies to the west.
+~
+~
+-1
+8308
+0
+EndRoom
+
+#ROOM
+Vnum 8308
+Name Pool of Quick Sand~
+Desc You stand by a large oozing pool of quick sand.  Luckily only a complete
+klutz could not avoid it.  Dancing lights fly about you and one seems to
+be taunting you towards the pool.
+~
+Room_flags 1
+Sector_type 6
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+quicksand~
+It looks deadly to the foolish.
+~
+ExtraDesc
+lights ~
+From the stories you have heard, you recognize them as will-o-wisps.
+~
+Exit
+1
+The swamp thing's lair.
+~
+~
+-1
+8307
+0
+Exit
+2
+A murky bog.
+~
+~
+-1
+8314
+0
+Exit
+3
+A dark pool lies to the west.
+~
+~
+-1
+8309
+0
+EndRoom
+
+#ROOM
+Vnum 8309
+Name A Dark Pool.~
+Desc You stand beside a large dark pond.  The water boils not with heat, but with
+motion, as if it is alive.  A creaking beat pulses through the air, leaving
+you with a cold sweat and fear in your heart.
+~
+Room_flags 1
+Sector_type 6
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+pond~
+It looks ALIVE ...
+~
+Exit
+1
+A large pool of quicksand lies to the east.
+~
+~
+-1
+8308
+0
+Exit
+2
+You see a cloud of darkness to the south.
+~
+~
+-1
+8311
+0
+Exit
+3
+A hill rises out of the swamp to the east.
+~
+~
+-1
+8304
+0
+EndRoom
+
+#ROOM
+Vnum 8310
+Name Gloomy Path Through the Marsh.~
+Desc To the north lies a hill, shrouded in dark clouds, and to the south lies
+a huge patch of vegetation.  You sense an evil presence and notice 
+a beast flying overhead to the south east, towards what looks to be a 
+huge fortress, half buried in the marsh.
+~
+Room_flags 1
+Sector_type 6
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+vegetation~
+It looks sentient.
+~
+ExtraDesc
+fortress~
+It is surrounded by walls nearly 20 meters high.  In a tall tower on the
+northeast side, a window glows blue with magical energy.
+~
+ExtraDesc
+beast~
+It looks to be a demon of some foul breed.
+~
+ExtraDesc
+clouds~
+The clouds look dark and foreboding.
+~
+Exit
+0
+To the north a hill protrudes from the marshes.
+~
+~
+-1
+8304
+0
+Exit
+2
+To the south a huge mass of vegetation seems to quiver with life.
+~
+~
+-1
+8312
+0
+EndRoom
+
+#ROOM
+Vnum 8311
+Name Cloud of Darkness.~
+Desc As you travel through this cloud of darkness, a fear such as you have never
+known before assails you.
+~
+Room_flags 1
+Sector_type 6
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+A dark pool lies to the north.
+~
+~
+-1
+8309
+0
+Exit
+2
+An obelisk lies to the south.
+~
+~
+-1
+8313
+0
+EndRoom
+
+#ROOM
+Vnum 8312
+Name Near Vegetation from Hell.~
+Desc You stand near some of the strangest plant life you have ever seen, a mixture
+of tumescent vegetables, evil-smelling fruit trees, and malignant ferns.
+~
+Room_flags 1
+Sector_type 6
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+plant plants~
+They look rather violent, and snap at you when you come near.
+~
+Exit
+0
+To the north is a gloomy path through the marsh.
+~
+~
+-1
+8310
+0
+Exit
+1
+Eastward is a large, black stone monolith.
+~
+~
+-1
+8313
+0
+EndRoom
+
+#ROOM
+Vnum 8313
+Name By the Monolith.~
+Desc You are standing near a monolith which protrudes some 20 feet from the
+marsh into the air.  Its black obsidian surface shines darkly in the 
+strange, almost unearthly light that enters through the clouds above.
+~
+Room_flags 1
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+monolith~
+This huge monolith resembles nothing you have ever seen before.
+You have a strong feeling not to go within.
+~
+Exit
+0
+To the north is a cloud of darkest evil.
+~
+~
+-1
+8311
+0
+Exit
+1
+Eastward lies a murky bog.
+~
+~
+-1
+8314
+0
+Exit
+3
+Near Vegetation from Hell.
+~
+~
+-1
+8312
+0
+EndRoom
+
+#ROOM
+Vnum 8314
+Name Murky Bog.~
+Desc A murky bog surrounds you.  To the east a black monolith juts forth from the
+ground.  Far to the north lies a huge pool of quicksand.  Snarls can be heard
+echoing as if from a great distance.
+~
+Room_flags 1
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+monolith~
+This is a huge obsidian stone block stuck in the marsh.
+~
+Exit
+0
+To the north lies a huge pool of quicksand.
+~
+~
+-1
+8308
+0
+Exit
+1
+To the east the marsh turns into a small lake.
+~
+~
+-1
+8315
+0
+Exit
+3
+Westward a large monolith awaits adventurers.
+~
+~
+-1
+8313
+0
+EndRoom
+
+#ROOM
+Vnum 8315
+Name Northern Lake Side.~
+Desc Floating on this boiling lake is not what you would consider an enjoyable 
+experience.  Many a creature bumps the bottom of your boat, and glares 
+at you through unblinking eyes from the waters below.  The southern 
+portion of the lake looks calm and serene compared to this wild place.
+~
+Room_flags 1
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+The southern portion of the lake lies to the south.
+~
+~
+-1
+8316
+0
+Exit
+3
+To the west lies a murky bog.
+~
+~
+-1
+8314
+0
+EndRoom
+
+#ROOM
+Vnum 8316
+Name Southern Lake Side.~
+Desc You are floating on a calm section of blue crystal water.  You feel much more
+at ease then you were before in this area.  Then a wave of fear passes over
+you.  You are not alone.
+~
+Room_flags 1
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+north~
+The way to the north seems to be impassable, due to the rough water and
+strange wild life.
+~
+Exit
+0
+Northern lake side.
+~
+~
+-1
+8315
+0
+Exit
+3
+To the west is a beach where your boat can land.
+~
+~
+-1
+8317
+0
+EndRoom
+
+#ROOM
+Vnum 8317
+Name Beach~
+Desc You are on a sandy shore.  Marsh life creeps across the surface.  To the west
+lies an evil fortress.  You see figures walking along the battlements.
+~
+Room_flags 1
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+fortress~
+It is hewn of black stone and heavily fortified.
+~
+Exit
+1
+To the east lies the southern portion of a small lake.
+~
+~
+-1
+8316
+0
+Exit
+3
+The great gates.
+~
+~
+-1
+8318
+0
+EndRoom
+
+#ROOM
+Vnum 8318
+Name Before the Great Gates.~
+Desc You stand before the gates of a huge fortress.  The drawbridge is up, the
+gates closed, and the portcullis down.  This place looks very dangerous,
+and you decide not to continue onward.
+~
+Room_flags 1
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+To the east is a marshy beach.
+~
+~
+-1
+8317
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 8309 spec_poison
+M 8310 spec_poison
+M 8312 spec_thief
+M 8313 spec_cast_undead
+M 8319 spec_cast_cleric
+S
+
+
+
+#RESETS
+M 0 8301 2 8303 1
+M 0 8302 6 8303 2
+G 0 8307 0
+M 0 8303 3 8303 1
+M 0 8302 6 8304 2
+G 0 8307 0
+M 0 8306 2 8304 1
+M 0 8310 2 8304 1
+M 0 8314 6 8304 1
+M 0 8307 2 8305 1
+M 0 8309 2 8305 1
+M 0 8310 2 8305 1
+M 0 8314 6 8305 1
+M 0 8302 6 8306 2
+M 0 8305 2 8306 2
+E 0 8303 0 5
+E 0 8308 0 16
+M 0 8314 6 8306 1
+M 0 8303 3 8307 1
+M 0 8304 1 8307 1
+M 0 8314 6 8307 1
+M 0 8320 5 8307 1
+G 0 8301 0
+M 0 8301 2 8308 1
+M 0 8308 1 8308 1
+M 0 8314 6 8308 1
+M 0 8312 2 8309 1
+M 0 8314 6 8309 1
+M 0 8320 5 8309 1
+G 0 8301 0
+M 0 8306 2 8310 1
+M 0 8312 2 8310 1
+M 0 8313 1 8310 1
+E 0 8306 0 16
+E 0 8302 0 6
+M 0 8309 2 8311 1
+M 0 8320 5 8311 1
+G 0 8301 0
+M 0 8318 2 8312 2
+G 0 8307 0
+M 0 8318 2 8312 2
+G 0 8307 0
+M 0 8303 3 8313 1
+M 0 8307 2 8313 1
+M 0 8320 5 8313 1
+G 0 8301 0
+G 0 8307 0
+M 0 8320 5 8315 1
+G 0 8301 0
+E 0 8302 0 6
+M 0 8321 2 8318 2
+M 0 8321 2 8318 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

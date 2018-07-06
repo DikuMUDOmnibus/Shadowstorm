@@ -1,0 +1,101 @@
+#AREADATA
+Name Pegasus Castle~
+Builders Sussagep~
+VNUMs 9800 9849
+Credits (null)~
+Security 5
+Soundfile (null)~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 9800
+Name The Gatekeeper~
+Short (no short description)~
+Long (no long description)
+~
+Description ~
+Race human~
+Act_flags AB
+Aff QZ
+Align 100
+Group 0
+Level 50
+Hitroll 10
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 2d3+2
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form N
+Parts Q
+Size medium
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 9800
+Name At the bridge~
+Desc You are at the entrace of Pegasus Castle, beware you can get lost in here, so if you aren't adventurer you must go back.
+Looking for the bridge you think "This is unsafe so i be back, but when you try can't and something push you to the bridge.
+~
+Room_flags 67108876
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

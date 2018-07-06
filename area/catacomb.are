@@ -1,0 +1,3132 @@
+#AREADATA
+Name Catacombs~
+Builders None~
+VNUMs 2000 2099
+Credits {10 20} Raff    Dwarven Catacombs~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 2001
+Name oldstyle bat~
+Short a bat~
+Long A bat flaps wildly at you!
+~
+Description Your typical smelly, blind flying mammal.
+~
+Race bat~
+Act_flags ABF
+Aff FTZ
+Align 0
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFHNR
+Imm 0
+Res 0
+Vuln S
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGV
+Parts ACDEFHJKP
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2002
+Name oldstyle page templar~
+Short a templar page~
+Long A templar page in training is here looking mildly confused.
+~
+Description He has lost his family and everything of his former life.
+~
+Race human~
+Act_flags AH
+Aff 0
+Align 200
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d6+85
+Mana_dice 3d9+100
+Dam_dice 1d8+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 30
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2003
+Name oldstyle spelunker explorer~
+Short a spelunker~
+Long A spelunker knows his way around these tunnels.
+~
+Description He recently discovered these catacombs and wants to see where they lead.
+He just hopes he doesn't get killed in the process.  He carries only
+essential exploration gear; if there IS anything down here, he
+probably won't last long.
+~
+Race human~
+Act_flags ACH
+Aff F
+Align 100
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 40
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2004
+Name oldstyle gravedigger digger robber graverobber~
+Short a graverobber~
+Long A graverobber uncovers dead bodies.
+~
+Description Working for an evil necromancer isn't the greatest thing in the world.
+They seem like little more than zombie servants themselves.
+~
+Race human~
+Act_flags ACF
+Aff 0
+Align -500
+Group 0
+Level 9
+Hitroll 0
+Hit_dice 2d6+110
+Mana_dice 4d9+100
+Dam_dice 1d8+2
+Dam_type none
+Armor 2 2 2 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2005
+Name oldstyle mist swirling~
+Short some mist~
+Long Some mist swirls about you here ... it seems ALIVE!
+~
+Description In fact it IS alive in a magical sort of sense.
+~
+Race human~
+Act_flags A
+Aff HPU
+Align 0
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d7+121
+Mana_dice 5d9+100
+Dam_dice 2d4+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 10
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2006
+Name oldstyle ~
+Short It~
+Long ~
+Description ~
+Race human~
+Act_flags AF
+Aff 0
+Align 0
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d7+121
+Mana_dice 5d9+100
+Dam_dice 2d4+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2007
+Name oldstyle skeleton skeletal soldier~
+Short a skeleton~
+Long A skeletal soldier fights in the battle of the underworld.
+~
+Description Even though he has died in the physical sense of the word, the battle
+continues for him in his charmed state.
+~
+Race human~
+Act_flags ACF
+Aff 0
+Align -290
+Group 0
+Level 11
+Hitroll 0
+Hit_dice 2d8+134
+Mana_dice 5d9+100
+Dam_dice 1d10+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 55
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2008
+Name oldstyle templar~
+Short a templar~
+Long A templar shouts "AKK! SLAY THE INFIDEL!"
+~
+Description As you peer closely he peers back at you
+
+A templar peers closely at you.
+A templar tells you, "You are an evil force trying to spread your ways!".
+A templar tells you, "You must die for your sin!".
+~
+Race human~
+Act_flags ACF
+Aff 0
+Align 600
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 6d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor 0 0 0 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 25
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2009
+Name oldstyle wraith~
+Short a mysterious wraith~
+Long A mysterious ghostly wraith forms before your eyes.
+~
+Description Hard to tell much about the mysterious form even upon further inspection.
+~
+Race human~
+Act_flags ACF
+Aff FU
+Align 0
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 6d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor 0 0 0 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 30
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2010
+Name oldstyle officer templar~
+Short the templar officer~
+Long A templar officer keeps an eye on things here.
+~
+Description A templar officer tells you "Better move along evil one!"
+~
+Race human~
+Act_flags AF
+Aff D
+Align 700
+Group 0
+Level 13
+Hitroll 0
+Hit_dice 2d10+170
+Mana_dice 6d9+100
+Dam_dice 2d5+3
+Dam_type none
+Armor -1 -1 -1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 30
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2011
+Name oldstyle zombie mage~
+Short zombie~
+Long A blank-faced zombie mage joins the battle.
+~
+Description He seems to lack real interest in what he is doing.
+~
+Race human~
+Act_flags ACFR
+Aff 0
+Align -100
+Group 0
+Level 13
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 13d9+100
+Dam_dice 2d4+2
+Dam_type none
+Armor 0 0 0 5
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 27
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2012
+Name oldstyle shadow shadows~
+Short the shadow~
+Long Eerie shadows fill the room.
+~
+Description Looks vaguely you-shaped.
+~
+Race human~
+Act_flags A
+Aff FPU
+Align 0
+Group 0
+Level 14
+Hitroll 0
+Hit_dice 2d10+190
+Mana_dice 7d9+100
+Dam_dice 1d12+3
+Dam_type none
+Armor -1 -1 -1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 40
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2013
+Name oldstyle bat vampire~
+Short The vampire~
+Long A bat flaps wildly at you!
+~
+Description A rather LARGE "bat" ...
+~
+Race bat~
+Act_flags ABF
+Aff FTZ
+Align -100
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 7d9+100
+Dam_dice 2d6+3
+Dam_type none
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off EFHNR
+Imm 0
+Res 0
+Vuln S
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 50
+Form AGV
+Parts ACDEFHJKP
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2014
+Name oldstyle necromancer necro cleric~
+Short the evil necromancer~
+Long The evil necromancer makes undead soldiers from corpses.
+~
+Description Though he seems absorbed in his work, you'd bet he'd take the time out
+to kill you to get a fresh corpse!
+~
+Race human~
+Act_flags ABF
+Aff 0
+Align -888
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 7d9+100
+Dam_dice 2d6+3
+Dam_type none
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 55
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2015
+Name oldstyle grand templar leader~
+Short the grand templar~
+Long The grand templar stands here quietly observing your actions
+~
+Description A slight, tolerant smile comes briefly across his face.  In the blink
+of an eye he seems stern again.
+~
+Race human~
+Act_flags AB
+Aff DFH
+Align 1000
+Group 0
+Level 16
+Hitroll 0
+Hit_dice 3d9+233
+Mana_dice 8d9+100
+Dam_dice 2d6+4
+Dam_type none
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 75
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2016
+Name oldstyle prism dragon prismdragon~
+Short the prism dragon~
+Long The light shines off a beautiful but dangerous dragon lurking here.
+~
+Description The spray of colored light bouncing off his scales is almost blinding.
+~
+Race human~
+Act_flags ABF
+Aff DF
+Align -303
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1500
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2017
+Name oldstyle darken dark beast darkenbeast~
+Short The DarkenBeast~
+Long You hear and smell the presence of the darkenbeast.
+~
+Description You see nothing more than the sense of darkness and evil.
+~
+Race human~
+Act_flags ABF
+Aff 0
+Align -1000
+Group 0
+Level 24
+Hitroll 0
+Hit_dice 5d10+500
+Mana_dice 12d9+100
+Dam_dice 2d10+6
+Dam_type none
+Armor -6 -6 -6 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 1000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 2001
+Name glowing key~
+Short a glowing key~
+Desc A circular, glowing key radiates a bright aura around it.~
+Material oldstyle~
+Item_type key
+Extra ABG
+Extra2 0
+Wear A
+Values ABCF 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2002
+Name granite plate mail platemail~
+Short a suit of granite platemail~
+Desc A suit of platemail hewn from granite stands by itself in the corner.~
+Material oldstyle~
+Item_type armor
+Extra BJ
+Extra2 0
+Wear AD
+Values D D D B 0
+Level 23
+Weight 550
+Cost 3600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+2 -1
+EndObj
+
+#OBJ
+Vnum 2003
+Name onyx ring~
+Short an onyx ring~
+Desc A ring with a very dark onyx stone in it has been left in the dirt.~
+Material oldstyle~
+Item_type jewelry
+Extra J
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 7
+Weight 10
+Cost 800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+4 1
+AffectObj
+17 -1
+EndObj
+
+#OBJ
+Vnum 2004
+Name neutralizer sword~
+Short the neutralizer~
+Desc A long thin sword with a wide blade makes you wonder.~
+Material oldstyle~
+Item_type weapon
+Extra BJK
+Extra2 0
+Wear AN
+Values sword 3 5 slash 0
+Level 16
+Weight 90
+Cost 1280
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 1
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 2005
+Name sword excalibur~
+Short the sword Excalibur~
+Desc A sword gleams by the light of its magical silvery blade.~
+Material oldstyle~
+Item_type weapon
+Extra AGKL
+Extra2 0
+Wear AN
+Values sword 5 4 slash 0
+Level 24
+Weight 150
+Cost 3400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+1 1
+AffectObj
+18 3
+EndObj
+
+#OBJ
+Vnum 2006
+Name crown~
+Short a kingly crown~
+Desc The crown of a long lost King lies forgotten here.~
+Material oldstyle~
+Item_type key
+Extra I
+Extra2 0
+Wear AE
+Values 0 0 0 0 0
+Level 24
+Weight 100
+Cost 1850
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -6
+EndObj
+
+#OBJ
+Vnum 2007
+Name stone~
+Short stone~
+Desc The stone is surrounded by a bright glow, better look closer.~
+Material oldstyle~
+Item_type container
+Extra A
+Extra2 0
+Wear 0
+Values 0 0 -1 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2008
+Name holy water flask~
+Short a flask of holy water~
+Desc A flask of holy water is here.~
+Material oldstyle~
+Item_type potion
+Extra A
+Extra2 0
+Wear AO
+Values 25 'bless' 'sanctuary' '' ''
+Level 11
+Weight 20
+Cost 880
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2009
+Name chainmail chain mail suit~
+Short a suit of chainmail~
+Desc A nice suit of chainmail has been left behind.~
+Material oldstyle~
+Item_type armor
+Extra I
+Extra2 0
+Wear AD
+Values AC AC AC 0 0
+Level 10
+Weight 200
+Cost 1450
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2010
+Name white cape~
+Short a white cape~
+Desc A blazing cape of white lies in a careful pile.~
+Material oldstyle~
+Item_type armor
+Extra A
+Extra2 0
+Wear AC
+Values AC AC AC 0 0
+Level 12
+Weight 30
+Cost 1000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 2011
+Name shield defense~
+Short the shield of defense~
+Desc A large shield lies protecting the ground.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AJ
+Values BC BC BC C 0
+Level 13
+Weight 150
+Cost 1920
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 -1
+AffectObj
+18 -2
+AffectObj
+13 10
+AffectObj
+12 10
+AffectObj
+17 -2
+EndObj
+
+#OBJ
+Vnum 2012
+Name scale shield dragonscale~
+Short a dragonscale shield~
+Desc A shield from from the scales of a large dragon lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AJ
+Values ABC ABC ABC C 0
+Level 22
+Weight 180
+Cost 3500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+20 -2
+EndObj
+
+#OBJ
+Vnum 2013
+Name prism wand~
+Short a prism wand~
+Desc A wand made of a triangular prism twinkles in the dust.~
+Material oldstyle~
+Item_type wand
+Extra AG
+Extra2 0
+Wear AO
+Values 11 4 4 'colour spray' 0
+Level 12
+Weight 40
+Cost 2200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2014
+Name shadow cloak~
+Short a shadow cloak~
+Desc The shadows in the corner of the room seems strange ...~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AK
+Values ABC ABC ABC B 0
+Level 14
+Weight 10
+Cost 210
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+14 -30
+EndObj
+
+#OBJ
+Vnum 2015
+Name misty potion~
+Short a misty potion~
+Desc A potion of swirling mist-like substance is here.~
+Material oldstyle~
+Item_type potion
+Extra 0
+Extra2 0
+Wear AO
+Values 10 'pass door' 'faerie fire' '' ''
+Level 12
+Weight 10
+Cost 920
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2016
+Name templar templars sword wooden~
+Short a templar's sword~
+Desc A sword made of wood has been left here.~
+Material oldstyle~
+Item_type weapon
+Extra I
+Extra2 0
+Wear AN
+Values sword 2 6 slash 0
+Level 10
+Weight 60
+Cost 830
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 2048
+Name Twisty cavern~
+Desc The way twist this way and that and its all you can do to keep your head
+from spinning.  The air is very cold here and layers of ice on the wall.
+The sounds of metal on ice echo through the cavern. A side passage leads
+east and the main passage goes north and south.
+~
+Room_flags 265
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2040
+0
+Exit
+1
+~
+~
+-1
+2049
+0
+Exit
+2
+~
+~
+-1
+2056
+0
+EndRoom
+
+#ROOM
+Vnum 2049
+Name Striped tunnel~
+Desc The walls of the tunnels have many brilliant colors in them from the
+various veins of crystals running in them.  An odd twinkling comes from
+the east.
+~
+Room_flags 265
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2050
+0
+Exit
+3
+~
+~
+-1
+2048
+0
+EndRoom
+
+#ROOM
+Vnum 2050
+Name Prism cave~
+Desc The roof of this cave peaks over a hundred feet high making it one of
+the biggest in the catacombs.  Crystals of every color cast prismatic
+sprays of light everywhere.  The light from your lamp causes almost a
+blinding flare of brilliance as more light is added to the multi-colored
+twinkling phenomenon that exists here.  This is also the lair of the
+fabled and feared Prism Dragon.
+~
+Room_flags 8
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2044
+0
+Exit
+1
+~
+~
+-1
+2058
+0
+Exit
+2
+~
+~
+-1
+2057
+0
+Exit
+3
+~
+~
+-1
+2049
+0
+EndRoom
+
+#ROOM
+Vnum 2051
+Name Ruined monument~
+Desc A monument to a famous king once stood here. Not much is left to even
+signify that is was here at all.  A building of some sort can be entered
+through a basement to the east.  The southern gate of the grounds is to
+the south.
+~
+Room_flags 9
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2045
+0
+Exit
+1
+~
+~
+-1
+2052
+0
+Exit
+2
+~
+~
+-1
+2054
+0
+EndRoom
+
+#ROOM
+Vnum 2052
+Name Basement~
+Desc Its dark and it smells like. ...BATS down here!  All you see is a swirl
+of the darkness and lots of scratching bats madly flailing around. A set
+of stairs go up into the building and a broken window leads west.
+~
+Room_flags 9
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+2051
+0
+Exit
+4
+~
+~
+-1
+2046
+0
+EndRoom
+
+#ROOM
+Vnum 2053
+Name Fresh graves~
+Desc The graves here seem very recent.  You notice many signs of digging and
+defilement.  There are piles of fresh bodies here awaiting burial.  A
+strange sense of evil magic from the south makes the hairs on the back
+of your neck to stand on end!
+~
+Room_flags 9
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2047
+0
+Exit
+2
+~
+~
+-1
+2055
+0
+EndRoom
+
+#ROOM
+Vnum 2054
+Name Southern gate~
+Desc A rusty gate here no longer keeps anyone out or in.  You see a lonely
+E/W passage to the south.  A little used trail winds east through a
+crack in the wall.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2051
+0
+Exit
+1
+~
+~
+-1
+2066
+0
+Exit
+2
+~
+~
+-1
+2059
+0
+EndRoom
+
+#ROOM
+Vnum 2055
+Name Scene of ghastly horror~
+Desc An army of undead creatures of all types are lined up patiently. Their
+leader is an evil demonoid necromancer.  His plans to use his army of
+undead to take over the world seem about ready to get underway.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2053
+0
+Exit
+2
+~
+~
+-1
+2062
+0
+EndRoom
+
+#ROOM
+Vnum 2056
+Name Twisty passage~
+Desc The passage bends north and east here.  To the east your not certain
+what lies ahead due to all the twists and turns you've made.  To the
+north is seems cold.
+~
+Room_flags 265
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2048
+0
+Exit
+1
+~
+~
+-1
+2057
+0
+EndRoom
+
+#ROOM
+Vnum 2057
+Name Cross of caverns~
+Desc A little-used cavern enters from the south. A passage twists away to
+the west.  An odd twinkling comes from the cave to the north.
+~
+Room_flags 265
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2050
+0
+Exit
+2
+~
+~
+-1
+2066
+0
+Exit
+3
+~
+~
+-1
+2056
+0
+EndRoom
+
+#ROOM
+Vnum 2058
+Name Lonely tunnel~
+Desc Something indescribable makes you feel lonesome and sad here. Its just
+a feeling you get from this tunnel.  The tunnel east and west.
+~
+Room_flags 265
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2059
+0
+Exit
+3
+~
+~
+-1
+2050
+0
+EndRoom
+
+#ROOM
+Vnum 2059
+Name Lonely tunnel~
+Desc Something indescribable makes you feel lonesome and sad here. You see a
+gate to a burial ground to the north.  This lonesome tunnel sighs along
+west and east.
+~
+Room_flags 265
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2054
+0
+Exit
+1
+~
+~
+-1
+2060
+0
+Exit
+3
+~
+~
+-1
+2058
+0
+EndRoom
+
+#ROOM
+Vnum 2060
+Name Bend in the lonely tunnel~
+Desc Something indescribable makes you feel lonesome and sad here. The
+tunnel bends west and south.
+~
+Room_flags 265
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+2061
+0
+Exit
+3
+~
+~
+-1
+2059
+0
+EndRoom
+
+#ROOM
+Vnum 2061
+Name Lonely tunnel~
+Desc Something indescribable makes you feel lonesome and sad here. The very
+walls of the tunnel seems to groan.  to the north the tunnel bends and
+east is an intersection.
+~
+Room_flags 265
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2060
+0
+Exit
+1
+~
+~
+-1
+2062
+0
+EndRoom
+
+#ROOM
+Vnum 2062
+Name Intersection~
+Desc To the north you enter the burial grounds.  a trail of blood leads that
+direction.  Also you feel an ominous sense of evil magic from there.
+The tunnel to the west creaks and sighs as if alive.  To the south you
+smell a hint of fresh air.
+~
+Room_flags 265
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2055
+0
+Exit
+2
+~
+~
+-1
+2063
+0
+Exit
+3
+~
+~
+-1
+2061
+0
+EndRoom
+
+#ROOM
+Vnum 2063
+Name Tunnel~
+Desc The tunnel heads north and south.  North you see an intersection and
+far to the south you sense light and smell a fresh breeze.
+~
+Room_flags 265
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2062
+0
+Exit
+2
+~
+~
+-1
+2064
+0
+EndRoom
+
+#ROOM
+Vnum 2064
+Name Tunnel~
+Desc The tunnel slopes noticeably down to the north and you sense the surface
+could be reached to the south.
+~
+Room_flags 265
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2063
+0
+Exit
+2
+~
+~
+-1
+2065
+0
+EndRoom
+
+#ROOM
+Vnum 2065
+Name Southern entrance to the catacombs~
+Desc Through a trapdoor above you streams light.  Through a doorway to
+the south streams darkness.  A message has been scrawled upon the wall
+here.  The message reads:
+     Adventure for the strong yet calculating
+     Death for the weak and shallow
+     Treasure for the smart and lucky
+     Death for the stupid and accursed
+An ancient Glyph above the entrance keeps monsters from wandering up
+from the catacombs.
+~
+Room_flags 4
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2064
+0
+Exit
+4
+~
+floorboard board~
+-1
+6527
+AB
+EndRoom
+
+#ROOM
+Vnum 2066
+Name Unknown passage~
+Desc Oh dear you seem to have lost your way.  You look back from whence you
+came but there's no exit there anymore.  There are exits in other
+directions but you have a feeling that you are hopelessly lost.
+~
+Room_flags 269
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2067
+0
+Exit
+2
+~
+~
+-1
+2068
+0
+EndRoom
+
+#ROOM
+Vnum 2067
+Name Unknown passage~
+Desc Oh dear you seem to have lost your way.  You look back from whence you
+came but there's no exit there anymore.  There are exits in other
+directions but you have a feeling that you are hopelessly lost.
+~
+Room_flags 269
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+2069
+0
+Exit
+3
+~
+~
+-1
+2066
+0
+EndRoom
+
+#ROOM
+Vnum 2068
+Name Unknown passage~
+Desc Oh dear you seem to have lost your way.  You look back from whence you
+came but there's no exit there anymore.  There are exits in other
+directions but you have a feeling that you are hopelessly lost.
+~
+Room_flags 269
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2066
+0
+Exit
+1
+~
+~
+-1
+2069
+0
+EndRoom
+
+#ROOM
+Vnum 2069
+Name Unknown passage~
+Desc Oh dear you seem to have lost your way.  You look back from whence you
+came but there's no exit there anymore.  There are exits in other
+directions but you have a feeling that you are hopelessly lost.
+~
+Room_flags 269
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2067
+0
+Exit
+3
+~
+~
+-1
+2068
+0
+EndRoom
+
+#ROOM
+Vnum 2001
+Name North entrance to the catacombs~
+Desc You are almost surprised to see a tunnel leading off to the south
+into utter darkness.  The floorboards above you haven't been moved
+in a long time, yet there is life down here.  A beam of light from
+the opening above you falls upon a message scrawled on the wall here.
+
+The message reads:
+     Adventure for the strong yet calculating
+     Death for the weak and shallow
+     Treasure for the smart and lucky
+     Death for the stupid and accursed
+
+An ancient Glyph above the entrance keeps monsters from wandering up
+from the catacombs.
+~
+Room_flags 4
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+2002
+0
+Exit
+4
+~
+floorboard board~
+-1
+6524
+AB
+EndRoom
+
+#ROOM
+Vnum 2002
+Name North/south tunnel~
+Desc This part of the catacombs looked roughly hewn and man-made. There is
+a large cross painted on the floor of the tunnel.To the south it seems
+maybe a bit lighter for some odd reason.  To the north a ray of light
+comes in from a hole in the ceiling.
+~
+Room_flags 264
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+cross paint floor~
+The cross is a Templar's cross. It seems to have had a fresh coat of
+paint recently.~
+Exit
+0
+~
+~
+-1
+2001
+0
+Exit
+2
+~
+~
+-1
+2007
+0
+EndRoom
+
+#ROOM
+Vnum 2003
+Name Weapon training area~
+Desc This is a place to keep up on there weapon skills.  Much of the
+equipment looks old and worn but upon further inspection seems quite
+sturdy in fact.
+~
+Room_flags 264
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2004
+0
+Exit
+2
+~
+~
+-1
+2008
+0
+EndRoom
+
+#ROOM
+Vnum 2004
+Name Prayer training area~
+Desc The templar's curious mix of religion and fighting is evident here.
+A central painting depicts a cross composed of swords.  The elders
+teach the ancient art of prayer to the young pages.
+~
+Room_flags 264
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2005
+0
+Exit
+3
+~
+~
+-1
+2003
+0
+EndRoom
+
+#ROOM
+Vnum 2005
+Name Junction of hallways~
+Desc Training facilities are evident to the west. To the south lies a hallway
+which has doors every couple of feet, looks like living quarters of some
+sort.  To the east the tunnel leads back into the natural catacombs.
+~
+Room_flags 264
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2006
+0
+Exit
+2
+~
+~
+-1
+2010
+0
+Exit
+3
+~
+~
+-1
+2004
+0
+EndRoom
+
+#ROOM
+Vnum 2006
+Name Hallway~
+Desc The hallway takes on a more indoor look to the west.  To the east it
+looks awfully dark.
+~
+Room_flags 268
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2007
+0
+Exit
+3
+~
+~
+-1
+2005
+0
+EndRoom
+
+#ROOM
+Vnum 2007
+Name Intersection~
+Desc The tunnel continues to the north and the south, becoming less hewn and
+more natural to the south.  A passageway lined with paneling leads west.
+~
+Room_flags 264
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2002
+0
+Exit
+2
+~
+~
+-1
+2012
+0
+Exit
+3
+~
+~
+-1
+2006
+0
+EndRoom
+
+#ROOM
+Vnum 2008
+Name Pages' sleeping quarters~
+Desc Several bunk beds are lined up across the room.  It looks rather spartan
+and there is little evidence of toys or games.  Most of the desks are
+filled with books and papers of little interest.
+~
+Room_flags 264
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2003
+0
+Exit
+1
+~
+~
+-1
+2009
+0
+EndRoom
+
+#ROOM
+Vnum 2009
+Name Templar Knights sleeping quarters~
+Desc This is a huge room which is filled wall to wall with beds. Apparently
+all the low level knights all sleep in this one room.  A door on the
+south wall is labelled "Elders only!".
+~
+Room_flags 264
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+2013
+0
+Exit
+3
+~
+~
+-1
+2008
+0
+EndRoom
+
+#ROOM
+Vnum 2010
+Name N/S hallway~
+Desc The hallway leads north an south.  A door leads to a templar's room to
+the east.  The decoration looks rather sparse here.
+~
+Room_flags 264
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2005
+0
+Exit
+1
+~
+~
+-1
+2011
+0
+Exit
+2
+~
+~
+0
+2014
+0
+EndRoom
+
+#ROOM
+Vnum 2011
+Name A Middle-aged templar's room~
+Desc This is a room furnished in a room becoming a low level templar scribe.
+No real amenities but better than a communal sleeping quarters. As far
+as you can tell he would be a rank equivalent to a Sargeant.
+~
+Room_flags 264
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+2010
+0
+EndRoom
+
+#ROOM
+Vnum 2012
+Name Humid, damp tunnel~
+Desc As the tunnel leads south it gets more humid and damp.  Moss covers the
+walls and ferns even grow in the cracks here and there.  To the north it
+seems much more sterile.
+~
+Room_flags 265
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2007
+0
+Exit
+2
+~
+~
+-1
+2019
+0
+EndRoom
+
+#ROOM
+Vnum 2013
+Name Administration room~
+Desc The elders gather here to discuss training strategies and count their
+loot.  You notice papers which look like important secret documents
+lying around. An escape passage leads west.
+~
+Room_flags 264
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+papers documents secrets~
+It seems that the loot comes from raids on the towns in the surrounding
+areas above ground.  From the documents it seems that the pages and
+trainees are kidnapped from the villages too!
+~
+Exit
+0
+~
+~
+-1
+2009
+0
+Exit
+2
+~
+~
+-1
+2016
+0
+Exit
+3
+~
+~
+-1
+2069
+0
+EndRoom
+
+#ROOM
+Vnum 2014
+Name N/S hallway~
+Desc The hallway continues to become more important-looking as you wander
+south.  A room to the east looks rather more pleasant that some of the
+others.
+~
+Room_flags 264
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2010
+0
+Exit
+1
+~
+~
+-1
+2015
+0
+Exit
+2
+~
+~
+-1
+2017
+0
+EndRoom
+
+#ROOM
+Vnum 2015
+Name Mid-level leader's room~
+Desc A rather nice looking room considering the drab conditions down here.
+Through all the signs of decoration you can still see evidence of water
+leaks.
+~
+Room_flags 264
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+2014
+0
+EndRoom
+
+#ROOM
+Vnum 2016
+Name Mess hall~
+Desc The a huge table with an immaculate white table cloth stretches way off
+to the south.  The room is kept immaculately clean by the nights
+themselves.  They truly belive that cleanliness is next to godliness.
+~
+Room_flags 264
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2013
+0
+Exit
+2
+~
+~
+-1
+2023
+0
+EndRoom
+
+#ROOM
+Vnum 2017
+Name N/S hallway~
+Desc The hallway continues north and south.  A peculiar kind of glow seems
+to come from somewhere further along the hallway to the south. The room
+to the east looks like the lap of luxury.
+~
+Room_flags 264
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2014
+0
+Exit
+1
+~
+~
+-1
+2018
+0
+Exit
+2
+~
+~
+-1
+2024
+0
+EndRoom
+
+#ROOM
+Vnum 2018
+Name High officer's room~
+Desc First thing you notice in this room is the pleasant aroma of cedar.  All
+the paneling in the room is made of fine cedar.  A painting of an
+elegant knight hangs on the wall.
+~
+Room_flags 264
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+painting elegant knight~
+Something oddly familiar about the knight.  He carries a glowing sword
+with a silvery blade.
+~
+Exit
+3
+~
+~
+-1
+2017
+0
+EndRoom
+
+#ROOM
+Vnum 2019
+Name Mossy intersection~
+Desc There is a turn off to the passage here.  The main passage leads north
+and south. To the south it seems to get impossibly darker.  To the east
+you hear... birds?  A small rivulet of water seeps in from the passage
+east.  The air is very humid and damp here.
+~
+Room_flags 265
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2012
+0
+Exit
+1
+~
+~
+-1
+2020
+0
+Exit
+2
+~
+~
+-1
+2026
+0
+EndRoom
+
+#ROOM
+Vnum 2020
+Name The holy grove~
+Desc A small grove of birches grow seem to grow from solid rock.  You hear
+birds singing but try as you might you cant see any.  A strange glow
+emanates from a place somewhere to the southeast in the grove.
+~
+Room_flags 520
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2021
+0
+Exit
+3
+~
+~
+-1
+2019
+0
+EndRoom
+
+#ROOM
+Vnum 2021
+Name The holy grove~
+Desc The trees seem real enough even though they take root in solid rock.
+You hear other small animals scampering through the light undergrowth
+yet you see nothing. The grove continues south, east and west. An out of
+place passage way for some reason heads north.
+~
+Room_flags 520
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2068
+0
+Exit
+1
+~
+~
+-1
+2022
+0
+Exit
+2
+~
+~
+-1
+2027
+0
+Exit
+3
+~
+~
+-1
+2020
+0
+EndRoom
+
+#ROOM
+Vnum 2022
+Name The holy grove~
+Desc The grove continues west and south.  The glow is roughly to the south
+somewhere.
+~
+Room_flags 520
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+2028
+0
+Exit
+3
+~
+~
+-1
+2021
+0
+EndRoom
+
+#ROOM
+Vnum 2023
+Name Mess hall~
+Desc "mess" isn't exactly the best word to describe this room.  On the
+contrary, it is immaculately clean.  A very long table stretches way off
+to the north. A hallway is to the east.
+~
+Room_flags 264
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2016
+0
+Exit
+1
+~
+~
+-1
+2024
+0
+EndRoom
+
+#ROOM
+Vnum 2024
+Name End of a hallway~
+Desc You hear voices coming from a room to the west.  the hallway goes north.
+To the east lies a room which seems to glow with power and piety.
+~
+Room_flags 264
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2017
+0
+Exit
+1
+~
+~
+-1
+2025
+0
+Exit
+3
+~
+~
+-1
+2023
+0
+EndRoom
+
+#ROOM
+Vnum 2025
+Name Grand Templar's room~
+Desc All the items in this room look ancient yet strangely very powerful and
+rich.  There is an aura of great holiness about the room.
+~
+Room_flags 264
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+2024
+0
+EndRoom
+
+#ROOM
+Vnum 2026
+Name Very dark passage~
+Desc This room is so dark that even powerful magic lights seems to barely
+illuminate the ground in front of you.  If its possible it seems even
+darker to the south.  The passage also leads back north.
+~
+Room_flags 265
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2019
+0
+Exit
+2
+~
+~
+-1
+2030
+0
+EndRoom
+
+#ROOM
+Vnum 2027
+Name The holy grove~
+Desc The grove continues north and east.  To the east a strange humming can
+barely be heard.
+~
+Room_flags 520
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2021
+0
+Exit
+1
+~
+~
+-1
+2028
+0
+EndRoom
+
+#ROOM
+Vnum 2028
+Name The holy grove~
+Desc All of a sudden all the mysterious sounds of the grove stop. Or perhaps
+its just the strange humming and glowing from a clearing to the south
+drowning out everything else. There is a sort of magical forcefield door
+to the south.
+~
+Room_flags 520
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2022
+0
+Exit
+2
+a glowing forcefield with a small circular hole in it.
+~
+glow glowing field forcefield door~
+2001
+2032
+ABCF
+Exit
+3
+~
+~
+-1
+2027
+0
+EndRoom
+
+#ROOM
+Vnum 2029
+Name Very dark caveway~
+Desc This room is so very dark that no one is quite sure whats in it, so
+there's nothing really to describe except maybe the powerful sense of
+evil coming from the east and the almost overcoming urge to run to the
+west.
+~
+Room_flags 265
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2030
+0
+Exit
+3
+~
+~
+-1
+2033
+0
+EndRoom
+
+#ROOM
+Vnum 2030
+Name Deep within the catacombs~
+Desc It stinks like a lair in here.  A rotten smell of humanoid flesh
+lingers.  You stumble over what you think are corpses in the utter
+darkness. You sense a evil growl from somewhere in the room. maybe
+everywhere in the room. . ..
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2026
+0
+Exit
+1
+~
+~
+-1
+2031
+0
+Exit
+3
+~
+~
+-1
+2029
+0
+EndRoom
+
+#ROOM
+Vnum 2031
+Name Very dark cavern~
+Desc The cavern is hard to describe due to the extreme magical darkness.
+Probing with a light source seems to reveal nothing but more darkness.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+2034
+0
+Exit
+3
+~
+~
+-1
+2030
+0
+EndRoom
+
+#ROOM
+Vnum 2032
+Name The holy place~
+Desc A glowing stone lies in the center of the clearing.  You recognize it as
+the stone of the Excalibur.  The strange humming glowing makes it
+difficult to see if the Excalibur is there or not. Might want to take a
+closer look if possible.
+~
+Room_flags 520
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+a glowing forcefield with a small circular hole in it.
+~
+glow glowing field forcefield door~
+2001
+2028
+ABCF
+EndRoom
+
+#ROOM
+Vnum 2033
+Name Misty passageway~
+Desc Warm mist swirl about you making you feel threatened as well as
+protected at the same time.  The swirling mist makes it tough to tell
+directions quite clearly, but you seem to be able to go north or south.
+The mist gets denser to the south.
+~
+Room_flags 265
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2029
+0
+Exit
+2
+~
+~
+-1
+2042
+0
+EndRoom
+
+#ROOM
+Vnum 2034
+Name Intersection of caverns~
+Desc Caverns head north, south and east from this peculiar spot. Medium
+sized caverns from the east and the north join to form a huge cavern
+heading south.  The walls of the cavern are made of a bizarre mixture
+of many shiny crystals.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2031
+0
+Exit
+1
+~
+~
+-1
+2035
+0
+Exit
+2
+~
+~
+-1
+2044
+0
+EndRoom
+
+#ROOM
+Vnum 2035
+Name Entrance to the burial grounds~
+Desc You have entered what appears to be a burial ground of sorts. The
+templars buried their dead here.  Chills go down your spine as you feel
+something watching you.  You hear the random groan of a ghost, the howl
+of a wraith, and the dry clanking of bones.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2036
+0
+Exit
+3
+~
+~
+-1
+2034
+0
+EndRoom
+
+#ROOM
+Vnum 2036
+Name The burial grounds~
+Desc Random tombs to unknown warriors were lain in rows as far as the eye
+can see.  To your horror many of the graves are empty and desecrated.
+A gap in the rows of tombs leads south and there are more graves to the
+east and west.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2037
+0
+Exit
+2
+~
+~
+-1
+2045
+0
+Exit
+3
+~
+~
+-1
+2035
+0
+EndRoom
+
+#ROOM
+Vnum 2037
+Name The burial grounds~
+Desc It seems as if many of the warriors could not stop fighting even in
+death.  They fight amongst each other and flail at any living being
+that would wander near.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2038
+0
+Exit
+3
+~
+~
+-1
+2036
+0
+EndRoom
+
+#ROOM
+Vnum 2038
+Name The burial grounds~
+Desc Legions of skeletal warriors wander by and battle the enemy even in
+death.  Old battlelines have been forgotten and new ones made. Its a
+gruesome scene.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2039
+0
+Exit
+3
+~
+~
+-1
+2037
+0
+EndRoom
+
+#ROOM
+Vnum 2039
+Name New graves~
+Desc The tombs in this section seem somewhat more recent.  Rotting zombie
+warriors groan and wail with blank stares.  You hear sounds of digging
+off a bit to the south.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+2047
+0
+Exit
+3
+~
+~
+-1
+2038
+0
+EndRoom
+
+#ROOM
+Vnum 2040
+Name Misty cavern~
+Desc A chilling icy mist swirl about you.  The dampness and warmth has become
+bitter cold.  The walls of the cavern are several feet thick with ice
+here.  An icy wind blows from the south.
+~
+Room_flags 265
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2041
+0
+Exit
+2
+~
+~
+-1
+2048
+0
+EndRoom
+
+#ROOM
+Vnum 2041
+Name Misty cavern~
+Desc The temperature is a pleasant and mild here.  This is due to a warm wind
+blowing in from the east and a chilly breeze blowing in from the west.
+The updrafts create bizarre icy-steamy mists which dance along the
+walls.
+~
+Room_flags 265
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+2042
+0
+Exit
+3
+~
+~
+-1
+2040
+0
+EndRoom
+
+#ROOM
+Vnum 2042
+Name Mist cavern~
+Desc A warm wind blows in from the east.  The air is still stifling hot in
+here despite the breeze.  The mist seems thick enough to be alive. . .
+~
+Room_flags 265
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2033
+0
+Exit
+1
+~
+~
+-1
+2043
+0
+Exit
+3
+~
+~
+-1
+2041
+0
+EndRoom
+
+#ROOM
+Vnum 2043
+Name Waterfall of mist~
+Desc River of hot mist pour down in a cascade from a hole in the cavern.  It
+falls like water down from the heights like a waterfall and creates
+beautiful swirls.  It causes a hot wind to flow west.
+~
+Room_flags 265
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+hole height waterfall cascade~
+The hole is much too high up for you to reach.
+~
+Exit
+3
+~
+~
+-1
+2042
+0
+EndRoom
+
+#ROOM
+Vnum 2044
+Name Huge multicolored tunnel~
+Desc The tunnel leads north and south.  To the south there is an odd
+twinkling phenomenon.
+~
+Room_flags 265
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2034
+0
+Exit
+2
+~
+~
+-1
+2050
+0
+EndRoom
+
+#ROOM
+Vnum 2045
+Name Desolate ruins~
+Desc Several mausoleums used to grace the way here but these have been
+defiled. And most have been torn down and burned by looters. Some still
+seem to be intact to the south.  To the northwest is a seeming field of
+tombs of soldiers, now a battleground for the undead.
+~
+Room_flags 9
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+2051
+0
+EndRoom
+
+#ROOM
+Vnum 2046
+Name Curators place~
+Desc The undertaker, the historian and the curator used to be here. Now they
+too have joined the legions of the undead.  From the looks of the place
+they seem to have starved to death.  Rickety stairs head down into a
+sort of basement.
+~
+Room_flags 9
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+stairs basement~
+Surprisingly the stairs look sturdy enough.
+~
+Exit
+1
+~
+~
+-1
+2047
+0
+Exit
+5
+~
+~
+-1
+2052
+0
+EndRoom
+
+#ROOM
+Vnum 2047
+Name Fresh graves~
+Desc Graves of recent casualties lie here.  Even the most recent don't seem to
+have been left undisturbed.  You hear sounds of digging in progress
+further to the south.
+~
+Room_flags 9
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+2039
+0
+Exit
+2
+~
+~
+-1
+2053
+0
+Exit
+3
+~
+~
+-1
+2046
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 2007 spec_cast_undead
+M 2009 spec_cast_undead
+M 2011 spec_cast_mage
+M 2013 spec_cast_undead
+M 2014 spec_cast_undead
+M 2016 spec_breath_any
+M 2017 spec_poison
+S
+
+
+
+#RESETS
+D 0 2065 4 1
+D 0 2001 4 1
+D 0 2028 2 2
+D 0 2032 0 2
+M 0 2006 7 2049 1
+M 0 2016 1 2050 1
+E 0 2012 0 5
+E 0 2013 0 17
+M 0 2001 6 2052 3
+M 0 2001 6 2052 3
+M 0 2001 6 2052 3
+M 0 2013 1 2052 1
+E 0 2004 0 16
+M 0 2001 6 2052 3
+M 0 2001 6 2052 3
+M 0 2001 6 2052 3
+M 0 2004 4 2053 2
+M 0 2004 4 2053 2
+M 0 2011 4 2053 1
+M 0 2004 4 2055 2
+M 0 2004 4 2055 2
+M 0 2014 1 2055 1
+E 0 2011 0 11
+M 0 2003 2 2064 1
+M 0 2003 2 2002 1
+M 0 2008 12 2003 1
+E 0 2009 0 5
+E 0 2016 0 16
+M 0 2008 12 2004 1
+E 0 2016 0 16
+M 0 2008 12 2005 1
+M 0 2008 12 2006 1
+E 0 2009 0 5
+M 0 2002 8 2008 8
+M 0 2002 8 2008 8
+M 0 2002 8 2008 8
+M 0 2002 8 2008 8
+M 0 2002 8 2008 8
+M 0 2002 8 2009 8
+M 0 2002 8 2009 8
+M 0 2008 12 2009 3
+E 0 2009 0 5
+M 0 2008 12 2009 3
+E 0 2016 0 16
+M 0 2008 12 2009 3
+E 0 2009 0 5
+M 0 2002 8 2010 8
+M 0 2010 6 2015 1
+E 0 2016 0 16
+E 0 2009 0 5
+M 0 2008 12 2016 3
+E 0 2016 0 16
+M 0 2008 12 2016 3
+E 0 2009 0 5
+M 0 2008 12 2016 3
+E 0 2009 0 5
+M 0 2010 6 2016 2
+E 0 2016 0 16
+E 0 2009 0 5
+M 0 2010 6 2016 2
+E 0 2016 0 16
+E 0 2009 0 5
+M 0 2010 6 2016 2
+E 0 2016 0 16
+E 0 2009 0 5
+M 0 2010 6 2018 1
+E 0 2016 0 16
+E 0 2009 0 5
+M 0 2006 7 2019 1
+M 0 2008 12 2023 2
+E 0 2016 0 16
+M 0 2008 12 2023 2
+M 0 2010 6 2023 1
+E 0 2009 0 5
+E 0 2016 0 16
+M 0 2015 1 2025 1
+E 0 2010 0 3
+E 0 2001 0 0
+E 0 2008 0 17
+M 0 2012 2 2026 2
+E 0 2014 0 12
+M 0 2006 7 2028 1
+M 0 2017 1 2030 1
+E 0 2003 0 2
+E 0 2002 0 5
+E 0 2006 0 17
+O 0 2007 0 2032
+P 0 2005 9 2007 1
+M 0 2006 7 2033 1
+M 0 2005 9 2033 1
+E 0 2015 0 17
+M 0 2007 4 2035 1
+E 0 2009 0 5
+M 0 2006 7 2036 1
+M 0 2007 4 2036 1
+M 0 2011 4 2036 1
+M 0 2007 4 2037 1
+E 0 2009 0 5
+M 0 2011 4 2037 1
+M 0 2007 4 2038 1
+M 0 2006 7 2039 1
+M 0 2009 2 2039 2
+M 0 2006 7 2040 1
+M 0 2005 9 2040 2
+E 0 2015 0 17
+M 0 2005 9 2040 2
+E 0 2015 0 17
+M 0 2005 9 2041 2
+E 0 2015 0 17
+M 0 2005 9 2041 2
+E 0 2015 0 17
+M 0 2005 9 2042 1
+E 0 2015 0 17
+M 0 2005 9 2043 3
+E 0 2015 0 17
+M 0 2005 9 2043 3
+E 0 2015 0 17
+M 0 2005 9 2043 3
+E 0 2015 0 17
+M 0 2009 2 2047 2
+M 0 2011 4 2047 4
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

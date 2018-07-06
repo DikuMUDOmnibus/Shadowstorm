@@ -1,0 +1,6168 @@
+#AREADATA
+Name New Ofcol~
+Builders None~
+VNUMs 600 699
+Credits { 5 35} Hatchet New Ofcol~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 600
+Name oldstyle cityguard guard~
+Short the Ofcol cityguard~
+Long An Ofcol cityguard is standing here, making sure there is no trouble.
+~
+Description This guard is surely a trained and skilled fighter.  He is fully armed and
+armored, and he uses his equipment with a practiced precision.  Luckily for 
+you, this guard will only use his deadly skills for the good of the citizens of
+Ofcol.
+~
+Race human~
+Act_flags ACT
+Aff N
+Align 1000
+Group 0
+Level 19
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 9d9+100
+Dam_dice 2d7+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off CDEIKLU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 601
+Name oldstyle marshall diana~
+Short Marshall Diana~
+Long Diana, the Marshall of Ofcol, stands here proudly.
+~
+Description Diana is a beautiful, powerfully built woman.  She wears platinum armor for
+three reasons.  The first is to show she is strong enough to withstand the
+weight.  The second is to show her rank of office.  The third is that platinum
+is the hardest metal she can find.  She is willing to defend Ofcol to her 
+death.
+~
+Race human~
+Act_flags ABQ
+Aff DHN
+Align 1000
+Group 0
+Level 33
+Hitroll 0
+Hit_dice 10d10+1100
+Mana_dice 33d9+100
+Dam_dice 4d6+10
+Dam_type none
+Armor -11 -11 -11 3
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 602
+Name oldstyle derrick captain guard cityguard~
+Short Captain Derrick~
+Long Derrick, Captain of the Guard, is here disciplining his guards.
+~
+Description Derrick is a very big man.  He has acquired this station, not by brains or
+charm, but by brute strength.  He had fought in three orc wars and is a
+descendent of a surviving cityguard of old Thalos.  He believes that everything
+has to be hard won to be kept, and that laxity is for the weak.
+~
+Race human~
+Act_flags AGQ
+Aff DHN
+Align 1000
+Group 0
+Level 27
+Hitroll 0
+Hit_dice 5d10+650
+Mana_dice 27d9+100
+Dam_dice 2d10+7
+Dam_type none
+Armor -8 -8 -8 4
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 603
+Name oldstyle jacklyn captain guard cityguard~
+Short Captain Jacklyn~
+Long Jacklyn, Captain of the Citadel Guard, is here raising morale.
+~
+Description Jacklyn is pale and wiry, but then, so are most other witches.  The fact that
+Jacklyn is a mage and a warrior makes her the perfect captain of the citadel
+guards.  Jacklyn is very beautiful, but whether it is due to her pale softness
+or her magic, no one has ever found out.  She isn't very strong physically, but
+she need not be.
+~
+Race human~
+Act_flags ABR
+Aff DN
+Align 1000
+Group 0
+Level 27
+Hitroll 0
+Hit_dice 5d10+600
+Mana_dice 27d9+100
+Dam_dice 2d10+6
+Dam_type none
+Armor -7 -7 -7 2
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 604
+Name oldstyle jim blacksmith~
+Short Jim the Blacksmith~
+Long Jim the Blacksmith is here, selling his latest works of metal.
+~
+Description Jim is big and brawny, just like what you'd expect of a blacksmith.  He is
+smiling a very big smile, as he looks at your coins.  You wonder if he likes
+the metals or the value of the coins.
+~
+Race human~
+Act_flags AB
+Aff N
+Align 1000
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+853
+Mana_dice 15d9+100
+Dam_dice 4d6+8
+Dam_type none
+Armor -9 -9 -9 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 3750
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 605
+Name oldstyle sam~
+Short Sam~
+Long Sam is here, selling his leather works.
+~
+Description Sam is a middle-aged workman.  He looks tired, but never too tired to get that
+last sale from you.  He grins at you slightly.
+~
+Race human~
+Act_flags AB
+Aff N
+Align 1000
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+853
+Mana_dice 15d9+100
+Dam_dice 4d6+8
+Dam_type none
+Armor -9 -9 -9 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 750
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 606
+Name oldstyle madam tracy~
+Short Madam Tracy~
+Long Madam Tracy is here, selling and buying little treasures.
+~
+Description Madam Tracy is a bit old, but not to the point of senility.  Besides, she knows
+the hard ways of this world and is ready for it.  She spends her time at the
+shop, trading little things (for a wee bit of profit).
+~
+Race human~
+Act_flags AB
+Aff N
+Align 1000
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 1250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 607
+Name oldstyle marty~
+Short Marty~
+Long Marty the meat store owner is here, selling you his choice meats.
+~
+Description Marty is a big man.  He used to hunt the animals he sells, but now he lets his
+son, Jim, raise and slaughter the animals for him.  Marty still knows how to
+kill, though.
+~
+Race human~
+Act_flags AB
+Aff N
+Align 1000
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+853
+Mana_dice 15d9+100
+Dam_dice 4d6+8
+Dam_type none
+Armor -9 -9 -9 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 608
+Name oldstyle elizabeth farmer~
+Short Farmer Elizabeth~
+Long Farmer Elizabeth is here, selling the latest crop.
+~
+Description Elizabeth is a very happy woman.  She can't believe the nice weather here in
+Ofcol, and the great vegetables this land produces is unbelievable to her too.
+Farmer Elizabeth smiles at you nicely, but you bet she is doing that just to
+get a good price off of you!
+~
+Race human~
+Act_flags AB
+Aff N
+Align 1000
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 609
+Name oldstyle granny jenkins~
+Short Granny Jenkins~
+Long Granny Jenkins is here, running the still.
+~
+Description Granny Jenkins is a feeble woman, but she knows her brew.  She might be very
+old, but she is still in charge of the still.  She cackles lightly at herself
+every time she tastes her whiskey, which is quite often!
+Granny Jenkins cackles again.
+~
+Race human~
+Act_flags AB
+Aff N
+Align 500
+Group 0
+Level 6
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 3d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 5
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 610
+Name oldstyle jack~
+Short Jack~
+Long Jack is here slaughtering away at the animals.
+~
+Description Jack is the son of Marty, and you can see the family resemblance (especially in
+their shared affinity for slaughtering animals.)  Jack leers at you as you
+enter.  "Came by to watch, eh?", he asks.
+~
+Race human~
+Act_flags ABFH
+Aff 0
+Align 200
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 6d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor 0 0 0 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 611
+Name oldstyle Sarah farmer~
+Short Farmer Sara~
+Long Farmer Sara is here, milking the cows.
+~
+Description Farmer Sara is all covered with bits of straw and grime, but underneath all
+that, she doesn't look that bad.  She smiles at you demurely, and goes back to
+her work.
+~
+Race human~
+Act_flags ABH
+Aff 0
+Align 800
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 5
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 612
+Name oldstyle chicken hen~
+Short a hen~
+Long A hen is here, squawking at your intrusion.
+~
+Description The hen has yellow feathers and small wings.  It looks like a chicken, if
+you've ever seen one.
+~
+Race human~
+Act_flags AHI
+Aff 0
+Align 0
+Group 0
+Level 1
+Hitroll 0
+Hit_dice 2d6+10
+Mana_dice 0d9+100
+Dam_dice 1d4+0
+Dam_type none
+Armor 9 9 9 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 613
+Name oldstyle cow~
+Short the cow~
+Long A cow is here, munching on grass.
+~
+Description The cow is here happily grazing.  It moos at you and goes back to grazing.
+~
+Race human~
+Act_flags AI
+Aff 0
+Align 0
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 614
+Name oldstyle cow~
+Short the cow~
+Long A cow is here, waiting to be milked.
+~
+Description The cow is just standing here.  She moos at you and otherwise ignores you.
+~
+Race human~
+Act_flags ABI
+Aff 0
+Align 0
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 615
+Name oldstyle horse young~
+Short the young horse~
+Long A young horse is here, grazing.
+~
+Description The horse whinnies at you, then runs around you a few times, then just goes
+back to grazing.
+~
+Race human~
+Act_flags AFHI
+Aff 0
+Align 0
+Group 0
+Level 6
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 3d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 616
+Name oldstyle pig~
+Short the pig~
+Long A pig is playing here, getting itself and you dirty.
+~
+Description The pig looks dirty.  It snorts and sniffs at you, then goes back to its slop.
+~
+Race pig~
+Act_flags ABI
+Aff 0
+Align 0
+Group 0
+Level 4
+Hitroll 0
+Hit_dice 2d7+46
+Mana_dice 2d9+100
+Dam_dice 1d5+1
+Dam_type none
+Armor 6 6 6 9
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGV
+Parts ACDEFHJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 617
+Name oldstyle citizen man~
+Short the citizen~
+Long A citizen is here, smiling at you.
+~
+Description The citizen smiles at you.  He is having a great day, and he wishes the same
+for you.  He looks at you strangely, though, wondering why you are so armed and
+armored.
+~
+Race human~
+Act_flags AH
+Aff 0
+Align 500
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 618
+Name oldstyle citizen woman~
+Short the citizen~
+Long A citizen is here, smiling at you.
+~
+Description The citizen smiles at you.  She is having a great day, and she wishes the same
+for you.  She looks at you strangely, though, wondering why you are so armed
+and armored.
+~
+Race human~
+Act_flags AH
+Aff 0
+Align 500
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 5
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 619
+Name oldstyle child boy~
+Short the boy~
+Long A boy is here, playing tag and other kids' games.
+~
+Description The little boy looks up at you and says, 'Hi.  Can I have a piece of candy?'
+He then smiles and runs away, remembering his game.
+~
+Race human~
+Act_flags AH
+Aff 0
+Align 500
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d6+35
+Mana_dice 1d9+100
+Dam_dice 1d6+0
+Dam_type none
+Armor 7 7 7 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 620
+Name oldstyle child girl~
+Short the girl~
+Long A girl is here, playing jump jacks and other kids' games.
+~
+Description The little girl looks up at you and says, 'Hi.  Can I have a pretty little
+coin?'  She then smiles and runs away, remembering her game.
+~
+Race human~
+Act_flags AH
+Aff 0
+Align 500
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d6+35
+Mana_dice 1d9+100
+Dam_dice 1d6+0
+Dam_type none
+Armor 7 7 7 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 621
+Name oldstyle maid woman~
+Short the maid~
+Long A maid is here, cleaning the house and preparing the next meal.
+~
+Description The maid startles at your presence.  'You are ruining my floors!  Wait till
+Master and Mistress come back.  You will get me in trouble!  Shoo!', she says.
+She hits you with her broom.
+~
+Race human~
+Act_flags AH
+Aff 0
+Align 500
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 2
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 622
+Name oldstyle Nyles~
+Short Nyles the Bartender~
+Long Nyles the Bartender is here, ready to serve you up a good brew.
+~
+Description Nyles is a hefty guy, who looks like he's waiting for the next bar fight to
+join in.  He keeps an eye on you and his glasses, making sure you don't steal
+any.
+~
+Race human~
+Act_flags AB
+Aff 0
+Align 1000
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+853
+Mana_dice 15d9+100
+Dam_dice 4d6+8
+Dam_type none
+Armor -9 -9 -9 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 623
+Name oldstyle cityguard guard~
+Short the Ofcol cityguard~
+Long An Ofcol cityguard is posted here to guard the gate.
+~
+Description This guard is surely a trained and skilled fighter.  He is fully armed and
+armored, and he uses his equipment with a practiced precision.  Luckily for 
+you, this guard will only use his deadly skills for the good of the citizens of
+Ofcol.
+~
+Race human~
+Act_flags ABT
+Aff N
+Align 1000
+Group 0
+Level 19
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 9d9+100
+Dam_dice 2d7+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off CDEIKLU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 624
+Name oldstyle bard~
+Short a bard~
+Long A bard is here, singing of the glories of Ofcol.
+~
+Description After years of traveling around the world, this bard has decided to stay in the
+peaceful city of Ofcol, and to sing of its unmatched glories.  He smiles at
+you, hinting toward a tip from you in ever a subtle way.
+~
+Race human~
+Act_flags AB
+Aff N
+Align 800
+Group 0
+Level 13
+Hitroll 0
+Hit_dice 2d10+170
+Mana_dice 6d9+100
+Dam_dice 2d5+3
+Dam_type none
+Armor -1 -1 -1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 625
+Name oldstyle servant~
+Short a servant~
+Long A servant is here, carrying the duties of the Keeper of the Golden Citadel.
+~
+Description The servant smiles good-naturedly at you, then goes on his duties.
+~
+Race human~
+Act_flags AG
+Aff N
+Align 1000
+Group 0
+Level 6
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 3d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 626
+Name oldstyle squire~
+Short a squire~
+Long A squire is here, scurrying from duty to duty.
+~
+Description This young man smiles at you, but is too busy to chat.
+~
+Race human~
+Act_flags AG
+Aff N
+Align 1000
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d6+85
+Mana_dice 3d9+100
+Dam_dice 1d8+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 627
+Name oldstyle page~
+Short a page~
+Long A page is here, sending a message to his knight.
+~
+Description The page smiles for you, asking if he can do you a favor too.
+~
+Race human~
+Act_flags AG
+Aff N
+Align 1000
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 628
+Name oldstyle priestess~
+Short the Priestess of Ofcol~
+Long The Priestess of Ofcol is here, blessing you 
+with her beatific smile.
+~
+Description The Priestess of Ofcol is an old woman, perfectly at peace with herself and 
+with the world.  She devotes all her time to help teach you the ways of her
+god, Bahamut.  The dragon symbol around her neck looks almost alive.
+~
+Race human~
+Act_flags AB
+Aff BHN
+Align 1000
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+853
+Mana_dice 15d9+100
+Dam_dice 4d6+8
+Dam_type none
+Armor -9 -9 -9 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 629
+Name oldstyle chaplain Jerrold~
+Short Chaplain Jerrold~
+Long Jerrold, the chaplain of this Citadel, is here 
+directing the activities of the people around here.
+~
+Description He smiles at you, with the enthusiasm of a little kid.  "What're you doing just
+STANDING here, young man?  Go help that other squire there!", he yells.  He
+turns to you and with a consipatory tone, whispers, "Kids!"
+~
+Race human~
+Act_flags AGT
+Aff BHN
+Align 1000
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 4d10+360
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off CDEIKLU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 630
+Name oldstyle dragonlord lord dragon~
+Short a Dragonlord~
+Long A knight wearing the scales of a dragon stands here.
+~
+Description This person looks almost like a dragon itself.  His golden scales gleam with
+power.  He smiles at you with a vicious grin.  You're happy that he doesn't
+look upset at your presence. 
+~
+Race human~
+Act_flags AB
+Aff BHN
+Align 1000
+Group 0
+Level 29
+Hitroll 0
+Hit_dice 6d12+778
+Mana_dice 14d9+100
+Dam_dice 2d12+8
+Dam_type none
+Armor -9 -9 -9 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 631
+Name oldstyle dragon gold~
+Short The Ancient Gold Dragon~
+Long An old dragon shimmering with the colors of this 
+cavern peers at you sleepily.
+~
+Description This dragon's head is taller than you.  He is annoyed at your disturbance, but
+realizing that you're no danger to him, he ignores you.  He waves to one of
+his attendants to escort you away.
+~
+Race dragon~
+Act_flags ABC
+Aff BHJNT
+Align 1000
+Group 0
+Level 42
+Hitroll 0
+Hit_dice 25d10+2250
+Mana_dice 21d9+100
+Dam_dice 3d12+14
+Dam_type none
+Armor -14 -14 -14 4
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res BEH
+Vuln FI
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AHZ
+Parts ACDEFGHIJKPQUVX
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 632
+Name oldstyle attendant~
+Short an attendant of the dragon~
+Long A person robed in gold is attending to the Keeper of the Citadel.
+~
+Description This elder servant to the Gold Dragon is very loyal to him, willing to risk
+his life for his liege.
+~
+Race human~
+Act_flags ABR
+Aff BN
+Align 1000
+Group 0
+Level 21
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 21d9+100
+Dam_dice 2d7+4
+Dam_type none
+Armor -4 -4 -4 3
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 633
+Name oldstyle dragonknight knight dragon~
+Short a Dragonknight~
+Long A person dressed in the scales of a gold dragon 
+stands here, guarding the Golden Citadel.
+~
+Description This person looks like a dragon itself.  His golden scales gleam with power.
+He smiles at you, showing very sharp teeth.
+~
+Race human~
+Act_flags AG
+Aff BN
+Align 1000
+Group 0
+Level 21
+Hitroll 0
+Hit_dice 4d10+360
+Mana_dice 10d9+100
+Dam_dice 4d4+5
+Dam_type none
+Armor -5 -5 -5 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 250
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 634
+Name oldstyle cityguard guard~
+Short the Ofcol cityguard~
+Long An Ofcol cityguard is posted here to guard the gate.
+~
+Description This guard is surely a trained and skilled fighter.  He is fully armed and
+armored, and he uses his equipment with a practiced precision.  Luckily for 
+you, this guard will only use his deadly skills for the good of the citizens of
+Ofcol.
+~
+Race human~
+Act_flags ABT
+Aff N
+Align 1000
+Group 0
+Level 19
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 9d9+100
+Dam_dice 2d7+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off CDEIKLU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 600
+Name axe hand~
+Short a hand axe~
+Desc A hand axe is on the floor here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values axe 1 8 chop 0
+Level 4
+Weight 100
+Cost 420
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+handaxe hand axe~
+You see a finely made axe.  Iron, with a nice wooden shaft, this axe can
+withstand years of use.
+~
+EndObj
+
+#OBJ
+Vnum 601
+Name meat cleaver~
+Short a meat cleaver~
+Desc A sharp meat cleaver is just lying on the floor here!~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values dagger 2 5 chop 0
+Level 8
+Weight 50
+Cost 530
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+meat cleaver~
+This meat cleaver is made of good steel.
+~
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 602
+Name side meat beef~
+Short a side of beef~
+Desc A side of beef is here on the floor.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values DE DE 0 0 0
+Level 0
+Weight 100
+Cost 50
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 603
+Name side meat pork~
+Short a side of pork~
+Desc A side of pork is here on the floor.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values ABCE ABCE 0 0 0
+Level 0
+Weight 100
+Cost 42
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 604
+Name side meat horse~
+Short a side of horse~
+Desc A side of horse is here on the floor.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values BCDE BCDE 0 0 0
+Level 0
+Weight 120
+Cost 21
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 605
+Name meat chicken~
+Short a defeathered chicken~
+Desc A defeathered chicken is here on the floor.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values E E 0 0 0
+Level 0
+Weight 50
+Cost 10
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 606
+Name emerald ring~
+Short an emerald ring~
+Desc An emerald ring is on the floor, gathering dust.~
+Material oldstyle~
+Item_type jewelry
+Extra G
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 1000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 607
+Name glass trinket~
+Short a glass trinket~
+Desc A glass trinket is on the floor, gathering dust.~
+Material oldstyle~
+Item_type gem
+Extra 0
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 150
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+20 -1
+EndObj
+
+#OBJ
+Vnum 608
+Name golden necklace~
+Short a golden necklace~
+Desc A golden necklace is on the floor, gathering dust.~
+Material oldstyle~
+Item_type jewelry
+Extra 0
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 0
+Weight 20
+Cost 500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+4 -1
+EndObj
+
+#OBJ
+Vnum 609
+Name cabbage~
+Short a head of cabbage~
+Desc Some fresh cabbage is here, get it while it lasts!~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values CD CD 0 0 0
+Level 0
+Weight 20
+Cost 2
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 610
+Name lettuce~
+Short a head of lettuce~
+Desc Some fresh lettuce is here, get it while it lasts!~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values CD CD 0 0 0
+Level 0
+Weight 20
+Cost 2
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 611
+Name milk bottle~
+Short a bottle of milk~
+Desc A glass bottle of milk is on a shelf here, fresh from the cow.~
+Material oldstyle~
+Item_type drink
+Extra 0
+Extra2 0
+Wear A
+Values 20 20 'milk' 0 0
+Level 0
+Weight 50
+Cost 3
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 612
+Name apple~
+Short an apple~
+Desc An apple is on the ground.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values D D 0 0 0
+Level 0
+Weight 10
+Cost 1
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 613
+Name corn~
+Short an ear of corn~
+Desc An ear of corn is on the ground.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values D D 0 0 0
+Level 0
+Weight 10
+Cost 3
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 614
+Name hay pile~
+Short a pile of hay~
+Desc There is a big pile of hay here.~
+Material oldstyle~
+Item_type trash
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 200
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 615
+Name pitchfork fork~
+Short a pitchfork~
+Desc A pitchfork is on the floor.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values exotic 3 3 stab 0
+Level 7
+Weight 100
+Cost 122
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 616
+Name vest~
+Short a leather vest~
+Desc A leather vest is on the floor.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values A B B 0 0
+Level 0
+Weight 100
+Cost 270
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 617
+Name sleeves~
+Short some leather sleeves~
+Desc Some leather sleeves are on the floor.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AI
+Values A B B 0 0
+Level 0
+Weight 50
+Cost 136
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 618
+Name leggings~
+Short some leather leggings~
+Desc Some leather leggings are on the floor.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AF
+Values A B B 0 0
+Level 0
+Weight 50
+Cost 136
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 619
+Name boots~
+Short some leather boots~
+Desc Some leather boots are on the floor.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AG
+Values A B B 0 0
+Level 0
+Weight 50
+Cost 136
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 620
+Name signet ring~
+Short an Ofcol signet ring~
+Desc A shiny ring of gold is in the dirt.~
+Material oldstyle~
+Item_type jewelry
+Extra G
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 10
+Weight 10
+Cost 730
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -2
+AffectObj
+13 5
+AffectObj
+20 -1
+EndObj
+
+#OBJ
+Vnum 621
+Name plate brass~
+Short brass plate~
+Desc A pile of brass plates is against the wall here.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AD
+Values BC AC BC A 0
+Level 16
+Weight 100
+Cost 2400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 10
+AffectObj
+20 -1
+EndObj
+
+#OBJ
+Vnum 622
+Name helm brass~
+Short a brass helm~
+Desc A brass helm is against the wall here.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AE
+Values BC AC BC A 0
+Level 16
+Weight 100
+Cost 1280
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 5
+AffectObj
+20 -1
+EndObj
+
+#OBJ
+Vnum 623
+Name leggings brass~
+Short brass leggings~
+Desc A pile of brass plates is against the wall here.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AF
+Values BC AC BC A 0
+Level 16
+Weight 100
+Cost 1280
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 5
+AffectObj
+20 -1
+EndObj
+
+#OBJ
+Vnum 624
+Name boots brass~
+Short brass boots~
+Desc Some brass boots are against the wall here.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AG
+Values BC AC BC A 0
+Level 16
+Weight 100
+Cost 1280
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 5
+AffectObj
+20 -1
+EndObj
+
+#OBJ
+Vnum 625
+Name gauntlets brass~
+Short brass gauntlets~
+Desc Some brass gauntlets are against the wall here.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AH
+Values BC AC BC A 0
+Level 16
+Weight 100
+Cost 1280
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 5
+AffectObj
+20 -1
+EndObj
+
+#OBJ
+Vnum 626
+Name sleeves brass~
+Short brass sleeves~
+Desc A pile of brass plates is against the wall here.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AI
+Values BC AC BC A 0
+Level 16
+Weight 100
+Cost 1280
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 5
+AffectObj
+20 -1
+EndObj
+
+#OBJ
+Vnum 627
+Name shield brass~
+Short a brass shield~
+Desc A big plate of brass is against the wall here.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AJ
+Values BC AC BC B 0
+Level 16
+Weight 100
+Cost 1850
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 5
+AffectObj
+20 -1
+EndObj
+
+#OBJ
+Vnum 628
+Name girth brass~
+Short a brass girth~
+Desc A brass girth is against the wall here.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AL
+Values BC AC BC A 0
+Level 16
+Weight 100
+Cost 1280
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 5
+AffectObj
+20 -1
+EndObj
+
+#OBJ
+Vnum 629
+Name bracer brass~
+Short a brass bracer~
+Desc A brass bracer is against the wall here.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AM
+Values C AC BC A 0
+Level 12
+Weight 100
+Cost 1040
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 5
+AffectObj
+20 -1
+EndObj
+
+#OBJ
+Vnum 630
+Name claymore sword~
+Short a claymore~
+Desc A VERY big sword is against the wall here.~
+Material oldstyle~
+Item_type weapon
+Extra G
+Extra2 0
+Wear AN
+Values sword 4 4 cleave F
+Level 19
+Weight 160
+Cost 3100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 5
+AffectObj
+18 -2
+EndObj
+
+#OBJ
+Vnum 631
+Name plate silver~
+Short silver plate~
+Desc A pile of silver plating and chain is on the floor.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AD
+Values D D D B 0
+Level 25
+Weight 200
+Cost 5000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+1 1
+AffectObj
+12 10
+EndObj
+
+#OBJ
+Vnum 632
+Name helm silver~
+Short a silver helm~
+Desc A shiny helm is on the floor.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AE
+Values D D D B 0
+Level 25
+Weight 200
+Cost 2900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+2 1
+AffectObj
+12 5
+EndObj
+
+#OBJ
+Vnum 633
+Name leggings silver~
+Short silver leggings~
+Desc Some shiny leggings are on the floor.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AF
+Values D D D B 0
+Level 25
+Weight 200
+Cost 2900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+3 1
+AffectObj
+12 5
+EndObj
+
+#OBJ
+Vnum 634
+Name boots silver~
+Short silver boots~
+Desc Some shiny boots are on the floor.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AG
+Values D D D B 0
+Level 25
+Weight 200
+Cost 2900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+4 1
+AffectObj
+12 5
+EndObj
+
+#OBJ
+Vnum 635
+Name gauntlets silver~
+Short silver gauntlets~
+Desc Some shiny gauntlets are on the floor.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AH
+Values D D D B 0
+Level 25
+Weight 200
+Cost 2900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+5 1
+AffectObj
+12 5
+EndObj
+
+#OBJ
+Vnum 636
+Name sleeves silver~
+Short silver sleeves~
+Desc Some shiny sleeves are on the floor.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AI
+Values D D D B 0
+Level 25
+Weight 200
+Cost 2400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+AffectObj
+12 5
+EndObj
+
+#OBJ
+Vnum 637
+Name shield silver~
+Short the silver shield~
+Desc A shiny shield is on the floor.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AJ
+Values D D D AB 0
+Level 25
+Weight 200
+Cost 4200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -3
+AffectObj
+12 5
+EndObj
+
+#OBJ
+Vnum 638
+Name girth silver~
+Short the silver girth~
+Desc A shiny girth is on the floor.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AL
+Values D D D B 0
+Level 25
+Weight 200
+Cost 2400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 1
+AffectObj
+12 5
+EndObj
+
+#OBJ
+Vnum 639
+Name plate platinum~
+Short platinum plate~
+Desc A pile of silvery metal is on the floor.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AD
+Values AD AD AD AB 0
+Level 30
+Weight 500
+Cost 9200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+5 2
+AffectObj
+13 15
+EndObj
+
+#OBJ
+Vnum 640
+Name helmet platinum~
+Short the platinum helmet~
+Desc A silvery helmet is on the floor.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AE
+Values AD AD AD AB 0
+Level 30
+Weight 300
+Cost 6300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+4 2
+AffectObj
+12 10
+EndObj
+
+#OBJ
+Vnum 641
+Name leggings platinum~
+Short platinum leggings~
+Desc Some silvery leggings are on the floor.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AF
+Values AD AD AD AB 0
+Level 30
+Weight 400
+Cost 6300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+2 2
+AffectObj
+13 10
+EndObj
+
+#OBJ
+Vnum 642
+Name boots platinum~
+Short platinum boots~
+Desc Some silvery boots are on the floor.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AG
+Values AD AD AD AB 0
+Level 32
+Weight 400
+Cost 4100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+14 25
+AffectObj
+13 10
+EndObj
+
+#OBJ
+Vnum 643
+Name gauntlets platinum~
+Short platinum gauntlets~
+Desc A pair of silvery gauntlets are on the floor.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AH
+Values AD AD AD AB 0
+Level 31
+Weight 400
+Cost 4300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 2
+AffectObj
+13 10
+EndObj
+
+#OBJ
+Vnum 644
+Name sleeves platinum~
+Short platinum sleeves~
+Desc A pair of silvery sleeves are on the floor.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AI
+Values AD AD AD AB 0
+Level 30
+Weight 400
+Cost 6300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+1 2
+AffectObj
+13 10
+EndObj
+
+#OBJ
+Vnum 645
+Name shield spiked platinum~
+Short the platinum spiked shield~
+Desc A jagged, silvery shield is on the floor.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AJ
+Values AD AD AD AC 0
+Level 31
+Weight 400
+Cost 6000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+AffectObj
+13 10
+EndObj
+
+#OBJ
+Vnum 646
+Name girth platinum~
+Short the platinum girth~
+Desc A silvery girth is on the floor.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AL
+Values AD AD AD AB 0
+Level 31
+Weight 400
+Cost 4000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+20 -2
+AffectObj
+13 10
+EndObj
+
+#OBJ
+Vnum 647
+Name avenger holy sword~
+Short holy Avenger~
+Desc A glowing silvery sword is hovering here, ready to possess an owner.~
+Material oldstyle~
+Item_type weapon
+Extra GK
+Extra2 0
+Wear AN
+Values sword 4 6 slice 0
+Level 32
+Weight 250
+Cost 5700
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 6
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 648
+Name whiskey shot~
+Short a shot of whiskey~
+Desc A shot of whiskey is on the table.~
+Material oldstyle~
+Item_type drink
+Extra 0
+Extra2 0
+Wear A
+Values 2 2 'whisky' 0 0
+Level 0
+Weight 10
+Cost 12
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 649
+Name ale quart~
+Short a quart of ale~
+Desc A quart of ale is on the table.~
+Material oldstyle~
+Item_type drink
+Extra 0
+Extra2 0
+Wear A
+Values 32 32 'ale' 0 0
+Level 0
+Weight 20
+Cost 10
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 650
+Name port brew quart~
+Short a quart of port brew~
+Desc A quart of port brew is on the table.~
+Material oldstyle~
+Item_type drink
+Extra 0
+Extra2 0
+Wear A
+Values 32 32 'dark ale' 0 0
+Level 0
+Weight 20
+Cost 18
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 651
+Name key citadel~
+Short the citadel key~
+Desc A key is on the floor.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 652
+Name symbol holy~
+Short the Holy Symbol of Bahamut~
+Desc A very shiny symbol is on the floor.~
+Material oldstyle~
+Item_type jewelry
+Extra GIKL
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 17
+Weight 50
+Cost 3700
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+4 2
+AffectObj
+12 10
+AffectObj
+17 -3
+EndObj
+
+#OBJ
+Vnum 653
+Name ranseur polearm~
+Short a ranseur~
+Desc A heavy polearm is against the wall here, ready to inflict damage.~
+Material oldstyle~
+Item_type weapon
+Extra GK
+Extra2 0
+Wear AN
+Values polearm 4 6 thrust F
+Level 24
+Weight 200
+Cost 1460
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 -1
+AffectObj
+18 3
+EndObj
+
+#OBJ
+Vnum 654
+Name torso dragonscale golden~
+Short a golden dragonscale torso~
+Desc A golden dragonscale torso is on the floor!~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AD
+Values ABC ABC ABC AB 0
+Level 24
+Weight 250
+Cost 6200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 2
+AffectObj
+17 -5
+EndObj
+
+#OBJ
+Vnum 655
+Name dragonhelm golden~
+Short a golden dragonhelm~
+Desc A golden dragonhelm is on the floor!~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AE
+Values ABC ABC ABC AB 0
+Level 21
+Weight 100
+Cost 2800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+AffectObj
+17 -3
+EndObj
+
+#OBJ
+Vnum 656
+Name leggings golden~
+Short golden dragonscale leggings~
+Desc Some golden dragonscale leggings are on the floor!~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AF
+Values ABC ABC ABC AB 0
+Level 21
+Weight 100
+Cost 2800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+AffectObj
+17 -3
+EndObj
+
+#OBJ
+Vnum 657
+Name boots golden~
+Short golden dragonscale boots~
+Desc Some golden dragonscale boots are on the floor!~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AG
+Values ABC ABC ABC AB 0
+Level 21
+Weight 100
+Cost 2800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+AffectObj
+17 -3
+EndObj
+
+#OBJ
+Vnum 658
+Name gauntlets golden~
+Short golden dragonscale gauntlets~
+Desc Some golden dragonscale gauntlets are on the floor!~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AH
+Values ABC ABC ABC AB 0
+Level 21
+Weight 100
+Cost 2800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+AffectObj
+17 -3
+EndObj
+
+#OBJ
+Vnum 659
+Name sleeves golden~
+Short golden dragonscale sleeves~
+Desc Some golden dragonscale sleeves are on the floor!~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AI
+Values ABC ABC ABC AB 0
+Level 21
+Weight 100
+Cost 2800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+AffectObj
+17 -3
+EndObj
+
+#OBJ
+Vnum 660
+Name shield golden~
+Short a golden dragonscale shield~
+Desc A golden dragonscale shield is on the floor!~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AJ
+Values ABC ABC ABC C 0
+Level 21
+Weight 100
+Cost 3700
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+AffectObj
+17 -3
+EndObj
+
+#OBJ
+Vnum 661
+Name girth golden~
+Short a golden dragonscale girth~
+Desc A golden dragonscale girth is on the floor!~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AL
+Values ABC ABC ABC AB 0
+Level 21
+Weight 100
+Cost 2800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+AffectObj
+17 -3
+EndObj
+
+#OBJ
+Vnum 662
+Name claw golden~
+Short the golden claw~
+Desc A small golden claw is on the floor~
+Material oldstyle~
+Item_type weapon
+Extra GK
+Extra2 0
+Wear AN
+Values exotic 2 10 claw 0
+Level 21
+Weight 100
+Cost 2600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 663
+Name orb dragonorb~
+Short the Gold Dragon Orb~
+Desc A very large pearl-like sphere is in the center of this room.~
+Material oldstyle~
+Item_type staff
+Extra GKL
+Extra2 0
+Wear AO
+Values 14 4 4 'heal' 0
+Level 17
+Weight 300
+Cost 9000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+4 2
+AffectObj
+3 1
+EndObj
+
+#OBJ
+Vnum 664
+Name robe golden~
+Short a golden robe~
+Desc A golden robe is on the floor.~
+Material oldstyle~
+Item_type armor
+Extra GK
+Extra2 0
+Wear AK
+Values BC BC AC B 0
+Level 17
+Weight 100
+Cost 3800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+3 2
+EndObj
+
+#OBJ
+Vnum 665
+Name house key~
+Short a house key~
+Desc A house key is on the floor.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 666
+Name broom~
+Short a broom~
+Desc A broom is against the wall here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values exotic 2 3 beating 0
+Level 1
+Weight 80
+Cost 760
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 -3
+AffectObj
+18 3
+EndObj
+
+#OBJ
+Vnum 667
+Name chest~
+Short a chest~
+Desc A chest is on the floor here.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 -1 0 0
+Level 0
+Weight 100
+Cost 100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 668
+Name claw golden~
+Short the Golden Claw~
+Desc A huge golden claw is on the floor~
+Material oldstyle~
+Item_type weapon
+Extra GK
+Extra2 0
+Wear AN
+Values exotic 6 5 claw 0
+Level 39
+Weight 200
+Cost 7200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 4
+EndObj
+
+#OBJ
+Vnum 669
+Name claw golden~
+Short the golden claw~
+Desc A large golden claw is on the floor~
+Material oldstyle~
+Item_type weapon
+Extra GK
+Extra2 0
+Wear AN
+Values exotic 3 8 claw 0
+Level 28
+Weight 150
+Cost 4100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 3
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 600
+Name Granny's Still Room~
+Desc You are in Granny Jenkins' still room.  The smell of whiskey is heady, and
+the bottles of it on the floor make your mouth water and your mind swirl.  You
+also see a very large still.  So THIS is why there are so many grain fields!
+The exit is to the east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the storage shed.
+~
+door~
+-1
+616
+AB
+EndRoom
+
+#ROOM
+Vnum 601
+Name The Big Intersection~
+Desc You are in the big intersection between Raff Way and Impy Way.  Crowds 
+of people walk past you as they go on their daily tasks.  Raff Way continues
+east and west, and Impy Way runs north and south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Impy Way continues north.
+~
+~
+0
+625
+0
+Exit
+1
+Raff Way continues east.
+~
+~
+0
+666
+0
+Exit
+2
+Impy Way continues south.
+~
+~
+0
+602
+0
+Exit
+3
+Raff Way continues west.
+~
+~
+0
+5553
+0
+EndRoom
+
+#ROOM
+Vnum 602
+Name Impy Way~
+Desc You are on Impy Way.  You can see a leather shop east and a blacksmith
+west.  To the north you see a big intersection, and Impy Way continues south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the big intersection.
+~
+~
+0
+601
+0
+Exit
+1
+You see the leather shop.
+~
+~
+0
+604
+0
+Exit
+2
+Impy Way continues south.
+~
+~
+0
+605
+0
+Exit
+3
+You see the blacksmith.
+~
+~
+0
+603
+0
+EndRoom
+
+#ROOM
+Vnum 603
+Name The Blacksmith~
+Desc You are in a black and smelly room.  Pieces of metal are strewn all over
+the floor, and a wave of heat from a big furnace hits you.  An anvil sits on 
+one side of the room, and on the other side is a workbench.  The exit is east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see Impy Way.
+~
+~
+0
+602
+0
+EndRoom
+
+#ROOM
+Vnum 604
+Name The Leather Shop~
+Desc You are in a brown and smelly room.  Pieces of leather are strewn all over
+the floor.  The smell of burnt hide assaults your nose.  You can tell by the
+looks that the tanning is done VERY CLOSE to here!   A table is near the
+entrance.  The exit is west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see Impy Way.
+~
+~
+0
+602
+0
+EndRoom
+
+#ROOM
+Vnum 605
+Name Impy Way~
+Desc You are on Impy Way.  To the east is a meat store, and to the west is a
+pawn shop.  Impy Way continues north and south.  People are rushing around you
+to go to these stores.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Impy Way continues North.
+~
+~
+0
+602
+0
+Exit
+1
+You see the Meat Store.
+~
+~
+0
+607
+0
+Exit
+2
+Impy Way continues south.
+~
+~
+0
+608
+0
+Exit
+3
+You see the Pawn Shop.
+~
+~
+0
+606
+0
+EndRoom
+
+#ROOM
+Vnum 606
+Name The Pawn Shop.~
+Desc You are in a little shop filled with a lot of knick knacks and semi-
+valuable goods.  There is a display case full of little treasures that you are
+sure that you or any other little kid would like to touch!  The exit is east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see Impy Way.
+~
+~
+0
+605
+0
+EndRoom
+
+#ROOM
+Vnum 607
+Name The Meat Store~
+Desc You are in a meat store.  Hanging on hooks are meats of many kinds of
+animals.  In the background, you can hear the sound of blade against flesh.
+It smells like meat here (which is not a good smell).  The exit is west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see Impy Way.
+~
+~
+0
+605
+0
+EndRoom
+
+#ROOM
+Vnum 608
+Name Impy Way~
+Desc You are on Impy Way.  To the east is Farmer's Market, and to the west is
+Nyles' House of Ale.  Impy Way runs north and ends south of here.  You can hear
+the sound of housewives gossiping at the market.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Impy Way continues north.
+~
+~
+0
+605
+0
+Exit
+1
+You see the Farmer's Market.
+~
+~
+0
+610
+0
+Exit
+2
+You see the end of Impy Way.
+~
+~
+0
+611
+0
+Exit
+3
+You see Nyles' House of Ale.
+~
+~
+0
+609
+0
+EndRoom
+
+#ROOM
+Vnum 609
+Name Nyles' House of Ale~
+Desc This is a very busy bar, with everyone holding homemade bottles of
+ale.  You see even the more gentile persons here, laughing along with
+Nyles, who offers you a quart of ale too.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see Impy Way.
+~
+~
+0
+608
+0
+EndRoom
+
+#ROOM
+Vnum 610
+Name Farmer's Market~
+Desc You see many carts filled with fruits and vegetables.  Many farmers are
+all trying to sell you their produce, each saying their's is better.  The exit
+is west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see Impy Way.
+~
+~
+0
+608
+0
+EndRoom
+
+#ROOM
+Vnum 611
+Name The End of Impy Way~
+Desc You are at the end of Impy and of the city part of Ofcol.  To the east is
+a dirt road leading toward the farm animals.  West from here are fields.  Impy
+Way continues north.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Impy Way continues north.
+~
+~
+0
+608
+0
+Exit
+1
+You see the dirt road.
+~
+~
+0
+668
+0
+Exit
+3
+You see the fields.
+~
+~
+0
+612
+0
+EndRoom
+
+#ROOM
+Vnum 612
+Name Fields~
+Desc You are in a corn field.  You can't see far, since the corn stalks are
+taller than you are.  You remember that the end of Impy Way is east of here, 
+and you think you see a building to the north.  The field continues south and 
+west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You think you see a building north of here.
+~
+~
+0
+616
+0
+Exit
+1
+You remember that the end of Impy Way is east.
+~
+~
+0
+611
+0
+Exit
+2
+You can make a path to the fields south.
+~
+~
+0
+613
+0
+Exit
+3
+You can make a path to the fields west.
+~
+~
+0
+615
+0
+EndRoom
+
+#ROOM
+Vnum 613
+Name Fields~
+Desc You are among fruit trees in a field.  You see many apple and orange 
+trees.  You can make out the corn fields north and some vegetable patches west.
+The sight of the fruit makes your mouth water.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the corn fields.
+~
+~
+0
+612
+0
+Exit
+3
+You see the vegetable fields.
+~
+~
+0
+614
+0
+EndRoom
+
+#ROOM
+Vnum 614
+Name Fields~
+Desc You are among the vegetable fields.  You see many cabbage and lettuce
+patches, along with tomato bushes and potato plants.  To the east are some
+fruit trees, and north are some wheat fields.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the wheat fields.
+~
+~
+0
+615
+0
+Exit
+1
+You see the fruit trees.
+~
+~
+0
+613
+0
+EndRoom
+
+#ROOM
+Vnum 615
+Name Fields~
+Desc You are among the wheat fields.  The gentle caress of the wheat and the
+cool shadow from the tall stalks and scarecrow lulls you to sleep and dream
+of a little girl and little dog from a faraway place.  To the east are the corn
+stalks, and south of you are the vegetable patches.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the corn fields.
+~
+~
+0
+612
+0
+Exit
+2
+You see the vegetable patches.
+~
+~
+0
+614
+0
+EndRoom
+
+#ROOM
+Vnum 616
+Name The Shed~
+Desc You are in the storage shed.  Bales of wheat, corn and hay are piled
+against the wall, and some vegetables are in carts.  You see a small door
+to the west.  The main exit is south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see the corn fields.
+~
+~
+0
+612
+0
+Exit
+3
+You see the door.
+~
+door~
+-1
+600
+AB
+EndRoom
+
+#ROOM
+Vnum 617
+Name Slaughterhouse~
+Desc You are in the slaughterhouse, where all the animals are slaughtered so
+that they can be sold or their skins be tanned.  The scream of dying animals
+makes your stomach churn.  The exit is to the west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see the dirt road.
+~
+~
+0
+668
+0
+EndRoom
+
+#ROOM
+Vnum 618
+Name Dirt Road~
+Desc You are on a dirt road.  To the east is a barn, and you see a big chicken
+coop south of you.  The dirt road continues north and west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the dirt road.
+~
+~
+0
+668
+0
+Exit
+1
+You see the barn.
+~
+~
+0
+620
+0
+Exit
+2
+You see the chicken coop.
+~
+coop~
+-1
+619
+AB
+Exit
+3
+You see the dirt road.
+~
+~
+0
+621
+0
+EndRoom
+
+#ROOM
+Vnum 619
+Name Chicken Coop~
+Desc You are in the chicken coop.  The smell of chickens and chicken droppings
+makes you gasp.  The exit is north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You can sense the fresh air.
+~
+~
+-1
+618
+AB
+EndRoom
+
+#ROOM
+Vnum 620
+Name Barn~
+Desc You are in a barn.  There are some cows here, munching on mounds of hay.
+Milk is milked and bottled here.  You see the exit west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see the dirt road.
+~
+~
+0
+618
+0
+EndRoom
+
+#ROOM
+Vnum 621
+Name Dirt Road~
+Desc You are on a dirt road.  To the north and south, you see some grass 
+fields.  There is a pigsty west, and the dirt road continues east.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see some grass fields.
+~
+~
+0
+622
+0
+Exit
+1
+You see the dirt road.
+~
+~
+0
+618
+0
+Exit
+2
+You see some grass fields.
+~
+~
+0
+623
+0
+Exit
+3
+You see the pigsty.
+~
+~
+0
+624
+0
+EndRoom
+
+#ROOM
+Vnum 622
+Name Grass Field~
+Desc You are in a grass field.  Fences block the way north, east, and west.
+The dirt road is to the south.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see the dirt road.
+~
+~
+0
+621
+0
+EndRoom
+
+#ROOM
+Vnum 623
+Name Grass Field~
+Desc You are in a grass field.  Fences block the way south, east, and west.
+The dirt road is to the north.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the dirt road.
+~
+~
+0
+621
+0
+EndRoom
+
+#ROOM
+Vnum 624
+Name Pig Sty~
+Desc For some reason, you are in a pig sty.  You wonder why you are standing in
+muck.  To realize your senses and notice the dirt road is to the east.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the dry dirt road.
+~
+~
+0
+621
+0
+EndRoom
+
+#ROOM
+Vnum 625
+Name Impy Way~
+Desc You are on Impy Way.  East and west of you are big houses.  Impy Way
+continues north and reaches a big intersection south.  Children are running to
+from home to home.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Impy Way continues north.
+~
+~
+0
+632
+0
+Exit
+1
+You see a big house.
+~
+door~
+665
+626
+ABC
+Exit
+2
+You see a big intersection.
+~
+~
+0
+601
+0
+Exit
+3
+You see a big house.
+~
+door~
+665
+629
+ABC
+EndRoom
+
+#ROOM
+Vnum 626
+Name Big House~
+Desc You are in a big house.  Evidently, the owners of this house are richer
+than the average citizen, since there is more than one room to this house.  A
+door leads to the kitchen east, and a bedroom is upstairs.  The exit is to the
+west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the kitchen.
+~
+~
+0
+628
+0
+Exit
+3
+You see Impy Way.
+~
+door~
+665
+625
+ABC
+Exit
+4
+You see the bedroom.
+~
+~
+0
+627
+0
+EndRoom
+
+#ROOM
+Vnum 627
+Name Bedroom~
+Desc You are in the bedroom.  There isn't much of interest except for a bed and
+a closet.  The stairs lead back down.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+You see the main room of the house.
+~
+~
+0
+626
+0
+EndRoom
+
+#ROOM
+Vnum 628
+Name Kitchen~
+Desc You are in a kitchen.  There isn't much of interest here.  The main room
+is west of here.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see the main room of the house.
+~
+~
+0
+626
+0
+EndRoom
+
+#ROOM
+Vnum 629
+Name Big House~
+Desc You are in a big house.  Evidently, the owners of this house are richer
+than the average citizen, since there is more than one room to this house.  A
+door leads to the kitchen west, and a bedroom is upstairs.  The exit is to the
+east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see Impy Way.
+~
+door~
+665
+625
+ABC
+Exit
+3
+You see the kitchen.
+~
+~
+0
+631
+0
+Exit
+4
+You see the bedroom.
+~
+~
+0
+630
+0
+EndRoom
+
+#ROOM
+Vnum 630
+Name Bedroom~
+Desc You are in the bedroom.  There isn't much of interest except for a bed and
+a closet.  The stairs lead back down.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+You see the main room of the house.
+~
+~
+0
+629
+0
+EndRoom
+
+#ROOM
+Vnum 631
+Name Kitchen~
+Desc You are in a kitchen.  There isn't much of interest here.  The main room
+is east of here.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the main room of the house.
+~
+~
+0
+629
+0
+EndRoom
+
+#ROOM
+Vnum 632
+Name Impy Way~
+Desc You are on Impy Way.  Houses are to the east and west of here.  Impy Way
+continues north and south.  There are many people walking along the streets.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+Impy Way continues north.
+~
+~
+0
+637
+0
+Exit
+1
+You see a house.
+~
+door~
+-1
+633
+AB
+Exit
+2
+Impy Way continues south.
+~
+~
+0
+625
+0
+Exit
+3
+You see a house.
+~
+door~
+-1
+635
+AB
+EndRoom
+
+#ROOM
+Vnum 633
+Name House~
+Desc You are in a house.  The living room and kitchen are all bundled into
+this room.  There is a bedroom south of here.  The exit is west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see the bedroom.
+~
+~
+0
+634
+0
+Exit
+3
+You see Impy Way.
+~
+door~
+-1
+632
+AB
+EndRoom
+
+#ROOM
+Vnum 634
+Name Bedroom~
+Desc You are in a bedroom.  There isn't much of interest here except for a bed
+and a dresser.  The main room of the house is north of here.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the main room of the house.
+~
+~
+0
+633
+0
+EndRoom
+
+#ROOM
+Vnum 635
+Name House~
+Desc You are in a house.  The living room and kitchen are all bundled into
+this room.  There is a bedroom south of here.  The exit is east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see Impy Way.
+~
+door~
+-1
+632
+AB
+Exit
+2
+You see the bedroom.
+~
+~
+0
+636
+0
+EndRoom
+
+#ROOM
+Vnum 636
+Name Bedroom~
+Desc You are in a bedroom.  There isn't much of interest here except for a bed
+and a dresser.  The main room of the house is north of here.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the main room of the house.
+~
+~
+0
+635
+0
+EndRoom
+
+#ROOM
+Vnum 637
+Name Impy Way~
+Desc You are on Impy Way.  Houses are to the east and west of here.  Impy Way
+continues south.  To the north is a big intersection.  There are many people
+walking along the streets.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a big intersection.
+~
+~
+0
+642
+0
+Exit
+1
+You see a house.
+~
+door~
+-1
+638
+AB
+Exit
+2
+Impy Way continues south.
+~
+~
+0
+632
+0
+Exit
+3
+You see a house.
+~
+door~
+-1
+640
+AB
+EndRoom
+
+#ROOM
+Vnum 638
+Name House~
+Desc You are in a house.  The living room and kitchen are all bundled into
+this room.  There is a bedroom south of here.  The exit is west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see the bedroom.
+~
+~
+0
+639
+0
+Exit
+3
+You see Impy Way.
+~
+door~
+-1
+637
+AB
+EndRoom
+
+#ROOM
+Vnum 639
+Name Bedroom~
+Desc You are in a bedroom.  There isn't much of interest here except for a bed
+and a dresser.  The main room of the house is north of here.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the main room of the house.
+~
+~
+0
+638
+0
+EndRoom
+
+#ROOM
+Vnum 640
+Name House~
+Desc You are in a house.  The living room and kitchen are all bundled into
+this room.  There is a bedroom south of here.  The exit is east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see Impy Way.
+~
+door~
+-1
+637
+AB
+Exit
+2
+You see the bedroom.
+~
+~
+0
+641
+0
+EndRoom
+
+#ROOM
+Vnum 641
+Name Bedroom~
+Desc You are in a bedroom.  There isn't much of interest here except for a bed
+and a dresser.  The main room of the house is north of here.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the main room of the house.
+~
+~
+0
+640
+0
+EndRoom
+
+#ROOM
+Vnum 642
+Name The Big Intersection~
+Desc You are on the intersection of Impy Way and Swiftest Way.  To the north of
+you is a big house.  Swiftest Way runs east and west, and Impy way continues
+south.  There are quite a few people on this intersection.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the big house.
+~
+door~
+665
+643
+ABC
+Exit
+1
+Swiftest Way continues east.
+~
+~
+0
+646
+0
+Exit
+2
+Impy Way continues south.
+~
+~
+0
+637
+0
+Exit
+3
+Swiftest Way continues west.
+~
+~
+0
+649
+0
+EndRoom
+
+#ROOM
+Vnum 643
+Name Big House~
+Desc You are in a big house.  Evidently, the owners of this house are richer
+than the average citizen, since there is more than one room to this house.  A
+door leads to the kitchen north, and a bedroom is upstairs.  The exit is to 
+the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the kitchen.
+~
+~
+0
+645
+0
+Exit
+2
+You see Impy Way.
+~
+door~
+665
+642
+ABC
+Exit
+4
+You see the bedroom.
+~
+~
+0
+644
+0
+EndRoom
+
+#ROOM
+Vnum 644
+Name Bedroom~
+Desc You are in the bedroom.  There isn't much of interest except for a bed 
+and a closet.  The stairs lead back down.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+You see the main room of the house.
+~
+~
+0
+643
+0
+EndRoom
+
+#ROOM
+Vnum 645
+Name Kitchen~
+Desc You are in a kitchen.  There isn't much of interest here.  The main room
+is east of here.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see the main room of the house.
+~
+~
+0
+643
+0
+EndRoom
+
+#ROOM
+Vnum 646
+Name Swiftest Way~
+Desc You are on Swiftest Way, the commoner's residential area.  Small houses
+are north and south of you.  Swiftest Way continues east, and west is a big
+intersection.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a small house.
+~
+~
+0
+652
+0
+Exit
+1
+Swiftest Way continues east.
+~
+~
+0
+647
+0
+Exit
+2
+You see a small house.
+~
+~
+0
+653
+0
+Exit
+3
+You see a big intersection.
+~
+~
+0
+642
+0
+EndRoom
+
+#ROOM
+Vnum 647
+Name Swiftest Way~
+Desc You are on Swiftest Way, the commoner's residential area.  Small houses
+are north and south of you.  Swiftest Way continues east and west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a small house.
+~
+~
+0
+654
+0
+Exit
+1
+You see the end of Swiftest Way.
+~
+~
+0
+648
+0
+Exit
+2
+You see a small house.
+~
+~
+0
+655
+0
+Exit
+3
+Swiftest Way continues west.
+~
+~
+0
+646
+0
+EndRoom
+
+#ROOM
+Vnum 648
+Name End of Swiftest Way~
+Desc You are on Swiftest Way, the commoner's residential area.  Small houses
+are north, south, and east of you.  Swiftest Way continues west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a small house.
+~
+~
+0
+656
+0
+Exit
+1
+You see a small house.
+~
+~
+0
+657
+0
+Exit
+2
+You see a small house.
+~
+~
+0
+658
+0
+Exit
+3
+Swiftest Way continues west.
+~
+~
+0
+647
+0
+EndRoom
+
+#ROOM
+Vnum 649
+Name Swiftest Way~
+Desc You are on Swiftest Way, the commoner's residential area.  Small houses
+are north and south of you.  Swiftest Way continues west, and to the east you
+see a big intersection.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a small house.
+~
+~
+0
+659
+0
+Exit
+1
+You see the big intersection.
+~
+~
+0
+642
+0
+Exit
+2
+You see a small house.
+~
+~
+0
+660
+0
+Exit
+3
+Swiftest Way continues west.
+~
+~
+0
+650
+0
+EndRoom
+
+#ROOM
+Vnum 650
+Name Swiftest Way~
+Desc You are on Swiftest Way, the commoner's residential area.  Small houses
+are north and south of you.  Swiftest Way continues east and west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a small house.
+~
+~
+0
+661
+0
+Exit
+1
+Swiftest Way continues east.
+~
+~
+0
+649
+0
+Exit
+2
+You see a small house.
+~
+~
+0
+662
+0
+Exit
+3
+You see the end of Swiftest Way.
+~
+~
+0
+651
+0
+EndRoom
+
+#ROOM
+Vnum 651
+Name The end of Swiftest Way~
+Desc You are on Swiftest Way, the commoner's residential area.  Small houses
+are north, south, and west of you.  Swiftest Way continues east.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a small house.
+~
+~
+0
+663
+0
+Exit
+1
+Swiftest Way continues east.
+~
+~
+0
+650
+0
+Exit
+2
+You see a small house.
+~
+~
+0
+664
+0
+Exit
+3
+You see a small house.
+~
+~
+0
+665
+0
+EndRoom
+
+#ROOM
+Vnum 652
+Name Small House~
+Desc You are in a small house, owned by a commoner of Ofcol.  There isn't much
+of value here to you, but you'd bet that the owner really cherishes the pile
+of stuff here.  The exit is to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see Swiftest Way.
+~
+~
+0
+646
+0
+EndRoom
+
+#ROOM
+Vnum 653
+Name Small House~
+Desc You are in a small house, owned by a commoner of Ofcol.  There isn't much
+of value here to you, but you'd bet that the owner really cherishes the pile
+of stuff here.  The exit is to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see Swiftest Way.
+~
+~
+0
+646
+0
+EndRoom
+
+#ROOM
+Vnum 654
+Name Small House~
+Desc You are in a small house, owned by a commoner of Ofcol.  There isn't much
+of value here to you, but you'd bet that the owner really cherishes the pile
+of stuff here.  The exit is to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see Swiftest Way.
+~
+~
+0
+647
+0
+EndRoom
+
+#ROOM
+Vnum 655
+Name Small House~
+Desc You are in a small house, owned by a commoner of Ofcol.  There isn't much
+of value here to you, but you'd bet that the owner really cherishes the pile
+of stuff here.  The exit is to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see Swiftest Way.
+~
+~
+0
+647
+0
+EndRoom
+
+#ROOM
+Vnum 656
+Name Small House~
+Desc You are in a small house, owned by a commoner of Ofcol.  There isn't much
+of value here to you, but you'd bet that the owner really cherishes the pile
+of stuff here.  The exit is to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see the end of Swiftest Way.
+~
+~
+0
+648
+0
+EndRoom
+
+#ROOM
+Vnum 657
+Name Small House~
+Desc You are in a small house, owned by a commoner of Ofcol.  There isn't much
+of value here to you, but you'd bet that the owner really cherishes the pile
+of stuff here.  The exit is to the west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see the end of Swiftest Way.
+~
+~
+0
+648
+0
+EndRoom
+
+#ROOM
+Vnum 658
+Name Small House~
+Desc You are in a small house, owned by a commoner of Ofcol.  There isn't much
+of value here to you, but you'd bet that the owner really cherishes the pile
+of stuff here.  The exit is to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the end of Swiftest Way.
+~
+~
+0
+648
+0
+EndRoom
+
+#ROOM
+Vnum 659
+Name Small House~
+Desc You are in a small house, owned by a commoner of Ofcol.  There isn't much
+of value here to you, but you'd bet that the owner really cherishes the pile
+of stuff here.  The exit is to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see Swiftest Way.
+~
+~
+0
+649
+0
+EndRoom
+
+#ROOM
+Vnum 660
+Name Small House~
+Desc You are in a small house, owned by a commoner of Ofcol.  There isn't much
+of value here to you, but you'd bet that the owner really cherishes the pile
+of stuff here.  The exit is to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see Swiftest Way.
+~
+~
+0
+649
+0
+EndRoom
+
+#ROOM
+Vnum 661
+Name Small House~
+Desc You are in a small house, owned by a commoner of Ofcol.  There isn't much
+of value here to you, but you'd bet that the owner really cherishes the pile
+of stuff here.  The exit is to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see Swiftest Way.
+~
+~
+0
+650
+0
+EndRoom
+
+#ROOM
+Vnum 662
+Name Small House~
+Desc You are in a small house, owned by a commoner of Ofcol.  There isn't much
+of value here to you, but you'd bet that the owner really cherishes the pile
+of stuff here.  The exit is to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see Swiftest Way.
+~
+~
+0
+650
+0
+EndRoom
+
+#ROOM
+Vnum 663
+Name Small House~
+Desc You are in a small house, owned by a commoner of Ofcol.  There isn't much
+of value here to you, but you'd bet that the owner really cherishes the pile
+of stuff here.  The exit is to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see the end of Swiftest Way.
+~
+~
+0
+651
+0
+EndRoom
+
+#ROOM
+Vnum 664
+Name Small House~
+Desc You are in a small house, owned by a commoner of Ofcol.  There isn't much
+of value here to you, but you'd bet that the owner really cherishes the pile
+of stuff here.  The exit is to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the end of Swiftest Way.
+~
+~
+0
+651
+0
+EndRoom
+
+#ROOM
+Vnum 665
+Name Small House~
+Desc You are in a small house, owned by a commoner of Ofcol.  There isn't much
+of value here to you, but you'd bet that the owner really cherishes the pile
+of stuff here.  The exit is to the east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the end of Swiftest Way.
+~
+~
+0
+651
+0
+EndRoom
+
+#ROOM
+Vnum 666
+Name Raff Way~
+Desc You are on Raff Way.  To the west, you can see a big intersection.  To 
+the east, you see Raff Way continue toward the Golden Citadel.  There are 
+beautiful flowers growing along the road here, making this more of a garden
+than a road.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+Raff Way continues east.
+~
+~
+0
+667
+0
+Exit
+3
+You see the big intersection.
+~
+~
+0
+601
+0
+EndRoom
+
+#ROOM
+Vnum 667
+Name Raff Way~
+Desc You are on Raff Way.  Raff Way continues west to the city of Ofcol.  To 
+the east, you see Raff Way continue toward the Golden Citadel.  There are 
+beautiful flowers growing along the road here, making this more of a garden
+than a road.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the entrance of the Golden Citadel.
+~
+~
+0
+699
+0
+Exit
+3
+Raff Way continues west.
+~
+~
+0
+666
+0
+EndRoom
+
+#ROOM
+Vnum 668
+Name Dirt Road~
+Desc You are on a dirt road.  To the east is a large building with a bad smell
+emanating from it.  To the west is the end of Impy Way, and this road continues
+south.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the large building with the bad smell.
+~
+~
+0
+617
+0
+Exit
+2
+The dirt road continues south.
+~
+~
+0
+618
+0
+Exit
+3
+You see the end of Impy Way.
+~
+~
+0
+611
+0
+EndRoom
+
+#ROOM
+Vnum 669
+Name The Temple of Ofcol~
+Desc You are in the Temple of Ofcol.  Golden tiles cover the floor, and solid
+gold columns reach the twelve foot ceiling of this vast chamber.  Servants in
+golden livery wander this place, making even the raggiest messenger boy look
+richer than you are.  Exits lead to the anterooms in the cardinal directions.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+670
+0
+Exit
+1
+~
+~
+0
+672
+0
+Exit
+2
+~
+~
+0
+673
+0
+Exit
+3
+~
+~
+0
+671
+0
+EndRoom
+
+#ROOM
+Vnum 670
+Name The Anteroom to the Temple of Ofcol~
+Desc You are in an anteroom to the Temple of Ofcol.  Gold tiles cover the
+floor, and servants in golden livery pass you by peaceably.  The temple is to
+the south, and to the north is a hallway.  A stairways leads up.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+675
+0
+Exit
+2
+~
+~
+0
+669
+0
+Exit
+4
+~
+~
+0
+686
+0
+EndRoom
+
+#ROOM
+Vnum 671
+Name The Anteroom to the Temple of Ofcol~
+Desc You are in an anteroom to the Temple of Ofcol.  Gold tiles cover the
+floor, and servants in golden livery pass you by peaceably.  The temple is to
+the east, and to the west is a hallway.  A stairways leads up.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+669
+0
+Exit
+3
+~
+~
+0
+679
+0
+Exit
+4
+~
+~
+0
+687
+0
+EndRoom
+
+#ROOM
+Vnum 672
+Name The Anteroom to the Temple of Ofcol~
+Desc You are in an anteroom to the Temple of Ofcol.  Gold tiles cover the
+floor, and servants in golden livery pass you by peaceably.  The temple is to
+the west, and to the east is a hallway.  A stairways leads up.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+680
+0
+Exit
+3
+~
+~
+0
+669
+0
+Exit
+4
+~
+~
+0
+689
+0
+EndRoom
+
+#ROOM
+Vnum 673
+Name The Anteroom to the Temple of Ofcol~
+Desc You are in an anteroom to the Temple of Ofcol.  Gold tiles cover the
+floor, and servants in golden livery pass you by peaceably.  The temple is to
+the north, and to the south is a hallway.  A stairways leads up.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+669
+0
+Exit
+2
+~
+~
+0
+684
+0
+Exit
+4
+~
+~
+0
+690
+0
+EndRoom
+
+#ROOM
+Vnum 674
+Name A Hallway of the Golden Citadel~
+Desc You are in a hallway of the Golden Citadel.  Gold tiles cover the floors,
+and rich golden tapestries drape the walls.  Servants in golden livery pass you
+by peaceably.  Exits lead east and south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+675
+0
+Exit
+2
+~
+~
+0
+677
+0
+EndRoom
+
+#ROOM
+Vnum 675
+Name A Hallway of the Golden Citadel~
+Desc You are in a hallway of the Golden Citadel.  Gold tiles cover the floors,
+and rich golden tapestries drape the walls.  Servants in golden livery pass you
+by peaceably.  Exits lead east, west, and south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+676
+0
+Exit
+2
+~
+~
+0
+670
+0
+Exit
+3
+~
+~
+0
+674
+0
+EndRoom
+
+#ROOM
+Vnum 676
+Name A Hallway of the Golden Citadel~
+Desc You are in a hallway of the Golden Citadel.  Gold tiles cover the floors,
+and rich golden tapestries drape the walls.  Servants in golden livery pass you
+by peaceably.  Exits lead west and south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+678
+0
+Exit
+3
+~
+~
+0
+675
+0
+EndRoom
+
+#ROOM
+Vnum 677
+Name A Hallway of the Golden Citadel~
+Desc You are in a hallway of the Golden Citadel.  Gold tiles cover the floors,
+and rich golden tapestries drape the walls.  Servants in golden livery pass you
+by peaceably.  Exits lead north and south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+674
+0
+Exit
+2
+~
+~
+0
+679
+0
+EndRoom
+
+#ROOM
+Vnum 678
+Name A Hallway of the Golden Citadel~
+Desc You are in a hallway of the Golden Citadel.  Gold tiles cover the floors,
+and rich golden tapestries drape the walls.  Servants in golden livery pass you
+by peaceably.  Exits lead north and south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+676
+0
+Exit
+2
+~
+~
+0
+680
+0
+EndRoom
+
+#ROOM
+Vnum 679
+Name A Hallway of the Golden Citadel~
+Desc You are in a hallway of the Golden Citadel.  Gold tiles cover the floors,
+and rich golden tapestries drape the walls.  Servants in golden livery pass you
+by peaceably.  Exits lead to the cardinal directions, with the east leading
+toward the Temple of Ofcol, and west leading toward the City of Ofcol.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+677
+0
+Exit
+1
+~
+~
+0
+671
+0
+Exit
+2
+~
+~
+0
+681
+0
+Exit
+3
+~
+~
+0
+698
+0
+EndRoom
+
+#ROOM
+Vnum 680
+Name A Hallway of the Golden Citadel~
+Desc You are in a hallway of the Golden Citadel.  Gold tiles cover the floors,
+and rich golden tapestries drape the walls.  Servants in golden livery pass you
+by peaceably.  Exits lead west, north and south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+678
+0
+Exit
+2
+~
+~
+0
+682
+0
+Exit
+3
+~
+~
+0
+672
+0
+EndRoom
+
+#ROOM
+Vnum 681
+Name A Hallway of the Golden Citadel~
+Desc You are in a hallway of the Golden Citadel.  Gold tiles cover the floors,
+and rich golden tapestries drape the walls.  Servants in golden livery pass you
+by peaceably.  Exits lead north and south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+679
+0
+Exit
+2
+~
+~
+0
+683
+0
+EndRoom
+
+#ROOM
+Vnum 682
+Name A Hallway of the Golden Citadel~
+Desc You are in a hallway of the Golden Citadel.  Gold tiles cover the floors,
+and rich golden tapestries drape the walls.  Servants in golden livery pass you
+by peaceably.  Exits lead north and south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+680
+0
+Exit
+2
+~
+~
+0
+685
+0
+EndRoom
+
+#ROOM
+Vnum 683
+Name A Hallway of the Golden Citadel~
+Desc You are in a hallway of the Golden Citadel.  Gold tiles cover the floors,
+and rich golden tapestries drape the walls.  Servants in golden livery pass you
+by peaceably.  Exits lead north and east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+681
+0
+Exit
+1
+~
+~
+0
+684
+0
+EndRoom
+
+#ROOM
+Vnum 684
+Name A Hallway of the Golden Citadel~
+Desc You are in a hallway of the Golden Citadel.  Gold tiles cover the floors,
+and rich golden tapestries drape the walls.  Servants in golden livery pass you
+by peaceably.  Exits lead east, west, and north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+673
+0
+Exit
+1
+~
+~
+0
+685
+0
+Exit
+3
+~
+~
+0
+683
+0
+EndRoom
+
+#ROOM
+Vnum 685
+Name A Hallway of the Golden Citadel~
+Desc You are in a hallway of the Golden Citadel.  Gold tiles cover the floors,
+and rich golden tapestries drape the walls.  Servants in golden livery pass you
+by peaceably.  Exits lead west and north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+682
+0
+Exit
+3
+~
+~
+0
+684
+0
+EndRoom
+
+#ROOM
+Vnum 686
+Name An Upper Chamber of the Golden Citadel~
+Desc You are in one of the upper chambers of the Golden Citadel.  The decora-
+tions of this place surpass even those of the first floor.  Gold tiles etched
+with platinum cover the floor, walls and the ceiling.  The lights from numerous
+torches reflect from these shimmering planes, giving the illusion that you are
+standing in a gem.  Stairways lead up and down, and the hall leads south. 
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+688
+0
+Exit
+4
+~
+~
+0
+691
+0
+Exit
+5
+~
+~
+0
+670
+0
+EndRoom
+
+#ROOM
+Vnum 687
+Name An Upper Chamber of the Golden Citadel~
+Desc You are in one of the upper chambers of the Golden Citadel.  The decora-
+tions of this place surpass even those of the first floor.  Gold tiles etched
+with platinum cover the floor, walls and the ceiling.  The lights from numerous
+torches reflect from these shimmering planes, giving the illusion that you are
+standing in a gem.  Stairways lead up and down, and the hall leads east. 
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+688
+0
+Exit
+4
+~
+~
+0
+692
+0
+Exit
+5
+~
+~
+0
+671
+0
+EndRoom
+
+#ROOM
+Vnum 688
+Name The Hall of the DragonLords~
+Desc You are in a vast hall, filled with the commanders of the Golden Citadel.
+Golden tiles etched with platinum cover the floors, and weapons of all types
+are mounted on the walls of this meeting hall.  Surrounding a solid gold table
+are four sons of the Keeper of the Golden Citadel.  They smile at you and ask 
+you to join them in lunch.  Exits lead to the cardinal directions. 
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+686
+0
+Exit
+1
+~
+~
+0
+689
+0
+Exit
+2
+~
+~
+0
+690
+0
+Exit
+3
+~
+~
+0
+687
+0
+EndRoom
+
+#ROOM
+Vnum 689
+Name An Upper Chamber of the Golden Citadel~
+Desc You are in one of the upper chambers of the Golden Citadel.  The decora-
+tions of this place surpass even those of the first floor.  Gold tiles etched
+with platinum cover the floor, walls and the ceiling.  The lights from numerous
+torches reflect from these shimmering planes, giving the illusion that you are
+standing in a gem.  Stairways lead up and down, and the hall leads west. 
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+688
+0
+Exit
+4
+~
+~
+0
+694
+0
+Exit
+5
+~
+~
+0
+672
+0
+EndRoom
+
+#ROOM
+Vnum 690
+Name An Upper Chamber of the Golden Citadel~
+Desc You are in one of the upper chambers of the Golden Citadel.  The decora-
+tions of this place surpass even those of the first floor.  Gold tiles etched
+with platinum cover the floor, walls and the ceiling.  The lights from numerous
+torches reflect from these shimmering planes, giving the illusion that you are
+standing in a gem.  Stairways lead up and down, and the hall leads north. 
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+688
+0
+Exit
+4
+~
+~
+0
+695
+0
+Exit
+5
+~
+~
+0
+673
+0
+EndRoom
+
+#ROOM
+Vnum 691
+Name A Top Chamber of the Golden Citadel~
+Desc You are in one of the top chambers of the Golden Citadel.  The decorations
+of this room looks like a dragon's hoard.  The whole room is carved out of pure
+gold, and gems of all types glitter from the walls, ceiling, even the floor.
+It is obvious that this room was not meant for you to intrude upon.  A stair-
+case leads back down, and a doorway leads south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+693
+0
+Exit
+5
+~
+~
+0
+686
+0
+EndRoom
+
+#ROOM
+Vnum 692
+Name A Top Chamber of the Golden Citadel~
+Desc You are in one of the top chambers of the Golden Citadel.  The decorations
+of this room looks like a dragon's hoard.  The whole room is carved out of pure
+gold, and gems of all types glitter from the walls, ceiling, even the floor.
+It is obvious that this room was not meant for you to intrude upon.  A stair-
+case leads back down, and a doorway leads east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+693
+0
+Exit
+5
+~
+~
+0
+687
+0
+EndRoom
+
+#ROOM
+Vnum 693
+Name The Dragon Chamber~
+Desc You are in a vast chamber carved from gold and platinum.  Gems the size of
+a man's fist protrude from the walls, ceiling, and the floor, making your step
+painful.  A vast open sky-light lets fresh air come in from the top.  In the
+center of this chamber, you see a great wealth of coins, and on top of that
+pile of coins, you see a golden dragon squinting at you.  Exits lead to the
+cardinal directions to the anterooms.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+691
+0
+Exit
+1
+~
+~
+0
+694
+0
+Exit
+2
+~
+~
+0
+695
+0
+Exit
+3
+~
+~
+0
+692
+0
+Exit
+4
+~
+~
+0
+696
+0
+EndRoom
+
+#ROOM
+Vnum 694
+Name A Top Chamber of the Golden Citadel~
+Desc You are in one of the top chambers of the Golden Citadel.  The decorations
+of this room looks like a dragon's hoard.  The whole room is carved out of pure
+gold, and gems of all types glitter from the walls, ceiling, even the floor.
+It is obvious that this room was not meant for you to intrude upon.  A stair-
+case leads back down, and a doorway leads west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+693
+0
+Exit
+5
+~
+~
+0
+689
+0
+EndRoom
+
+#ROOM
+Vnum 695
+Name A Top Chamber of the Golden Citadel~
+Desc You are in one of the top chambers of the Golden Citadel.  The decorations
+of this room looks like a dragon's hoard.  The whole room is carved out of pure
+gold, and gems of all types glitter from the walls, ceiling, even the floor.
+It is obvious that this room was not meant for you to intrude upon.  A stair-
+case leads back down, and a doorway leads north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+693
+0
+Exit
+5
+~
+~
+0
+690
+0
+EndRoom
+
+#ROOM
+Vnum 696
+Name Above the Dragon Chamber~
+Desc You are above the Dragon Chamber.  You curiously note that this shaft that
+connects the chamber to the sky is wide enough that even a dragon can fit
+through.  This shaft leads up and down.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+0
+697
+0
+Exit
+5
+~
+~
+0
+693
+0
+EndRoom
+
+#ROOM
+Vnum 697
+Name In the Shaft from the Dragon Chamber~
+Desc You are in the shaft leading from the Dragon Chamber.  Below you lies the
+Dragon Chamber of the Golden Citadel.  Above you, you see the sky, but 
+currently, the way out is sealed by a layer of diamond that looks impenetrable.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+~
+~
+0
+696
+0
+EndRoom
+
+#ROOM
+Vnum 698
+Name Inside the Entrance to the Golden Citadel~
+Desc You are inside the entrance to the Golden Citadel.  Rich golden tapestries
+line the walls, and golden tiles cover the floors.  The exit to this citadel is
+to the west, while the citadel itself is to the east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+679
+0
+Exit
+3
+~
+gate~
+651
+699
+A
+EndRoom
+
+#ROOM
+Vnum 699
+Name Outside the Entrance to the Golden Citadel~
+Desc You are outside the entrance to the Golden Citadel.  A great gate is to
+to the east, marking the entranceway into the citadel.  The road also leads
+back west to Raff Way.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+651
+698
+A
+Exit
+3
+~
+~
+0
+667
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 600 spec_guard
+M 601 spec_cast_cleric
+M 602 spec_cast_cleric
+M 603 spec_cast_mage
+M 621 spec_janitor
+M 623 spec_guard
+M 628 spec_cast_adept
+M 629 spec_guard
+M 630 spec_breath_any
+M 631 spec_breath_any
+M 632 spec_cast_mage
+M 633 spec_breath_any
+M 634 spec_guard
+S
+
+
+
+#RESETS
+D 0 600 1 1
+D 0 616 3 1
+D 0 618 2 1
+D 0 619 0 1
+D 0 625 1 2
+D 0 625 3 2
+D 0 626 3 2
+D 0 629 1 2
+D 0 632 1 1
+D 0 632 3 1
+D 0 633 3 1
+D 0 635 1 1
+D 0 637 1 1
+D 0 637 3 1
+D 0 638 3 1
+D 0 640 1 1
+D 0 642 0 2
+D 0 643 2 2
+M 0 609 1 600 1
+O 0 649 0 600
+M 0 600 8 601 1
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 624 0 8
+M 0 601 1 601 1
+E 0 620 0 1
+E 0 639 0 5
+E 0 640 0 6
+E 0 641 0 7
+E 0 642 0 8
+E 0 643 0 9
+E 0 644 0 10
+E 0 645 0 11
+E 0 646 0 13
+E 0 647 0 16
+M 0 617 3 601 1
+M 0 604 1 603 1
+G 0 600 0
+G 0 601 0
+G 0 615 0
+G 0 667 0
+M 0 600 8 604 1
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 623 0 7
+M 0 605 1 604 1
+G 0 616 0
+G 0 617 0
+G 0 618 0
+G 0 619 0
+M 0 606 1 606 1
+G 0 606 0
+G 0 607 0
+G 0 608 0
+M 0 607 1 607 1
+G 0 602 0
+G 0 603 0
+G 0 604 0
+G 0 605 0
+M 0 600 8 608 1
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 622 0 6
+M 0 622 1 609 1
+G 0 648 0
+G 0 649 0
+G 0 650 0
+M 0 624 1 609 1
+M 0 608 1 610 1
+G 0 609 0
+G 0 610 0
+G 0 611 0
+G 0 612 0
+G 0 613 0
+M 0 618 3 611 1
+M 0 610 1 617 1
+E 0 601 0 16
+M 0 612 4 619 4
+M 0 612 4 619 4
+M 0 612 4 619 4
+M 0 612 4 619 4
+M 0 611 1 620 1
+E 0 615 0 16
+O 0 614 0 620
+O 0 611 0 620
+M 0 614 2 620 2
+M 0 614 2 620 2
+M 0 615 4 622 4
+M 0 615 4 622 4
+M 0 615 4 622 4
+M 0 615 4 622 4
+M 0 613 3 623 3
+M 0 613 3 623 3
+M 0 613 3 623 3
+M 0 616 4 624 4
+M 0 616 4 624 4
+M 0 616 4 624 4
+M 0 616 4 624 4
+M 0 621 3 627 1
+G 0 665 0
+E 0 666 0 16
+M 0 621 3 629 1
+G 0 665 0
+E 0 666 0 16
+M 0 620 2 635 1
+M 0 600 8 637 1
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 629 0 14
+M 0 618 3 637 1
+M 0 600 8 642 1
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 626 0 10
+M 0 621 3 643 1
+G 0 665 0
+E 0 666 0 16
+M 0 600 8 647 1
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 627 0 11
+M 0 617 3 648 1
+M 0 600 8 650 1
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 625 0 9
+M 0 617 3 650 1
+M 0 620 2 652 1
+M 0 619 2 655 1
+M 0 619 2 661 1
+M 0 618 3 666 1
+M 0 600 8 667 1
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 628 0 13
+M 0 602 1 669 1
+E 0 620 0 1
+E 0 631 0 5
+E 0 653 0 16
+E 0 632 0 6
+E 0 633 0 7
+E 0 634 0 8
+E 0 635 0 9
+E 0 626 0 10
+E 0 627 0 11
+E 0 628 0 13
+M 0 628 1 669 1
+E 0 620 0 1
+E 0 664 0 12
+E 0 652 0 3
+M 0 625 2 673 1
+M 0 625 2 674 1
+M 0 633 3 676 1
+E 0 620 0 1
+E 0 654 0 5
+E 0 660 0 11
+E 0 662 0 16
+M 0 627 1 678 1
+M 0 633 3 681 1
+E 0 620 0 1
+E 0 654 0 5
+E 0 660 0 11
+E 0 662 0 16
+M 0 626 2 682 1
+M 0 626 2 683 1
+M 0 629 1 688 1
+E 0 664 0 12
+M 0 630 3 688 3
+E 0 620 0 1
+E 0 654 0 5
+E 0 660 0 11
+E 0 669 0 16
+E 0 656 0 6
+E 0 657 0 7
+M 0 630 3 688 3
+E 0 620 0 1
+E 0 654 0 5
+E 0 660 0 11
+E 0 669 0 16
+E 0 657 0 8
+E 0 658 0 9
+M 0 630 3 688 3
+E 0 620 0 1
+E 0 654 0 5
+E 0 660 0 11
+E 0 669 0 16
+E 0 659 0 10
+E 0 661 0 13
+M 0 633 3 690 1
+E 0 620 0 1
+E 0 654 0 5
+E 0 660 0 11
+E 0 662 0 16
+M 0 631 1 693 1
+E 0 620 0 1
+E 0 668 0 16
+E 0 663 0 17
+M 0 632 2 693 2
+E 0 620 0 1
+E 0 664 0 12
+M 0 632 2 693 2
+E 0 620 0 1
+E 0 664 0 12
+M 0 634 3 698 3
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 627 0 11
+G 0 651 0
+M 0 634 3 698 3
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 627 0 11
+G 0 651 0
+M 0 634 3 698 3
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 627 0 11
+G 0 651 0
+M 0 603 1 699 1
+E 0 620 0 1
+E 0 631 0 5
+E 0 653 0 16
+E 0 632 0 6
+E 0 623 0 7
+E 0 624 0 8
+E 0 625 0 9
+E 0 636 0 10
+E 0 637 0 11
+E 0 638 0 13
+M 0 623 3 699 3
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 627 0 11
+G 0 651 0
+M 0 623 3 699 3
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 627 0 11
+G 0 651 0
+M 0 623 3 699 3
+E 0 620 0 1
+E 0 621 0 5
+E 0 630 0 16
+E 0 627 0 11
+G 0 651 0
+S
+
+
+
+#SHOPS
+604 5 9 15 0 0 120 80 0 23
+605 9 0 0 0 0 120 80 0 23
+606 8 12 13 0 0 120 80 0 23
+607 0 19 0 0 0 120 10 0 23
+608 0 17 19 0 0 120 10 0 23
+622 0 17 0 0 0 120 10 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

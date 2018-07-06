@@ -1,0 +1,1182 @@
+#AREADATA
+Name Day Care~
+Builders None~
+VNUMs 6600 6699
+Credits { 1  5} Sandman Dwarven Day Care~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 6600
+Name youth dwarven dwarf~
+Short the dwarven youth~
+Long A young dwarf plays with a toy axe.
+~
+Description This is a young but not totally harmless creature.
+~
+Race dwarf~
+Act_flags ACGT
+Aff J
+Align -5
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 1d4+30
+Mana_dice 1d1+99
+Dam_dice 1d4+2
+Dam_type beating
+Armor 7 6 7 10
+Clevel0
+Cability 0
+Off DJR
+Imm 0
+Res LQ
+Vuln R
+Start_pos sit
+Default_pos stand
+Sex either
+Wealth 10
+Form AHMV
+Parts ABCDEFGHIJK
+Size small
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 6601
+Name teddy bear~
+Short a teddy bear~
+Long A cute and fuzzy teddy bear stands here.
+~
+Description This is a tiny little bear with a heart on his chest.
+~
+Race doll~
+Act_flags ACG
+Aff 0
+Align 500
+Group 0
+Level 1
+Hitroll 0
+Hit_dice 1d10+10
+Mana_dice 1d1+99
+Dam_dice 1d4+0
+Dam_type beating
+Armor 8 5 9 10
+Clevel0
+Cability 0
+Off NR
+Imm ILMNPQR
+Res ES
+Vuln GHJKO
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form EJMc
+Parts ABCGHK
+Size small
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 6602
+Name doll raggedy anne~
+Short a raggedy anne doll~
+Long A raggedy anne doll is sitting here.
+~
+Description You see a small little cute rag doll.
+~
+Race doll~
+Act_flags ACG
+Aff 0
+Align 300
+Group 0
+Level 2
+Hitroll 0
+Hit_dice 2d5+19
+Mana_dice 1d1+99
+Dam_dice 1d5+0
+Dam_type beating
+Armor 7 4 8 10
+Clevel0
+Cability 0
+Off FHR
+Imm ILMNPQR
+Res ES
+Vuln GHJKO
+Start_pos sit
+Default_pos stand
+Sex female
+Wealth 0
+Form EJMc
+Parts ABCGHK
+Size small
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 6603
+Name soldier toy~
+Short a toy soldier~
+Long A toy soldier is standing here.
+~
+Description The toy is looking for target practice.
+~
+Race doll~
+Act_flags ACGT
+Aff 0
+Align -300
+Group 0
+Level 3
+Hitroll 1
+Hit_dice 3d5+36
+Mana_dice 1d1+99
+Dam_dice 1d4+3
+Dam_type punch
+Armor 6 7 6 9
+Clevel0
+Cability 0
+Off IR
+Imm ILMNPQR
+Res EGS
+Vuln EGHJKO
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form EJMc
+Parts ABCGHK
+Size small
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 6604
+Name bear ugly~
+Short the ugly bear~
+Long An ugly stuffed bear stands here.
+~
+Description This is obviously a reject from the factory.
+He snarls and growls at you.
+~
+Race doll~
+Act_flags ACF
+Aff 0
+Align -400
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 3d4+29
+Mana_dice 1d1+99
+Dam_dice 1d6+1
+Dam_type chomp
+Armor 6 3 7 10
+Clevel0
+Cability 0
+Off DJNR
+Imm ILMNPQR
+Res ES
+Vuln GHJKO
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5
+Form EJMc
+Parts ABCGHK
+Size small
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 6605
+Name doll old~
+Short an old doll~
+Long An abused and old doll is here.
+~
+Description This doll has been hugged and played with until there is almost nothing left.
+~
+Race doll~
+Act_flags ACG
+Aff 0
+Align -2
+Group 0
+Level 1
+Hitroll 0
+Hit_dice 1d10+1
+Mana_dice 1d1+99
+Dam_dice 1d4+0
+Dam_type beating
+Armor 8 5 9 10
+Clevel0
+Cability 0
+Off R
+Imm ILMNPQR
+Res ES
+Vuln GHJKO
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form EJMc
+Parts ABCGHK
+Size small
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 6606
+Name nanny~
+Short the nanny~
+Long An old wrinkled nanny stands here, looking over the little ones.
+~
+Description You see an old dwarven lady who has been hunched over with age.  However, it
+appears that there is still some fight left in her.
+~
+Race dwarf~
+Act_flags AG
+Aff J
+Align 10
+Group 0
+Level 5
+Hitroll 1
+Hit_dice 4d4+50
+Mana_dice 5d4+100
+Dam_dice 1d6+1
+Dam_type slap
+Armor 5 5 5 10
+Clevel0
+Cability 0
+Off CDR
+Imm 0
+Res LQ
+Vuln R
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 6607
+Name guard~
+Short the armed guard~
+Long An armed guard stands here looking lost.
+~
+Description This is a big mean bully who is tired of being lost in this maze.
+You suddenly think that you had better flee.
+~
+Race dwarf~
+Act_flags ABCT
+Aff DJ
+Align -800
+Group 0
+Level 8
+Hitroll 1
+Hit_dice 3d10+100
+Mana_dice 8d4+100
+Dam_dice 1d7+3
+Dam_type punch
+Armor 3 2 3 8
+Clevel0
+Cability 0
+Off CDJR
+Imm 0
+Res LQ
+Vuln R
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 120
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 6608
+Name brat spoiled~
+Short the spoiled brat~
+Long A spoiled brat is crying here.
+~
+Description You see a little tyke who has always gotten what he wanted.  You have the
+biggest urge to put him out of his misery.
+~
+Race dwarf~
+Act_flags ABC
+Aff J
+Align -400
+Group 0
+Level 1
+Hitroll 0
+Hit_dice 2d4+15
+Mana_dice 1d1+199
+Dam_dice 2d2+1
+Dam_type beating
+Armor 8 8 8 10
+Clevel0
+Cability 0
+Off IJN
+Imm 0
+Res LQ
+Vuln R
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size small
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 6600
+Name axe toy~
+Short a toy axe~
+Desc An axe made of wood lies here.~
+Material wood~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values axe 1 5 chop 0
+Level 0
+Weight 30
+Cost 250
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+ExtraDesc
+axe toy~
+A small label says 'made in Taiwan'.
+~
+EndObj
+
+#OBJ
+Vnum 6601
+Name ring pink ice~
+Short a pink ice ring~
+Desc A pink ice ring draws your eye.~
+Material ice~
+Item_type treasure
+Extra G
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 3
+Weight 10
+Cost 620
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+ExtraDesc
+ring pink ice~
+How strange...it's made of ice, but it doesn't melt. It feels pleasantly 
+cool to the touch.
+~
+AffectObj
+13 4
+AffectObj
+1 1
+EndObj
+
+#OBJ
+Vnum 6621
+Name robe linen~
+Short a linen robe~
+Desc A linen robe is crumpled into a ball here.~
+Material cloth~
+Item_type armor
+Extra G
+Extra2 0
+Wear AK
+Values A B A A A
+Level 7
+Weight 50
+Cost 780
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+ExtraDesc
+robe linen~
+It radiates an aura of peace and wisdom.  The perfect garb for a teacher.
+~
+AffectObj
+12 5
+AffectObj
+4 1
+EndObj
+
+#OBJ
+Vnum 6622
+Name broom~
+Short a broom~
+Desc A stout straw broom lies on the floor.~
+Material wood~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values exotic 2 3 pound F
+Level 4
+Weight 30
+Cost 270
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition W
+ExtraDesc
+broom~
+It's worn and tired, probably from swatting too many children.
+~
+AffectObj
+18 -1
+AffectObj
+17 -1
+EndObj
+
+#OBJ
+Vnum 6644
+Name meat steak~
+Short a juicy steak~
+Desc A juicy steak sits on a plate here.~
+Material meat~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values ADE ADE 0 0 0
+Level 0
+Weight 20
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 6645
+Name steak rotten~
+Short a rotten steak~
+Desc A dry steak lies on the floor.~
+Material meat~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values C C 0 A 0
+Level 0
+Weight 20
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition W
+EndObj
+
+#OBJ
+Vnum 6646
+Name potion amber~
+Short an amber potion~
+Desc An amber potion sits in a corner.~
+Material glass~
+Item_type potion
+Extra 0
+Extra2 0
+Wear A
+Values 5 'cure light' 'armor' '' ''
+Level 0
+Weight 10
+Cost 150
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+ExtraDesc
+potion~
+It's a tight-stoppered glass bottle with a thick amber liquid inside. It
+tastes kind of like whiskey.
+~
+EndObj
+
+#OBJ
+Vnum 6647
+Name gun toy~
+Short a toy gun~
+Desc A toy gun with a sharp bayonet lies here.~
+Material wood~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values exotic 2 3 stab F
+Level 4
+Weight 20
+Cost 300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+ExtraDesc
+gun toy~
+It's just a toy...but the point looks kind of sharp.
+You'll put your eye out, kid!
+~
+AffectObj
+17 -1
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 6601
+Name The Dwarven Drop Off~
+Desc This is where the dwarven mommies and daddies come to drop off their
+annoying little brats.  You have the urge to leave.  There is a sign here.
+~
+Room_flags 12
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+This is an area for newbies, so have fun.  -- Sandman
+~
+Exit
+0
+~
+~
+-1
+6500
+0
+Exit
+2
+You see a large room full of noisy brats.
+~
+~
+-1
+6602
+A
+EndRoom
+
+#ROOM
+Vnum 6602
+Name Day Care Center~
+Desc You are in the north-east corner of the main part of the center.  Toys and
+toddlers are all over the room.  There is a kitchen to the east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the drop off.
+~
+~
+-1
+6601
+0
+Exit
+1
+You see an extremely messy kitchen.
+~
+~
+-1
+6626
+0
+Exit
+2
+You see a large room full of noisy brats.
+~
+~
+-1
+6604
+0
+Exit
+3
+You see a large room full of noisy brats.
+~
+~
+-1
+6603
+0
+EndRoom
+
+#ROOM
+Vnum 6603
+Name Day Care Center~
+Desc You are in the north-west corner of the main part of the center.  Toys and
+toddlers are all over the room.  There is a bathroom to the west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a large room full of noisy brats.
+~
+~
+-1
+6602
+0
+Exit
+2
+You see a large room full of noisy brats.
+~
+~
+-1
+6605
+0
+Exit
+3
+You see a messy bathroom.
+~
+~
+-1
+6606
+0
+EndRoom
+
+#ROOM
+Vnum 6604
+Name Day Care Center~
+Desc You are in the south-east corner of the main part of the center.  Toys and
+toddlers are all over the room.  There is a playground to the east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a large room full of noisy brats.
+~
+~
+-1
+6602
+0
+Exit
+1
+You see the playground.
+~
+~
+-1
+6610
+0
+Exit
+3
+You see a large room full of noisy brats.
+~
+~
+-1
+6605
+0
+EndRoom
+
+#ROOM
+Vnum 6605
+Name Day Care Center~
+Desc You are in the south-west corner of the main part of the center.  Toys and
+toddlers are all over the room.  There is a staircase to the west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a large room full of noisy brats.
+~
+~
+-1
+6603
+0
+Exit
+1
+You see a large room full of noisy brats.
+~
+~
+-1
+6604
+0
+Exit
+3
+You see a staircase leading down.
+~
+~
+-1
+6607
+0
+EndRoom
+
+#ROOM
+Vnum 6606
+Name The Messy Bathroom~
+Desc You hold your nose as you realize you have made the worst mistake of your
+life.  The air is rancid and the walls are stained.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a large room full of noisy brats.
+~
+~
+-1
+6603
+0
+EndRoom
+
+#ROOM
+Vnum 6607
+Name The Staircase~
+Desc You stand on top of a staircase leading down, and wonder what mystery could
+lie down under.  Beware!
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a large room full of noisy brats.
+~
+~
+-1
+6605
+0
+Exit
+5
+You see the entrance to something.
+~
+~
+-1
+6612
+0
+EndRoom
+
+#ROOM
+Vnum 6608
+Name The Playground~
+Desc You are in the north-west corner of the playground.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the playground.
+~
+~
+-1
+6609
+0
+Exit
+2
+You see the playground.
+~
+~
+-1
+6610
+0
+EndRoom
+
+#ROOM
+Vnum 6609
+Name The Playground~
+Desc You are in the north-east corner of the playground.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see the playground.
+~
+~
+-1
+6611
+0
+Exit
+3
+You see the playground.
+~
+~
+-1
+6608
+0
+EndRoom
+
+#ROOM
+Vnum 6610
+Name The Playground~
+Desc You are in the south-west corner of the playground.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the playground.
+~
+~
+-1
+6608
+0
+Exit
+1
+You see the playground.
+~
+~
+-1
+6611
+0
+Exit
+3
+You see a large room full of noisy brats.
+~
+~
+-1
+6604
+0
+EndRoom
+
+#ROOM
+Vnum 6611
+Name The Playground~
+Desc You are in the south-east corner of the playground.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the playground.
+~
+~
+-1
+6609
+0
+Exit
+3
+You see the playground.
+~
+~
+-1
+6610
+0
+EndRoom
+
+#ROOM
+Vnum 6612
+Name Entrance to the Mini-Maze~
+Desc You stand in the entrance to a small, but confusing maze.  You really hope
+that you don't get lost.
+~
+Room_flags 13
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+6613
+0
+Exit
+4
+You see some stairs.
+~
+~
+-1
+6607
+0
+EndRoom
+
+#ROOM
+Vnum 6613
+Name Mini-Maze~
+Desc You are in a small passage that looks just like every other one.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+6612
+0
+Exit
+1
+~
+~
+-1
+6614
+0
+Exit
+2
+~
+~
+-1
+6615
+0
+EndRoom
+
+#ROOM
+Vnum 6614
+Name Mini-Maze~
+Desc You are in a small passage that looks just like every other one.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+6613
+0
+Exit
+2
+~
+~
+-1
+6616
+0
+EndRoom
+
+#ROOM
+Vnum 6615
+Name Mini-Maze~
+Desc You are in a small passage that looks just like every other one.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+6613
+0
+Exit
+1
+~
+~
+-1
+6616
+0
+EndRoom
+
+#ROOM
+Vnum 6616
+Name Mini-Maze~
+Desc You are in a small passage that looks just like every other one.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+6624
+0
+Exit
+0
+~
+~
+-1
+6614
+0
+Exit
+3
+~
+~
+-1
+6615
+0
+EndRoom
+
+#ROOM
+Vnum 6624
+Name End of the Mini-Maze~
+Desc You stand at the end of your journey.  There is a big sign here and you had
+better read it!
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+If you are not level 6 or above, then don't go south!!!!  It is a dangerous
+area, but congrats for getting this far - Sandman
+~
+Exit
+0
+~
+~
+-1
+6616
+0
+Exit
+2
+~
+~
+-1
+6631
+0
+EndRoom
+
+#ROOM
+Vnum 6626
+Name Messy Kitchen~
+Desc You stand in the kitchen and eating area of the day care center.  Pots and
+pans are everywhere, while the toddlers continue to create chaos.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+You see a large room full of noisy brats.
+~
+~
+-1
+6602
+0
+EndRoom
+
+#ROOM
+Vnum 6631
+Name The End?~
+Desc You have reached the final lair.  It is dominated by a huge five headed
+dragon (actually an overgrown brat with a Halloween mask).
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+6624
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 6600 spec_thief
+M 6604 spec_thief
+M 6606 spec_cast_cleric
+M 6608 spec_thief
+S
+
+
+
+#RESETS
+M 0 6600 7 6602 1
+E 0 6600 0 16
+M 0 6601 2 6602 1
+M 0 6606 2 6602 1
+G 0 6646 0
+G 0 6644 0
+E 0 6621 0 12
+M 0 6600 7 6603 1
+E 0 6600 0 16
+M 0 6600 7 6604 1
+E 0 6600 0 16
+M 0 6602 2 6604 1
+M 0 6606 2 6604 1
+G 0 6646 0
+E 0 6622 0 16
+M 0 6600 7 6605 1
+E 0 6600 0 16
+M 0 6602 2 6605 1
+G 0 6645 0
+M 0 6605 3 6605 1
+E 0 6601 0 1
+M 0 6605 3 6606 1
+M 0 6601 2 6606 1
+M 0 6600 7 6608 1
+E 0 6600 0 16
+M 0 6603 4 6608 1
+E 0 6647 0 16
+M 0 6600 7 6609 1
+E 0 6600 0 16
+M 0 6604 2 6609 1
+M 0 6603 3 6609 1
+E 0 6647 0 16
+M 0 6603 4 6609 1
+E 0 6647 0 16
+M 0 6600 7 6610 1
+E 0 6600 0 16
+M 0 6603 4 6610 1
+E 0 6647 0 16
+M 0 6605 3 6610 1
+M 0 6604 2 6611 1
+M 0 6603 4 6611 1
+E 0 6647 0 16
+R 0 6613 4
+R 0 6614 4
+R 0 6615 4
+R 0 6616 4
+M 0 6607 1 6624 1
+E 0 3023 0 16
+M 0 6608 1 6631 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

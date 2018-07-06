@@ -1,0 +1,1038 @@
+#AREADATA
+Name Shadowcastle ~
+Builders Cederic~
+VNUMs 2500 2599
+Credits Cederic Shadow Castle 70 - 100~
+Security 5
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 2500
+Name Spider~
+Short A large Spider~
+Long A large spider is here, squirting venom out of its large fangs.
+~
+Description This large sized spider is black with green and red striped.  Its fangs
+are dripping green acidic liquid which is melting the floor here.  The
+spider stands about 1 foot fall and has razor sharp pinchers and fangs.  
+~
+Race unique~
+Act_flags ABCG
+Aff 0
+Align -1000
+Group 0
+Level 40
+Hitroll 50
+Hit_dice 20d20+20
+Mana_dice 5d5+5
+Dam_dice 20d20+20
+Dam_type bite
+Armor 0 0 0 0
+Clevel0
+Cability 10
+Off BEFHM
+Imm HLQ
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1000
+Form O
+Parts 0
+Size large
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 2500
+Name Pool of blood~
+Short a large pool of blood.~
+Desc A large pool of {rdark red {Rblood{x is over-flowing here.~
+Material unknown~
+Item_type portal
+Extra 0
+Extra2 0
+Wear 0
+Values ABCDEFGHIJKLMNOPQRSTUVWXYZabcde 0 0 DEGHIL 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2502
+Name Small crack~
+Short small crack~
+Desc A small crack of light is here leading you out of this hidout.~
+Material Light~
+Item_type portal
+Extra A
+Extra2 0
+Wear 0
+Values ABCDEFGHIJKLMNOPQRSTUVWXYZabcde 0 0 BDEGHIL 0
+Level 0
+Weight 100
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2509
+Name {gThe food that you ate last weekend {rthats been digested and sharpened {cto a dull weapon that looks a little rank, {mbut could do some damage {bif used properly~
+Short {gThe food that you ate last weekend {rthats been digested and sharpened {cto a dull weapon that looks a little rank, {mbut could do some damage {bif used properly~
+Desc {gThe food that you ate last weekend {rthats been digested and sharpened {cto a dull weapon that looks a little rank, {mbut could do some damage {bif used properly~
+Material unknown~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values sword 10 10 wrath H
+Level 1
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2550
+Name Queen Bed~
+Short risque's Queen Bed~
+Desc A pink bed covered in heart shaped pillows is here.~
+Material Feather~
+Item_type portal
+Extra A
+Extra2 0
+Wear 0
+Values ABCDEFGHIJKLMNOPQRSTUVWXYZabcde 0 0 ABCFJL 0
+Level 0
+Weight 100
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2553
+Name A Ravens feather~
+Short a ravens feather~
+Desc {WA {yg{Yo{yl{Yd{ye{Yn {Wfeather from Kera's bird is here.~
+Material Feather~
+Item_type fountain
+Extra A
+Extra2 0
+Wear 0
+Values 2147483647 2147483647 'coffee' 0 0
+Level 150
+Weight -1
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2582
+Name Pool of water~
+Short a pool of pure water~
+Desc A large pool of light blue water is sparkling here.~
+Material Culligan~
+Item_type portal
+Extra 0
+Extra2 0
+Wear 0
+Values ABCDEFGHIJKLMNOPQRSTUVWXYZabcde 0 0 ABCGHIL 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2599
+Name Laundry Shoot~
+Short old laundry shoot.~
+Desc A rusty large laundry shoot is here.~
+Material Metal, Rust~
+Item_type portal
+Extra B
+Extra2 0
+Wear 0
+Values ABCDEFGHIJKLMNOPQRSTUVWXYZabcde 0 0 ABDGHIL 0
+Level 0
+Weight 1000
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 2500
+Name {wEntrance {xto the {wS{xh{wa{xd{wo{xw{wd{xw{we{xl{wl{xe{wr{x'{ws{x Castle~
+Desc The legendary Shadowdweller family lives in this castle just north of
+here.  There is a large plank gate creating a bridge for safe transportation
+to the castle from this side of the mote.  You see bones in the mote just
+below the gate, and dark red eyes are moving around in the water slowly. 
+You better enter now, before you lose your balance and fall into the misty
+water.  
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+#1 Strongest: Darksoul
+#2 Strongest: Malice
+#3 Strongest: Risque
+#4 Strongest: Malevolence
+~
+Exit
+0
+~
+~
+0
+2501
+0
+Exit
+2
+~
+~
+0
+2524
+0
+EndRoom
+
+#ROOM
+Vnum 2501
+Name Short hallway ~
+Desc This hallway is very short compaired to the gate size, and it leads down
+and up from here.  There is a glass chandelier right above you holding
+half-burnt candles giving off a dim glow.  You can hear the sounds of
+screaming coming from below you, and a disturbing silence from above.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+2500
+0
+Exit
+4
+~
+~
+0
+2503
+0
+Exit
+5
+~
+~
+0
+2502
+0
+EndRoom
+
+#ROOM
+Vnum 2502
+Name Winding stairs~
+Desc There is no visable end of this staircase from here.  Along the walls are
+lit torches making sure you dont get lost.  Above you leads back to the
+hallway, and to the east the staircase goes on and on.  It is hard to breath
+down here, the air is so thick and musky.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2504
+0
+Exit
+4
+~
+~
+0
+2501
+0
+EndRoom
+
+#ROOM
+Vnum 2503
+Name Abyss~
+Desc This room is very different from the other rooms, for it is simply a dead
+end, complete with a large pool of blood.  Seriously there is a real pool,
+but filled to the edges in dark red blood.  You could go for a quick swim...
+It might lead you some where...  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+~
+~
+0
+2501
+0
+EndRoom
+
+#ROOM
+Vnum 2504
+Name Winding stairs~
+Desc There is no visable end of this staircase from here.  Along the walls are
+lit torches making sure you dont get lost.  West leads you up the staircase
+to get to the hallway.  To the north the hallway continues to get darker and
+darker as you go lower into the basement.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2505
+0
+Exit
+3
+~
+~
+0
+2502
+0
+EndRoom
+
+#ROOM
+Vnum 2505
+Name Winding stairs~
+Desc There is no visable end of this staircase from here.  Along the walls are
+lit torches making sure you dont get lost.  You see the end of the staircase
+just below you, but there are no more torches to guide you below.  South
+leads back up the staircase and below is the basement.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+2504
+0
+Exit
+5
+~
+~
+0
+2506
+0
+EndRoom
+
+#ROOM
+Vnum 2506
+Name Shadowy basement~
+Desc This room is very different from the others.  The mist is so thick you
+cant even see your own feet, giving you a eerie feeling.  To the west is a
+long hallway that leads to the leader of the mantion, Darksoul.  Its so dark
+down here even if the mist was gone you still wouldnt be able to see your
+feet.  Right above you is a staircase that leads back to the hallway.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2507
+A
+Exit
+3
+~
+~
+0
+2508
+0
+Exit
+4
+~
+~
+0
+2505
+0
+EndRoom
+
+#ROOM
+Vnum 2507
+Name Secret closet~
+Desc This closet was once Darksouls bedroom, and you can see blood all over
+the floor.  He must have started killing at a very young age, for he would
+not have been able to fit in here past age ten.  There is a small candle lit
+on the floor here, and its freshly lit.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+2506
+A
+EndRoom
+
+#ROOM
+Vnum 2508
+Name Pathway to Darksoul~
+Desc This creepy pathway shows no signs of light anywhere.  It leads west to
+the legendary Darksoul, and if you go east it will lead you back to the
+staircase entrance.  This room is covered with spider webs and you see small
+little insects all over the floor.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2506
+0
+Exit
+3
+~
+~
+0
+2509
+0
+EndRoom
+
+#ROOM
+Vnum 2509
+Name Pathway to Darksoul~
+Desc This creepy pathway shows no signs of light anywhere.  It leads west to
+the legendary Darksoul, and if you go east it will lead you back to the
+staircase entrance.  This room is covered with spider webs and you see small
+little insects all over the floor.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2508
+0
+Exit
+3
+~
+~
+0
+2510
+0
+EndRoom
+
+#ROOM
+Vnum 2510
+Name Pathway to Darksoul~
+Desc This creepy pathway shows no signs of light anywhere.  It leads west to
+the legendary Darksoul, and if you go east it will lead you back to the
+staircase entrance.  This room is covered with spider webs and you see small
+little insects all over the floor.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2509
+0
+Exit
+3
+~
+~
+0
+2511
+0
+Exit
+5
+~
+~
+0
+2512
+0
+EndRoom
+
+#ROOM
+Vnum 2511
+Name {rDarksoul's {xChamber~
+Desc The one and only, king of the castle, Darksoul is stand right infront of
+you.  This was a bad mistake, once you cross darksouls path, you never see
+daylight.  This room is very odd, there is light all over the room.  Once
+the light gets to Darksoul, it turns to pitch black misty air, making it
+allmost impossable to even see Darksoul.  His throne is right behind him,
+and skulls are all over the floor.  East leads you back to the hallway.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2510
+0
+EndRoom
+
+#ROOM
+Vnum 2512
+Name {bMalice's {xpit of death~
+Desc You cant even see the walls in this room or even the floor or ceiling. 
+Everything is covered with corpses from previous warriors who were unlucky
+enough to fall in this pit.  Malice stands here finishing the meat off the
+newest but yet old looking corpse.  There is no way out of this pit of
+death.  
+~
+Room_flags 532500
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 2513
+Name The Entrance to Shadowdweller's Castle~
+Desc Looking out this large window ,the entrance to the castle can be seen.
+ 
+{wThe legendary Shadowdweller family lives in this castle just north of here. There is a large plank gate creating a bridge for safe transportation to the castle from this side of the mote. You see bones in the mote just below the gate, and dark red eyes are moving around in the water slowly. You better enter now, before you lose your balance and fall into the misty water.{x
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2520
+0
+EndRoom
+
+#ROOM
+Vnum 2514
+Name Bloody long hallway~
+Desc This hallway gives you a good feeling deep down, unlike the basement. 
+It's wierd the blood on the floor doesn't even phase you.  The celling has a
+twirling pattern in it making you sick just looking up.  To the west the
+hallway gets smaller and smaller, and the west will lead you back to the
+Living room.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2517
+0
+Exit
+3
+~
+~
+0
+2520
+0
+EndRoom
+
+#ROOM
+Vnum 2515
+Name A giant kitchen~
+Desc This is the place where soups and dinners are made, many things which are
+slaughtered and taken to the freezer for later use.  There are many pots and
+pans lying around on the counters which are used for cooking.  Over in a
+corner are spices, and herbs to keep the food smelling fresh and also used
+for cooking purposes.  To the west you see a door leading to the backyard.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+2520
+0
+Exit
+3
+~
+~
+0
+2516
+AB
+EndRoom
+
+#ROOM
+Vnum 2516
+Name Backyard~
+Desc This is the backyard of the Shadowdweller Castle.  There is a large
+sheltie barking here trying to get you to play with it.  You look out far
+into the yard and see lots of graves, due to the fact the Shadowdweller
+family is huge.  If you go through the door it will lead you back into the
+giant kitchen.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2515
+AB
+EndRoom
+
+#ROOM
+Vnum 2517
+Name Bloody long hallway~
+Desc This hallway gives you a good feeling deep down, unlike the basement. 
+It's wierd the blood on the floor doesn't even phase you.  The celling has a
+twirling pattern in it making you sick just looking up.  To the west the
+hallway gets smaller and smaller, and the west will lead you back to the
+Living room.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2518
+0
+Exit
+3
+~
+~
+0
+2514
+0
+EndRoom
+
+#ROOM
+Vnum 2518
+Name Bloody long hallway~
+Desc This hallway gives you a good feeling deep down, unlike the basement. 
+It's wierd the blood on the floor doesn't even phase you.  The celling has a
+twirling pattern in it making you sick just looking up.  To the west the
+hallway gets smaller and smaller, and the west will lead you back to the
+Living room.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2519
+0
+Exit
+3
+~
+~
+0
+2517
+0
+EndRoom
+
+#ROOM
+Vnum 2519
+Name Very small hallway~
+Desc Its too small to continue any further, but there are new openings leading
+to the north and to the south.  You smell the sent of freshly clean clothes
+coming from below you, and here the sound of movement to the north.  The
+floor is very sticky here, flooded with bubbles flowing in from below.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2523
+0
+Exit
+2
+~
+~
+0
+2522
+0
+Exit
+3
+~
+~
+0
+2518
+0
+Exit
+5
+~
+~
+0
+2521
+0
+EndRoom
+
+#ROOM
+Vnum 2520
+Name Living room~
+Desc This is the only room that seems small, I mean even their bathroom is
+larger then this closet size living room.  This part of the mantion is
+giving off a good hearted feeling, unlike Darksouls basement.  To the north
+is thegiant sized kitchen, and to the east is yet another hallway.  As you
+look west you see a large window that overlooks the whole castle.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2515
+0
+Exit
+1
+~
+~
+0
+2514
+0
+Exit
+3
+~
+~
+0
+2513
+0
+EndRoom
+
+#ROOM
+Vnum 2521
+Name Laundry room~
+Desc Very dirty looking, but yet clean clothes are all over the floor here. 
+The clothes are not even folded, and are all the color black.  You see an
+old fastion laundry shoot here, leading you somewhere into the basement. 
+North leads back to the small hallway.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+0
+2519
+0
+EndRoom
+
+#ROOM
+Vnum 2522
+Name {mRisque's pink bedroom{x~
+Desc Looking all over the place you smell the sent of perfume, and see a queen
+size bed in the middle of the room.  Risque is not in this room, but she has
+to be somewhere in this area.  Below the bed you can hear sounds of someone
+snoring...  Wonder who it could be.  Going north would lead you back into
+the small hallway.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2519
+0
+EndRoom
+
+#ROOM
+Vnum 2523
+Name {rM{wa{rl{we{rv{wo{rl{we{rn{wc{re{w'{rs{x weight room~
+Desc This is the weight room of the famous Malevolence, Darksouls first son. 
+You see a benchpress bar in the corner with over seven hundred pounds of
+weight on it.  Malevolence is in the corner curling two hundred pounds with
+one arm.  The floor is made of cement, and the walls are brick, giving this
+room an uneasy feeling.  South leads back to the small hallway.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+2519
+0
+EndRoom
+
+#ROOM
+Vnum 2524
+Name Old pathway~
+Desc This old pathway has many spider webs all over the place, and shows no
+signs of light.  There is a trail of spider webs leading northward to an old
+castle.  The ground is full of grass, with some small dirt patches here and
+there.  South will lead you into the Maratoka forest.  
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2500
+0
+Exit
+2
+~
+~
+0
+2525
+0
+EndRoom
+
+#ROOM
+Vnum 2525
+Name Old pathway~
+Desc This old pathway has many spider webs all over the place, and shows no
+signs of light.  There is a trail of spider webs leading northward to an old
+castle.  The ground is full of grass, with some small dirt patches here and
+there.  South will lead you into the Maratoka forest.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2524
+0
+Exit
+2
+~
+~
+0
+2526
+0
+EndRoom
+
+#ROOM
+Vnum 2526
+Name Old pathway~
+Desc This old pathway has many spider webs all over the place, and shows no
+signs of light.  There is a trail of spider webs leading northward to an old
+castle.  The ground is full of grass, with some small dirt patches here and
+there.  South will lead you into the Maratoka forest.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2525
+0
+Exit
+2
+~
+~
+0
+2527
+0
+EndRoom
+
+#ROOM
+Vnum 2527
+Name Old pathway~
+Desc This old pathway has many spider webs all over the place, and shows no
+signs of light.  There is a trail of spider webs leading northward to an old
+castle.  The ground is full of grass, with some small dirt patches here and
+there.  South will lead you into the Maratoka forest.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2526
+0
+Exit
+2
+~
+~
+0
+2528
+0
+EndRoom
+
+#ROOM
+Vnum 2528
+Name End of the Maratoka Forest~
+Desc You can hear birds chirping all over the place in this overgrown forest.
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2527
+0
+EndRoom
+
+#ROOM
+Vnum 2580
+Name {RK{wera's {RR{waven {RC{wage~
+Desc _----_
+                            ,__./#   {Yo{w `,
+                      .__.--%##%%     ,' \,
+                     /%%########%%    .====\
+                 __.;%##/// ______  ,/
+            ,__-"     ,,,,/(@{RKERA{w@)/
+          __====..,'''''''      ,/
+    ..__--      ,,,,,, ,,,,  ,./
+   /    ,,,,.'''`````'///////
+  /"""""              \/ \/
+                     (( ((
+                      \\ \\
+                       \\ \\
+                      --``-``===;
+                          \,  \,
+~
+Room_flags 1081860
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 2599
+Name Risque's hidout~
+Desc Risque is here smiling happily at you as she is relaxing thinking about
+how life usto be.  She is giving off a feeling of good, and shows no signs
+of evil in her heart.  This craw space beneath her bed is very large, it's
+even larger then the hallway.  The carpet in here is made of a pink fluffy
+material, and its very cool here.  There is a small sliver of light in the
+corner that leads you back into Risque's real room.  
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 2515 3 1
+D 0 2516 1 1
+O 0 77 0 2500
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

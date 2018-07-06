@@ -1,0 +1,239 @@
+Cname Gretago~
+Name Basont~
+Shd the wolf~
+Lnd A large, trained wolf is here.
+~
+Cost 4518
+Vnum 3094
+Level 9
+Mhit 97
+Mmana 100
+Mmove 100
+Exp 0
+Xptolevel 1000
+Levelflux 0
+Practice 0
+Train 0
+Damroll 1
+Hitroll 3
+Armor 40 40 40 80
+Gold 0
+Silver 0
+
+Cname (null)~
+Name familiar rat~
+Shd large rat~
+Lnd A large rodent is here looking for something to eat.~
+Cost 49973
+Vnum 50
+Level 77
+Mhit 1999
+Mmana 3522
+Mmove 24627
+Exp 0
+Xptolevel 0
+Levelflux 0
+Practice 0
+Train 0
+Damroll 16
+Hitroll 15
+Armor 81 80 80 80
+Gold 0
+Silver 0
+
+Cname Ghimlee~
+Name Acbe7457.ipt.aol.com~
+Shd Ghimlee~
+Lnd Acbe7457.ipt.aol.com~
+Cost 5584
+Vnum 3094
+Level 9
+Mhit 116
+Mmana 100
+Mmove 100
+Exp 0
+Xptolevel 1000
+Levelflux 0
+Practice 0
+Train 0
+Damroll 1
+Hitroll 3
+Armor 40 40 40 80
+Gold 0
+Silver 0
+
+Cname Ghimlee~
+Name wolf pet~
+Shd the wolf~
+Lnd A large, trained wolf is here.
+~
+Cost 6453
+Vnum 3094
+Level 9
+Mhit 103
+Mmana 100
+Mmove 100
+Exp 0
+Xptolevel 1000
+Levelflux 0
+Practice 0
+Train 0
+Damroll 1
+Hitroll 3
+Armor 40 40 40 80
+Gold 0
+Silver 0
+
+Cname Ghimlee~
+Name kitten cat pet~
+Shd the kitten~
+Lnd A small loyal kitten is here.
+~
+Cost 696
+Vnum 3090
+Level 1
+Mhit 19
+Mmana 100
+Mmove 100
+Exp 0
+Xptolevel 1000
+Levelflux 0
+Practice 0
+Train 0
+Damroll 0
+Hitroll 2
+Armor 80 80 80 100
+Gold 0
+Silver 0
+
+Cname Khalandar~
+Name wolf pet~
+Shd the wolf~
+Lnd A large, trained wolf is here.
+~
+Cost 6565
+Vnum 3094
+Level 9
+Mhit 106
+Mmana 100
+Mmove 100
+Exp 0
+Xptolevel 1000
+Levelflux 0
+Practice 0
+Train 0
+Damroll 1
+Hitroll 3
+Armor 40 40 40 80
+Gold 0
+Silver 0
+
+Cname Petegod~
+Name kitten cat pet~
+Shd the kitten~
+Lnd A small loyal kitten is here.
+~
+Cost 631
+Vnum 3090
+Level 1
+Mhit 18
+Mmana 100
+Mmove 100
+Exp 0
+Xptolevel 1000
+Levelflux 0
+Practice 0
+Train 0
+Damroll 0
+Hitroll 2
+Armor 80 80 80 100
+Gold 0
+Silver 0
+
+Cname Gretago~
+Name wolf pet~
+Shd the wolf~
+Lnd A large, trained wolf is here.
+~
+Cost 5832
+Vnum 3094
+Level 9
+Mhit 106
+Mmana 100
+Mmove 100
+Exp 0
+Xptolevel 0
+Levelflux 0
+Practice 0
+Train 0
+Damroll 1
+Hitroll 3
+Armor 40 40 40 80
+Gold 0
+Silver 0
+
+Cname Malice~
+Name kitten cat pet~
+Shd the kitten~
+Lnd A small loyal kitten is here.
+~
+Cost 527
+Vnum 3090
+Level 1
+Mhit 17
+Mmana 100
+Mmove 100
+Exp 0
+Xptolevel 1000
+Levelflux 0
+Practice 0
+Train 0
+Damroll 0
+Hitroll 2
+Armor 80 80 80 100
+Gold 0
+Silver 0
+
+Cname Synon~
+Name kitten cat pet~
+Shd (null)~
+Lnd (null)~
+Cost 664
+Vnum 3090
+Level 1
+Mhit 19
+Mmana 100
+Mmove 100
+Exp 0
+Xptolevel 1000
+Levelflux 0
+Practice 0
+Train 0
+Damroll 0
+Hitroll 2
+Armor 80 80 80 100
+Gold 0
+Silver 0
+
+Cname Synon~
+Name wolf pet~
+Shd (null)~
+Lnd (null)~
+Cost 5170
+Vnum 3094
+Level 9
+Mhit 107
+Mmana 100
+Mmove 100
+Exp 0
+Xptolevel 1000
+Levelflux 0
+Practice 0
+Train 0
+Damroll 1
+Hitroll 3
+Armor 0 0 0 0
+Gold 0
+Silver 0
+
+$

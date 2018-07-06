@@ -1,0 +1,2594 @@
+#AREADATA
+Name Castle of Darkness~
+Builders Gretago~
+VNUMs 550 599
+Credits (null)~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 550
+Name A Castle Archer~
+Short A castle archer~
+Long A castle archer stands here
+~
+Description ~
+Race human~
+Act_flags AB
+Aff D
+Align 0
+Group 0
+Level 32
+Hitroll 35
+Hit_dice 65d10+326
+Mana_dice 66d10+323
+Dam_dice 10d3+21
+Dam_type none
+Armor -11 -12 -11 -10
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res E
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 20
+Form V
+Parts 0
+Size medium
+Material unknown
+Aggression 0
+Ffor AHM
+Fpar ABCDEFGHIJK
+EndMob
+
+#MOB
+Vnum 551
+Name The master of all dark knights~
+Short The master of all dark knights~
+Long The master of all dark knights stands here
+~
+Description ~
+Race human~
+Act_flags ABF
+Aff DF
+Align 0
+Group 0
+Level 50
+Hitroll 45
+Hit_dice 106d17+500
+Mana_dice 104d17+497
+Dam_dice 49d47+27
+Dam_type none
+Armor -27 -27 -26 -23
+Clevel0
+Cability 0
+Off CFK
+Imm AHILQ
+Res B
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 20
+Form V
+Parts ACGHIJK
+Size medium
+Material unknown
+Xp_tolevel 2000
+Aggression 0
+Ffor AHM
+Fpar BDEF
+EndMob
+
+#MOB
+Vnum 552
+Name A black knight~
+Short A black knight~
+Long A black knight dressed in armor stands here.
+~
+Description ~
+Race human~
+Act_flags A
+Aff V
+Align 0
+Group 0
+Level 35
+Hitroll 34
+Hit_dice 70d11+348
+Mana_dice 71d11+349
+Dam_dice 11d3+22
+Dam_type none
+Armor -13 -13 -13 -12
+Clevel0
+Cability 0
+Off CF
+Imm AI
+Res E
+Vuln I
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 20
+Form V
+Parts ABCGIJK
+Size medium
+Material unknown
+Aggression 0
+Ffor AHM
+Fpar DEFH
+EndMob
+
+#MOB
+Vnum 553
+Name the chest guardian~
+Short The chest guardian~
+Long The chest guardian stands infront of the chest.
+~
+Description ~
+Race human~
+Act_flags AB
+Aff CDEFGJVZa
+Align 0
+Group 0
+Level 40
+Hitroll 36
+Hit_dice 100d20+412
+Mana_dice 82d14+406
+Dam_dice 39d39+21
+Dam_type slash
+Armor -20 -20 -19 -17
+Clevel0
+Cability 5
+Off CDFHIKN
+Imm ABIJKQXYZ
+Res NO
+Vuln T
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 300
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 554
+Name a blue knight~
+Short a blue knight~
+Long A blue knight is here wandering around the castle.
+~
+Description ~
+Race human~
+Act_flags A
+Aff JV
+Align 0
+Group 0
+Level 37
+Hitroll 37
+Hit_dice 76d13+372
+Mana_dice 77d13+370
+Dam_dice 37d35+20
+Dam_type pound
+Armor -16 -16 -14 -13
+Clevel0
+Cability 1
+Off CF
+Imm AB
+Res HJN
+Vuln K
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 70
+Form V
+Parts ABCGIJK
+Size medium
+Material unknown
+Aggression 0
+Ffor AHM
+Fpar DEFH
+EndMob
+
+#MOB
+Vnum 555
+Name a doctor healer~
+Short a doctor~
+Long A doctor stands here healing people.
+~
+Description ~
+Race human~
+Act_flags ABa
+Aff CDEFGHJZ
+Align 0
+Group 0
+Level 40
+Hitroll 43
+Hit_dice 83d14+398
+Mana_dice 84d14+401
+Dam_dice 41d39+21
+Dam_type none
+Armor -28 -29 -30 -25
+Clevel0
+Cability 0
+Off FHIK
+Imm ABCD
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form HV
+Parts ABCDEFGHIM
+Size medium
+Material unknown
+Aggression 0
+Ffor AM
+Fpar JK
+EndMob
+
+#MOB
+Vnum 556
+Name a castle guard~
+Short a castle guard~
+Long A castle guard patrolls the hallways here.
+~
+Description ~
+Race human~
+Act_flags A
+Aff DV
+Align 0
+Group 0
+Level 34
+Hitroll 37
+Hit_dice 71d12+348
+Mana_dice 71d12+350
+Dam_dice 34d34+18
+Dam_type slice
+Armor -20 -21 -23 -21
+Clevel0
+Cability 0
+Off CF
+Imm AI
+Res HJKN
+Vuln T
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 250
+Form V
+Parts ABCGIM
+Size medium
+Material unknown
+Aggression 0
+Ffor AHM
+Fpar DEFHJK
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 550
+Name an archers longbow~
+Short an archers longbow~
+Desc An archers longbow lies here.~
+Material wood~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values bow 4 11 pierce F
+Level 32
+Weight 33
+Cost 2055
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+AffectObj
+18 2
+AffectObj
+19 2
+AffectObj
+18 2
+EndObj
+
+#OBJ
+Vnum 551
+Name Black marble fountain~
+Short a black marble fountain~
+Desc A black marble fountain flows with water~
+Material marble~
+Item_type fountain
+Extra Y
+Extra2 0
+Wear 0
+Values 0 0 'water' 0 0
+Level 0
+Weight 1000
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+fountain~
+This fountain is clearly made out of black marble and it flows with lots
+of water.  
+~
+EndObj
+
+#OBJ
+Vnum 552
+Name a black suit of armor~
+Short a black suit of armor~
+Desc A black suit of armor stands here~
+Material metal~
+Item_type portal
+Extra Y
+Extra2 0
+Wear 0
+Values 0 0 0 ABCGJ 0
+Level 0
+Weight 1000
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 553
+Name a black chest~
+Short a black chest~
+Desc A black chest lies here~
+Material wood~
+Item_type container
+Extra Y
+Extra2 0
+Wear 0
+Values 1000 ABCD 554 5 1
+Level 0
+Weight 100
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 554
+Name A black chest key~
+Short a black chest key~
+Desc A black chest key lies here~
+Material steel~
+Item_type key
+Extra D
+Extra2 0
+Wear AH
+Values 0 0 0 0 0
+Level 0
+Weight 5
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 555
+Name The black sword of destruction~
+Short the black sword of destruction~
+Desc The black sword of destruction lies here~
+Material metal~
+Item_type weapon
+Extra Y
+Extra2 0
+Wear AN
+Values sword 6 11 slash A
+Level 50
+Weight 51
+Cost 3005
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 14
+AffectObj
+19 14
+EndObj
+
+#OBJ
+Vnum 556
+Name A black suit of armor~
+Short a black suit of armor~
+Desc A black suit of armor stands here~
+Material metal~
+Item_type portal
+Extra Y
+Extra2 0
+Wear 0
+Values 0 0 A ACDFJ 0
+Level 0
+Weight 1000
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 557
+Name A black suit of armor~
+Short a black suit of armor~
+Desc A black suit of armor stands here~
+Material metal~
+Item_type portal
+Extra Y
+Extra2 0
+Wear 0
+Values 0 0 A ABDGJ 0
+Level 0
+Weight 1000
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 558
+Name a black suit of armor~
+Short a black suit of armor~
+Desc A black suit of armor stands here~
+Material metal~
+Item_type portal
+Extra 0
+Extra2 0
+Wear P
+Values 0 0 0 BDEFJ 0
+Level 0
+Weight 1000
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 559
+Name The helmet of destruction~
+Short the helmet of destruction~
+Desc The helmet of destruction lies here~
+Material metal~
+Item_type armor
+Extra Y
+Extra2 0
+Wear AE
+Values BE BE BE AE 0
+Level 50
+Weight 51
+Cost 54
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 560
+Name A black leather quiver~
+Short a black leather quiver~
+Desc A black leather quiver lies here~
+Material leather~
+Item_type quiver
+Extra Y
+Extra2 0
+Wear AR
+0 0 0 0 0
+Level 32
+Weight 33
+Cost 2000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 2
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 561
+Name The breastplate of destruction~
+Short the breastplate of destruction~
+Desc The breastplate of destruction lies here~
+Material metal~
+Item_type armor
+Extra Y
+Extra2 0
+Wear AD
+Values BE BE BE AE 0
+Level 50
+Weight 51
+Cost 54
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 562
+Name the sword of a black knight~
+Short the sword of a black knight~
+Desc The sword of a black knight lies here.~
+Material steel~
+Item_type weapon
+Extra Y
+Extra2 0
+Wear AN
+Values sword 4 12 slash E
+Level 35
+Weight 36
+Cost 2240
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 6
+AffectObj
+19 6
+EndObj
+
+#OBJ
+Vnum 563
+Name the guardians black helmet~
+Short the Guardians Black Helmet~
+Desc The Guardians Black Helmet lies here.~
+Material metal~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AE
+Values E E ABCD ABCD 0
+Level 40
+Weight 41
+Cost 44
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 564
+Name a black chestplate~
+Short {XA Black Chestplate~
+Desc {XA black chestplate lies here.~
+Material steel~
+Item_type armor
+Extra Y
+Extra2 0
+Wear AD
+Values AE E E ABCD 0
+Level 40
+Weight 41
+Cost 44
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+1 1
+EndObj
+
+#OBJ
+Vnum 565
+Name a pair of black gauntlets~
+Short a pair of black gauntlets~
+Desc A pair of black gauntlets lies here.~
+Material steel~
+Item_type armor
+Extra Y
+Extra2 0
+Wear AH
+Values BE E BE E 0
+Level 40
+Weight 41
+Cost 44
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 30
+AffectObj
+1 1
+AffectObj
+2 1
+EndObj
+
+#OBJ
+Vnum 566
+Name a black pair of boots~
+Short a black pair of boots~
+Desc A black pair of boots lie here.~
+Material steel~
+Item_type armor
+Extra Y
+Extra2 0
+Wear AG
+Values BE AE BE E 0
+Level 40
+Weight 41
+Cost 44
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+14 100
+AffectObj
+3 1
+AffectObj
+4 1
+EndObj
+
+#OBJ
+Vnum 567
+Name a black axe~
+Short a black axe~
+Desc A black axe lies here.~
+Material steel~
+Item_type weapon
+Extra Y
+Extra2 0
+Wear AN
+Values axe 5 11 slice ABE
+Level 40
+Weight 41
+Cost 2510
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 7
+AffectObj
+19 7
+AffectObj
+1 1
+AffectObj
+5 1
+EndObj
+
+#OBJ
+Vnum 568
+Name a dark blue breastplate~
+Short a dark blue breastplate~
+Desc A dark blue breastplate has been left here.~
+Material steel~
+Item_type armor
+Extra Y
+Extra2 0
+Wear AD
+Values AE E E ABCD 0
+Level 37
+Weight 38
+Cost 33
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+20 1
+EndObj
+
+#OBJ
+Vnum 569
+Name steel longsword~
+Short a steel longsword~
+Desc A steel longsword glows here~
+Material steel~
+Item_type weapon
+Extra AY
+Extra2 0
+Wear AN
+Values sword 5 11 slice EI
+Level 34
+Weight 35
+Cost 2095
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 4
+AffectObj
+19 4
+AffectObj
+12 25
+EndObj
+
+#OBJ
+Vnum 570
+Name hospital bed~
+Short a bed~
+Desc A bed is pushed up against the wall here.~
+Material unknown~
+Item_type furniture
+Extra Y
+Extra2 0
+Wear 0
+Values A DFGHIJ K A A
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 580
+Name easter egg~
+Short {Ra{Bn {Me{Ra{Bs{Mt{Re{Br {Me{Rg{Bg{X~
+Desc {Ra{Bn {Me{Ra{Bs{Mt{Re{Br {Me{Rg{Mg {Rl{Bi{Me{Rs {Bh{Me{Rr{Be {Mw{Ra{Bi{Mt{Ri{Bn{Mg {Rt{Bo {Mb{Re {Be{Ma{Rt{Be{Mn.{X~
+Material chocolate~
+Item_type food
+Extra Y
+Extra2 0
+Wear AO
+Values 0 A 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 584
+Name gift~
+Short {WGretago's {RGift{X~
+Desc {WGretago's {RGift {Wglows here.{X~
+Material godly metals and jewels~
+Item_type jewelry
+Extra ABGIY
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 151
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+gift~
+{WThis necklace is Gretago's {RGift{W.Gretago only gives this item to his {Rfriends {Wso they know that he cares about them.The chain is made from {Ygodly {Wme{wta{Wls and there is a {Ygodly {rje{bw{rel {Wat the bottom.The {rje{bw{rel {Wis {Rbeautiful {Wand has a magical symbol inside it.
+Etched onto the chain is the name {W-=Gretago=-.{X
+~
+AffectObj
+18 150
+AffectObj
+19 150
+AffectObj
+13 10000
+AffectObj
+12 10000
+AffectObj
+14 10000
+EndObj
+
+#OBJ
+Vnum 585
+Name guitar music~
+Short {WGretago's {RMighty {DGuitar {WOf {RMusic{X~
+Desc {WGretago's {RMighty {DGuitar {WOf {RMusic {Wlies here.{X~
+Material godly materials~
+Item_type instrument
+Extra ABGIY
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 158
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 586
+Name shield defense~
+Short {WGretago's {RMighty {DShield {WOf {RDefense{X~
+Desc {WGretago's {RMighty {DShield {WOf {RDefense {Wlies here.{X~
+Material godly metals~
+Item_type armor
+Extra ABGIY
+Extra2 0
+Wear AJ
+Values 0 0 0 0 0
+Level 158
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 587
+Name hood hiding~
+Short {WGretago's {RMighty {DHood {WOf {RHiding{X~
+Desc {WGretago's {RMighty {DHood {WOf {RHiding {Wlies here.{X~
+Material godly materials~
+Item_type armor
+Extra ABGIY
+Extra2 0
+Wear AX
+Values 0 0 0 0 0
+Level 158
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 32500
+AffectObj
+13 32500
+AffectObj
+12 32500
+AffectObj
+14 32500
+EndObj
+
+#OBJ
+Vnum 588
+Name armplates detection~
+Short {WGretago's {RMighty {DArmplates {WOf {RDetection{X~
+Desc {WGretago's {RMighty {DArmplates {WOf {RDetection {Wlie here.{X~
+Material godly metals~
+Item_type armor
+Extra ABGIY
+Extra2 0
+Wear AI
+Values A A A A 0
+Level 158
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+14 32000
+AffectObj
+13 32000
+AffectObj
+12 32000
+EndObj
+
+#OBJ
+Vnum 589
+Name cloak invisibility~
+Short {WGretago's {RMighty {DCloak {WOf {RInvisibility{X~
+Desc {WGretago's {RMighty {DCloak {WOf {RInvisibility {Whums here.{X~
+Material godly materials~
+Item_type armor
+Extra ABGIY
+Extra2 0
+Wear AS
+Values A A A A 0
+Level 158
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+14 32500
+AffectObj
+19 100
+AffectObj
+24 100
+EndObj
+
+#OBJ
+Vnum 590
+Name helmet destruction~
+Short {WGretago's {RMighty {DHelmet {WOf {RDestruction{X~
+Desc {WGretago's {RMighty {DHelmet {WOf {RDestruction {Wlies here.{X~
+Material godly metals~
+Item_type armor
+Extra ABGIY
+Extra2 0
+Wear AE
+Values A A A A 0
+Level 158
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 32500
+AffectObj
+13 32500
+AffectObj
+12 32500
+AffectObj
+12 32500
+AffectObj
+12 32500
+AffectObj
+14 32500
+AffectObj
+14 32500
+AffectObj
+27 30000
+EndObj
+
+#OBJ
+Vnum 591
+Name necklace knowledge~
+Short {WGretago's {RMighty {DNecklace {WOf {RKnowledge{X~
+Desc {WGretago's {RMighty {DNecklace {WOf {RKnowledge {Wglows here.{X~
+Material godly metals~
+Item_type jewelry
+Extra ABGIY
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 158
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 100
+AffectObj
+18 100
+AffectObj
+12 1000
+EndObj
+
+#OBJ
+Vnum 592
+Name bracer devastation~
+Short {WGretago's {RMighty {DBracer {WOf {RDevastation{X~
+Desc {WGretago's {RMighty {DBracer {WOf {RDevastation {Wlies here.{X~
+Material godly metals~
+Item_type armor
+Extra ABGIY
+Extra2 0
+Wear AM
+Values 0 0 0 0 0
+Level 158
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+14 27000
+AffectObj
+12 27000
+AffectObj
+13 27000
+EndObj
+
+#OBJ
+Vnum 593
+Name gauntlets force~
+Short {WGretago's {RMighty {DGauntlets {WOf {RForce{X~
+Desc {WGretago's {RMighty {DGauntlets {WOf {RForce {Whum here.{X~
+Material godly metals~
+Item_type armor
+Extra ABGIY
+Extra2 0
+Wear AH
+Values A A A A 0
+Level 158
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+26 10000
+AffectObj
+13 1000
+EndObj
+
+#OBJ
+Vnum 594
+Name ring learning~
+Short {WGretago's {RMighty {DRing {WOf {RLearning{X~
+Desc {WGretago's {RMighty {DRing {WOf {RLearning {Wglows here.{X~
+Material godly metals and diamonds~
+Item_type jewelry
+Extra ABGIY
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 158
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+20 10
+EndObj
+
+#OBJ
+Vnum 595
+Name belt wisdom~
+Short {WGretago's {RMighty {DBelt {WOf {RWisdom{X~
+Desc {WGretago's {RMighty {DBelt {WOf {RWisdom {Whums here.{X~
+Material godly metals~
+Item_type none
+Extra ABGIY
+Extra2 0
+Wear AL
+Values 0 0 0 0 0
+Level 158
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 1000
+AffectObj
+14 1000
+AffectObj
+13 1000
+AffectObj
+4 1
+EndObj
+
+#OBJ
+Vnum 596
+Name legplates protection~
+Short {WGretago's {RMighty {DLegplates {WOf {RProtection{X~
+Desc {WGretago's {RMighty {DLegplates {WOf {RProtection {Wlie here.{X~
+Material godly metals~
+Item_type armor
+Extra ABGIY
+Extra2 0
+Wear AF
+Values A A A A 0
+Level 158
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1000
+AffectObj
+19 1000
+AffectObj
+14 32500
+AffectObj
+12 32500
+AffectObj
+13 32500
+EndObj
+
+#OBJ
+Vnum 597
+Name breastplate strength~
+Short {WGretago's {RMighty {DBreastplate {WOf {RStrength{X~
+Desc {WGretago's {RMighty {DBreastplate {WOf {RStrength {Wglows here.{X~
+Material godly metals~
+Item_type armor
+Extra ABGIY
+Extra2 0
+Wear AD
+Values A A A A 0
+Level 158
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+1 25
+AffectObj
+14 32500
+AffectObj
+14 32500
+AffectObj
+12 32500
+AffectObj
+12 32500
+AffectObj
+13 32500
+AffectObj
+13 32500
+EndObj
+
+#OBJ
+Vnum 598
+Name boots agility~
+Short {WGretago's {RMighty {DBoots {WOf {RAgility{X~
+Desc {WGretago's {RMighty {DBoots {WOf {RAgility {Wlie here.{X~
+Material steel~
+Item_type armor
+Extra ABGIY
+Extra2 0
+Wear AG
+Values DFGHIJ DFGHIJ DFGHIJ DFGHIJ 0
+Level 158
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 32500
+AffectObj
+12 32500
+AffectObj
+14 32500
+AffectObj
+14 32500
+AffectObj
+13 32500
+AffectObj
+13 32500
+AffectObj
+18 10000
+AffectObj
+19 10000
+AffectObj
+20 1000
+EndObj
+
+#OBJ
+Vnum 599
+Name sword power~
+Short {WGretago's {RMighty {DSword {WOf {RPower{X~
+Desc {WGretago's {RMighty {DSword {WOf {RPower {Wis stuck in the ground.{X~
+Material prism gold~
+Item_type weapon
+Extra ABGIY
+Extra2 0
+Wear AN
+Values sword 19 19 slash ABCEGHI
+Level 158
+Weight 20
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+17 -30784
+AffectObj
+5 25
+AffectObj
+1 25
+AffectObj
+4 25
+AffectObj
+2 25
+AffectObj
+3 25
+AffectObj
+20 1000
+AffectObj
+18 10000
+AffectObj
+19 10000
+AffectObj
+14 32500
+AffectObj
+14 32500
+AffectObj
+12 32500
+AffectObj
+12 32500
+AffectObj
+13 32500
+AffectObj
+13 32500
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 550
+Name Before a Castle~
+Desc At the end of the worn forest path looms a big black castle made out of
+stone.  Theres an old sign with letters on it that spell out Danger Beware. 
+The castle gives off and eerie feeling.  Who knows what lies beyond these
+castle gates.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+gate~
+0
+551
+AB
+Exit
+2
+~
+~
+0
+3528
+0
+EndRoom
+
+#ROOM
+Vnum 551
+Name A Dark Hallway~
+Desc This is the first room of the castle.  The walls are made of stone and
+there is a red carpet going along the floor.  There are two candles mounted
+on each of the two walls.  The south leads outside of the castle and the
+north leads further into the castle.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+561
+0
+Exit
+2
+~
+gate~
+0
+550
+AB
+EndRoom
+
+#ROOM
+Vnum 552
+Name A Dark Hallway~
+Desc This is a dark hallway within the castle.  The walls are made of stone
+and there is a red carpet going along the floor.  There is an old rotting
+table on the floor near the northern wall.  The dark hallway continues in
+both directions.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+553
+0
+Exit
+3
+~
+~
+0
+561
+0
+EndRoom
+
+#ROOM
+Vnum 553
+Name A Dark Hallway~
+Desc This is a dark hallway within the castle.  The walls are made of stone
+and there is a red carpet going along the floor.  There are a few old bones
+on the floor near the southern wall.  The dark hallway is to the west and
+below the guard tower is to the east.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+593
+0
+Exit
+1
+~
+~
+0
+554
+0
+Exit
+3
+~
+~
+0
+552
+0
+EndRoom
+
+#ROOM
+Vnum 554
+Name Below a Guard Tower~
+Desc Below the southeastern guard tower the walls are made of stone and there
+is a red carpet going along the floor.  There are some stone steps leading
+up to the guard tower.  On the floor up against the eastern wall is a skull
+of a person surrounded by a couple of bones.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+556
+0
+Exit
+3
+~
+~
+0
+553
+0
+Exit
+4
+~
+~
+0
+555
+0
+EndRoom
+
+#ROOM
+Vnum 555
+Name Top of a Guard Tower~
+Desc At the top of the southeastern guard tower there is a great view of the
+whole castle and the surrounding area, making it alot easier to defend the
+castle.  This is where the castle archers stand and look for intruders. 
+There are some stone steps that are leading downwards.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+~
+~
+0
+554
+0
+EndRoom
+
+#ROOM
+Vnum 556
+Name A Dark Hallway~
+Desc This is a dark hallway within the castle.  The walls are made of stone
+and there is a red carpet going along the floor.  There is an old rusty
+piece of armor on the floor touching the western wall.  Below the guard
+tower is to the south and the dark hallway is north.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+557
+0
+Exit
+2
+~
+~
+0
+554
+0
+EndRoom
+
+#ROOM
+Vnum 557
+Name A Dark Hallway~
+Desc The walls are made out of stone and so is the floor.  There is a red
+carpet going along the floor.  The walls have paintings of fighters and
+knights.  Also propped up against the eastern wall there is a black suit of
+armor.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+558
+0
+Exit
+2
+~
+~
+0
+556
+0
+Exit
+3
+~
+~
+0
+580
+0
+EndRoom
+
+#ROOM
+Vnum 558
+Name A Dark Hallway~
+Desc This is a dark hallway within the castle.  The walls are made of stone
+and there is a red carpet going along the floor.  There is a little pile of
+pebbles on the floor up against the eastern wall.  The dark hallway is to
+the south and below the guard tower is to the north.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+559
+0
+Exit
+2
+~
+~
+0
+557
+0
+EndRoom
+
+#ROOM
+Vnum 559
+Name Below a Guard Tower~
+Desc Below the northeastern guard tower the walls are made of stone and there
+is a red carpet going along the floor.  There are some stone steps leading
+up to the guard tower.  There is a part off an old table rotting on the
+floor near the eastern wall.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+558
+0
+Exit
+3
+~
+~
+0
+562
+0
+Exit
+4
+~
+~
+0
+560
+0
+EndRoom
+
+#ROOM
+Vnum 560
+Name Top of a Guard Tower~
+Desc At the top of the northeastern guard tower there is a great view of the
+whole castle and the surrounding area, making it alot easier to defend the
+castle.  This is where the castle archers stand and look for intruders. 
+There are some stone steps that are leading downwards.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+~
+~
+0
+559
+0
+EndRoom
+
+#ROOM
+Vnum 561
+Name A Dark Hallway~
+Desc This is a dark hallway within the castle.  The walls are made of stone
+and there is a red carpet going along the floor.  There is a slight crack in
+the ceiling.  The dark hallway continues in all directions.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+576
+0
+Exit
+1
+~
+~
+0
+552
+0
+Exit
+2
+~
+~
+0
+551
+0
+Exit
+3
+~
+~
+0
+575
+0
+EndRoom
+
+#ROOM
+Vnum 562
+Name A Dark Hallway~
+Desc The walls are made out of stone and so is the floor.  There is a red
+carpet going along the floor.  There is an old piece of wood leaning up
+against the northern wall.  Below the guard tower is to the east and the
+dark hallway continues to the west.  The jousting arena is to the south.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+559
+0
+Exit
+2
+~
+~
+0
+589
+0
+Exit
+3
+~
+~
+0
+563
+0
+EndRoom
+
+#ROOM
+Vnum 563
+Name A Dark Hallway~
+Desc The walls are made out of stone and so is the floor.  There is a red
+carpet going along the floor.  There are some parts of an old helmet on the
+floor near the southern wall.  The dark hallway continues in both
+directions.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+562
+0
+Exit
+3
+~
+~
+0
+564
+0
+EndRoom
+
+#ROOM
+Vnum 564
+Name A Dark Hallway~
+Desc This is a dark hallway within the castle.  The walls are made out of
+stone and so is the floor.  There is a red carpet going along the floor. 
+There is a small crack on the northern wall.  The dark hallway continues in
+all three directions.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+563
+0
+Exit
+2
+~
+~
+0
+578
+0
+Exit
+3
+~
+~
+0
+565
+0
+EndRoom
+
+#ROOM
+Vnum 565
+Name A Dark Hallway~
+Desc The walls are made out of stone and so is the floor.  There is a red
+carpet going along the floor.  There is an old skull surrounded by some
+bones on the floor near the northern wall.  The dark hallway continues in
+both directions.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+564
+0
+Exit
+3
+~
+~
+0
+566
+0
+EndRoom
+
+#ROOM
+Vnum 566
+Name A Dark Hallway~
+Desc The walls are made out of stone and so is the floor.  There is a red
+carpet going along the floor.  There is a small crack on the ceiling.  Below
+the guard tower is to the west and the dark hallway continues to the east. 
+The knights quarters are to the south.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+565
+0
+Exit
+2
+~
+~
+0
+591
+0
+Exit
+3
+~
+~
+0
+567
+0
+EndRoom
+
+#ROOM
+Vnum 567
+Name Below a Guard Tower~
+Desc Below the northwestern guard tower the walls are made of stone and there
+is a red carpet going along the floor.  There are some stone steps leading
+up to the guard tower.  There is a leg off an old wooden table rotting on
+the floor near the northern wall.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+566
+0
+Exit
+2
+~
+~
+0
+569
+0
+Exit
+4
+~
+~
+0
+568
+0
+EndRoom
+
+#ROOM
+Vnum 568
+Name Top of a Guard Tower~
+Desc At the top of the northwestern guard tower there is a great view of the
+whole castle and the surrounding area, making it alot easier to defend the
+castle.  This is where the castle archers stand and look for intruders. 
+There are some stone steps that are leading downwards.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+~
+~
+0
+567
+0
+EndRoom
+
+#ROOM
+Vnum 569
+Name A Dark Hallway~
+Desc This is a dark hallway within the castle.  The walls are made out of
+stone and so is the floor.  There is a red carpet going along the floor. 
+There is an old piece of rotting wood on the floor near the western wall. 
+Below the guard tower is to the north and the dark hallway continues to the
+south.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+567
+0
+Exit
+2
+~
+~
+0
+570
+0
+EndRoom
+
+#ROOM
+Vnum 570
+Name A Dark Hallway~
+Desc The walls are made out of stone and so is the floor.  There is a red
+carpet going along the floor.  The walls have paintings of fighters and
+knights.  Also propped up against the western wall there is a black suit of
+armor.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+569
+0
+Exit
+1
+~
+~
+0
+582
+0
+Exit
+2
+~
+~
+0
+571
+0
+EndRoom
+
+#ROOM
+Vnum 571
+Name A Dark Hallway~
+Desc This is a dark hallway within the castle.  The walls are made of stone
+and there is a red carpet going along the floor.  There is an old broken
+piece of armor on the floor near the eastern wall.  The dark hallway
+continues in both directions.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+570
+0
+Exit
+2
+~
+~
+0
+572
+0
+EndRoom
+
+#ROOM
+Vnum 572
+Name Below a Guard Tower~
+Desc Below the southwestern guard tower the walls are made of stone and there
+is a red carpet going along the floor.  There are some stone steps leading
+up to the guard tower.  There is a crack in the western wall that goes from
+the floor up half of the wall.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+571
+0
+Exit
+1
+~
+~
+0
+574
+0
+Exit
+4
+~
+~
+0
+573
+0
+EndRoom
+
+#ROOM
+Vnum 573
+Name Top of a Guard Tower~
+Desc At the top of the southwestern guard tower there is a great view of the
+whole castle and the surrounding area, making it alot easier to defend the
+castle.  This is where the castle archers stand and look for intruders. 
+There are some stone steps that are leading downwards.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+~
+~
+0
+572
+0
+EndRoom
+
+#ROOM
+Vnum 574
+Name A Dark Hallway~
+Desc This is a dark hallway within the castle.  The walls are made of stone
+and there is a red carpet going along the floor.  There is an old table leg
+rotting on the floor near the southern wall.  The west leads to below the
+guard tower and the east leads to the dark hallway.  The castle armory is to
+the north.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+592
+0
+Exit
+1
+~
+~
+0
+575
+0
+Exit
+3
+~
+~
+0
+572
+0
+EndRoom
+
+#ROOM
+Vnum 575
+Name A Dark Hallway~
+Desc This is a dark hallway within the castle.  The walls are made of stone
+and there is a red carpet going along the floor.  There are a few old bones
+on the floor near the southern wall.  The dark hallway continues to the east
+and the west.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+561
+0
+Exit
+3
+~
+~
+0
+574
+0
+EndRoom
+
+#ROOM
+Vnum 576
+Name A Dark Hallway~
+Desc This is a dark hallway within the castle.  The walls are made of stone
+and there is a red carpet going along the floor.  There is a painting of a
+famous knight on the western wall.  The dark hallway continues to the south
+and the north leads to the center of the castle.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+577
+0
+Exit
+2
+~
+~
+0
+561
+0
+EndRoom
+
+#ROOM
+Vnum 577
+Name Center of the Castle~
+Desc This is the center of the castle.  At the center of the room there is a
+black marble fountain that flows with water.  The red carpet comes to an end
+around the fountain.  The four exits lead back to the dark hallways of the
+castle.  
+~
+Room_flags 67109888
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+578
+0
+Exit
+1
+~
+~
+0
+579
+0
+Exit
+2
+~
+~
+0
+576
+0
+Exit
+3
+~
+~
+0
+581
+0
+EndRoom
+
+#ROOM
+Vnum 578
+Name A Dark Hallway~
+Desc The walls are made out of stone and so is the floor.  There is a red
+carpet going along the floor.  There are a few old bones on the floor next
+to the western wall.  The center of the castle is to the south and the dark
+hallway continues to the north.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+564
+0
+Exit
+2
+~
+~
+0
+577
+0
+EndRoom
+
+#ROOM
+Vnum 579
+Name A Dark Hallway~
+Desc This is a dark hallway within the castle.  The walls are made of stone
+and there is a red carpet going along the floor.  There is a picture of a
+black knight wearing a full set of armor on the northern wall.  The center
+of the castle is to the west and the dark hallway is to the east.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+580
+0
+Exit
+3
+~
+~
+0
+577
+0
+EndRoom
+
+#ROOM
+Vnum 580
+Name A Dark Hallway~
+Desc This is a dark hallway within the castle.  The walls are made of stone
+and there is a red carpet going along the floor.  There is an old piece from
+a swords blade on the floor near the southern wall.  The dark hallway
+continues in both directions.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+557
+0
+Exit
+3
+~
+~
+0
+579
+0
+EndRoom
+
+#ROOM
+Vnum 581
+Name A Dark Hallway~
+Desc This is a dark hallway within the castle.  The walls are made of stone
+and there is a red carpet going along the floor.  There is a piece of an old
+sword on the floor near the southern wall.  The castle hallway is back to
+the west and the center of the castle is to the east.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+577
+0
+Exit
+3
+~
+~
+0
+582
+0
+EndRoom
+
+#ROOM
+Vnum 582
+Name A Dark Hallway~
+Desc This is a dark hallway within the castle.  The walls are made of stone
+and there is a red carpet going along the floor.  There is a picture of a
+warrior in full armor on the northern wall.  The dark hallway continues in
+both directions.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+581
+0
+Exit
+3
+~
+~
+0
+570
+0
+EndRoom
+
+#ROOM
+Vnum 583
+Name A secret passage~
+Desc This is a secret passage within the castle.  The walls are made out of
+stone and so is the floor.  There is a red carpet going along the floor. 
+There is a black suit of armor propped up against the western wall.  The
+secret passage continues to the east.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+584
+0
+EndRoom
+
+#ROOM
+Vnum 584
+Name Along a secret passage~
+Desc This is a secret passage within the castle.  The walls are made out of
+stone and so is the floor.  There is a red carpet going along the floor. 
+There is a pile of old bones on the floor next to the northern wall.  The
+secret passage continues in both directions.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+585
+0
+Exit
+3
+~
+~
+0
+583
+0
+EndRoom
+
+#ROOM
+Vnum 585
+Name Along a secret passage~
+Desc This is a secret passage within the castle.  The walls are made out of
+stone and so is the floor.  There is a red carpet going along the floor. 
+There is an old piece of rotting wood on the floor near the southern wall. 
+The secret passage continues to the west and the chest room is to the east. 
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+586
+0
+Exit
+3
+~
+~
+0
+584
+0
+EndRoom
+
+#ROOM
+Vnum 586
+Name The chest room~
+Desc This is the chest room.  The walls are made out of stone and so is the
+floor.  There is a red carpet going along the floor.  In the center of the
+room is a locked black chest.  Also there are two candles mounted on the
+eastern wall.  The secret passage is to the west.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+585
+0
+EndRoom
+
+#ROOM
+Vnum 587
+Name A secret passage~
+Desc This is a secret passage within the castle.  The walls are made out of
+stone and so is the floor.  There is a red carpet going along the floor. 
+There is a black suit of armor propped up against the eastern wall.  There
+is a smell of blood coming in from the west.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+588
+0
+EndRoom
+
+#ROOM
+Vnum 588
+Name The masters room~
+Desc This is the masters room.  The walls are made out of stone and so is the
+floor.  There is a red carpet going along the floor.  There are blood stains
+all over the walls and bones of people who have been slain by the master of
+all dark knights.  The secret passage is to the east.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+587
+0
+EndRoom
+
+#ROOM
+Vnum 589
+Name Jousting Arena~
+Desc This is where the knights test there skills and abilities against each
+other.  They learn from there battles and try to make improvements on there
+skills and weapons.  The floor and walls are covered in blood stains.  
+~
+Room_flags 83886080
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+562
+0
+Exit
+2
+~
+~
+0
+590
+0
+EndRoom
+
+#ROOM
+Vnum 590
+Name Jousting Arena~
+Desc This is where the knights test there skills and abilities against each
+other.  They learn from there battles and try to make improvements on there
+skills and weapons.  The floor and walls are covered in blood stains and in
+the corner there is a broken piece of armor.  
+~
+Room_flags 83886080
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+589
+0
+EndRoom
+
+#ROOM
+Vnum 591
+Name Knights Quarters~
+Desc This room is full of beds.  Clearly this is where the knights of the
+castle sleep.  There are a few cupboards scattered about the room where the
+knights can put there things.  Next to each bed there is a table that has a
+lamp on it.  The north exit leads back to the hallways of the castle 
+~
+Room_flags 67109888
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+566
+0
+EndRoom
+
+#ROOM
+Vnum 592
+Name The Castle Armory~
+Desc This is the castle armory.  The walls are lined with weapons and pieces
+of armor that the knights of the castle wear and use.  At the far end of the
+room there is a case, inside the case there is a big black lance.  It must
+be very special.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+574
+0
+EndRoom
+
+#ROOM
+Vnum 593
+Name The Infirmary~
+Desc This is the castles infirmary where all the sick and injured people come.
+Beds line the east and west wall and a few of them have people sleeping or
+resting on them.  There are doctors and nurses going round healing people. 
+The ceiling is painted white and there is a red carpet on the floor.  The
+dark hallway is to the south.  
+~
+Room_flags 67109888
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+553
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 550 0 1
+D 0 551 2 1
+M 0 556 3 552 3
+E 0 569 0 23
+M 0 552 6 553 3
+E 0 562 0 23
+M 0 550 12 555 3
+E 0 550 0 23
+E 0 560 0 8
+M 0 550 12 555 3
+E 0 550 0 23
+E 0 560 0 8
+M 0 550 12 555 3
+E 0 550 0 23
+E 0 560 0 8
+M 0 554 7 556 3
+E 0 568 0 17
+O 0 552 0 557
+M 0 552 4 558 3
+E 0 562 0 23
+M 0 554 1 559 3
+E 0 568 0 17
+M 0 550 12 560 3
+E 0 550 0 23
+E 0 560 0 8
+M 0 550 12 560 3
+E 0 550 0 23
+E 0 560 0 8
+M 0 550 12 560 3
+E 0 550 0 23
+E 0 560 0 8
+M 0 556 6 561 3
+E 0 569 0 23
+M 0 556 4 563 3
+E 0 569 0 23
+M 0 552 3 564 3
+E 0 562 0 23
+M 0 554 2 565 3
+E 0 568 0 17
+M 0 552 9 566 3
+E 0 562 0 23
+M 0 556 5 567 3
+E 0 569 0 23
+M 0 550 12 568 3
+E 0 550 0 23
+E 0 560 0 8
+M 0 550 12 568 3
+E 0 550 0 23
+E 0 560 0 8
+M 0 550 12 568 3
+E 0 550 0 23
+E 0 560 0 8
+M 0 552 1 569 3
+E 0 562 0 23
+O 0 557 0 570
+M 0 554 3 571 3
+E 0 568 0 17
+M 0 556 2 572 3
+E 0 569 0 23
+M 0 550 12 573 3
+E 0 550 0 23
+E 0 560 0 8
+M 0 550 12 573 3
+E 0 550 0 23
+E 0 560 0 8
+M 0 550 12 573 3
+E 0 550 0 23
+E 0 560 0 8
+M 0 552 8 574 3
+E 0 562 0 23
+M 0 554 4 575 3
+E 0 568 0 17
+M 0 552 7 576 3
+E 0 562 0 23
+O 0 551 0 577
+M 0 554 5 578 3
+E 0 568 0 17
+M 0 554 6 579 3
+E 0 568 0 17
+M 0 552 5 580 3
+E 0 562 0 23
+M 0 552 2 581 3
+E 0 562 0 23
+M 0 556 1 582 3
+E 0 569 0 23
+O 0 556 0 583
+P 0 565 1 553 1
+P 0 566 1 553 1
+P 0 567 1 553 1
+M 0 553 1 586 1
+E 0 563 0 2
+G 0 554 0
+O 0 553 0 586
+P 0 565 1 553 1
+P 0 566 1 553 1
+P 0 567 1 553 1
+O 0 558 0 587
+M 0 551 1 588 3
+E 0 555 0 23
+E 0 559 0 2
+E 0 561 0 17
+M 0 555 1 593 3
+O 0 570 0 593
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,1196 @@
+#AREADATA
+Name Mob Factory~
+Builders None~
+VNUMs 9400 9499
+Credits { 5 15} PinkF   Mob Factory~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 9401
+Name oldstyle fido mutant dog~
+Short The mutant beastly fido~
+Long The mutant beastly fido is here, his eyes glowing green!
+~
+Description You see a mutant beastly fido, glaring at you with green eyes!  You wonder if
+this factory meets ASPCA guidlines....
+~
+Race fido~
+Act_flags AFGH
+Aff D
+Align -700
+Group 0
+Level 6
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 3d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res 0
+Vuln C
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form ABGV
+Parts ACDEFHJKQV
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9402
+Name oldstyle foreman floyd~
+Short Foreman Floyd~
+Long Foreman Floyd is here, making plans for the factory's future.
+~
+Description You see Foreman Floyd of the Mob factory -- a sterling example of what comes
+of dedicated Mudding!  Rewarded for his years of dedication as a monster
+slayer, Floyd now creates the beasts for other adventurers to fight.
+~
+Race human~
+Act_flags ABG
+Aff DFH
+Align 2
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 6d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor 0 0 0 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos stand
+Sex male
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9403
+Name oldstyle cityguard guard head~
+Short The Cityguard head~
+Long The Cityguard head floats around aimlessly.
+~
+Description You see a Cityguard head floating around without a care in the world.
+Obviously, this one got past quality control!  Careful, those teeth look
+sharp...
+~
+Race unique~
+Act_flags AG
+Aff T
+Align 0
+Group 0
+Level 9
+Hitroll 0
+Hit_dice 2d6+110
+Mana_dice 4d9+100
+Dam_dice 1d8+2
+Dam_type none
+Armor 2 2 2 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHV
+Parts AEJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9404
+Name oldstyle revolving drunk~
+Short The revolving drunk~
+Long The Revolving drunk is here, spinning in place.
+~
+Description You see and smell a drunk who looks much like other drunks...but he is spinning
+in place!  Someone should tell him that he is a REVOLTING drunk.
+~
+Race human~
+Act_flags ACGH
+Aff 0
+Align 1
+Group 0
+Level 2
+Hitroll 0
+Hit_dice 2d7+21
+Mana_dice 1d9+100
+Dam_dice 1d5+0
+Dam_type none
+Armor 8 8 8 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 2
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9405
+Name oldstyle toxic slime~
+Short The toxic slime~
+Long A pool of toxic slime lies on  the floor.
+~
+Description Yick.  Looks like someone had digestion problems!  Either that, or the 
+hydraulic fluid is leaking again.
+~
+Race human~
+Act_flags ABC
+Aff 0
+Align 0
+Group 0
+Level 4
+Hitroll 0
+Hit_dice 2d7+46
+Mana_dice 2d9+100
+Dam_dice 1d5+1
+Dam_type none
+Armor 6 6 6 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos sit
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9406
+Name oldstyle worker~
+Short The factory worker~
+Long A Mob Factory worker is standing here, looking bored.
+~
+Description The worker wears a bright orange pair of overalls, with the words "Mob
+Factory" written in a bright purple starburst.  Fashion plate, he's not.
+~
+Race human~
+Act_flags AGH
+Aff 0
+Align 100
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d6+35
+Mana_dice 1d9+100
+Dam_dice 1d6+0
+Dam_type none
+Armor 7 7 7 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 2
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9407
+Name oldstyle worker~
+Short The factory worker~
+Long A Mob Factory worker is here, asleep in a chair.
+~
+Description If Floyd walks in, you can bet there'll be trouble.  Guess she shouldn't have
+worked the late shift!
+~
+Race human~
+Act_flags ABH
+Aff 0
+Align 150
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d6+35
+Mana_dice 1d9+100
+Dam_dice 1d6+0
+Dam_type none
+Armor 7 7 7 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sleep
+Default_pos sit
+Sex female
+Wealth 3
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 9400
+Name Entrance to the Mob Factory~
+Desc You find that you have entered a strange factory. This factory doesn't
+make cars or computers or something - it makes mobs! The sound of
+machinery can be heard in the background; the grinding gears drive you
+crazy! To the north you see the storage area, to the south the
+foreman's office, to the east the entrance hallway, and to the west the
+familiar paving of wall road.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+9401
+0
+Exit
+1
+~
+~
+0
+9407
+0
+Exit
+2
+~
+~
+0
+9403
+0
+Exit
+3
+~
+~
+0
+3047
+0
+EndRoom
+
+#ROOM
+Vnum 9401
+Name Mob Factory Storage Area~
+Desc This is where the raw materials from which mobs are manufactured are
+stored. You see sacks of sawdust, cans of pink paint, a large box
+containing wigs and a bottle mysteriously labelled "solution x". Exits
+are more of storage to the east and north, and entrance to the mob
+factory to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+9402
+0
+Exit
+1
+~
+~
+0
+9406
+0
+Exit
+2
+~
+~
+0
+9400
+0
+EndRoom
+
+#ROOM
+Vnum 9402
+Name Mob Factory Storage Area~
+Desc This is where the raw materials from which mobs are manufactured are
+stored. You see sacks of sawdust, cans of pink paint, a large box
+containing wigs and a bottle mysteriously labelled "solution X". Exits
+are more of storage to the east and south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+9405
+0
+Exit
+2
+~
+~
+0
+9401
+0
+EndRoom
+
+#ROOM
+Vnum 9403
+Name Foreman's Office~
+Desc This is the office of the mob factory foreman. The room is sparsely
+furnished with a metal desk, a couple of chairs, a shelf with helmets
+of various sizes and a Sports Illustrated Swimsuit calendar on the west
+wall. Exits lead north to the mob factory entrance and south to the
+foreman's bathroom.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+9400
+0
+Exit
+2
+~
+~
+0
+9404
+0
+EndRoom
+
+#ROOM
+Vnum 9404
+Name Foreman's Bathroom~
+Desc This is the place where the foreman makes frequent visits. The smell
+here is very strong and reminds you of bovine excrement! There is a
+shower to the back, and a urinal to the left. On the floor you can
+see stains of a very suspicious nature. The only exit leads north to
+the foreman's office.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+9403
+0
+EndRoom
+
+#ROOM
+Vnum 9405
+Name Mob Factory Storage Area~
+Desc This is where the raw materials from which mobs are manufactured are
+stored. You see sacks of sawdust, cans of pink paint, a large box
+containing wigs and a bottle mysteriously labelled "solution X". Exits
+are more of storage to the west and south, and an inspection room to
+the east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+9410
+0
+Exit
+2
+~
+~
+0
+9406
+0
+Exit
+3
+~
+~
+0
+9402
+0
+EndRoom
+
+#ROOM
+Vnum 9406
+Name Mob Factory Storage Area~
+Desc This is where the raw materials from which mobs are manufactured are
+stored. You see sacks of sawdust, cans of pink paint, a large box
+containing wigs and a bottle mysteriously labelled "solution X". Exits
+are more of storage to the west and north, an inspection room to the
+east and the entrance hallway to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+9405
+0
+Exit
+1
+~
+~
+0
+9411
+0
+Exit
+2
+~
+~
+0
+9407
+0
+Exit
+3
+~
+~
+0
+9401
+0
+EndRoom
+
+#ROOM
+Vnum 9407
+Name Entrance Hallway to Mob Factory~
+Desc You are standing in the entrance hallway of the mob factory. The sound
+of machinery gets louder now, and you can hear people shouting in the
+distance. Every once in a while you get creepy feeling that a pair of
+eyes is observing you...... Exits are north to the storage area, east
+to the entrance hallway, south to the cafeteria and west to the mob
+factory entrance.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+9406
+0
+Exit
+1
+~
+~
+0
+9412
+0
+Exit
+2
+~
+~
+0
+9408
+0
+Exit
+3
+~
+~
+0
+9400
+0
+EndRoom
+
+#ROOM
+Vnum 9408
+Name Mob Factory Cafeteria~
+Desc You find that you have entered the cafeteria of the mob factory. There
+are many workers eating at the numerous tables placed around the room.
+The food doesn't look too appetising, but the factory workers don't
+seem to care. There are many places where food and drink have been
+spilled on the ground. Exits are north to the entrance hallway and
+south to the mob factory cafeteria.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+9407
+0
+Exit
+2
+~
+~
+0
+9409
+0
+EndRoom
+
+#ROOM
+Vnum 9409
+Name Mob Factory Cafeteria~
+Desc You find that you have entered the cafeteria of the mob factory. There
+are many workers eating at the numerous tables placed around the room.
+The food doesn't look too appetising, but the factory workers don't
+seem to care. There are many places where food and drink have been
+spilled on the ground. The only exit is north to the mob factory
+cafeteria.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+9408
+0
+EndRoom
+
+#ROOM
+Vnum 9410
+Name Mob Factory Inspection Room~
+Desc You have entered the mob factory inspections room. This is where the
+mobs manufactured on the assembly lines are inspected for defects. A
+whole team of inspectors from the Midgaard Inspections Bureau is
+standing around, trying to look busy. Exits are south to the mob
+factory inspection room, east to the primary assembly line and west to
+the storage area.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+9415
+0
+Exit
+2
+~
+~
+0
+9411
+0
+Exit
+3
+~
+~
+0
+9405
+0
+EndRoom
+
+#ROOM
+Vnum 9411
+Name Mob Factory Inspection Room~
+Desc You have entered the mob factory inspections room. This is where the
+mobs manufactured on the assembly lines are inspected for defects. A
+whole team of inspectors from the Midgaard Inspections Bureau is
+standing around, trying to look busy. Exits are south to the mob
+factory inspection room, east to the primary assembly line and west to
+the storage area.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+9410
+0
+Exit
+1
+~
+~
+0
+9416
+0
+Exit
+2
+~
+~
+0
+9412
+0
+Exit
+3
+~
+~
+0
+9406
+0
+EndRoom
+
+#ROOM
+Vnum 9412
+Name Entrance Hallway to Mob Factory~
+Desc You are standing in the entrance hallway of the mob factory. The sound
+of machinery gets louder now, and you can hear people shouting in the
+distance. Every once in a while you get creepy feeling that a pair of
+eyes is observing you...... Exits are north to the inspection room,
+east to the primary assembly line, south to the reject room and west
+to the entrance hallway.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+9411
+0
+Exit
+1
+~
+~
+0
+9417
+0
+Exit
+2
+~
+~
+0
+9413
+0
+Exit
+3
+~
+~
+0
+9407
+0
+EndRoom
+
+#ROOM
+Vnum 9413
+Name Mob Factory Reject Room~
+Desc This is the factory reject room. All the mobs that are manufactured
+incorrectly or have some defect are placed here before subsequent
+destruction. You shudder at the many deformed and grotesque shapes
+present before you. Exits are south to the reject room and north to
+the entrance hallway.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+9412
+0
+Exit
+2
+~
+~
+0
+9414
+0
+EndRoom
+
+#ROOM
+Vnum 9414
+Name Mob Factory Reject Room~
+Desc This is the factory reject room. All the mobs that are manufactured
+incorrectly or have some defect are placed here before subsequent
+destruction. You shudder at the many deformed and grotesque shapes
+present before you. The only exit is north to the reject room.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+9413
+0
+EndRoom
+
+#ROOM
+Vnum 9415
+Name Primary Assembly Line~
+Desc This is the primary assembly line of the mob factory. Here, all the
+mobs seen roaming around the city of Midgaard are manufactured from
+raw materials. There is a big conveyor belt present which makes a lot
+of noise! It seems that the workers are making drunks today. Exits are
+east to the secondary assembly line, south to the primary assembly
+line and west to the inspection room.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+9420
+0
+Exit
+2
+~
+~
+0
+9416
+0
+Exit
+3
+~
+~
+0
+9410
+0
+EndRoom
+
+#ROOM
+Vnum 9416
+Name Primary Assembly Line~
+Desc This is the primary assembly line of the mob factory. Here, all the
+mobs seen roaming around the city of Midgaard are manufactured from
+raw materials. There is a big conveyor belt present which makes a lot
+of noise! It seems that the workers are making drunks today. Exits are
+east to the secondary assembly line, north and south to the primary
+assembly line and west to the inspection room.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+9415
+0
+Exit
+1
+~
+~
+0
+9421
+0
+Exit
+2
+~
+~
+0
+9417
+0
+Exit
+3
+~
+~
+0
+9411
+0
+EndRoom
+
+#ROOM
+Vnum 9417
+Name Primary Assembly Line~
+Desc This is the primary assembly line of the mob factory. Here, all the
+mobs seen roaming around the city of Midgaard are manufactured from
+raw materials. There is a big conveyor belt present which makes a lot
+of noise! It seems that the workers are making drunks today. Exits are
+east to the secondary assembly line, north and south to the primary
+assembly line and west to the entrance hallway.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+9416
+0
+Exit
+1
+~
+~
+0
+9422
+0
+Exit
+2
+~
+~
+0
+9418
+0
+Exit
+3
+~
+~
+0
+9412
+0
+EndRoom
+
+#ROOM
+Vnum 9418
+Name Primary Assembly Line~
+Desc This is the primary assembly line of the mob factory. Here, all the
+mobs seen roaming around the city of Midgaard are manufactured from
+raw materials. There is a big conveyor belt present which makes a lot
+of noise! It seems that the workers are making drunks today. Exits are
+east to the secondary assembly line, north and south to the primary
+assembly line.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+9417
+0
+Exit
+1
+~
+~
+0
+9423
+0
+Exit
+2
+~
+~
+0
+9419
+0
+EndRoom
+
+#ROOM
+Vnum 9419
+Name Primary Assembly Line~
+Desc This is the primary assembly line of the mob factory. Here, all the
+mobs seen roaming around the city of Midgaard are manufactured from
+raw materials. There is a big conveyor belt present which makes a lot
+of noise! It seems that the workers are making drunks today. Exits are
+east to the secondary assembly line and north to the primary
+assembly line.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+9418
+0
+Exit
+1
+~
+~
+0
+9424
+0
+EndRoom
+
+#ROOM
+Vnum 9420
+Name Secondary Assembly Line~
+Desc This is the secondary asembly line of the mob factory. You are
+surprised to see cityguard heads come floating on the conveyor belt!
+The very sight is sickening, but the workers seem to be quite
+cheerful about their work. Exits are south to the secondary assembly
+line and west to the primary assembly line.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+9421
+0
+Exit
+3
+~
+~
+0
+9415
+0
+EndRoom
+
+#ROOM
+Vnum 9421
+Name Secondary Assembly Line~
+Desc This is the secondary asembly line of the mob factory. You are
+surprised to see cityguard heads come floating on the conveyor belt!
+The very sight is sickening, but the workers seem to be quite
+cheerful about their work. Exits are north and south to the secondary
+assembly line and west to the primary assembly line.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+9420
+0
+Exit
+2
+~
+~
+0
+9422
+0
+Exit
+3
+~
+~
+0
+9416
+0
+EndRoom
+
+#ROOM
+Vnum 9422
+Name Secondary Assembly Line~
+Desc This is the secondary asembly line of the mob factory. You are
+surprised to see cityguard heads come floating on the conveyor belt!
+The very sight is sickening, but the workers seem to be quite
+cheerful about their work. Exits are north and south to the secondary
+assembly line and west to the primary assembly line.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+9421
+0
+Exit
+2
+~
+~
+0
+9423
+0
+Exit
+3
+~
+~
+0
+9417
+0
+EndRoom
+
+#ROOM
+Vnum 9423
+Name Secondary Assembly Line~
+Desc This is the secondary asembly line of the mob factory. You are
+surprised to see cityguard heads come floating on the conveyor belt!
+The very sight is sickening, but the workers seem to be quite
+cheerful about their work. Exits are north and south to the secondary
+assembly line and west to the primary assembly line.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+9422
+0
+Exit
+2
+~
+~
+0
+9424
+0
+Exit
+3
+~
+~
+0
+9418
+0
+EndRoom
+
+#ROOM
+Vnum 9424
+Name Secondary Assembly Line~
+Desc This is the secondary asembly line of the mob factory. You are
+surprised to see cityguard heads come floating on the conveyor belt!
+The very sight is sickening, but the workers seem to be quite
+cheerful about their work. Exits are north to the secondary
+assembly line and west to the primary assembly line.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+9423
+0
+Exit
+3
+~
+~
+0
+9419
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 9405 7 9401 1
+M 0 9401 5 9402 1
+M 0 9402 1 9403 1
+M 0 9405 7 9404 1
+M 0 9403 7 9406 1
+M 0 9405 7 9408 1
+M 0 9401 5 9408 1
+M 0 9405 7 9409 1
+M 0 9407 3 9410 1
+M 0 9404 4 9410 2
+M 0 9403 7 9410 1
+M 0 9407 3 9411 1
+M 0 9401 5 9411 1
+M 0 9404 4 9413 2
+M 0 9403 7 9414 1
+M 0 9405 7 9415 1
+M 0 9406 8 9415 1
+M 0 9406 8 9416 1
+M 0 9406 8 9417 1
+M 0 9406 8 9418 1
+M 0 9401 5 9418 1
+M 0 9406 8 9419 1
+M 0 9406 8 9420 1
+M 0 9407 3 9420 1
+M 0 9405 7 9421 1
+M 0 9403 7 9421 1
+M 0 9401 5 9422 1
+M 0 9403 7 9422 1
+M 0 9406 8 9423 1
+M 0 9403 7 9423 1
+M 0 9403 7 9424 1
+M 0 9406 8 9424 1
+M 0 9405 7 9424 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,3983 @@
+#AREADATA
+Name Valley of the Elves~
+Builders None~
+VNUMs 7800 7899
+Credits { 5 20} Hatchet Valley of the Elves~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 7800
+Name oldstyle dog cooshee~
+Short a cooshee~
+Long A rather large dog is here, wandering the valley.
+~
+Description A beast is the size of the largest common dog.  It has a greenish coat with
+brown spots.  Its shape, along with its colors, make this cooshee almost
+undetectable as it moves.
+~
+Race dog~
+Act_flags AGH
+Aff P
+Align 0
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFHNR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGV
+Parts ACDEFHJKUV
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 7801
+Name oldstyle elf valley~
+Short a valley elf~
+Long A valley elf wanders here, cautious of your intrusion.
+~
+Description This elf is almost as tall as you are, but much slimmer and agile.  You see
+hatred in his eyes, and you try to avoid his stare.  His tense body looks ready
+to spring upon you, like a mountain lion stalking its prey.  He sees you
+noticing him, and quietly disappears.
+~
+Race elf~
+Act_flags ACFGH
+Aff JP
+Align 0
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res B
+Vuln Z
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 7802
+Name oldstyle elf valley~
+Short a valley elf~
+Long A female valley elf wanders here, skirting between the tall grasses.
+~
+Description This elf is almost as tall as you are, but much slimmer and more agile.
+She glares at you, then quickly disappears before you see more of her.
+~
+Race elf~
+Act_flags ACFGH
+Aff JP
+Align 0
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res B
+Vuln Z
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 7803
+Name oldstyle elf sentry valley~
+Short a valley elf sentry~
+Long A valley elf sentry stands here, then noticing you, attacks quickly!
+~
+Description This elf is almost as tall as you are, but much slimmer and more agile.
+He glares at your intrusion and attacks with menace.
+~
+Race elf~
+Act_flags ABF
+Aff JP
+Align 0
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d6+85
+Mana_dice 3d9+100
+Dam_dice 1d8+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res B
+Vuln Z
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 7804
+Name oldstyle elf sentry valley~
+Short a valley elf sentry~
+Long A valley elf sentry stands here, then noticing you, attacks quickly!
+~
+Description This elf is almost as tall as you are, but much slimmer and more agile.
+She glares at your intrusion and attacks with menace.
+~
+Race elf~
+Act_flags ABF
+Aff JP
+Align 0
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d6+85
+Mana_dice 3d9+100
+Dam_dice 1d8+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res B
+Vuln Z
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 7805
+Name oldstyle elf scout valley~
+Short a valley elf scout~
+Long A valley elf scout wanders the valley, searching for intruders like you!
+~
+Description The elf notices your intrusion and attacks with determination.
+~
+Race elf~
+Act_flags ACFG
+Aff JP
+Align 0
+Group 0
+Level 6
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 3d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res B
+Vuln Z
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 7806
+Name oldstyle elf valley~
+Short a valley elf~
+Long A valley elf is here, doing her duties.
+~
+Description She is currently doing some menial chores, and ignores your intrusion except
+when you are in her way.
+~
+Race elf~
+Act_flags AGH
+Aff JP
+Align 0
+Group 0
+Level 6
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 3d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res B
+Vuln Z
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 7807
+Name oldstyle elf elder valley~
+Short a valley elf elder~
+Long A valley elf elder is here, studying.  He notices you.
+A valley elf elder shouts 'You have intruded wrongly.  Be prepared to die!'
+~
+Description This elf looks quite old, probably twenty or more times your age.  He looks
+quite potent, though.
+~
+Race elf~
+Act_flags ABCFQ
+Aff HJN
+Align 0
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 15d9+100
+Dam_dice 2d5+3
+Dam_type none
+Armor -2 -2 -2 6
+Clevel0
+Cability 0
+Off EIKR
+Imm 0
+Res B
+Vuln Z
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 7808
+Name oldstyle elf elder valley~
+Short a valley elf elder~
+Long A valley elf elder is here, studying.  She notices you.
+A valley elf elder says 'Your arrogance will be your end, human.'
+~
+Description This elf looks quite old, probably twenty or more times your age.  She looks
+quite potent, though.
+~
+Race elf~
+Act_flags ABCFR
+Aff JN
+Align 0
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 2d10+190
+Mana_dice 15d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor -1 -1 -1 5
+Clevel0
+Cability 0
+Off FR
+Imm 0
+Res B
+Vuln Z
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 7809
+Name oldstyle pyrohydra pyro hydra~
+Short the pyrohydra~
+Long A big beast with many heads, each breathing fire, stares at you with malice.
+~
+Description This big beast looks like a small red dragon, but has many more heads than a
+regular dragon, too.  It doesn't look happy.
+~
+Race human~
+Act_flags ABF
+Aff 0
+Align 0
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 7810
+Name oldstyle hermit man old~
+Short an old hermit~
+Long An old hermit sits here, smoking a pipe.
+~
+Description He looks old and feeble.
+~
+Race human~
+Act_flags ABCH
+Aff 0
+Align 0
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d6+35
+Mana_dice 1d9+100
+Dam_dice 1d6+0
+Dam_type none
+Armor 7 7 7 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 7811
+Name oldstyle talemon wizard mage~
+Short Talemon~
+Long An old mage busies himself with some chemicals.
+~
+Description Talemon looks harmless, but the fireballs he throws at you don't.
+~
+Race human~
+Act_flags ABCFR
+Aff 0
+Align 0
+Group 0
+Level 25
+Hitroll 0
+Hit_dice 5d10+500
+Mana_dice 25d9+100
+Dam_dice 4d4+6
+Dam_type none
+Armor -6 -6 -6 2
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 50
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 7812
+Name oldstyle guardian daemon~
+Short the guardian daemon~
+Long A huge guardian daemon is here, watching the treasure.
+~
+Description This daemon is unhappy with its summoned job, and is willing to take out it's
+anger at you!
+~
+Race human~
+Act_flags ABF
+Aff 0
+Align -500
+Group 0
+Level 25
+Hitroll 0
+Hit_dice 5d10+550
+Mana_dice 12d9+100
+Dam_dice 2d10+7
+Dam_type none
+Armor -7 -7 -7 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 7813
+Name oldstyle wolf~
+Short a wolf~
+Long A wolf is here, looking for small prey.
+~
+Description The wolf is covered with brown hair.  It looks at you with fright.
+~
+Race wolf~
+Act_flags AFH
+Aff Z
+Align 0
+Group 0
+Level 4
+Hitroll 0
+Hit_dice 2d7+46
+Mana_dice 2d9+100
+Dam_dice 1d5+1
+Dam_type none
+Armor 6 6 6 9
+Clevel0
+Cability 0
+Off EFHNR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGV
+Parts ACDEFJKQV
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 7814
+Name oldstyle antelope~
+Short an antelope~
+Long An antelope is here, peacefully munching on grass.
+~
+Description With horns and spots over coarse, brown hair, this beast is the spit and
+image of ... an antelope.
+~
+Race human~
+Act_flags AH
+Aff 0
+Align 0
+Group 0
+Level 6
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 3d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 4 4 4 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 7800
+Name chainmail elven chain mail~
+Short elven chainmail~
+Desc A shiny metallic shirt is on the floor.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values C C C B 0
+Level 5
+Weight 30
+Cost 1080
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 7801
+Name boots elven~
+Short elven boots~
+Desc Some soft boots are on the floor.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AG
+Values AB AB AB 0 0
+Level 7
+Weight 30
+Cost 390
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+14 5
+EndObj
+
+#OBJ
+Vnum 7802
+Name longsword elven sword long~
+Short an elven longsword~
+Desc A shiny blade is on the floor.~
+Material oldstyle~
+Item_type weapon
+Extra G
+Extra2 0
+Wear AN
+Values sword 3 3 slash 0
+Level 7
+Weight 30
+Cost 670
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 7803
+Name cloak brown~
+Short a brown cloak~
+Desc A pile of brown cloth is on the floor.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AC
+Values AB AB AB 0 0
+Level 7
+Weight 30
+Cost 900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+2 1
+EndObj
+
+#OBJ
+Vnum 7804
+Name key~
+Short a key~
+Desc A shiny key is on the floor.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values BCFHJKLM 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 7805
+Name key~
+Short a key~
+Desc A shiny key is on the floor.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values DGHJKLM 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 7806
+Name ring gold~
+Short a gold ring~
+Desc A shiny ring is on the floor.~
+Material oldstyle~
+Item_type jewelry
+Extra G
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 5
+Weight 10
+Cost 110
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 10
+EndObj
+
+#OBJ
+Vnum 7807
+Name quarterstaff staff two-handed~
+Short a quarterstaff~
+Desc A quarterstaff is on the floor.~
+Material oldstyle~
+Item_type weapon
+Extra G
+Extra2 0
+Wear AN
+Values exotic 4 5 pound F
+Level 21
+Weight 50
+Cost 670
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 7808
+Name potion~
+Short a potion~
+Desc A potion is on the floor.~
+Material oldstyle~
+Item_type potion
+Extra G
+Extra2 0
+Wear A
+Values 10 'armor' 'invisibility' '' ''
+Level 0
+Weight 10
+Cost 200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 7809
+Name potion~
+Short a potion~
+Desc A potion is on the floor.~
+Material oldstyle~
+Item_type potion
+Extra G
+Extra2 0
+Wear A
+Values 10 'energy drain' '' '' ''
+Level 8
+Weight 10
+Cost 580
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 7810
+Name potion~
+Short a potion~
+Desc A potion is on the floor.~
+Material oldstyle~
+Item_type potion
+Extra G
+Extra2 0
+Wear A
+Values 10 'detect hidden' 'detect magic' '' ''
+Level 4
+Weight 10
+Cost 290
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 7811
+Name potion~
+Short a potion~
+Desc A potion is on the floor.~
+Material oldstyle~
+Item_type potion
+Extra G
+Extra2 0
+Wear A
+Values 50 'dispel magic' 'dispel magic' 'dispel magic' ''
+Level 6
+Weight 10
+Cost 1380
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 7812
+Name potion~
+Short a potion~
+Desc A potion is on the floor.~
+Material oldstyle~
+Item_type potion
+Extra G
+Extra2 0
+Wear A
+Values 10 'refresh' 'protection evil' '' ''
+Level 2
+Weight 10
+Cost 240
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 7813
+Name potion~
+Short a potion~
+Desc A potion is on the floor.~
+Material oldstyle~
+Item_type potion
+Extra G
+Extra2 0
+Wear A
+Values 10 'sleep' '' '' ''
+Level 1
+Weight 10
+Cost 250
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 7814
+Name potion~
+Short a potion~
+Desc A potion is on the floor.~
+Material oldstyle~
+Item_type potion
+Extra G
+Extra2 0
+Wear A
+Values 10 'bless' '' '' ''
+Level 1
+Weight 10
+Cost 220
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 7815
+Name potion~
+Short a potion~
+Desc A potion is on the floor.~
+Material oldstyle~
+Item_type potion
+Extra G
+Extra2 0
+Wear A
+Values 10 'cure critical' '' '' ''
+Level 5
+Weight 10
+Cost 330
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 7816
+Name potion~
+Short a potion~
+Desc A potion is on the floor.~
+Material oldstyle~
+Item_type potion
+Extra G
+Extra2 0
+Wear A
+Values 14 'farsight' '' '' ''
+Level 6
+Weight 10
+Cost 420
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 7817
+Name scroll~
+Short a scroll~
+Desc A scroll is on the floor.~
+Material oldstyle~
+Item_type scroll
+Extra G
+Extra2 0
+Wear A
+Values 10 'cure critical' '' '' ''
+Level 5
+Weight 10
+Cost 660
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 7818
+Name scroll~
+Short a scroll~
+Desc A scroll is on the floor.~
+Material oldstyle~
+Item_type scroll
+Extra G
+Extra2 0
+Wear A
+Values 16 'enchant armor' '' '' ''
+Level 8
+Weight 10
+Cost 1090
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 7819
+Name scroll~
+Short a scroll~
+Desc A scroll is on the floor.~
+Material oldstyle~
+Item_type scroll
+Extra G
+Extra2 0
+Wear A
+Values 10 'detect evil' '' '' ''
+Level 0
+Weight 10
+Cost 400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 7820
+Name scroll~
+Short a scroll~
+Desc A scroll is on the floor.~
+Material oldstyle~
+Item_type scroll
+Extra G
+Extra2 0
+Wear A
+Values 10 'create water' '' '' ''
+Level 0
+Weight 10
+Cost 400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 7821
+Name scroll~
+Short a scroll~
+Desc A scroll is on the floor.~
+Material oldstyle~
+Item_type scroll
+Extra G
+Extra2 0
+Wear A
+Values 10 'Energy spike' '' '' ''
+Level 0
+Weight 10
+Cost 400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 7822
+Name scroll~
+Short a scroll~
+Desc A scroll is on the floor.~
+Material oldstyle~
+Item_type scroll
+Extra G
+Extra2 0
+Wear A
+Values 10 'chill touch' '' '' ''
+Level 0
+Weight 10
+Cost 400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 7823
+Name scroll~
+Short a scroll~
+Desc A scroll is on the floor.~
+Material oldstyle~
+Item_type scroll
+Extra G
+Extra2 0
+Wear A
+Values 10 'heal' '' '' ''
+Level 11
+Weight 10
+Cost 1360
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 7824
+Name rod light~
+Short the Rod of Neutrality~
+Desc A dull iron shaft is on the floor.~
+Material oldstyle~
+Item_type light
+Extra GJK
+Extra2 0
+Wear A
+Values 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+Level 20
+Weight 10
+Cost 1150
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 7825
+Name quarterstaff staff two-handed~
+Short a quarterstaff~
+Desc A quarterstaff is on the floor.~
+Material oldstyle~
+Item_type weapon
+Extra G
+Extra2 0
+Wear AN
+Values exotic 3 5 pound F
+Level 14
+Weight 50
+Cost 310
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 1
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 7800
+Name A Path from the Plains~
+Desc You are on a path away from the Plains of Ofcol.  The path doesn't look well
+tread, but it is relatively well kept.  To the south are the Plains of Ofcol,
+while this path leads north.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The path continues north.
+~
+~
+0
+7801
+0
+Exit
+2
+You see the Plains of Ofcol.
+~
+~
+0
+323
+0
+EndRoom
+
+#ROOM
+Vnum 7801
+Name Along the Path~
+Desc You are on the path away from the Plains of Ofcol.  The main path leads north
+to an overlook and south back toward the Plains of Ofcol.  Western and eastern
+side paths can be seen, probably deer trails by the width of them.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the overlook.
+~
+~
+0
+7804
+0
+Exit
+1
+You see the small trail.
+~
+~
+0
+7803
+0
+Exit
+2
+You see the path back toward Ofcol.
+~
+~
+0
+7800
+0
+Exit
+3
+You see the small trail.
+~
+~
+0
+7802
+0
+EndRoom
+
+#ROOM
+Vnum 7802
+Name A Small Trail~
+Desc This small deer trail leads north and east.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The trail continues north.
+~
+~
+0
+7867
+0
+Exit
+1
+The main path is to the east.
+~
+~
+0
+7801
+0
+EndRoom
+
+#ROOM
+Vnum 7803
+Name A Small Trail~
+Desc This small deer trail leads north and west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The trail continues north.
+~
+~
+0
+7849
+0
+Exit
+3
+The main path is to the west.
+~
+~
+0
+7801
+0
+EndRoom
+
+#ROOM
+Vnum 7804
+Name The Overlook~
+Desc You are above a large valley.  Below you, you see humanoid forms wandering
+around the valley.  Rich green grass covers the valley, with some small trees
+dotting the landscape.  To the south is the trail back toward Ofcol.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see the path back toward Ofcol.
+~
+~
+0
+7801
+0
+Exit
+5
+You see the entrance to the valley.
+~
+~
+0
+7805
+0
+EndRoom
+
+#ROOM
+Vnum 7805
+Name The Entrance to the Valley of the Elves~
+Desc You are at the entrance to the Valley of the Elves.  Elves stare at your
+intrusion, but most are too busy to bother with you.  The valley spreads to
+the north, while enlarging toward the east and west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The valley continues north.
+~
+~
+0
+7810
+0
+Exit
+1
+The valley continues east.
+~
+~
+0
+7807
+0
+Exit
+3
+The valley continues west.
+~
+~
+0
+7806
+0
+Exit
+4
+The overlook is above you.
+~
+~
+0
+7804
+0
+EndRoom
+
+#ROOM
+Vnum 7806
+Name The Edge of the Valley~
+Desc You are at the edge of the Valley of the Elves.  High above you, you see a small
+trail circling the entire valley.  The valley continues north and east.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The valley continues north.
+~
+~
+0
+7809
+0
+Exit
+1
+The entrance to the valley is to the east.
+~
+~
+0
+7805
+0
+EndRoom
+
+#ROOM
+Vnum 7807
+Name The Edge of the Valley~
+Desc You are at the edge of the Valley of the Elves.  High above you, you see a small
+trail circling the entire valley.  The valley continues north and west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The valley continues north.
+~
+~
+0
+7811
+0
+Exit
+3
+The entrance to the valley is to the west.
+~
+~
+0
+7805
+0
+EndRoom
+
+#ROOM
+Vnum 7808
+Name The Edge of the Valley~
+Desc You are at the edge of the Valley of the Elves.  High above you, you see a small
+trail circling the entire valley.  The valley continues north and east.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The valley continues north.
+~
+~
+0
+7813
+0
+Exit
+1
+The valley continues east.
+~
+~
+0
+7809
+0
+EndRoom
+
+#ROOM
+Vnum 7809
+Name The Valley of the Elves~
+Desc You are in the Valley of the Elves.  The valley continues in all directions.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The valley continues north.
+~
+~
+0
+7814
+0
+Exit
+1
+The valley continues east.
+~
+~
+0
+7810
+0
+Exit
+2
+The valley continues south.
+~
+~
+0
+7806
+0
+Exit
+3
+The valley continues west.
+~
+~
+0
+7808
+0
+EndRoom
+
+#ROOM
+Vnum 7810
+Name The Valley of the Elves~
+Desc You are in the Valley of the Elves.  The valley continues in all directions.
+The entrance to the valley is towards the south.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The valley continues north.
+~
+~
+0
+7815
+0
+Exit
+1
+The valley continues east.
+~
+~
+0
+7811
+0
+Exit
+2
+You see the entrance to the valley.
+~
+~
+0
+7805
+0
+Exit
+3
+The valley continues west.
+~
+~
+0
+7809
+0
+EndRoom
+
+#ROOM
+Vnum 7811
+Name The Valley of the Elves~
+Desc You are in the Valley of the Elves.  The valley continues in all directions.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The valley continues north.
+~
+~
+0
+7816
+0
+Exit
+1
+The valley continues east.
+~
+~
+0
+7812
+0
+Exit
+2
+The valley continues south.
+~
+~
+0
+7807
+0
+Exit
+3
+The valley continues west.
+~
+~
+0
+7810
+0
+EndRoom
+
+#ROOM
+Vnum 7812
+Name The Edge of the Valley~
+Desc You are at the edge of the Valley of the Elves.  High above you, you see a small
+trail circling the entire valley.  The valley continues north and west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The valley continues north.
+~
+~
+0
+7817
+0
+Exit
+3
+The valley continues west.
+~
+~
+0
+7811
+0
+EndRoom
+
+#ROOM
+Vnum 7813
+Name The Edge of the Valley~
+Desc You are at the edge of the Valley of the Elves.  A steep trail leads up toward
+the deer trail circling the valley.  The valley continues north, south, and
+east.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The valley continues north.
+~
+~
+0
+7818
+0
+Exit
+1
+The valley continues east.
+~
+~
+0
+7814
+0
+Exit
+2
+The valley continues south.
+~
+~
+0
+7808
+0
+Exit
+4
+The steep trail leads up.
+~
+~
+0
+7863
+0
+EndRoom
+
+#ROOM
+Vnum 7814
+Name The Valley of the Elves~
+Desc You are in the Valley of the Elves.  The valley continues in all directions.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The valley continues north.
+~
+~
+0
+7819
+0
+Exit
+1
+The valley continues east.
+~
+~
+0
+7815
+0
+Exit
+2
+The valley continues south.
+~
+~
+0
+7809
+0
+Exit
+3
+The valley continues west.
+~
+~
+0
+7813
+0
+EndRoom
+
+#ROOM
+Vnum 7815
+Name The Valley of the Elves~
+Desc You are in the Valley of the Elves.  The valley continues in all directions.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The valley continues north.
+~
+~
+0
+7820
+0
+Exit
+1
+The valley continues east.
+~
+~
+0
+7816
+0
+Exit
+2
+The valley continues south.
+~
+~
+0
+7810
+0
+Exit
+3
+The valley continues west.
+~
+~
+0
+7814
+0
+EndRoom
+
+#ROOM
+Vnum 7816
+Name The Valley of the Elves~
+Desc You are in the Valley of the Elves.  The valley continues in all directions.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The valley continues north.
+~
+~
+0
+7821
+0
+Exit
+1
+The valley continues east.
+~
+~
+0
+7817
+0
+Exit
+2
+The valley continues south.
+~
+~
+0
+7811
+0
+Exit
+3
+The valley continues west.
+~
+~
+0
+7815
+0
+EndRoom
+
+#ROOM
+Vnum 7817
+Name The Edge of the Valley~
+Desc You are at the edge of the Valley of the Elves.  A steep trail leads up toward
+the deer trail circling the valley.  The valley continues north, south, and
+west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The valley continues north.
+~
+~
+0
+7822
+0
+Exit
+2
+The valley continues south.
+~
+~
+0
+7812
+0
+Exit
+3
+The valley continues west.
+~
+~
+0
+7816
+0
+Exit
+4
+The steep trail leads up.
+~
+~
+0
+7853
+0
+EndRoom
+
+#ROOM
+Vnum 7818
+Name The Edge of the Valley~
+Desc You are at the edge of the Valley of the Elves.  High above you, you see a
+small trail circling the entire valley.  The valley continues south and east.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The valley continues east.
+~
+~
+0
+7819
+0
+Exit
+2
+The valley continues south.
+~
+~
+0
+7813
+0
+EndRoom
+
+#ROOM
+Vnum 7819
+Name The Valley of the Elves~
+Desc You are in the Valley of the Elves.  The valley continues in all directions.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The valley continues north.
+~
+~
+0
+7823
+0
+Exit
+1
+The valley continues east.
+~
+~
+0
+7820
+0
+Exit
+2
+The valley continues south.
+~
+~
+0
+7814
+0
+Exit
+3
+The valley continues west.
+~
+~
+0
+7818
+0
+EndRoom
+
+#ROOM
+Vnum 7820
+Name The Valley of the Elves~
+Desc You are in the Valley of the Elves.  The valley continues in all directions.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The valley continues north.
+~
+~
+0
+7824
+0
+Exit
+1
+The valley continues east.
+~
+~
+0
+7821
+0
+Exit
+2
+The valley continues south.
+~
+~
+0
+7815
+0
+Exit
+3
+The valley continues west.
+~
+~
+0
+7819
+0
+EndRoom
+
+#ROOM
+Vnum 7821
+Name The Valley of the Elves~
+Desc You are in the Valley of the Elves.  The valley continues in all directions.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The valley continues north.
+~
+~
+0
+7825
+0
+Exit
+1
+The valley continues east.
+~
+~
+0
+7822
+0
+Exit
+2
+The valley continues south.
+~
+~
+0
+7816
+0
+Exit
+3
+The valley continues west.
+~
+~
+0
+7820
+0
+EndRoom
+
+#ROOM
+Vnum 7822
+Name The Edge of the Valley~
+Desc You are at the edge of the Valley of the Elves.  High above you, you see a small
+trail circling the entire valley.  The valley continues south and west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+The valley continues south.
+~
+~
+0
+7817
+0
+Exit
+3
+The valley continues west.
+~
+~
+0
+7821
+0
+EndRoom
+
+#ROOM
+Vnum 7823
+Name The Edge of the Valley~
+Desc You are at the edge of the Valley of the Elves.  High above you, you see a small
+trail circling the entire valley.  The valley continues south and east.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The valley continues east.
+~
+~
+0
+7824
+0
+Exit
+2
+The valley continues south
+~
+~
+0
+7819
+0
+EndRoom
+
+#ROOM
+Vnum 7824
+Name The Edge of the Valley~
+Desc You are in the Valley of the Elves.  The valley continues in all directions.
+To the north, a small, narrow trail leads away from the valley.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+A small trail leads away from the valley.
+~
+~
+0
+7826
+0
+Exit
+1
+The valley continues east.
+~
+~
+0
+7825
+0
+Exit
+2
+The valley continues south.
+~
+~
+0
+7820
+0
+Exit
+3
+The valley continues west.
+~
+~
+0
+7823
+0
+EndRoom
+
+#ROOM
+Vnum 7825
+Name The Edge of the Valley~
+Desc You are at the edge of the Valley of the Elves.  High above you, you see a small
+trail circling the entire valley.  The valley continues south and west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+The valley continues south.
+~
+~
+0
+7821
+0
+Exit
+3
+The valley continues west.
+~
+~
+0
+7824
+0
+EndRoom
+
+#ROOM
+Vnum 7826
+Name A Trail Leading from the Valley~
+Desc You are on a narrow trail leading away from the Valley of the Elves.  This
+trail leads north and south.  A rope ladder leads up to a rope bridge.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The trail continues north.
+~
+~
+0
+7827
+0
+Exit
+2
+The trail leads back to the valley.
+~
+~
+0
+7824
+0
+Exit
+4
+You see the rope bridge above you.
+~
+~
+0
+7858
+0
+EndRoom
+
+#ROOM
+Vnum 7827
+Name Along the Trail~
+Desc You are on the trail away from the Valley of the Elves.  The hills around you
+keep this trail narrow.  The trail continues east, south, and west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The trail continues east.
+~
+~
+0
+7828
+0
+Exit
+2
+The trail continues south back toward the valley.
+~
+~
+0
+7826
+0
+Exit
+3
+The trail continues west.
+~
+~
+0
+7868
+0
+EndRoom
+
+#ROOM
+Vnum 7828
+Name A Bend in the Trail~
+Desc You are on the trail away from the Valley of the Elves.  The hills around you
+keep this trail narrow.  The trail continues north and back west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see a small valley north.
+~
+~
+0
+7829
+0
+Exit
+3
+The trail goes back to the west.
+~
+~
+0
+7827
+0
+EndRoom
+
+#ROOM
+Vnum 7829
+Name A Smaller Valley~
+Desc You are in another valley within these hills. To the north, you can see a
+building, and to the south you see the trail away from this valley.  The
+west and east paths surround this building.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the building.
+~
+door~
+-1
+7834
+AB
+Exit
+1
+You see the trail around the building.
+~
+~
+0
+7831
+0
+Exit
+2
+You see the trail leading away from this valley.
+~
+~
+0
+7828
+0
+Exit
+3
+You see the trail around the building.
+~
+~
+0
+7830
+0
+EndRoom
+
+#ROOM
+Vnum 7830
+Name A Trail in the Valley~
+Desc You are on the trail in the Valley of the Elves.  This trail leads north and
+east.  To the north-east is a building.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the trail.
+~
+~
+0
+7832
+0
+Exit
+1
+You see the trail.
+~
+~
+0
+7829
+0
+EndRoom
+
+#ROOM
+Vnum 7831
+Name A Trail in the Valley~
+Desc You are on the trail in the Valley of the Elves.  This trail leads west and
+east.  To the north is a building.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the trail.
+~
+~
+0
+7833
+0
+Exit
+3
+You see the trail.
+~
+~
+0
+7829
+0
+EndRoom
+
+#ROOM
+Vnum 7832
+Name A Trail in the Valley~
+Desc You are on the trail in the Valley of the Elves.  This trail leads north and
+south.  To the east is a building.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the trail.
+~
+~
+0
+7837
+0
+Exit
+2
+You see the trail.
+~
+~
+0
+7830
+0
+EndRoom
+
+#ROOM
+Vnum 7833
+Name A Trail in the Valley~
+Desc You are on the trail in the Valley of the Elves.  This trail leads north and
+west.  To the north-west is a building.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the trail.
+~
+~
+0
+7836
+0
+Exit
+3
+You see the trail.
+~
+~
+0
+7831
+0
+EndRoom
+
+#ROOM
+Vnum 7834
+Name The Elf Home~
+Desc You are in the home of the valley elves.  The building continues to the north
+and the east, and the exit is to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The building continues to the north.
+~
+~
+0
+7838
+0
+Exit
+1
+The building continues to the east.
+~
+~
+0
+7835
+0
+Exit
+2
+The exit is to the south.
+~
+door~
+-1
+7829
+AB
+EndRoom
+
+#ROOM
+Vnum 7835
+Name The Kitchen~
+Desc You are in a community kitchen for this valley elven home.  Pots and pans line
+the walls, along with shelves filled with many foodstuffs.  A big oven is to one
+side, and you can smell elfcakes being baked.
+There is a doorway to the north and one to the west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The building continues to the north.
+~
+~
+0
+7839
+0
+Exit
+3
+The building continues to the west.
+~
+~
+0
+7834
+0
+EndRoom
+
+#ROOM
+Vnum 7836
+Name A Trail in the Valley~
+Desc You are on the trail in the Valley of the Elves.  This trail leads north and
+south.  To the west is a building.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the trail.
+~
+~
+0
+7840
+0
+Exit
+2
+You see the trail.
+~
+~
+0
+7833
+0
+EndRoom
+
+#ROOM
+Vnum 7837
+Name A Trail in the Valley~
+Desc You are on the trail in the Valley of the Elves.  This trail leads north and
+south.  To the east is a building.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the trail.
+~
+~
+0
+7841
+0
+Exit
+2
+You see the trail.
+~
+~
+0
+7832
+0
+EndRoom
+
+#ROOM
+Vnum 7838
+Name The Living Room~
+Desc You are in the living room of the elven home.  Mats cover the floor, and a
+on a table is a bowl full of fruits.  Through the window you can see the
+valley, with its wild flowers and tall, green grasses.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The building continues to the east.
+~
+~
+0
+7839
+0
+Exit
+2
+The entrance is to the south.
+~
+~
+0
+7834
+0
+EndRoom
+
+#ROOM
+Vnum 7839
+Name The Storage Room~
+Desc You are in the storage room of the elven home.  Sacks of flour cover one side,
+and cleaning accessories cover the other side.  You find nothing of use here.
+A staircase leads up.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+The building continues to the south.
+~
+~
+0
+7835
+0
+Exit
+3
+The building continues to the west.
+~
+~
+0
+7838
+0
+Exit
+4
+You see the second floor.
+~
+~
+0
+7848
+0
+EndRoom
+
+#ROOM
+Vnum 7840
+Name A Trail in the Valley~
+Desc You are on the trail in the Valley of the Elves.  This trail leads north and
+south.  To the west is a building.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the trail.
+~
+~
+0
+7844
+0
+Exit
+2
+You see the trail.
+~
+~
+0
+7836
+0
+EndRoom
+
+#ROOM
+Vnum 7841
+Name A Trail in the Valley~
+Desc You are on the trail in the Valley of the Elves.  This trail leads south and
+east.  To the south-east is a building.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the trail.
+~
+~
+0
+7842
+0
+Exit
+2
+You see the trail.
+~
+~
+0
+7837
+0
+EndRoom
+
+#ROOM
+Vnum 7842
+Name A Trail in the Valley~
+Desc You are on the trail in the Valley of the Elves.  This trail leads west and
+east.  To the south is a building.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the trail.
+~
+~
+0
+7843
+0
+Exit
+3
+You see the trail.
+~
+~
+0
+7841
+0
+EndRoom
+
+#ROOM
+Vnum 7843
+Name A Trail in the Valley~
+Desc You are on the trail in the Valley of the Elves.  This trail leads east and
+west.  To the south is a building.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the trail.
+~
+~
+0
+7844
+0
+Exit
+3
+You see the trail.
+~
+~
+0
+7842
+0
+EndRoom
+
+#ROOM
+Vnum 7844
+Name A Trail in the Valley~
+Desc You are on the trail in the Valley of the Elves.  This trail leads south and
+west.  To the south-west is a building.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see the trail.
+~
+~
+0
+7840
+0
+Exit
+3
+You see the trail.
+~
+~
+0
+7843
+0
+EndRoom
+
+#ROOM
+Vnum 7845
+Name The Elders' Room~
+Desc You are in the room of the valley elf elders.  Books written in strange
+languages line the numerous shelves, and scrolls cover a table.  There is a
+smooth spheric object in the center of the room.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see another room.
+~
+door~
+-1
+7847
+AB
+Exit
+1
+You see another room.
+~
+door~
+7804
+7846
+ABC
+EndRoom
+
+#ROOM
+Vnum 7846
+Name The Storage Room~
+Desc You are in a storage room.  Many useless (to you) items fill this room.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see another room.
+~
+door~
+7804
+7848
+ABC
+Exit
+3
+You see another room.
+~
+door~
+7804
+7845
+ABC
+EndRoom
+
+#ROOM
+Vnum 7847
+Name The Sleeping Quarters~
+Desc You are in the sleeping quarters of the valley elves.  Cots line the floor,
+with two windows showing a view of the valley.  Books in strange languages
+line the shelves, but nothing of interest is here.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see another room.
+~
+door~
+-1
+7848
+AB
+Exit
+2
+You see another room.
+~
+door~
+-1
+7845
+AB
+EndRoom
+
+#ROOM
+Vnum 7848
+Name Study~
+Desc You are in the study room of the valley elves.  Comfortable mats are on the
+floor, and musical instruments are neatly stacked on shelves.  Books in
+strange languages line some other elves.  A stairway leads down to the
+first floor.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see another room.
+~
+door~
+7804
+7846
+ABC
+Exit
+3
+You see another room.
+~
+door~
+-1
+7847
+AB
+Exit
+5
+You see the first floor.
+~
+~
+0
+7839
+0
+EndRoom
+
+#ROOM
+Vnum 7849
+Name Along a Windy Trail on the Rim of the Valley~
+Desc You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+7850
+0
+Exit
+2
+~
+~
+0
+7803
+0
+Exit
+5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0
+7883
+0
+EndRoom
+
+#ROOM
+Vnum 7850
+Name Along a Windy Trail on the Rim of the Valley~
+Desc You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+7851
+0
+Exit
+3
+~
+~
+0
+7849
+0
+Exit
+5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0
+7883
+0
+EndRoom
+
+#ROOM
+Vnum 7851
+Name Along a Windy Trail on the Rim of the Valley~
+Desc You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+7852
+0
+Exit
+2
+~
+~
+0
+7850
+0
+Exit
+5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0
+7883
+0
+EndRoom
+
+#ROOM
+Vnum 7852
+Name Along a Windy Trail on the Rim of the Valley~
+Desc You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+7853
+0
+Exit
+3
+~
+~
+0
+7851
+0
+Exit
+5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0
+7883
+0
+EndRoom
+
+#ROOM
+Vnum 7853
+Name Along a Windy Trail on the Rim of the Valley~
+Desc You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+A safe trail leads down into the valley.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+7854
+0
+Exit
+2
+~
+~
+0
+7852
+0
+Exit
+5
+The trail down looks safe.
+~
+~
+0
+7817
+0
+EndRoom
+
+#ROOM
+Vnum 7854
+Name Along a Windy Trail on the Rim of the Valley~
+Desc You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+7853
+0
+Exit
+3
+~
+~
+0
+7855
+0
+Exit
+5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0
+7883
+0
+EndRoom
+
+#ROOM
+Vnum 7855
+Name Along a Windy Trail on the Rim of the Valley~
+Desc You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+7856
+0
+Exit
+1
+~
+~
+0
+7854
+0
+Exit
+5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0
+7883
+0
+EndRoom
+
+#ROOM
+Vnum 7856
+Name Along a Windy Trail on the Rim of the Valley~
+Desc You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+7855
+0
+Exit
+3
+~
+~
+0
+7857
+0
+Exit
+5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0
+7883
+0
+EndRoom
+
+#ROOM
+Vnum 7857
+Name Along a Windy Trail on the Rim of the Valley~
+Desc You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+7856
+0
+Exit
+3
+You see a rope bridge~
+~
+0
+7858
+0
+Exit
+5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0
+7883
+0
+EndRoom
+
+#ROOM
+Vnum 7858
+Name On the Rope Bridge~
+Desc You are on the rope bridge.  From here, you can see the whole Valley of the
+Elves.  To the south, you see the main valley.  To the north-east, you see a
+smaller valley with a building in the center of it.  To the north-west, you
+can see a very small valley with a shack in it's center.  A rope ladder
+leads down into a trail.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+7857
+0
+Exit
+3
+~
+~
+0
+7859
+0
+Exit
+5
+You see the trail.
+~
+~
+0
+7826
+0
+EndRoom
+
+#ROOM
+Vnum 7859
+Name Along a Windy Trail on the Rim of the Valley~
+Desc You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see a rope bridge.
+~
+~
+0
+7858
+0
+Exit
+3
+~
+~
+0
+7860
+0
+Exit
+5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0
+7883
+0
+EndRoom
+
+#ROOM
+Vnum 7860
+Name Along a Windy Trail on the Rim of the Valley~
+Desc You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+7859
+0
+Exit
+2
+~
+~
+0
+7861
+0
+Exit
+5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0
+7883
+0
+EndRoom
+
+#ROOM
+Vnum 7861
+Name Along a Windy Trail on the Rim of the Valley~
+Desc You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+7860
+0
+Exit
+3
+~
+~
+0
+7862
+0
+Exit
+5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0
+7883
+0
+EndRoom
+
+#ROOM
+Vnum 7862
+Name Along a Windy Trail on the Rim of the Valley~
+Desc You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+7861
+0
+Exit
+2
+~
+~
+0
+7863
+0
+Exit
+5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0
+7883
+0
+EndRoom
+
+#ROOM
+Vnum 7863
+Name Along a Windy Trail on the Rim of the Valley~
+Desc You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+A safe trail leads down into the valley.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+7862
+0
+Exit
+2
+~
+~
+0
+7864
+0
+Exit
+5
+The trail down looks safe.
+~
+~
+0
+7813
+0
+EndRoom
+
+#ROOM
+Vnum 7864
+Name Along a Windy Trail on the Rim of the Valley~
+Desc You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+7863
+0
+Exit
+1
+~
+~
+0
+7865
+0
+Exit
+5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0
+7883
+0
+EndRoom
+
+#ROOM
+Vnum 7865
+Name Along a Windy Trail on the Rim of the Valley~
+Desc You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+7866
+0
+Exit
+3
+~
+~
+0
+7864
+0
+Exit
+5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0
+7883
+0
+EndRoom
+
+#ROOM
+Vnum 7866
+Name Along a Windy Trail on the Rim of the Valley~
+Desc You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+7865
+0
+Exit
+1
+~
+~
+0
+7867
+0
+Exit
+5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0
+7883
+0
+EndRoom
+
+#ROOM
+Vnum 7867
+Name Along a Windy Trail on the Rim of the Valley~
+Desc You are on a narrow trail on the rim of the Valley of the Elves.  Below you,
+you can see the valley, filled with wild flowers and tall, green grasses.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+7802
+0
+Exit
+3
+~
+~
+0
+7866
+0
+Exit
+5
+The trail down doesn't look safe to travel on at all.
+~
+~
+0
+7883
+0
+EndRoom
+
+#ROOM
+Vnum 7868
+Name A Bend in the Trail~
+Desc You are on a bend in the trail leading from the main valley.  The hills around
+you make this trail quite narrow.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The trail continues north.
+~
+~
+0
+7869
+0
+Exit
+1
+The trail continues east.
+~
+~
+0
+7827
+0
+EndRoom
+
+#ROOM
+Vnum 7869
+Name A Bend in the Trail~
+Desc You are on a bend in the trail leading from the main valley.  The hills around
+you make this trail quite narrow.  To the west, you can see an even smaller
+valley, with looks like a small shack in the center of it.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+The trail continues south.
+~
+~
+0
+7868
+0
+Exit
+3
+The entrance to the small valley is to the west.
+~
+~
+0
+7870
+0
+EndRoom
+
+#ROOM
+Vnum 7870
+Name The Small Valley~
+Desc You are in the small valley.  Strangely, tall trees grow here, almost as if some
+magic was used to help them grow.  The exit from this valley is to the east, and
+the entrance to the shack is to the west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The valley continues to the north.
+~
+~
+0
+7871
+0
+Exit
+1
+The exit from this small valley is to the east.
+~
+~
+0
+7869
+0
+Exit
+2
+The valley continues to the south.
+~
+~
+0
+7872
+0
+Exit
+3
+You see the small shack.
+~
+door~
+-1
+7878
+AB
+EndRoom
+
+#ROOM
+Vnum 7871
+Name The Small Valley~
+Desc You are in the small valley.  Strangely, tall trees grow here, almost as if some
+magic was used to help them grow.  To the south-west is a small shack.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+The valley continues to the south.
+~
+~
+0
+7870
+0
+Exit
+3
+The valley continues to the west.
+~
+~
+0
+7873
+0
+EndRoom
+
+#ROOM
+Vnum 7872
+Name The Small Valley~
+Desc You are in the small valley.  Strangely, tall trees grow here, almost as if some
+magic was used to help them grow.  To the north-west is a small shack.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The valley continues to the north.
+~
+~
+0
+7870
+0
+Exit
+3
+The valley continues to the west.
+~
+~
+0
+7877
+0
+EndRoom
+
+#ROOM
+Vnum 7873
+Name The Small Valley~
+Desc You are in the small valley.  Strangely, tall trees grow here, almost as if some
+magic was used to help them grow.  To the south is a small shack.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The valley continues to the east.
+~
+~
+0
+7871
+0
+Exit
+3
+The valley continues to the west.
+~
+~
+0
+7874
+0
+EndRoom
+
+#ROOM
+Vnum 7874
+Name The Small Valley~
+Desc You are in the small valley.  Strangely, tall trees grow here, almost as if some
+magic was used to help them grow.  To the south-east is a small shack.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The valley continues to the east.
+~
+~
+0
+7873
+0
+Exit
+2
+The valley continues to the south.
+~
+~
+0
+7875
+0
+EndRoom
+
+#ROOM
+Vnum 7875
+Name The Small Valley~
+Desc You are in the small valley.  Strangely, tall trees grow here, almost as if some
+magic was used to help them grow.  To the east is a small shack.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The valley continues to the north.
+~
+~
+0
+7874
+0
+Exit
+2
+The valley continues to the south.
+~
+~
+0
+7876
+0
+EndRoom
+
+#ROOM
+Vnum 7876
+Name The Small Valley~
+Desc You are in the small valley.  Strangely, tall trees grow here, almost as if some
+magic was used to help them grow.  To the north-east is a small shack.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The valley continues to the north.
+~
+~
+0
+7875
+0
+Exit
+1
+The valley continues to the east.
+~
+~
+0
+7877
+0
+EndRoom
+
+#ROOM
+Vnum 7877
+Name The Small Valley~
+Desc You are in the small valley.  Strangely, tall trees grow here, almost as if some
+magic was used to help them grow.  To the north is a small shack.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The valley continues to the east.
+~
+~
+0
+7872
+0
+Exit
+3
+The valley continues to the west.
+~
+~
+0
+7876
+0
+EndRoom
+
+#ROOM
+Vnum 7878
+Name Inside the Small Shack~
+Desc You are inside the small shack.  A small stove is on the side, with soup
+cooking over it.  You see nothing valuable.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the valley outside.
+~
+door~
+-1
+7870
+AB
+Exit
+5
+You see a trap door!
+~
+trap door~
+-1
+7879
+AB
+EndRoom
+
+#ROOM
+Vnum 7879
+Name Beneath the Small Shack~
+Desc You are beneath the small shack, in a tunnel that leads south.  It feels
+quite warm down here.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+The room looks reddish down there.
+~
+~
+0
+7880
+0
+Exit
+4
+Back to known territory!
+~
+trap door~
+-1
+7878
+AB
+EndRoom
+
+#ROOM
+Vnum 7880
+Name The Den of the Pyrohydra~
+Desc You are in the den of the pyrohydra.  All the walls are charred, and this
+room is filled with a smell close to that of burning tar.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the relative safety to the north.
+~
+~
+0
+7879
+0
+Exit
+1
+You see breaks in the charred rock to the east.
+~
+secret~
+7805
+7882
+ABC
+Exit
+3
+You see a door to the west.
+~
+door~
+7805
+7881
+ABC
+EndRoom
+
+#ROOM
+Vnum 7881
+Name The Workroom~
+Desc This room looks like it is used for magical studies.  Potions bubble over
+burners, and the whole room spells of herbs and dead animal flesh.  A furnace
+to the side casts a bright light in this room.  The whole room radiates with
+a magical aura.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+door~
+7805
+7880
+ABC
+EndRoom
+
+#ROOM
+Vnum 7882
+Name The Storage Room~
+Desc This room is used to store scrolls, potions, and other magical items.  The
+whole room radiates with a magical aura.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+secret door~
+7805
+7880
+ABC
+EndRoom
+
+#ROOM
+Vnum 7883
+Name WAY Far Down into the Valley~
+Desc You have fallen trying to go down this steep hill.  Maybe that wasn't that
+good an idea, huh?
+
+
+You've fallen, and you can't get up!
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 7807 spec_cast_cleric
+M 7808 spec_cast_mage
+M 7809 spec_breath_fire
+M 7811 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 7829 0 1
+D 0 7834 2 1
+D 0 7845 0 1
+D 0 7845 1 2
+D 0 7846 0 2
+D 0 7846 3 2
+D 0 7847 1 1
+D 0 7847 2 1
+D 0 7848 2 2
+D 0 7848 3 1
+D 0 7870 3 1
+D 0 7878 1 1
+D 0 7878 5 1
+D 0 7879 4 1
+D 0 7880 1 2
+D 0 7880 3 2
+D 0 7881 1 2
+D 0 7882 3 2
+M 0 7801 6 7805 1
+E 0 7802 0 16
+M 0 7800 6 7806 1
+M 0 7800 6 7807 1
+M 0 7802 6 7811 1
+E 0 7802 0 16
+M 0 7814 3 7815 1
+M 0 7801 6 7816 1
+E 0 7802 0 16
+M 0 7801 6 7818 1
+E 0 7802 0 16
+M 0 7813 3 7818 1
+M 0 7801 6 7820 1
+E 0 7802 0 16
+M 0 7802 6 7820 1
+E 0 7802 0 16
+M 0 7800 6 7823 1
+M 0 7814 3 7825 1
+M 0 7805 5 7827 1
+E 0 7801 0 8
+E 0 7802 0 16
+E 0 7803 0 3
+M 0 7813 3 7830 1
+M 0 7800 6 7833 1
+M 0 7806 5 7835 1
+M 0 7800 6 7837 1
+M 0 7806 5 7838 1
+M 0 7806 5 7839 1
+M 0 7802 6 7842 1
+E 0 7802 0 16
+M 0 7805 5 7842 1
+E 0 7801 0 8
+E 0 7802 0 16
+E 0 7803 0 3
+M 0 7801 6 7844 1
+E 0 7802 0 16
+M 0 7807 1 7845 1
+G 0 7804 0
+E 0 7806 0 1
+E 0 7825 0 16
+M 0 7808 1 7845 1
+E 0 7806 0 1
+E 0 7825 0 16
+O 0 7809 0 7846
+O 0 7823 0 7846
+O 0 7820 0 7846
+O 0 7817 0 7846
+O 0 7815 0 7846
+O 0 7816 0 7846
+O 0 7819 0 7846
+M 0 7806 5 7847 2
+M 0 7806 5 7847 2
+M 0 7803 4 7848 1
+E 0 7800 0 5
+E 0 7801 0 8
+E 0 7802 0 16
+E 0 7803 0 3
+M 0 7804 4 7848 1
+E 0 7800 0 5
+E 0 7801 0 8
+E 0 7802 0 16
+E 0 7803 0 3
+M 0 7804 4 7850 1
+E 0 7800 0 5
+E 0 7801 0 8
+E 0 7802 0 16
+E 0 7803 0 3
+M 0 7805 5 7852 1
+E 0 7801 0 8
+E 0 7802 0 16
+E 0 7803 0 3
+M 0 7814 3 7852 1
+M 0 7803 1 7853 1
+E 0 7800 0 5
+E 0 7801 0 8
+E 0 7802 0 16
+E 0 7803 0 3
+M 0 7802 6 7854 1
+E 0 7802 0 16
+M 0 7804 4 7856 1
+E 0 7800 0 5
+E 0 7801 0 8
+E 0 7802 0 16
+E 0 7803 0 3
+M 0 7803 4 7860 1
+E 0 7800 0 5
+E 0 7801 0 8
+E 0 7802 0 16
+E 0 7803 0 3
+M 0 7813 3 7860 1
+M 0 7805 5 7862 1
+E 0 7801 0 8
+E 0 7802 0 16
+E 0 7803 0 3
+M 0 7804 4 7863 1
+E 0 7800 0 5
+E 0 7801 0 8
+E 0 7802 0 16
+E 0 7803 0 3
+M 0 7802 6 7865 1
+E 0 7802 0 16
+M 0 7803 4 7866 1
+E 0 7800 0 5
+E 0 7801 0 8
+E 0 7802 0 16
+E 0 7803 0 3
+M 0 7802 6 7868 1
+E 0 7802 0 16
+M 0 7800 6 7873 1
+M 0 7805 5 7876 1
+E 0 7801 0 8
+E 0 7802 0 16
+E 0 7803 0 3
+M 0 7801 6 7877 1
+E 0 7802 0 16
+M 0 7810 1 7878 1
+M 0 7809 1 7880 1
+G 0 7805 0
+M 0 7811 1 7881 1
+E 0 7806 0 1
+E 0 7807 0 16
+E 0 7824 0 0
+O 0 7808 0 7882
+O 0 7822 0 7882
+O 0 7821 0 7882
+O 0 7810 0 7882
+O 0 7812 0 7882
+O 0 7811 0 7882
+O 0 7820 0 7882
+O 0 7815 0 7882
+O 0 7818 0 7882
+O 0 7814 0 7882
+O 0 7813 0 7882
+O 0 7823 0 7882
+M 0 7812 1 7882 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,5 @@
+abhsia.telus.net     159 DF
+gigi                 159 DF
+thorn                158 DF
+nimis                158 DF
+61.68.*.             159 ADF

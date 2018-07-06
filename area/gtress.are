@@ -1,0 +1,1959 @@
+#AREADATA
+Name Gathrinburg Fortress~
+Builders Azzimoff~
+VNUMs 2700 2799
+Credits Azzimoff Gathrinburg Fortress 80 110~
+Security 5
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 2700
+Name Gathrinburg Deathknight~
+Short Death Knight~
+Long {DDeathKnight of Gathrinburg Fortress
+~
+Description A darkened human stands here staring at you with his glowing eyes of the
+darkest red, almost as if he is staring into your soul with his evil glare. 
+Wearing the darkest of armor, and even the impurest of weapons.  He
+willingly follows his masters orders.  It stands about 5'7" with no hair,
+red glowing eyes, and a darkened helm that which bears the symbol of
+Gathrinburg's knights.  
+~
+Race drow~
+Act_flags ABORT
+Aff HVXa
+Align -1000
+Group 0
+Level 110
+Hitroll 75
+Hit_dice 5000d5000+2500
+Mana_dice 10000d10000+5000
+Dam_dice 6000d6000+3500
+Dam_type slash
+Armor 350 350 350 350
+Clevel0
+Cability 8
+Off FIJNR
+Imm BILMQ
+Res BIM
+Vuln NS
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 100000
+Form ABCHIV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Xp_tolevel 2500
+Aggression 0
+Ffor M
+EndMob
+
+#MOB
+Vnum 2701
+Name Screaming Imp~
+Short A tiny Imp~
+Long A tiny being flies here screaming out loud at you for entering his territory
+~
+Description This lil' imp looks to be a strong fighter and sorcerer at that.  He will
+tear you limb from limb if you are not careful, so be wary these lil'
+rascals aren't any thing to sneeze at.  It is about 3' tall with bat-like
+wings on it's back, and eyes of hatred which pierce your soul.  
+~
+Race duergar~
+Act_flags AR
+Aff HJOTVXac
+Align -800
+Group 0
+Level 95
+Hitroll 5000
+Hit_dice 2900d2900+5000
+Mana_dice 10000d1000+500
+Dam_dice 3200d3200+1850
+Dam_type claw
+Armor 250 250 250 250
+Clevel0
+Cability 8
+Off AHIJMNRT
+Imm ABEIKLMQ
+Res FHJMN
+Vuln JRS
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 5000
+Form AEHMVc
+Parts ABCDEFGHIJKLPQUV
+Size tiny
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2702
+Name Beautiful Succubus~
+Short A succubus~
+Long A beautiful woman with wings sleeps here.
+~
+Description This babe looks alright to have fun in bed with, she looks so content
+just sleeping here.  Seems like she is ready to be taken to bed and have a
+lil' fun with, until you look closer and notice that she has long sharp
+claws and even sharper teeth that gleem in the lighting around you.  
+~
+Race unique~
+Act_flags AFQR
+Aff HOTVac
+Align -1000
+Group 0
+Level 85
+Hitroll 4500
+Hit_dice 350d450+1000
+Mana_dice 500d500+100
+Dam_dice 345d45+200
+Dam_type drain
+Armor 32 32 32 20
+Clevel0
+Cability 8
+Off ADFIJKMNP
+Imm ABIJKLMNQ
+Res HJ
+Vuln G
+Start_pos sleep
+Default_pos rest
+Sex female
+Wealth 12500
+Form IMc
+Parts ABCDEFGHIJKPQUV
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 2703
+Name Ratmonkey~
+Short RatMonkey~
+Long This is a genetic mutation of a Rat and a Monkey sown together by different parts of the 2 animals and brought to life by magic
+~
+Description These lil' beasts run rampant in different types of jungles and forests,
+they pretty much will eat or kill anything they see, that includes undead,
+even if ye be a vampire, thrown together by Necromancers in the Gathrinburg
+Fortress, also known as the attack dogs of the undead forces, their vicious
+claws send forth many diseases wittling down their enemies' forces, but even
+the great Necromancers could not control their own creation, turning upon
+their masters, the fortress was diseased and thus began their downfall
+towards death and destruction.  
+~
+Race unique~
+Act_flags AFGHT
+Aff KX
+Align 10
+Group 0
+Level 82
+Hitroll 90
+Hit_dice 435d6+2
+Mana_dice 0d0+0
+Dam_dice 3d8+15
+Dam_type claw
+Armor 1500 1500 1500 0
+Clevel0
+Cability 0
+Off U
+Imm A
+Res Q
+Vuln C
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 10
+Form GV
+Parts ABCDEFGHIKQUV
+Size small
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 2700
+Name Scythe~
+Short {rChaos {DS{rc{Dy{rt{Dh{re~
+Desc An evil looking scythe from hell has been resting here.~
+Material fire opal~
+Item_type sockets
+Extra CEIJY
+Extra2 AC
+Wear AN
+Values 0 A 0 0 0
+Level 8
+Weight 15
+Cost 400000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 24000
+AffectObj
+13 12000
+AffectObj
+19 1275
+AffectObj
+18 1200
+AffectObj
+26 12000
+AffectObj
+3 -6
+AffectObj
+5 2
+AffectObj
+2 10
+AffectObj
+1 3
+EndObj
+
+#OBJ
+Vnum 2701
+Name PlateMail~
+Short {rP{Dl{ra{Dt{re{DM{ra{Di{rl {Do{rf {DD{re{Ds{rt{Dr{ru{Dc{rt{Di{ro{Dn~
+Desc Wearing this armor will enhance your abilities as a knight of darkness, even this armor will be able to enhance your abilities to the greatest extent~
+Material adamantite~
+Item_type armor
+Extra CEIJYa
+Extra2 C
+Wear AU
+Values EFIKMNO EFIKMNO EFIKMNO EFIKMNO 0
+Level 151
+Weight 1
+Cost 100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 25000
+AffectObj
+19 25
+AffectObj
+18 10
+AffectObj
+13 32000
+EndObj
+
+#OBJ
+Vnum 2703
+Name PADS~
+Short {rA{Dz{rz{Di{rm{Do{rf{Df's {DA{rr{Dm{rp{Da{rd{Ds~
+Desc These armpads protect the wearer from any harm done to him, also this armor gives the bearer ultimate strength against the likes of Light and Hope~
+Material pads~
+Item_type armor
+Extra CEIJYa
+Extra2 C
+Wear AR
+Values BEF ABCEF AG BDEG 0
+Level 151
+Weight 1
+Cost 3450
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+27 100
+AffectObj
+26 100
+AffectObj
+5 25
+AffectObj
+2 10
+AffectObj
+1 10
+AffectObj
+12 32000
+AffectObj
+13 32000
+EndObj
+
+#OBJ
+Vnum 2704
+Name Light~
+Short {rA{Ds{rs{Du{rn{Dd{re{Dr~
+Desc This bright light has the ability to destroy anything in it's path if given the chance to do so, it will even steal your life if stolen from it's master.~
+Material star~
+Item_type light
+Extra EIJSYa
+Extra2 C
+Wear APQ
+Values 0 0 0 0 0
+Level 151
+Weight 3
+Cost 1000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 32000
+AffectObj
+12 32000
+AffectObj
+26 100
+AffectObj
+27 75
+EndObj
+
+#OBJ
+Vnum 2705
+Name Ring~
+Short {DR{ri{Dn{rg {Do{rf {Dt{rh{De {rC{Dh{ra{Do{rs {DL{ro{Dr{rd~
+Desc This ring bestows anyone or even it's master the ability to overcome many obsticales, even against the most prized enemy could take out a wizard.~
+Material sapphire~
+Item_type jewelry
+Extra EIJYa
+Extra2 C
+Wear ABP
+Values 0 0 0 0 0
+Level 151
+Weight 2
+Cost 2000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 32000
+AffectObj
+12 32000
+AffectObj
+18 25
+AffectObj
+19 35
+AffectObj
+26 10
+AffectObj
+27 12
+AffectObj
+1 5
+AffectObj
+2 10
+AffectObj
+5 7
+EndObj
+
+#OBJ
+Vnum 2706
+Name Robe~
+Short {rRobe {Dof {rH{Da{rt{Dr{re{Dd~
+Desc This robe that lies before you is a magical one that causes one to become violent and hate everyone around the wearer, chaos and insanity have taken over your mind~
+Material magic~
+Item_type armor
+Extra EIJYa
+Extra2 C
+Wear AK
+Values BEF BEF ABDG CFG 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 32000
+AffectObj
+12 32000
+AffectObj
+18 5
+AffectObj
+19 8
+AffectObj
+26 10
+AffectObj
+27 12
+AffectObj
+1 3
+AffectObj
+2 2
+EndObj
+
+#OBJ
+Vnum 2707
+Name cloak~
+Short {DA{rr{Dm{ra{Dg{re{Dd{rd{Do{rn~
+Desc This cloak used to belong to the great and powerful Lords of all destruction, it has now been passed down through the ages to it's greatest master ever in the world.~
+Material polyester~
+Item_type armor
+Extra CEIJYa
+Extra2 CD
+Wear AS
+Values CFG CFG CFG CFG 0
+Level 153
+Weight 3
+Cost 1000000000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 32500
+AffectObj
+12 32500
+AffectObj
+18 25
+AffectObj
+19 45
+AffectObj
+26 12000
+AffectObj
+27 55
+EndObj
+
+#OBJ
+Vnum 2708
+Name leggings~
+Short {DLeggings {rof {DConspiracy~
+Desc These leggings protect it's master from any type of harm, be it ghouls, ghosts, or any type of enemy these keep their wearer protected under any circumstances~
+Material extremely hardened plastic~
+Item_type armor
+Extra CEIJYa
+Extra2 CD
+Wear AF
+Values CE CE CE CE 0
+Level 153
+Weight 2
+Cost 2147483647
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 32500
+AffectObj
+12 32500
+AffectObj
+26 12000
+AffectObj
+27 100
+AffectObj
+1 15
+AffectObj
+2 25
+AffectObj
+5 10
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 2700
+Name Gathrinburg Cliffside~
+Desc Welcome to Gathrinburg, this is just the beginning of it all.  Stuck in
+the cliffside is an anchor with a big chain attached to it, further one can
+see a huge fortress floating in the sky above some clouds, it seems
+inviting, but also one can tell that there is a terrible aura about this
+place.  This distinct fortress was plagued many years ago by the Black
+Plague as the once great king of it was diseased ridden and died.  Be
+careful this place can be deadly as it is beautiful.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+0
+2701
+0
+EndRoom
+
+#ROOM
+Vnum 2701
+Name Climbing the Gathrindor Chain~
+Desc Climbing up this chain will be tedious, and yet scary due to heights. 
+Looking down one can see the water below as it shuffles around, the chaos of
+it's crashing waves and the rocks below gives someone the impression of
+death is below.  The sharp rocks just don't look that inviting anymore.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+0
+2702
+0
+Exit
+5
+~
+~
+0
+2700
+0
+EndRoom
+
+#ROOM
+Vnum 2702
+Name Climbing up further!~
+Desc Getting there...  Not too much further to go, clouds are in sight, try
+not to fall, or slip!!  It's a long way down to the bottom, try to hang on
+for dear life, because death awaits you at the bottom.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+0
+2703
+0
+Exit
+5
+~
+~
+0
+2701
+0
+EndRoom
+
+#ROOM
+Vnum 2703
+Name Almost there...~
+Desc Clouds are in sight, they seem to move freely about as a light wind
+travels across the sky.  The birds which fly past, look strangely as this
+being who seems to climbing up this long chain. They squak and squak about
+something flying further into the horizon.  The sun isn't too helpful either
+beating down on this poor and helpless being.  The chains don't seem too
+friendly either biting and getting warmer with every pull to the top.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+0
+2704
+0
+Exit
+5
+~
+~
+0
+2702
+0
+EndRoom
+
+#ROOM
+Vnum 2704
+Name Large Cumulus Clouds~
+Desc These puffy white clouds feel wet when climbing up the chain.  They look
+like big puffy marshmallows, but mostly wet puffiness.  The higher one
+climbs, the less air one can breathe.  Feeling like passing out is an
+option, a deadly one but an option at that, climb higher, higher is what is
+going through that head.
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+0
+2705
+0
+Exit
+5
+~
+~
+0
+2703
+0
+EndRoom
+
+#ROOM
+Vnum 2705
+Name Welcome to Gathrinburg~
+Desc This is the end of the chain, noticing that the chain is also attached to
+another anchor here.  The land that one can see before them is a floating
+island set out in the middle of an ocean.  The ocean seems endless compared
+to this wonderous land.  Setting a foot on the ground makes anyone wonder
+why such a beautiful place could be so deadly.  
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2708
+0
+Exit
+1
+~
+~
+0
+2706
+0
+Exit
+3
+~
+~
+0
+2707
+0
+Exit
+5
+~
+~
+0
+2704
+0
+EndRoom
+
+#ROOM
+Vnum 2706
+Name Southern Edge of the Cliff~
+Desc This is the eastern side of Gathrinburg Cliffs, try to be careful the
+drop is 10,000 miles down, and one misstep could lead to a terrible fall
+straight into the rocks below, killing someone instantly.  Don't look down,
+the drop could make anyone dizzy enough to either pass out and fall
+forwards.... TO YOUR DEATH!!!
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2711
+0
+Exit
+3
+~
+~
+0
+2705
+0
+Exit
+5
+~
+~
+0
+2709
+0
+EndRoom
+
+#ROOM
+Vnum 2707
+Name Southern Edge of the Cliff~
+Desc This is the western side of of Gathrinburg Cliffs, try to be careful the
+drop is 10,000 miles down, and one misstep could lead to a terrible fall
+straight down into the pointed rocks below, killing anyone instantly.  Don't
+look down, the drop could make anyone dizzy enough to either pass out and
+fall forwards....  TO YOUR DEATH!!!!  
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2705
+0
+Exit
+3
+~
+~
+0
+2712
+0
+Exit
+5
+~
+~
+0
+2710
+0
+EndRoom
+
+#ROOM
+Vnum 2708
+Name Entrance to the Gathrinburg Fortress~
+Desc Beyond these doors is nothing but pure evil at it's worst.  Upon looking
+at the gateway there can be seen some Gargoyles sitting atop some of the
+ledges of this worn down fortress.  Are they looking down at this bold
+stranger or are they just sitting there like statues?  Although they look
+scary they seem to have an aura about them, an evil so pure that even the
+boldest warrior would die in this place alone.  Be prepared for this place
+of enchantment is of wonder and hate.  
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2725
+0
+Exit
+1
+~
+~
+0
+2721
+0
+Exit
+2
+~
+~
+0
+2705
+0
+Exit
+3
+~
+~
+0
+2719
+0
+EndRoom
+
+#ROOM
+Vnum 2709
+Name Falling!!!~
+Desc Once again, looking down was not a great option, falling down to the
+ocean wasn't in the books.  Obviously making the wrong decision can lead to
+bad roads along the way.
+AAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHH!!
+Someone fell down and went SPLAT! Oh well, better luck next time my friend.
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 2710
+Name Falling!!!~
+Desc Once again, looking down was not a great option, falling down to the
+ocean wasn't in the books.  Obviously making the wrong decision can lead to
+roads along the way.
+AAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHH!!!!
+Someone fell down and went SPLAT! Oh well, better luck next time my friend.
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 2711
+Name Gathrinburg Cliffs~
+Desc This is another of the Gathrinburg Cliffs, looking around is a sight to
+see, noticing many other lands and castles which look kind of puny almost
+ant-sized which is nothing compared to the awesome size of the fortress. 
+Many things happen in this fortress which no one knows, or has ever explored
+before upon looking at it.  
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2741
+0
+Exit
+3
+~
+~
+0
+2706
+0
+EndRoom
+
+#ROOM
+Vnum 2712
+Name Southwestern Edge of the Cliff~
+Desc This is the Southwestern part of the cliff, looking closer one can see a
+bit of railing here, or is it really there.  Could be magic involved here as
+one tries to set foot off the cliff, they can notice that their foot does
+not leave the edge.  Be glad for this is part of the magic involved here at
+Gathrinburg Fortress.  
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2714
+0
+Exit
+1
+~
+~
+0
+2707
+0
+EndRoom
+
+#ROOM
+Vnum 2713
+Name Fortress Wall~
+Desc Here stands a 40 foot tall wall made of stone and granite, a few rocks
+have fallen out of place with some of the molding which is easily breakable.
+There seems to be moss growing of this wall, it seems to smell a bit when
+approached closer. Touching the moss is like feeling a woman's body; silky,
+but yet tender in some places.  
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2715
+0
+Exit
+3
+~
+~
+0
+2735
+0
+Exit
+4
+~
+~
+0
+2737
+0
+EndRoom
+
+#ROOM
+Vnum 2714
+Name Western Edge of Cliff~
+Desc Looking out over the land at the Gathrinburg Fortress are nothing but
+endless burned down houses, trees, withered plants which seem to eye the
+souls within, hatred surrounds those that come within this fortress as eyes
+begin glaring from all corners of this forsaken land.  
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2716
+0
+Exit
+2
+~
+~
+0
+2712
+0
+EndRoom
+
+#ROOM
+Vnum 2715
+Name Eastern Fortress Wall~
+Desc Here stands a 40 foot tall wall made of stone and granite, a few rocks
+have fallen out of place with some of the molding which is easily breakable.
+There seems to be moss growing of this wall, it seems to smell a bit when
+approached closer.  Touching the moss is like feeling a woman's body; silky,
+but yet tender in some places.  
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2717
+0
+Exit
+2
+~
+~
+0
+2713
+0
+Exit
+4
+~
+~
+0
+2738
+0
+EndRoom
+
+#ROOM
+Vnum 2716
+Name Nortwestern Edge of Cliff~
+Desc Looking out over the destroyed wall of the NorthWestern Cliff, all that
+can be seen below is a bunch of cities, lil' teensy tiny people down below
+doing what they can to survive this godawful world, a world of chaos and
+destruction has taken over and the land has become a somewhat barren one in
+fact from many wars, and many battles that had taken place here in this
+fortress and down below with everyone else It's a sight to see, but the
+journey is long and hard, adventure seems like an idea here.  So become one
+of the undead or become the adventurous hero, only the adventurer can decide
+his own fate in this fortress alone or even grouped up...  Good Luck.  
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+2714
+0
+EndRoom
+
+#ROOM
+Vnum 2717
+Name Northeastern Fortress Wall~
+Desc Here stands a 40 foot tall wall made of stone and granite, a few rocks
+have fallen out of place with some of the molding which is easily breakable.
+There seems to be moss growing of this wall, it seems to smell a bit when
+approached closer.  Touching the moss is like feeling a woman's body; silky,
+but yet tender in some places.  
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+2715
+0
+Exit
+3
+~
+~
+0
+2733
+0
+Exit
+4
+~
+~
+0
+2739
+0
+EndRoom
+
+#ROOM
+Vnum 2718
+Name Hallway of Fortress~
+Desc This hallway consists of nothing more than torches, this place seems to
+be lit up somehow, but with all the dead people keeping the torches
+maintained is a big mystery, this hallway also consists of putrid smells,
+that seem to be coming from the lower dungeons, going further makes anyone
+wanna puke, but there's just something not right about this place, keep
+adventuring forth young adventurer.
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2734
+0
+Exit
+2
+~
+~
+0
+2740
+0
+EndRoom
+
+#ROOM
+Vnum 2719
+Name Western Courtyard~
+Desc This place looks terrible as everything has been strewn about the ground
+a few weapons here and there which are unusable.  A battered up old wagon
+sits here with nothing in it except another corpse which looks like it has
+been torn to shreds.  A few more bones are scattered about the place like
+some kind of tornado had hit this place.  It is a desolate area full of
+broken items and some more dead grass that is all that can be seen within
+here.  
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2708
+0
+Exit
+3
+~
+~
+0
+2722
+0
+EndRoom
+
+#ROOM
+Vnum 2720
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 2721
+Name Eastern Courtyard~
+Desc This place looks terrible as everything has been strewn about the ground
+a few weapons here and there which are unusable.  A battered up old wagon
+sits here with nothing in it except another corpse which looks like it has
+been torn to shreds.  A few more bones are scattered about the place like
+some kind of tornado hit this place, it is a desolate area full of broken
+items and some more dead grass that is all that can be seen within here.  
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2723
+0
+Exit
+3
+~
+~
+0
+2708
+0
+EndRoom
+
+#ROOM
+Vnum 2722
+Name Further along the Courtyard~
+Desc This courtyard consists of bones, rotting arms, and some spilled brains
+lying on the ground here.  This reminds any traveler that this place could
+be reminiscent of Dracula's castle at times.  Although the place has many
+strown out corpses..  Some in a corner with it's rags still on...  And a few
+others with no heads at at all.  Obviously this is why no one should enter
+into such an abbominous place.  
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2719
+0
+Exit
+3
+~
+~
+0
+2724
+0
+EndRoom
+
+#ROOM
+Vnum 2723
+Name Further along the Courtyard~
+Desc This courtyard consists of bones, rotting arms, and some spilled brains
+lying on the ground here.  This reminds any traveler that this place could
+be reminiscent of Dracula's castle at times.  Although the place has many
+strown out corpses..  Some in a corner with it's rags still on...  And a few
+others with no heads at all.  Obviously this is why no one should enter into
+such an abbominous place.  
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2735
+0
+Exit
+3
+~
+~
+0
+2721
+0
+EndRoom
+
+#ROOM
+Vnum 2724
+Name Guard's Post~
+Desc A post for the guards of Gathrinburg Fortress, they stand here and get
+their orders from the Captain, which walks all over the fortress, making
+sure no one gets in or out of this place.  He also talks to the other undead
+soldiers giving them orders on who to kill, which in turn noticing why there
+are so many corpses and bones lying around here, most of them were travelers
+who thought they could takes out this horrid place.  
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2722
+0
+EndRoom
+
+#ROOM
+Vnum 2725
+Name Main Courtyard~
+Desc Here is the main courtyard, looking around this place seems to be a
+wonder upon wonders, as near here is a fountain made of pure gold with a
+statue on it descripting a somewhat human, somewhat elven type race... 
+Maybe this is the leader or king of the fortress or once was a king of this
+horrid and barren place.  Looking further, one can see another part of the
+courtyard just beyond here, could this place get any worse than it already
+is or is it just peaceful and quiet as usual?  
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2726
+0
+Exit
+1
+~
+~
+0
+2727
+0
+Exit
+2
+~
+~
+0
+2708
+0
+Exit
+3
+~
+~
+0
+2728
+0
+EndRoom
+
+#ROOM
+Vnum 2726
+Name Northern Courtyard~
+Desc Looking there is only seen a gazebo which had been trashed by a previous
+attack upon Gathrinburg Fortress, which seems like some kinda nasty monster
+had been previously here, what kind of monster could have done such damage
+to this once peaceful place?  The proof can only be found somewhere in this
+small fortress called Gathrinburg.  
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2740
+0
+Exit
+1
+~
+~
+0
+2733
+0
+Exit
+2
+~
+~
+0
+2725
+0
+Exit
+3
+~
+~
+0
+2736
+0
+EndRoom
+
+#ROOM
+Vnum 2727
+Name Courtyard East~
+Desc This is the courtyard east of the main courtyard, looking around one can
+notice many wagons turned over on their sides, trees withered away like they
+were never watered, bushes in the middle of nowhere as they go whirling
+about by the winds.  Looking around again this place seems quiet a lil' too
+quiet, almost a deadly quiet in this place.  
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2729
+0
+Exit
+3
+~
+~
+0
+2725
+0
+EndRoom
+
+#ROOM
+Vnum 2728
+Name Courtyard West~
+Desc This is the courtyard west of the main courtyard, looking around one can
+notice many wagons turned over on their sides, trees withered away like they
+were never watered, bushes in the middle of nowhere as they go whirling
+about by the high winds.  Looking around again this place seems quiet a lil'
+too quiet, almost as if it were a deadly silence.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2725
+0
+Exit
+3
+~
+~
+0
+2730
+0
+EndRoom
+
+#ROOM
+Vnum 2729
+Name Outer Courtyard~
+Desc Here is the outer most courtyard, when looking at this place all that can
+be seen is a torn down gazebo, flowers which were rotted from weeks ago, and
+more rotted corpses found around the gazebo.  This is a sign of death,
+destruction, and absolute chaos which has ever been found in such a dingy
+place.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2731
+0
+Exit
+3
+~
+~
+0
+2727
+0
+EndRoom
+
+#ROOM
+Vnum 2730
+Name Outer Courtyard~
+Desc Here is the outer most courtyard, when looking at this place all that can
+be seen is a torn down gazebo, flowers which were rotted from weeks ago, and
+more rotted corpses found around the gazebo.  This is a sign of death,
+destruction, and utter chaos which has never been found in such a horrible
+place such as this.
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2728
+0
+Exit
+3
+~
+~
+0
+2732
+0
+EndRoom
+
+#ROOM
+Vnum 2731
+Name Squire's Quarters~
+Desc Here is the Squire's Quarters where only the best squire comes to become
+a knight of Gathrinburg, although there aren't any here now which is
+irregular since everyone is dead, or turned into zombies.  Becoming a knight
+of this place is no longer acceptable, once it was a flourishing place in
+the past, it has now become a barren and wasted away land of terror and
+remorse.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+2729
+0
+EndRoom
+
+#ROOM
+Vnum 2732
+Name Destroyed Armory~
+Desc Once this a prominent place of trade for weapons and other items, now
+it's just a destroyed building with nothing really in it anymore.  All that
+can be seen in here is just ash, a bit of the building, and a fresh crisp
+corpse that looks to be the Armorsmith, but all that can be seen now is just
+a totally destroyed building.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2730
+0
+EndRoom
+
+#ROOM
+Vnum 2733
+Name Gathrinburg Temple~
+Desc This was a place of worship for all that used to live in this once
+beautiful and peaceful place at Gathrinburg.  That is until everyone that
+used to live here, has now either become undead or have become lunchmeat for
+the demons who now run rampant and wild, they have desicrated this place of
+worship and now have turned it into their own sacrificial playgrounds, there
+is an altar sitting atop a few stairs, on top of this altar is a dead elven
+body, an adventurer who had come into this place but was never able to leave
+afterwards.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2717
+0
+Exit
+3
+~
+~
+0
+2726
+0
+EndRoom
+
+#ROOM
+Vnum 2734
+Name Further down the Hallway~
+Desc Further down this hallway is darkness for only the naked eye to see,
+there are no torches to be seen in this hallway, although taking a light
+along would help matters while taking a stroll here.  Feeling the walls
+nearby, seems slimy and moss ridden smelling like death has taken it's toll
+about this place.  Keep a sharp eye out even in the darkness of this place,
+one could end up dead and not even know of it.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+2718
+0
+Exit
+5
+~
+~
+0
+2746
+0
+EndRoom
+
+#ROOM
+Vnum 2735
+Name Horses' Stables~
+Desc Here are the horse stables, not really much here except more corpses and
+a few skeletons of plagued animals.  It also reminds one to get the heck
+outta this stable because it smells rancid of dead flesh, and rotting fecis.
+Looking around there doesn't seem to be much of anything of use here.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2713
+0
+Exit
+3
+~
+~
+0
+2723
+0
+EndRoom
+
+#ROOM
+Vnum 2736
+Name Near a Building~
+Desc Next door there is a small building written atop the sign is something in
+common , looking closer one can see that it says a General Store.  A
+retailer of sorts who sells weapons, potions, and maybe even some armor. 
+Please be sure and buy some of the things there, might come in handy for the
+onslaught by the pursuers of this fortress, they are not happy someone has
+entered into their realm of existence, but with a lil' luck and strong armor
+anyone should be able to deal with them.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2726
+0
+Exit
+3
+~
+~
+0
+2745
+0
+EndRoom
+
+#ROOM
+Vnum 2737
+Name Ledge of Fortress~
+Desc While looking about this decrepid place, it is only the upstairs part of
+the fortress, this 2nd floor provides a bit of safety and comfort, but that
+only goes so far until a monster comes out of nowhere and shows the
+adventurer who is boss among this lonely and barren place of either worship
+or destruction.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+~
+~
+0
+2713
+0
+EndRoom
+
+#ROOM
+Vnum 2738
+Name 2nd Floor of Fortress~
+Desc While looking about this decrepid place, it is only the upstairs part of
+the fortress, this 2nd floor provides a bit of safety and comfort, but that
+only goes so far until a monster comes out of nowhere and shows the
+adventurer who is boss among this lonely and barren place of either worship
+or destruction.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+~
+~
+0
+2715
+0
+EndRoom
+
+#ROOM
+Vnum 2739
+Name 2nd Floor of Fortress~
+Desc While looking about this decrepid place, it is only the upstairs part of
+the fortress, this 2nd floor provides a bit of safety and comfort, but that
+only goes so far until a monster comes out of nowhere and shows the
+adventurer who is boss among this lonely and barren place of either worship
+or destruction.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+~
+~
+0
+2717
+0
+EndRoom
+
+#ROOM
+Vnum 2740
+Name Past the Courtyard~
+Desc Seen nearby is a hallway dark and damp, could be very dangerous upon
+entering into it.  Looking further one could swear that he or she had seen a
+pair of red eyes.  They seem to vanish in the darkness when looking again. 
+Could there be a major threat in this fortress or is it just someone's
+foolish imagination coming to life???  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2718
+0
+Exit
+2
+~
+~
+0
+2726
+0
+EndRoom
+
+#ROOM
+Vnum 2741
+Name Southeastern Edge of the Cliff~
+Desc This is the southeastern part of the cliff, looking closer one can see a
+bit of railing here, or is it really there.  Could be magic involved here as
+one tries to set foot off the cliff, they will notice that their feet do not
+leave this place of existence as they are lifted and sent back to the solid
+ground of this barren land.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2742
+0
+Exit
+3
+~
+~
+0
+2711
+0
+EndRoom
+
+#ROOM
+Vnum 2742
+Name Gathrinburg Cliffside~
+Desc Looking up at the sky, which seems darker than ever, a storm seems to
+rush over this vast and barren place.  Lightning is seen overhead as a loud
+CLAP!  Of thunder makes it's way into existence.  These sounds surely let
+one know that it is high time to head for some cover before they are struck
+by lightning soon, small droplets of rain begin to drop from the sky beating
+down upon the traveler like hailstones upon a rooftop.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2743
+0
+Exit
+2
+~
+~
+0
+2741
+0
+EndRoom
+
+#ROOM
+Vnum 2743
+Name Eastern Edge of the Cliff~
+Desc Looking out over the land at the Gathrinburg Fortress are nothing but
+endless burned down houses, trees, withered plants which seem to eye the
+souls within, hatred surrounds those that come within this fortress as eyes
+begin glaring from all corners of this forsaken land.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2744
+0
+Exit
+2
+~
+~
+0
+2742
+0
+EndRoom
+
+#ROOM
+Vnum 2744
+Name Northeastern Edge of the Cliff~
+Desc Looking out over the destroyed wall of the Northeastern cliff, all that
+can be seen below is a bunch of cities, lil' teensy tiny people down below
+doing what they can to survive this godawful world, a world of chaos and
+destruction has taken over and the land has become a somewhat barren one in
+fact from many wars, and many battles that had taken place here in this
+fortress and down below with everyone else It's a sight to see, but the
+journey is long and hard, adventure seems like an idea here.  So become one
+of the undead or become the adventurous hero, only the adventurer can decide
+his own fate in this fortress alone or even grouped up...  Good Luck.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+2743
+0
+EndRoom
+
+#ROOM
+Vnum 2745
+Name General Store~
+Desc Welcome to the General Store where anyone can buy many different weapons
+to a range of axes, swords, claws, etc.  Also anyone can buy the most
+favored of items here, which is the healing potions, they seem to come by
+the dozen as the shopkeeper keeps having to barter with the other townsfolk
+near here.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2736
+0
+EndRoom
+
+#ROOM
+Vnum 2746
+Name Gathrinburg Dungeons~
+Desc Welcome to the dungeons of Gathrinburg Fortress, this place used to be
+the haven for prisoners that were caught and dealt with in the jail and also
+in the torture rooms, these poor souls that have died many years ago in
+these cells have become part of the roaming undead among the rest of the
+lost souls that wander this place aimlessly in search of blood and even
+human body parts, even the Necromancers cannot deal with these foul
+creatures from the bowels of the Abyss.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2747
+0
+Exit
+3
+~
+~
+0
+2748
+0
+Exit
+4
+~
+~
+0
+2734
+0
+EndRoom
+
+#ROOM
+Vnum 2747
+Name Eastern Long Hallway~
+Desc This long hallway proceeds into the Captain's Headquarters within the
+darkness are small lit torches which radiate light for adventurer's who wish
+to travel within these dank pasageways who can only tell what may happen
+within these hallways.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2749
+0
+Exit
+3
+~
+~
+0
+2746
+0
+EndRoom
+
+#ROOM
+Vnum 2748
+Name Western Long Hallway~
+Desc This long hallway proceeds to the Lieutenant's Office within the
+darkness are small lit torches which radiate light for adventurer's who wish
+to travel within these dank pasageways who can only tell what may happen
+within these hallways.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2746
+0
+Exit
+3
+~
+~
+0
+2750
+0
+EndRoom
+
+#ROOM
+Vnum 2749
+Name Long Hallway~
+Desc This long hallway proceeds into the Captain's Headquarters within the
+darkness are small lit torches which radiate light for adventurer's who wish
+to travel within these dank pasageways who can only tell what may happen
+within these hallways.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2752
+0
+Exit
+3
+~
+~
+0
+2747
+0
+EndRoom
+
+#ROOM
+Vnum 2750
+Name Long Hallway~
+Desc This long hallway proceeds to the Lieutenant's Office within the
+darkness are small lit torches which radiate light for adventurer's who wish
+to travel within these dank pasageways who can only tell what may happen
+within these hallways.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2748
+0
+Exit
+3
+~
+~
+0
+2751
+0
+EndRoom
+
+#ROOM
+Vnum 2751
+Name Long Hallway~
+Desc This long hallway proceeds to the Lieutenant's Office within the
+darkness are small lit torches which radiate light for adventurer's who wish
+to travel within these dank pasageways who can only tell what may happen
+within these hallways.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+2750
+0
+EndRoom
+
+#ROOM
+Vnum 2752
+Name ~
+Desc This long hallway proceeds into the Captain's Headquarters within the
+darkness are small lit torches which radiate light for adventurer's who wish
+to travel within these dank pasageways who can only tell what may happen
+within these hallways.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+2749
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

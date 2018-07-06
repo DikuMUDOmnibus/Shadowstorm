@@ -1,0 +1,322 @@
+#AREADATA
+Name splynn~
+Builders Modeus~
+VNUMs 2400 2499
+Credits (null)~
+Security 5
+Soundfile (null)~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 2400
+Name Splynn Gardens~
+Desc The Splynn gardens are a beautiful site at any time.  The hedges
+surrounding the garden are thick and almost impossible to see through.  The
+path through the garden runs in many directions and it is lined by small
+little flowers that give the garden a lovely fragrance.  
+~
+Room_flags 0
+Sector_type 8
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+flowers~
+Small flowers line the pathway through the garden and make it smell nice
+too.  
+~
+ExtraDesc
+hedges~
+Thick hedges surround the entire garden making it hard to see though.  
+~
+Exit
+0
+~
+~
+0
+2401
+0
+Exit
+1
+~
+gate~
+0
+2404
+AB
+EndRoom
+
+#ROOM
+Vnum 2401
+Name Splynn Gardens~
+Desc This part of the garden is similar to the others in a mysterious way. 
+Its as if the entire garden is one big maze.  There are cuts in the hedges
+in this part of the garden that look over into the very center of the
+garden.  There is a sound of rushing water through the hedges to the west of
+here.  
+~
+Room_flags 4
+Sector_type 8
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+2400
+0
+Exit
+3
+~
+~
+0
+2402
+0
+EndRoom
+
+#ROOM
+Vnum 2402
+Name Splynn Gardens~
+Desc The sound of rushing water comes from the huge stone fountain in the
+center of this room.  Around the fountain are vines and plants that grew all
+over it in time.  Near the fountain there is a marble path that starts and
+circles around it into a hole near the back of the fountain.  The grass in
+this area is bright green and looks very alive and healthy.  
+~
+Room_flags 4
+Sector_type 8
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+fountain~
+There is a huge fountain planted right in the center of the garden. 
+Water gushes from the top of it falling down into a pool built around the
+sides.  Around the back of the fountain there is a hole that leads down
+inside.  
+~
+Exit
+1
+~
+~
+0
+2401
+0
+Exit
+5
+~
+~
+0
+2403
+0
+EndRoom
+
+#ROOM
+Vnum 2403
+Name Inside a fountain~
+Desc The interior of this fountain is marvelous.  The walls are glazed blue
+crystal that glimmer and shine in the light.  There is some small writing on
+the wall of the fountain.  The floor of the fountain is wet from the
+constant dripping water that gushes from the top.  There is a small bench
+against the wall made of metal.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+0
+2402
+0
+EndRoom
+
+#ROOM
+Vnum 2404
+Name Market Street~
+Desc This is a very open road with lots of villagers wandering through
+frequently.  The road is cobblestone and looks to be in bad shape.  Along
+the sides of the road are tall trees that line it in every spot except an
+entrance.  To the west there is a huge gate that leads into the famous
+Splynn Gardens.  Two statues of golden hawks are perched on the gate.  
+~
+Room_flags 0
+Sector_type 8
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+2405
+0
+Exit
+3
+~
+gate~
+0
+2400
+AB
+EndRoom
+
+#ROOM
+Vnum 2405
+Name Market Street~
+Desc Along this section of Market Street the traffic of villagers and others
+pick up as the shops and stores become closer.  The cobblestone road seems
+to be in slight better shape here then in other parts.  A beautiful smell
+flows in here from the northwest.  
+~
+Room_flags 0
+Sector_type 8
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2404
+0
+Exit
+2
+~
+~
+0
+2406
+0
+EndRoom
+
+#ROOM
+Vnum 2406
+Name Market Street~
+Desc More commotion is in this area of the street.  There are shops around
+this part of Market Street, which is the main reason for more villagers to
+gather.  Market Square is to the south of here and Market Street continues
+to the east to more shops.  
+~
+Room_flags 0
+Sector_type 8
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2405
+0
+Exit
+1
+~
+~
+0
+2408
+0
+Exit
+2
+~
+~
+0
+2407
+0
+EndRoom
+
+#ROOM
+Vnum 2407
+Name Market Square~
+Desc ~
+Room_flags 0
+Sector_type 8
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+2406
+0
+EndRoom
+
+#ROOM
+Vnum 2408
+Name Market Street~
+Desc ~
+Room_flags 0
+Sector_type 8
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+2406
+0
+EndRoom
+
+#ROOM
+Vnum 2499
+Name Atlantis~
+Desc This is a enormous room designed by someone of great taste in art.  The
+room has structures all around the room of many different warriors and
+beasts.  There is a open curtain window to the northwest of the room looking
+out over Splynn.  To the west there is a large master bed with the initial
+"M" stitched on the blanket.  Curtains are hanging around the bed and they
+shine with a silvery glaze making it almost impossible to see inside.  The
+floor is marvelous blue marble that is covered in a lace red rug.  There are
+torches lining the walls with blue aura flames that dimly light the room. 
+East of the room there is a desk with some papers on it and a small chair
+behind it.  There is a couch next to the door out with a cast iron table
+lying in front of it.  
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+~
+~
+0
+2400
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 2400 1 1
+D 0 2404 3 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

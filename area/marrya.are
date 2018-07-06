@@ -1,0 +1,1185 @@
+#AREADATA
+Name Temple of Matrimony~
+Builders Gretago~
+VNUMs 500 549
+Credits (null)~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 500
+Name a white feathered hawk~
+Short {WA white feathered hawk{X~
+Long {WA white feathered hawk perches here{X
+~
+Description {WYou see a white feathered hawk infront of you.  He has blue eyes and a
+really sharp beak.  His claws glint in the sun and he has beautiful wings. 
+He may look beautiful but he is a fierce fighter and will do whatever it
+takes to defend his master.  A {Ygolden {Wchain round his neck says
+{YGuarian {Wbelongs to {YGretago{W.  {X 
+~
+Race hawk~
+Act_flags ABT
+Aff CDEFGHJNTVZ
+Align 1000
+Group 0
+Level 158
+Hitroll 1000
+Hit_dice 1000d1000+500
+Mana_dice 1000d1000+500
+Dam_dice 100d100+1000
+Dam_type claw
+Armor -90 -90 -90 -90
+Clevel0
+Cability 10
+Off CDEFHIKNO
+Imm ABCFGHIJLNPQXYZ
+Res JKO
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form ABGZ
+Parts ACDEFJKPU
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 500
+Name a wooden altar~
+Short a wooden altar~
+Desc A wooden altar stands here~
+Material wood~
+Item_type furniture
+Extra 0
+Extra2 0
+Wear 0
+Values A DFGHIJ A 0 0
+Level 0
+Weight 1000
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 501
+Name A pew carved from wood~
+Short a pew carved from wood~
+Desc A pew carved from wood stands here~
+Material wood~
+Item_type furniture
+Extra 0
+Extra2 0
+Wear 0
+Values AC DFGHIJ E 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 502
+Name white wedding gown~
+Short a silken white wedding gown~
+Desc An Ornately decorated wedding gown lay here, rich with lashing of silk and golden threads and beads ornately placed throughout the material.~
+Material unknown~
+Item_type armor
+Extra Y
+Extra2 0
+Wear AD
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 503
+Name bridal shoes~
+Short a pair of white shiny Bridal shoes~
+Desc A pair of stunning white leather Shoes await the feet of a dashing bride to slip into the silk linings of these shoes.~
+Material unknown~
+Item_type armor
+Extra Y
+Extra2 0
+Wear AG
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 504
+Name bridal headress~
+Short an intricate Tiara~
+Desc A gorgeous silver and crystal Tiara await the head of the bride to be.Sparkling with jewels it is sure to please the most picky of Brides.~
+Material unknown~
+Item_type jewelry
+Extra Y
+Extra2 0
+Wear AE
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 505
+Name choker~
+Short a pewter and leather Choker~
+Desc A black leather choker lays here, a rose delicately carved out from pewter hangs from it, a symbol of the love of marriage blossoming between the newlyweds.~
+Material unknown~
+Item_type jewelry
+Extra Y
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 506
+Name royal blue velvet cloak~
+Short a Royal Blue Velvet Cloak~
+Desc A Royal Blue cloak, rich with silver tonings hangs here awaiting that of a Groom in love.~
+Material unknown~
+Item_type armor
+Extra Y
+Extra2 0
+Wear AS
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 507
+Name pair leather shoes~
+Short a pair of leather shoes~
+Desc A dark tan pair of leather shoes lay here, handsewn by a local. A must to complement any Grooms attire.~
+Material unknown~
+Item_type armor
+Extra Y
+Extra2 0
+Wear AG
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 508
+Name plush woven hat~
+Short a plush woven hat~
+Desc A plush woven hat made of rich materials, shimmering with beads in the form of a cross on the front sits here.~
+Material unknown~
+Item_type armor
+Extra Y
+Extra2 0
+Wear AE
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 509
+Name gold medallion~
+Short a Gold Medallion~
+Desc A golden medallion hang amongst the Grooms attire. Rich with carvings of good luck Symbols and blessing from the gods.~
+Material unknown~
+Item_type jewelry
+Extra Y
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 510
+Name wedding bouquet~
+Short a small posy of wedding flowers~
+Desc A small posy of blossoming pansies and fresh cut flowers from the fields, delicately form this wedding bouquet, bringing freshness into the room.~
+Material unknown~
+Item_type trash
+Extra Y
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 511
+Name violet cloak white cotton underlay~
+Short a Deep Violet cloak with a white, cotton underlay~
+Desc A deep violet cloak hangs here, rich in colour and heavy in texture with a pure white cotton underlay seeping through the seams.~
+Material unknown~
+Item_type armor
+Extra Y
+Extra2 0
+Wear AD
+Values 0 0 0 0 0
+Level 158
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 512
+Name metallic cross~
+Short a metallic cross~
+Desc A silver metallic cross hangs here, waiting for the Priest to wear this symbolic piece of jewelry.~
+Material unknown~
+Item_type jewelry
+Extra Y
+Extra2 0
+Wear AC
+Values 0 0 0 0 0
+Level 158
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 513
+Name book vows~
+Short the Book of Vows~
+Desc The book of vows lay here, rich with golden edged pages its wisdom shines amongst those present.~
+Material unknown~
+Item_type scroll
+Extra Y
+Extra2 0
+Wear AO
+Values 0 'reserved' 'reserved' 'reserved' 'reserved'
+Level 158
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 514
+Name gold band~
+Short a shimmering gold band~
+Desc A solid gold wedding band lies here, a symbol of eternal love for one another.~
+Material gold~
+Item_type jewelry
+Extra Y
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 515
+Name diamond encrusted wedding band~
+Short a gold wedding band, encrusted with stunning diamonds~
+Desc A gold wedding band lies here, encrusted with sparkling diamonds and engraved on the inside of the gold it is written, "Kera belongs to Synon".~
+Material gold diamond~
+Item_type jewelry
+Extra Y
+Extra2 0
+Wear AY
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 516
+Name thick gold wedding band~
+Short a thick wedding band made of solid gold~
+Desc A thick golden wedding band lies here, thick golden edges protect the enscription that is delicately carved into the inside of the ring which reads "Synon belongs to Kera".~
+Material gold~
+Item_type jewelry
+Extra Y
+Extra2 0
+Wear AY
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 548
+Name a desk with the name tag gretago on it~
+Short a wooden desk~
+Desc A desk with the name tag Gretago on it stands here.~
+Material wood~
+Item_type furniture
+Extra 0
+Extra2 0
+Wear 0
+Values AC CFG D 0 0
+Level 0
+Weight -1
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 549
+Name a wooden table~
+Short a wooden table~
+Desc A wooden table surrounded by comfy chairs invites you to sit here~
+Material wood~
+Item_type furniture
+Extra 0
+Extra2 0
+Wear 0
+Values BD DFGHIJ D 0 0
+Level 0
+Weight -1
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 500
+Name The Entrance to the Temple~
+Desc This is the entrance to the Temple of Matrimony.  On the western wall
+there are some hooks where people can hang up there coats and hats.  On the
+eastern wall there are soom more hooks people can use.  South leads to the
+outside of the temple and to the north is the temple hallway.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+501
+0
+EndRoom
+
+#ROOM
+Vnum 501
+Name The Temple Hallway~
+Desc This is the temple hallway.  There is a red carpet on the floor that
+continues to the north.  To the west is the brides dressing room.  To the
+south is the entrance to the temple and the temple hallway continues to the
+north.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+502
+0
+Exit
+2
+~
+~
+0
+500
+0
+Exit
+3
+~
+{xdoor~
+0
+524
+AB
+EndRoom
+
+#ROOM
+Vnum 502
+Name The Temple Hallway~
+Desc This is the temple hallway.  There is a red carpet on the floor that
+continues to the north and south.  To the east is the janitors closet.  The
+temple hallway continues to the north and the south.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+503
+0
+Exit
+1
+~
+{xdoor~
+0
+521
+AB
+Exit
+2
+~
+~
+0
+501
+0
+EndRoom
+
+#ROOM
+Vnum 503
+Name The Temple Hallway~
+Desc This is the temple hallway.  There is a red carpet on the floor that
+continues to the north and south.  To the west is the storeroom where things
+are stored.  The temple hallway continues to the north and south.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+504
+0
+Exit
+2
+~
+~
+0
+502
+0
+Exit
+3
+~
+{xdoor~
+0
+520
+AB
+EndRoom
+
+#ROOM
+Vnum 504
+Name The Temple Hallway~
+Desc This is the temple hallway.  There is a red carpet on the floor that
+continues to the north and south.  There are some lovely paintings on the
+wall with candles on each side of them.  The hallway continues to the north
+and south.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+505
+0
+Exit
+2
+~
+~
+0
+503
+0
+EndRoom
+
+#ROOM
+Vnum 505
+Name Between the pews~
+Desc This is between the pews.  There is a red carpet on the floor that
+continues to the north and south.  On the western pew there is a metal
+umbrella holder where people can put there umbrella's.  The west and east
+leads to the pews.  The temple hallway is south and between the pews is
+north.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+506
+0
+Exit
+1
+~
+~
+0
+518
+0
+Exit
+2
+~
+~
+0
+504
+0
+Exit
+3
+~
+~
+0
+519
+0
+EndRoom
+
+#ROOM
+Vnum 506
+Name Between the pews~
+Desc This is between the pews.  There is a red carpet on the floor that
+continues to the north and south.  On the eastern pew there is a metal
+umbrella holder where people can put there umbrella's.  The west and east
+leads to the pews.  The north and the south lead to between the pews.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+507
+0
+Exit
+1
+~
+~
+0
+517
+0
+Exit
+2
+~
+~
+0
+505
+0
+Exit
+3
+~
+~
+0
+516
+0
+EndRoom
+
+#ROOM
+Vnum 507
+Name Between the pews~
+Desc This is between the pews.  There is a red carpet on the floor that
+continues to the north and south.  On the western pew there is a metal
+umbrella holder where people can put there umbrella's.  The west and east
+leads to the pews.  The south leads to between the pews and the north leads
+to before the altar.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+508
+0
+Exit
+1
+~
+~
+0
+514
+0
+Exit
+2
+~
+~
+0
+506
+0
+Exit
+3
+~
+~
+0
+515
+0
+EndRoom
+
+#ROOM
+Vnum 508
+Name Before the altar~
+Desc This is before the altar.  There is a red carpet on the floor that
+continues in all directions.  The west and east lead to before the altar. 
+The north leads to the altar and the south leads to between the pews.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+509
+0
+Exit
+1
+~
+~
+0
+511
+0
+Exit
+2
+~
+~
+0
+507
+0
+Exit
+3
+~
+~
+0
+513
+0
+EndRoom
+
+#ROOM
+Vnum 509
+Name At the altar~
+Desc This is at the altar.  There is a red carpet on the floor that stops just
+before the altar.  The altar is near the middle of the room.  There is a
+light hanging from the ceiling.  All the directions lead to before the
+altar.  
+~
+Room_flags 1024
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+510
+0
+Exit
+2
+~
+~
+0
+508
+0
+Exit
+3
+~
+~
+0
+512
+0
+EndRoom
+
+#ROOM
+Vnum 510
+Name Before the altar~
+Desc This is before the altar.  There is a red carpet on the floor that
+continues to the west and the south.  The south leads to before the altar. 
+The east leads to the priests dressing room and the west leads to the altar 
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+{xdoor~
+0
+522
+AB
+Exit
+2
+~
+~
+0
+511
+0
+Exit
+3
+~
+~
+0
+509
+0
+EndRoom
+
+#ROOM
+Vnum 511
+Name Before the altar~
+Desc This is before the altar.  There is a red carpet on the floor that
+continues in all directions.  The north leads to before the altar and the
+west also leads to before the altar.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+510
+0
+Exit
+3
+~
+~
+0
+508
+0
+EndRoom
+
+#ROOM
+Vnum 512
+Name Before the altar~
+Desc This is before the altar.  There is a red carpet on the floor that
+continues to the east and the south.  The south leads to before the altar. 
+The west leads to the grooms dressing room and the east leads to the altar 
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+509
+0
+Exit
+2
+~
+~
+0
+513
+0
+Exit
+3
+~
+{xdoor~
+0
+523
+AB
+EndRoom
+
+#ROOM
+Vnum 513
+Name Before the altar~
+Desc This is before the altar.  There is a red carpet on the floor that
+continues in all directions.  The north leads to before the altar and the
+east also leads to before the altar.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+512
+0
+Exit
+1
+~
+~
+0
+508
+0
+EndRoom
+
+#ROOM
+Vnum 514
+Name A row of pews~
+Desc This is a row of pews.  There is a red cloth on top of the seat of the
+pew.  There is space underneath the pew where people could put things. 
+There is a stone pillar to the east.  The west leads to between the pews.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+507
+0
+EndRoom
+
+#ROOM
+Vnum 515
+Name A row of pews~
+Desc This is a row of pews.  There is a red cloth on top of the seat of the
+pew.  There is space underneath the pew where people could put things. 
+There is a stone pillar to the west.  The east leads to between the pews.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+507
+0
+EndRoom
+
+#ROOM
+Vnum 516
+Name A row of pews~
+Desc This is a row of pews.  There is a red cloth on top of the seat of the
+pew.  There is space underneath the pew where people could put things. 
+There is a stone pillar to the west with a painting hanging on it.  The east
+leads to between the pews.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+506
+0
+EndRoom
+
+#ROOM
+Vnum 517
+Name A row of pews~
+Desc This is a row of pews.  There is a red cloth on top of the seat of the
+pew.  There is space underneath the pew where people could put things. 
+There is a stone pillar to the east with a painting hanging on it.  The west
+leads to between the pews.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+506
+0
+EndRoom
+
+#ROOM
+Vnum 518
+Name A row of pews~
+Desc This is a row of pews.  There is a red cloth on top of the seat of the
+pew.  There is space underneath the pew where people could put things. 
+There is a stone pillar to the east.  The west leads to between the pews.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+505
+0
+EndRoom
+
+#ROOM
+Vnum 519
+Name A row of pews~
+Desc This is a row of pews.  There is a red cloth on top of the seat of the
+pew.  There is space underneath the pew where people could put things. 
+There is a stone pillar to the west.  The east leads to between the pews.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+505
+0
+EndRoom
+
+#ROOM
+Vnum 520
+Name The Storeroom~
+Desc This is the storeroom.  Lots of spare things are kept here.  There are
+candles and other supplies in cupboards and shelves that are on the walls
+and the floor.  To the east is the temple hallway.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+{xdoor~
+0
+503
+AB
+EndRoom
+
+#ROOM
+Vnum 521
+Name The janitors closet~
+Desc This is the janitors closet.  There are buckets and brooms scattered
+around the room.  Also there is a cupboard on the wall and there is a table
+against the wall with a chair next to it.  To the west is the temple
+hallway.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+{xdoor~
+0
+502
+AB
+EndRoom
+
+#ROOM
+Vnum 522
+Name The priests dressing room~
+Desc This is the priests dressing room.  There is a mirror hanging on the
+eastern wall with a wooden table beneath it.  Beside the table is a stool
+and there are also two other comfy chairs around the room.  The west leads
+to before the altar.  
+~
+Room_flags 32768
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+{xdoor~
+0
+510
+AB
+EndRoom
+
+#ROOM
+Vnum 523
+Name The grooms dressing room~
+Desc This is the grooms dressing room.  There is a mirror on the western wall
+with a wooden table beneath it.  At the side of the table there is a stool
+and there are also two other comfy chairs around the room.  The east leads
+to before the altar.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+{xdoor~
+0
+512
+AB
+EndRoom
+
+#ROOM
+Vnum 524
+Name The brides dressing room~
+Desc This is the brides dressing room.  On the wall there is a big mirror and
+there is a carved wooden table beneath it.  There is a stool infront of the
+table and two other comfy chairs around the room.  The exit leads back to
+the temple hallway.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+{xdoor~
+0
+501
+AB
+EndRoom
+
+#ROOM
+Vnum 525
+Name Items for Weddings~
+Desc This is where all the items used in the weddings are kept.  On the
+eastern wall there is a wardrobe for the priests outfit.  The southern wall
+has a wardrobe for the grooms outfit and the western wall has a wardrobe for
+the brides outfit.  
+~
+Room_flags 67108868
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 500 spec_breath_any
+S
+
+
+
+#RESETS
+D 0 501 3 1
+D 0 502 1 1
+D 0 503 3 1
+D 0 510 1 1
+D 0 512 3 1
+D 0 520 1 1
+D 0 521 3 1
+D 0 522 3 1
+D 0 523 1 1
+D 0 524 1 1
+O 0 500 0 509
+O 0 501 0 514
+O 0 501 0 515
+O 0 501 0 516
+O 0 501 0 517
+O 0 501 0 518
+O 0 501 0 519
+O 0 549 0 525
+O 0 549 0 525
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

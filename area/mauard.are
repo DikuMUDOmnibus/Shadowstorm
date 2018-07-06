@@ -1,0 +1,962 @@
+#AREADATA
+Name Mauraders hideout~
+Builders Jaydi~
+VNUMs 800 899
+Credits jaydi~
+Security 5
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 800
+Name marauder sentry~
+Short a marauder sentry~
+Long A marauder sentry slinks through the trees
+~
+Description The man is hard to see, he moves about the forest with ease.  His face is
+scarred from many battles and his eyes have a steelness to them.  
+~
+Race human~
+Act_flags AB
+Aff PQ
+Align -250
+Group 0
+Level 20
+Hitroll 10
+Hit_dice 2d7+121
+Mana_dice 0d0+0
+Dam_dice 2d4+2
+Dam_type slash
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 10
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 801
+Name pig~
+Short a small pig~
+Long A pig rolls around in it's own filth squealing.
+~
+Description The pig is small and looks unhealthy.  Mud coats him like a second skin
+with little of his original color showing through.  
+~
+Race pig~
+Act_flags AB
+Aff 0
+Align 0
+Group 0
+Level 20
+Hitroll 5
+Hit_dice 2d7+121
+Mana_dice 0d0+0
+Dam_dice 2d4+2
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AGV
+Parts ACDEFHJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 802
+Name chicken~
+Short a ragged chicken~
+Long A ragged looking chicken pecks at the ground.
+~
+Description The small chicken searches for non-existent food.  It looks ragged and
+maul nutrient.  It's feathers are wilted and their colors are dulled.  
+~
+Race unique~
+Act_flags AB
+Aff 0
+Align 0
+Group 0
+Level 20
+Hitroll 3
+Hit_dice 2d7+121
+Mana_dice 0d0+0
+Dam_dice 2d4+2
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form 0
+Parts 0
+Size small
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 803
+Name jerry~
+Short Jerry~
+Long Jerry is here
+~
+Description A small guy ith a slightly resceding hairline stands here looking at you
+funny.  His nice yellow shirt stands out a lot.  
+~
+Race human~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 10d10+10
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#MOB
+Vnum 804
+Name edward~
+Short edward~
+Long Edward is here
+~
+Description A big guy with a big head stands here pecularily.  
+~
+Race human~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 10d10+10
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 800
+Name sword~
+Short a nicked sword~
+Desc A medium sword has been dropped here.~
+Material iron~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear ANO
+Values sword 5 5 slash 0
+Level 20
+Weight 50
+Cost 2000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 801
+Name table chair chairs~
+Short a table~
+Desc Two chairs are pushed up against a small table.~
+Material oak~
+Item_type furniture
+Extra 0
+Extra2 0
+Wear 0
+Values B DFGHIJ ADE AC AC
+Level 1
+Weight 200
+Cost 50
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 802
+Name pallet~
+Short a small pallet~
+Desc A small pallet is in the corner.~
+Material wool~
+Item_type furniture
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 0 0 0
+Level 1
+Weight 50
+Cost 20
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 803
+Name bar stool~
+Short {xA Bar{x~
+Desc A bar with stools~
+Material unknown~
+Item_type furniture
+Extra 0
+Extra2 0
+Wear A
+Values BD DFGHIJ ADE 0 0
+Level 1
+Weight 1
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 804
+Name gloves~
+Short a pair of gloves~
+Desc A pair of gloves lies here~
+Material leather~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AH
+Values 0 0 0 0 0
+Level 1
+Weight 1
+Cost 10000000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 896
+Name bench~
+Short {w// {cA Small {W|{diron{w_{dbench{W| {cwith an {R.{roO {gIvy {rOo{R. {cdesign.{x~
+Desc {w// {cA Small {W|{diron{w_{dbench{W| {cwith an {R.{roO {gIvy {rOo{R. {cdesign.{x~
+Material unknown~
+Item_type furniture
+Extra 0
+Extra2 0
+Wear 0
+Values B 0 AEK 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 897
+Name bed queen~
+Short {ca lush {rred{c, large queen sized bed{x~
+Desc {cA lush {rred{c, large queen sized bed{x~
+Material unknown~
+Item_type furniture
+Extra 0
+Extra2 0
+Wear 0
+Values B 0 EK 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 898
+Name wind red glass~
+Short {cA large glass of {rred wine{C.{x~
+Desc {cA large glass of {rred wine{C.{x~
+Material unknown~
+Item_type drink
+Extra 0
+Extra2 0
+Wear AO
+Values 500 500 'red wine' 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 899
+Name sofa~
+Short {cA plush {rlove {csofa{C.{x~
+Desc {cA plush {rlove {csofa{C.{x~
+Material leather~
+Item_type furniture
+Extra 0
+Extra2 0
+Wear 0
+Values AB 0 BEK 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 800
+Name Hidden Path ~
+Desc The path is hardly discernable, covered over with leaves, rocks and other
+natural debris.  It seems to not be in much use, no ruts from wagons show
+through and very few prints.  Quiet sounds can be heard sporadically from
+the south, as if spoken in a hushed tone.  A clear road can be seen some
+ways to the north through the thick brush all around the path.  It seems as
+if the path may be used more to the south closer to the noise.  
+~
+Room_flags 4
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+801
+0
+EndRoom
+
+#ROOM
+Vnum 801
+Name Hidden Path~
+Desc The path is easy to discern here, unlike to the north.  More prints can
+be found, still no wagon tracks though.  The coverings from the path seem to
+be pushed off to the side.  No one has bothered to cover his or her tracks
+here.  To the east, through the trees a stream can be heard.  The path to
+the north can hardly be made out, but it is there.  To the south a few
+buildings can be seem through the trees and small streams of smoke can be
+made out.  The sounds can easily be heard from the south.  
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+800
+0
+Exit
+1
+~
+~
+0
+802
+0
+Exit
+2
+~
+~
+0
+803
+0
+EndRoom
+
+#ROOM
+Vnum 802
+Name Small Stream~
+Desc A small steady stream flows through here, gurgling through the rocks that
+can be seen in the water.  The fish are abundant, their jumping adding more
+life to the stream.  Small animals prints line the bank where they stopped
+to drink.  In places, it looks as if there are human prints that have been
+brushed away.  Plants cover the area, many with large flowers and bright
+colors.  
+~
+Room_flags 0
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+801
+0
+EndRoom
+
+#ROOM
+Vnum 803
+Name Rough Path~
+Desc The path has turned smoother, the plants and things covering the path to
+the north have been removed leaving bare ground.  Only rocks litter the path
+now.  Footprints are easily discerned here.  Far to the north, through a
+hidden path a road can just be made out.  Somewhere to the northeast the
+sounds of gurgling water can be heard.  To the south people can be seen
+milling about outside of small buildings.  Smoke can be seen drifting
+upwards.  
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+801
+0
+Exit
+2
+~
+~
+0
+804
+0
+EndRoom
+
+#ROOM
+Vnum 804
+Name Small Path~
+Desc The small village seems to sprout up around the path.  The dirt underfoot
+has been packed solid with much use.  The huts that make up most of the
+buildings are made of abundant resources; mud, grass and wood.  A few of the
+larger buildings have stone mixed in also.  Chickens peck at the ground
+wherever they can find feed.  There is a strong stench throughout the place.
+Rough looking men and women and even a few children wander through the paths
+of the village.  To the north the path gets harder to discern.  A small hut
+has been erected to the east.  The path continues to the south.  
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+803
+0
+Exit
+1
+~
+~
+0
+805
+0
+Exit
+2
+~
+~
+0
+806
+0
+EndRoom
+
+#ROOM
+Vnum 805
+Name Small Hut~
+Desc The walls are made of a dark mud mixed with local grass; with wooden
+supports help brace them.  The roof is thatched with the same grass that is
+in the walls.  The room is almost bare with little furniture as decoration. 
+A small pallet is pushed into a corner out of the way with a blanket laid
+over it.  On the other side of the room is a table with two rickety chairs
+next to it.  A small chest is next to it, closed and locked.  A window is
+located over the table, but it shuttered and bolted.  The only exit is to
+the west back onto the path.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+804
+0
+EndRoom
+
+#ROOM
+Vnum 806
+Name Hard-Packed Path~
+Desc The path has become packed hard from use.  People mill about, oddly
+enough for a small place, the people do not talk much.  States are given in
+abundance to anything and anyone they do not find to be satisfactory.  The
+path fades off to the north and continues in its present state to the south.
+To the east is a large pen containing pigs.  To the west is a small chicken
+coup.  
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+804
+0
+Exit
+1
+~
+~
+0
+808
+0
+Exit
+2
+~
+~
+0
+809
+0
+Exit
+3
+~
+~
+0
+807
+0
+EndRoom
+
+#ROOM
+Vnum 807
+Name Chicken Coup~
+Desc The walls are buckled and warped.  Poor maintenance has leg the coup to
+be in a state of disrepair.  Droppings cover everything.  Chickens cluck
+angrily at the disturbance, an intruder in their domain.  A small opening to
+the east is the only way out.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+806
+0
+EndRoom
+
+#ROOM
+Vnum 808
+Name Pig Pen~
+Desc The smell of the pen is almost overwhelming.  Pigs wallow in the mud near
+a water trough, almost empty.  Most of the pigs are small from a lack of
+nutrients.  A pile of scraps and rancid meat has been put near the far
+corner of the pen, away from the path.  To the west is the gate back onto
+the path.  
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+806
+0
+EndRoom
+
+#ROOM
+Vnum 809
+Name Path Intersection~
+Desc The ruts in the path are deeper than those on the single paths.  Rocks
+have been piled on the outside of the corners of the small square.  Far to
+the north the outline on trees can just be seen as though looking through a
+haze.  Not so far north the sounds of livestock can be heard and small
+building can be found.  To the east and west the paths lead towards the
+northeast.  To the south more a well can be seen as well as many more
+buildings.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+806
+0
+Exit
+2
+~
+~
+0
+810
+0
+EndRoom
+
+#ROOM
+Vnum 810
+Name Path to the Well~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+809
+0
+Exit
+2
+~
+~
+0
+811
+0
+EndRoom
+
+#ROOM
+Vnum 811
+Name Path Bisection~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+810
+0
+Exit
+2
+~
+~
+0
+812
+0
+EndRoom
+
+#ROOM
+Vnum 812
+Name Turn in the Path~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+811
+0
+EndRoom
+
+#ROOM
+Vnum 893
+Name A Large Bedchamber~
+Desc The large bedchamber is decorated the same as the rest of the house, just
+much more...  Seductively...  Silk sheets cover all of the furnishing in the
+room.  The large queen size bed is positioned in the center of the room on
+the east wall, the covers thick and sleek.  A set of chairs encircle a small
+table near the door and a chest of drawers is along the north wall.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+898
+0
+EndRoom
+
+#ROOM
+Vnum 894
+Name The Kitchen~
+Desc The kitchen houses many assorted foods as well as a few necessities. 
+There is a large selection of candles positioned atop the refridgerator,
+which houses many beverages...  Also, fruits and goodies.  The cabinets are
+filled to bursting with about any kind of food you could wish.  Appliances
+include a range, dishwasher and etc.  To the South is a hallway.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+897
+0
+EndRoom
+
+#ROOM
+Vnum 895
+Name A Large Living Room~
+Desc The living room is large and well furnished.  The walls are in the same
+wood finish as the rest of the house, but only until midway up to the
+ceiling.  After that it is painted a deep red color, setting off the decor. 
+Windows line the walls where bookshelves aren't coving them.  To the North
+is the hallway.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+897
+0
+EndRoom
+
+#ROOM
+Vnum 896
+Name A Small Foyer~
+Desc The foyer is small and well lit.  The walla are panelled with a rich
+mohogonay wood.  A small bench fits to the east of the room next to a coat
+closet.  A hat rock is on the wall over.  A hallway opens up to the east.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+897
+0
+EndRoom
+
+#ROOM
+Vnum 897
+Name A small hallway~
+Desc The hallway is decorated sparsely, with only one picture hanging on the
+wall, a forest scene with a panther sleeping in a tree.  The walls are the
+wood finish that seem to be consistant throughout the house.  The hallways
+continues to the East.  To the west is the foyer.  The smell of food drifts
+in from the north, the kitchen.  To the south is the Living Room.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+894
+0
+Exit
+1
+~
+~
+0
+898
+0
+Exit
+2
+~
+~
+0
+895
+0
+Exit
+3
+~
+~
+0
+896
+0
+EndRoom
+
+#ROOM
+Vnum 898
+Name A small hallway~
+Desc The hallway is decorated sparsely, with only one picture hanging on the
+wall, a forest scene with a panther sleeping in a tree.  The walls are the
+wood finish that seem to be consistant throughout the house.  The hallways
+continues to the west.  To the East is a large bedchamber and to the South a
+den of sorts.  Red lights seeps through the cracks of the door.  
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+893
+0
+Exit
+2
+~
+~
+0
+899
+0
+Exit
+3
+~
+~
+0
+897
+0
+EndRoom
+
+#ROOM
+Vnum 899
+Name A Dimly Lit Den~
+Desc This room is set off with dull red lights that reflect off of the wood
+finished walls.  The shag carpet floor matched the decor in the deep color
+and texture.  Thick drapes are drawn over the two large picture windows on
+the east wall.  To the North the door leads out into the hallway.  
+~
+Room_flags 67108868
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+898
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 800 5 801 1
+E 0 800 0 23
+O 0 801 0 805
+O 0 802 0 805
+M 0 802 5 807 3
+M 0 801 5 808 3
+O 0 897 0 893
+O 0 896 0 896
+O 0 899 0 899
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,621 @@
+#AREADATA
+Name Limbo~
+Builders None~
+VNUMs 1 27
+Credits {None } Diku    Limbo~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 2
+Name no name~
+Short (no short description)~
+Long (no long description)
+~
+Description ~
+Race human~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#MOB
+Vnum 26
+Name golem greater~
+Short a greater golem~
+Long A greater golem stands here looking very dangerous.
+~
+Description It looks strong and durable, but somewhat un-intelligent.
+~
+Race human~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level 1
+Hitroll 0
+Hit_dice 1d1+1
+Mana_dice 1d1+1
+Dam_dice 3d10+12
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHJMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 1
+Name coin silver gcash~
+Short a silver coin~
+Desc One miserable silver coin.~
+Material silver~
+Item_type money
+Extra X
+Extra2 0
+Wear A
+Values A 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 2
+Name coin gold gcash~
+Short a gold coin~
+Desc One valuable gold coin.~
+Material gold~
+Item_type money
+Extra X
+Extra2 0
+Wear A
+Values 0 A 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 3
+Name coins gold gcash~
+Short %d gold coins~
+Desc A pile of gold coins.~
+Material gold~
+Item_type money
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 4
+Name coins silver gcash~
+Short %d silver coins~
+Desc A pile of silver coins.~
+Material silver~
+Item_type money
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5
+Name coins silver gold gcash~
+Short %d silver coins and %d gold coins~
+Desc A pile of coins.~
+Material gold~
+Item_type money
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 6
+Name btrail~
+Short a {Rblood trail leading %s{x~
+Desc A {Rblood trail leading %s{x~
+Material unknown~
+Item_type trash
+Extra e
+Extra2 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 7
+Name %s~
+Short %s~
+Desc %s~
+Material unknown~
+Item_type trash
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 8
+Name axe darkness~
+Short {DAn Axe of {cD{Ca{Drkne{Cs{cs{x~
+Desc A dark axe lays here.~
+Material unknown~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values axe 15 19 chop ABCEGHI
+Level 152
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 200
+AffectObj
+19 200
+EndObj
+
+#OBJ
+Vnum 9
+Name no name~
+Short (no short description)~
+Desc (no description)~
+Material unknown~
+Item_type food
+Extra 0
+Extra2 0
+Wear 0
+Values AB AB 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 10
+Name corpse~
+Short the corpse of %s~
+Desc The corpse of %s is lying here.~
+Material meat~
+Item_type npc_corpse
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 A 0
+Level 0
+Weight 1000
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition D
+EndObj
+
+#OBJ
+Vnum 11
+Name corpse~
+Short the corpse of %s~
+Desc The corpse of %s is lying here.~
+Material meat~
+Item_type pc_corpse
+Extra O
+Extra2 0
+Wear A
+Values 0 0 0 A 0
+Level 0
+Weight 1000
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition D
+EndObj
+
+#OBJ
+Vnum 12
+Name head~
+Short the head of %s~
+Desc The severed head of %s is lying here.~
+Material meat~
+Item_type trash
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 50
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition D
+EndObj
+
+#OBJ
+Vnum 13
+Name heart~
+Short the heart of %s~
+Desc The torn-out heart of %s is lying here.~
+Material meat~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values E E 0 0 0
+Level 0
+Weight 20
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition D
+EndObj
+
+#OBJ
+Vnum 14
+Name arm~
+Short the arm of %s~
+Desc The sliced-off arm of %s is lying here.~
+Material meat~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values CE CE 0 0 0
+Level 0
+Weight 50
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition D
+EndObj
+
+#OBJ
+Vnum 15
+Name leg~
+Short the leg of %s~
+Desc The sliced-off leg of %s is lying here.~
+Material meat~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values CE CE 0 0 0
+Level 0
+Weight 50
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition D
+EndObj
+
+#OBJ
+Vnum 16
+Name guts entrails~
+Short the guts of %s~
+Desc A steaming pile of %s's entrails is lying here.~
+Material meat~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values AC AC 0 A 0
+Level 0
+Weight 20
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition D
+EndObj
+
+#OBJ
+Vnum 17
+Name brains brain~
+Short the brains of %s~
+Desc The splattered brains of %s are lying here.~
+Material meat~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values BD BD 0 0 0
+Level 0
+Weight 20
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition D
+EndObj
+
+#OBJ
+Vnum 20
+Name mushroom~
+Short a Magic Mushroom~
+Desc A delicious magic mushroom is here.~
+Material food~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values D D 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 21
+Name ball light~
+Short a bright ball of light~
+Desc A bright ball of light shimmers in the air.~
+Material energy~
+Item_type light
+Extra A
+Extra2 0
+Wear A
+Values 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 22
+Name spring~
+Short a magical spring~
+Desc A magical spring flows from the ground here.~
+Material water~
+Item_type fountain
+Extra G
+Extra2 0
+Wear 0
+Values 100000 100000 'water' 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 23
+Name disc disk floating black~
+Short a floating disc~
+Desc A floating black disc hangs in the air.~
+Material energy~
+Item_type container
+Extra GMPUYZ
+Extra2 0
+Wear AQ
+Values 0 0 -1 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 24
+Name no name~
+Short a quest token~
+Desc A quest token just waiting to be converted into quest points.~
+Material unknown~
+Item_type token
+Extra 0
+Extra2 0
+Wear AP
+Values 0 0 0 0 0
+Level 0
+Weight 50
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 25
+Name gate portal~
+Short a shimmering gate~
+Desc A shimmering black gate rises from the ground, leading to parts unknown.~
+Material shadow~
+Item_type portal
+Extra GOT
+Extra2 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 1
+Name The Void~
+Desc You are floating in nothing.
+~
+Room_flags 12
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 2
+Name Limbo~
+Desc You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+~
+-1
+3001
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

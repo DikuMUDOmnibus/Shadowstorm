@@ -1,0 +1,2788 @@
+#AREADATA
+Name Drykndra~
+Builders Khalandar~
+VNUMs 1900 1999
+Credits Khalandar Drykndra 30 - 50~
+Security 5
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 1902
+Name A brown rabbit~
+Short A small, brown rabbit~
+Long A small, brown rabbit keeps still, trying to be unnoticed
+~
+Description This small rabbit is brown in color, matching well with the forest floor,
+its nose twitching as it trys to keep hidden among the natural debris 
+~
+Race human~
+Act_flags AG
+Aff 0
+Align 0
+Group 0
+Level 1
+Hitroll 1
+Hit_dice 3d2+10
+Mana_dice 3d2+10
+Dam_dice 2d2+8
+Dam_type none
+Armor -9 -9 -8 -8
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar ABCDEFGHIJK
+MobTrig GREET 1902 100~
+EndMob
+
+#MOB
+Vnum 1907
+Name Horned owl~
+Short A horned owl~
+Long A horned owl watches you from the trees, hooting
+~
+Description This is a medium sized bird with gray and brown ripple patterned
+feathers.  It turns its head some, peering back at you with its large,
+yellow eyes 
+~
+Race human~
+Act_flags AG
+Aff D
+Align 0
+Group 0
+Level 5
+Hitroll 5
+Hit_dice 11d2+51
+Mana_dice 11d2+50
+Dam_dice 1d5+7
+Dam_type slash
+Armor -6 -6 -5 -5
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form W
+Parts 0
+Size small
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#MOB
+Vnum 1914
+Name Dark forest Zllr~
+Short A dark forest Zllr~
+Long A dark forest Zllr snarls loudly.
+~
+Description The dark forest Zllr is a medium sized beast with large teeth and large
+eyes to see in the darkened parts of the forest.  Its dark green and brown
+patterned skin matched with its soundings.  
+~
+Race human~
+Act_flags ABF
+Aff J
+Align 0
+Group 0
+Level 9
+Hitroll 9
+Hit_dice 20d4+91
+Mana_dice 20d4+91
+Dam_dice 9d9+6
+Dam_type bite
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm Q
+Res 0
+Vuln H
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 500
+Form G
+Parts DHQUVW
+Size medium
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar ABCEFGIJK
+EndMob
+
+#MOB
+Vnum 1934
+Name Gsorx~
+Short a Gsorx~
+Long A Gsorx snoops around for food.
+~
+Description A small brown bear looking creature, its brownish black fur blends with
+the soil.  
+~
+Race bear~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level 20
+Hitroll 19
+Hit_dice 41d6+201
+Mana_dice 41d6+199
+Dam_dice 6d3+15
+Dam_type claw
+Armor -3 -3 -3 -3
+Clevel0
+Cability 0
+Off DEO
+Imm 0
+Res EI
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 100
+Form AGV
+Parts ABCDEFHJKUV
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1936
+Name deep forest kobold~
+Short A deep forest kobold~
+Long A deep forest Kobold stands here, snarling loudly.
+~
+Description ~
+Race lizard~
+Act_flags ABF
+Aff 0
+Align 0
+Group 0
+Level 40
+Hitroll 42
+Hit_dice 82d13+409
+Mana_dice 81d13+399
+Dam_dice 13d3+25
+Dam_type claw
+Armor -18 -17 -17 -16
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res L
+Vuln I
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 300
+Form AGXc
+Parts ACDEFHKQV
+Size large
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1942
+Name huge centipede~
+Short a huge centipede~
+Long A huge centipede crawls around, nibbling on the bushes
+~
+Description ~
+Race centipede~
+Act_flags A
+Aff Z
+Align 0
+Group 0
+Level 30
+Hitroll 28
+Hit_dice 62d10+303
+Mana_dice 62d10+310
+Dam_dice 10d3+20
+Dam_type sting
+Armor -11 -10 -10 -10
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res FI
+Vuln E
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 100
+Form ABGO
+Parts ACK
+Size large
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1946
+Name Forest tree dragon~
+Short a Forest tree dragon~
+Long A Forest tree dragon roars bares its teeth angraily
+~
+Description ~
+Race dragon~
+Act_flags ABF
+Aff JT
+Align 0
+Group 0
+Level 38
+Hitroll 36
+Hit_dice 78d12+384
+Mana_dice 78d12+391
+Dam_dice 12d3+24
+Dam_type slash
+Armor -15 -15 -15 -15
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res BEH
+Vuln FI
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 700
+Form AHZ
+Parts ACDEFGHIJKPQUVX
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1955
+Name Blue Squirrel~
+Short a Blue Squirrel~
+Long A Blue Squirrel scurries around
+~
+Description ~
+Race rat~
+Act_flags AG
+Aff 0
+Align 0
+Group 0
+Level 7
+Hitroll 7
+Hit_dice 15d2+63
+Mana_dice 15d2+65
+Dam_dice 3d2+12
+Dam_type bite
+Armor -5 -5 -5 -4
+Clevel0
+Cability 0
+Off H
+Imm 0
+Res 0
+Vuln L
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 50
+Form AG
+Parts ACDEFHJKQ
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 1967
+Name Quakethought~
+Short a Quakethought~
+Long A Quakethought stands here, growling lowly
+~
+Description ~
+Race hobgoblin~
+Act_flags A
+Aff J
+Align 0
+Group 0
+Level 20
+Hitroll 20
+Hit_dice 41d6+204
+Mana_dice 41d6+201
+Dam_dice 6d3+15
+Dam_type punch
+Armor -3 -3 -3 -3
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res LQ
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJKY
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 1900
+Name Gleaming long sword~
+Short a gleaming long sword~
+Desc A gleaming long sword lays here~
+Material unknown~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values sword 16 13 none I
+Level 150
+Weight 100
+Cost 1000000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 14
+AffectObj
+19 14
+AffectObj
+18 14
+AffectObj
+19 14
+AffectObj
+18 14
+AffectObj
+19 14
+AffectObj
+18 19
+AffectObj
+19 19
+AffectObj
+18 14
+AffectObj
+19 14
+AffectObj
+18 14
+AffectObj
+19 14
+EndObj
+
+#OBJ
+Vnum 1901
+Name Gleaming ringmail cloak~
+Short a gleaming ringmail cloak~
+Desc A gleaming ringmail cloak lays here~
+Material unknown~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values BCEF BCEF BCEF ACEF 0
+Level 150
+Weight 50
+Cost 1500000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1902
+Name gem embossed sheath~
+Short a gem embossed sheath~
+Desc A gem embossed sheath lays here~
+Material unknown~
+Item_type sheath
+Extra 0
+Extra2 0
+Wear AR
+0 0 0 0
+Level 150
+Weight 50
+Cost 10435
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1903
+Name wizards hat~
+Short a runed wizards hat~
+Desc A runed wizards hat lays here~
+Material unknown~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AE
+Values BCEF BCEF BCEF ACEF 0
+Level 150
+Weight 50
+Cost 146
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1904
+Name runed pants~
+Short a pair of runed pants~
+Desc A pair of runed pants lays here~
+Material unknown~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AF
+Values BCEF BCEF BCEF ACEF 0
+Level 150
+Weight 50
+Cost 146
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1905
+Name runed cape~
+Short a flowing runed cape~
+Desc A flowing runed cape lays here~
+Material unknown~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AC
+Values BCEF BCEF BCEF ACEF 0
+Level 150
+Weight 50
+Cost 146
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1906
+Name runed ring~
+Short a runed ring~
+Desc A runed ring lays here~
+Material unknown~
+Item_type jewelry
+Extra 0
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 150
+Weight 2
+Cost 10000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 250
+EndObj
+
+#OBJ
+Vnum 1907
+Name barbed whip~
+Short a barbed whip~
+Desc A barbed whip lays here~
+Material leather~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values whip 3 9 none I
+Level 21
+Weight 22
+Cost 15500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 1
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 1914
+Name dragon scale whip~
+Short a dragon scale whip~
+Desc A dragon scale whip lays here~
+Material scales~
+Item_type weapon
+Extra BS
+Extra2 0
+Wear AN
+Values whip 3 10 none I
+Level 30
+Weight 31
+Cost 20500
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 2
+AffectObj
+18 2
+EndObj
+
+#OBJ
+Vnum 1916
+Name Void fruit~
+Short a Void fruit~
+Desc A smooth, black and blue fruit lays here~
+Material unknown~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values 0 CD 0 0 0
+Level 1
+Weight 2
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+13 10
+EndObj
+
+#OBJ
+Vnum 1917
+Name Void fruit~
+Short a spiny Void fruit~
+Desc A spiney, black and blue fruit lays here~
+Material unknown~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values 0 BC 0 A 0
+Level 1
+Weight 2
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1929
+Name Alloy battle axe~
+Short a large, {Bblue{x metal alloy battle axe.~
+Desc A large, {Bblue{x metal alloy battle axe lays here.~
+Material Alloy~
+Item_type weapon
+Extra A
+Extra2 0
+Wear AN
+Values axe 16 12 cleave 0
+Level 151
+Weight 15
+Cost 8400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 14
+AffectObj
+19 14
+AffectObj
+18 14
+AffectObj
+19 14
+AffectObj
+18 14
+AffectObj
+19 14
+AffectObj
+18 14
+AffectObj
+19 14
+AffectObj
+18 14
+AffectObj
+19 14
+AffectObj
+18 14
+AffectObj
+19 14
+AffectObj
+18 14
+AffectObj
+19 14
+AffectObj
+18 14
+AffectObj
+19 14
+EndObj
+
+#OBJ
+Vnum 1930
+Name Blue metal alloy chainmail~
+Short {Bblue{x metal alloy chainmail~
+Desc Some {Bblue{x metal alloy chain mail Lays here.~
+Material Alloy~
+Item_type armor
+Extra A
+Extra2 0
+Wear ADU
+Values BCG BCG BCG ACG 0
+Level 151
+Weight 152
+Cost 147
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1931
+Name {Bblue{x alloy metal helm~
+Short {Bblue{x metal alloy helm~
+Desc A {Bblue{x metal alloy helm lays here.~
+Material alloy~
+Item_type armor
+Extra A
+Extra2 0
+Wear AE
+Values ABCEF ABCEF ABCEF BCEF 0
+Level 152
+Weight 10
+Cost 156
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 1933
+Name warning sign~
+Short (no short description)~
+Desc (no description)~
+Material unknown~
+Item_type trash
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 0 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 1900
+Name Entering the forest of Drykndra~
+Desc The trees are thin here, sunlight beams through the misty canopy of
+trees, the light almost making it seem as if the fallen leaves that litter
+the trail are glowing.  The smell of moist earth drifts through the air, the
+trail continuing north from here.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1901
+0
+Exit
+2
+~
+~
+0
+5607
+0
+EndRoom
+
+#ROOM
+Vnum 1901
+Name On a trail in the Drykndra forest~
+Desc The path of golden leaves continues through here, the smell of moist soil
+lingers, as well a large rock is obscuring the east side of the trail a
+little.  A small sapling off to the west of the trail holding firm to the
+ground, one of the tree's roots is partially exposed, it trails across the
+path tucking under the rock.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+1900
+0
+Exit
+3
+~
+~
+0
+1902
+0
+EndRoom
+
+#ROOM
+Vnum 1902
+Name On a trail in the Drykndra forest~
+Desc The light dims as the canopy of trees thickens, causing the leaves losing
+their golden shine.  The path curves sharply to the north where further
+ahead the light seems to be breaking through the treetops again.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1903
+0
+Exit
+1
+~
+~
+0
+1901
+0
+EndRoom
+
+#ROOM
+Vnum 1903
+Name On a trail in the Drykndra forest~
+Desc The path branches off in four directions, north leading into the darkened
+forest while south is a brighter path, east and west appear to come to a
+stop either way to dead ends.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1906
+0
+Exit
+1
+~
+~
+0
+1905
+0
+Exit
+2
+~
+~
+0
+1902
+0
+Exit
+3
+~
+~
+0
+1904
+0
+EndRoom
+
+#ROOM
+Vnum 1904
+Name In a small clearing~
+Desc The trail ends here, rocks, twigs and leaves litter the ground.  The
+leaves have been pushed aside as if something were sleeping here not too
+long ago.  A few broken twigs hang over to the east.  West leading back to
+the crossing paths 
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1903
+0
+EndRoom
+
+#ROOM
+Vnum 1905
+Name In a small clearing~
+Desc The trail ends here, rocks, twigs and leaves litter the ground.  The
+trees are small enough to allow plenty of light through.  The wind rustles
+the trees, causing a few leaves to drift down to the forest floor.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+1903
+0
+EndRoom
+
+#ROOM
+Vnum 1906
+Name On a trail in the Drykndra forest~
+Desc The canopy of the trees almost completely blocks out the light, the
+temperature dropping from the lack of light.  The forest floor becoming
+harder to see, Tree branches rub together form a slight breeze.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1907
+0
+Exit
+2
+~
+~
+0
+1903
+0
+EndRoom
+
+#ROOM
+Vnum 1907
+Name On a trail in the Drykndra forest~
+Desc The canopy of the trees almost completely blocks out the light, the
+temperature dropping from the lack of light.  The forest floor becoming
+harder to see.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1908
+0
+Exit
+3
+~
+~
+0
+1906
+0
+EndRoom
+
+#ROOM
+Vnum 1908
+Name On a trail in the Drykndra forest~
+Desc The smell of water lingers in the air, mixing with the smell of the soil.
+The faint sound of running water can be heard to the north.  A tree branch
+hangs down heavily on the east side of the trail, a trail of black ants
+march up and down the branch.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1909
+0
+Exit
+3
+~
+~
+0
+1907
+0
+EndRoom
+
+#ROOM
+Vnum 1909
+Name At a bridge over the stream~
+Desc A bridge continues north over the little stream, the bridge is crafted of
+logs, tied together, laid over the stream.  The clear water rushes by,
+carrying small fish and other small forest debris down stream with it.  To
+the west, the trail continues into the dimly lit forest.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1910
+0
+Exit
+2
+~
+~
+0
+1908
+0
+Exit
+3
+~
+~
+0
+1911
+0
+EndRoom
+
+#ROOM
+Vnum 1910
+Name At a bridge over the stream~
+Desc A bridge continues north over the little stream, the bridge is crafted of
+logs, tied together, laid over the stream.  The clear water rushes by,
+carrying small fish and other small forest debris down stream with it.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1915
+0
+Exit
+2
+~
+~
+0
+1909
+0
+EndRoom
+
+#ROOM
+Vnum 1911
+Name Heavy canopy coverage~
+Desc Its quite dark here, the canopy over head blocking out all the light,
+sounds faintly can be heard from the west, while form the east, the faint
+sound of running water can be heard.  
+~
+Room_flags 67108865
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1909
+0
+Exit
+3
+~
+~
+0
+1912
+0
+EndRoom
+
+#ROOM
+Vnum 1912
+Name Heavy canopy coverage~
+Desc The sound the sound to the east grows louder, while the sound of running
+water to the west fades away.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1911
+0
+Exit
+3
+~
+~
+0
+1913
+0
+EndRoom
+
+#ROOM
+Vnum 1913
+Name Heavy canopy coverage~
+Desc The sounds to the west grow louder, breathing, and an occasional snarl
+can be heard, several branches block the path west.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1912
+0
+Exit
+3
+~
+branches~
+0
+1914
+AB
+EndRoom
+
+#ROOM
+Vnum 1914
+Name A ravaged clearning~
+Desc The smaller trees are chewed away and pushed aside here a good size hole
+is off to the northeast corner of the clearing.  There are some scratch
+marks in some of the bigger tree trunks, the leaves just above the marks are
+stripped form the branches.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+beanches~
+0
+1913
+AB
+EndRoom
+
+#ROOM
+Vnum 1915
+Name On a trail in the Drykndra forest ~
+Desc The trail branches off in three different directions form here.  Off east
+the trail ends into a little clearing, south blocked by thick shrubs and
+large trees.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1931
+0
+Exit
+1
+~
+~
+0
+1916
+0
+Exit
+3
+~
+~
+0
+1910
+0
+EndRoom
+
+#ROOM
+Vnum 1916
+Name On a trail in the Drykndra forest ~
+Desc The small clearing ends at a very large rock resting to the east.  Most
+of the trail here is covered in small shrubs and some grass, signs not too
+many people come here.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+1915
+0
+EndRoom
+
+#ROOM
+Vnum 1917
+Name Entering the forest of Drykndra~
+Desc The trees are thin here sunlight beams through the misty canopy of trees,
+the light almost making it seem as if the fallen leaves that litter the
+trail are glowing, a slight breeze kicking up a little dust from the dirt
+trail.  Tracks from a wagon can be seen indented on the ground.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+3528
+0
+Exit
+2
+~
+~
+0
+1919
+0
+EndRoom
+
+#ROOM
+Vnum 1918
+Name ~
+Desc ~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 1919
+Name On a trail in the Drykndra forest~
+Desc The wheel marks continue north and south of here, warn from many years of
+trade caravans passing over this trail.  Skinny trees line either side of
+the trail, one tree bending over, making a half arch over the trail.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1917
+0
+Exit
+2
+~
+~
+0
+1920
+0
+EndRoom
+
+#ROOM
+Vnum 1920
+Name On a trail in the Drykndra forest~
+Desc The tracks continue to run to the north, and to the south through here. 
+A few trees and shrubs line the trail, a few vines dangle overheard form a
+tree branch.  Further south the trail benches off to the west and the east. 
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1919
+0
+Exit
+2
+~
+~
+0
+1921
+0
+EndRoom
+
+#ROOM
+Vnum 1921
+Name On a trail in the Drykndra forest~
+Desc The wheels tracks curve to the west here, while off to the east, the
+trees multiply in number, making it look eerily dark.  A very large rock
+blocks the path to the south, the trail curving around it green lichen grows
+abundantly on the rock.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1920
+0
+Exit
+1
+~
+~
+0
+1932
+0
+Exit
+3
+~
+~
+0
+1922
+0
+EndRoom
+
+#ROOM
+Vnum 1922
+Name On a trail in the Drykndra forest~
+Desc The trail continues on through the trees, the trees a little thicker
+here.  Small shrubs encroach against the edges of the trail.  A fallen tree
+branch rests atop the shrubs, making an indentation in them.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1921
+0
+Exit
+3
+~
+~
+0
+1923
+0
+EndRoom
+
+#ROOM
+Vnum 1923
+Name On a trail in the Drykndra forest~
+Desc A thick covering of shrubs blocks the passage west, the path curving
+sharply to the south.  A very large tree stands to the southeast, the
+surrounding trees blooding the view of its treetop.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1922
+0
+Exit
+2
+~
+~
+0
+1924
+0
+EndRoom
+
+#ROOM
+Vnum 1924
+Name On a trail in the Drykndra forest~
+Desc A very large tree stands to the southeast, the surrounding trees blocking
+the view of its treetop.  A few smooth rocks and twigs litter the floor
+among the ever present fallen forest leaves.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1923
+0
+Exit
+3
+~
+~
+0
+1925
+0
+EndRoom
+
+#ROOM
+Vnum 1925
+Name On a trail in the Drykndra forest~
+Desc The quiet forest path continues on, a rock laying somewhat on the trail
+is green with moss.  The small boulder has a spider web like design through
+it of glossy onyx.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1924
+0
+Exit
+3
+~
+~
+0
+1926
+0
+EndRoom
+
+#ROOM
+Vnum 1926
+Name On a trail in the Drykndra forest~
+Desc Tree roots make the pats a little bumpy, some of them exposed with a
+glossy shine on them from years of being walked over.  The sound of a stream
+can be heard to the east.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1925
+0
+Exit
+3
+~
+~
+0
+1927
+0
+EndRoom
+
+#ROOM
+Vnum 1927
+Name Standing over a stream in the Drykndra forest~
+Desc A few logs bridge over a rushing stream, the bridge continuing south. 
+Large rocks line the bottom of the stream.  Moss and other lichen cling to
+the rocks on the bank of the stream on jagged rocks.  Small trees cling to
+the bank with their roots.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1926
+0
+Exit
+2
+~
+~
+0
+1928
+0
+Exit
+3
+~
+~
+0
+1954
+0
+EndRoom
+
+#ROOM
+Vnum 1928
+Name On a trail in the Drykndra forest~
+Desc A few logs bridge over a rushing stream, the bridge continuing north. 
+Large rocks line the bottom of the stream.  The banks of the stream are wet
+and muddy, a few tree roots are exposed along the bank.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1927
+0
+Exit
+1
+~
+~
+0
+1929
+0
+EndRoom
+
+#ROOM
+Vnum 1929
+Name On a trail in the Drykndra forest~
+Desc A few trees block the sight of a small stream to the southwest.  Animal
+tracks also lead to the southwest.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+1930
+0
+Exit
+3
+~
+~
+0
+1928
+0
+EndRoom
+
+#ROOM
+Vnum 1930
+Name On a trail in the Drykndra forest~
+Desc The path straightens out a little bit, a few sprouts of grass grow here
+ant there along the edges of the trail.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1929
+0
+Exit
+1
+~
+~
+0
+1931
+0
+EndRoom
+
+#ROOM
+Vnum 1931
+Name On a trail in the Drykndra forest~
+Desc The trail takes a broad turn to the west a few large branches partially
+foul the path.  Small beams of light make their way through the separations
+in the leaves.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+1915
+0
+Exit
+3
+~
+~
+0
+1930
+0
+EndRoom
+
+#ROOM
+Vnum 1932
+Name A bend in the trail~
+Desc The trail bends sharply to the south, the trail leading to two large
+rocks.  The damp trail begins to dry up in this area.  The trees become a
+lighter shade of green due to the dryer soil as well.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+1933
+0
+Exit
+3
+~
+~
+0
+1921
+0
+EndRoom
+
+#ROOM
+Vnum 1933
+Name Between two rocks~
+Desc Here the path is almost closed off by two large rocks that rest close
+together.  A sign is posted off to the eastern side of the trail.  The trees
+are much taller and thicker in this area.  The path also becomes much
+smaller through the rocks.  
+~
+Room_flags 67108868
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1932
+0
+Exit
+2
+~
+~
+0
+1934
+0
+EndRoom
+
+#ROOM
+Vnum 1934
+Name Overgrown forest~
+Desc The forest is dark and overgrown, the green seem to reach endlessly for
+the sky.  Echoes of large things can be heard moving through this section of
+the forest.  The temperature cooling off and becoming much dryer.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1933
+0
+Exit
+1
+~
+~
+0
+1953
+0
+Exit
+2
+~
+~
+0
+1935
+0
+Exit
+3
+~
+~
+0
+1936
+0
+EndRoom
+
+#ROOM
+Vnum 1935
+Name Overgrown forest~
+Desc The forest is dark and overgrown, the green seem to reach endlessly for
+the sky.  Echoes of large things can be heard moving through this section of
+the forest.  The temperature cooling off and becoming much dryer.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1934
+0
+Exit
+1
+~
+~
+0
+1937
+0
+EndRoom
+
+#ROOM
+Vnum 1936
+Name A Kobold's den~
+Desc This den is dug into a small hill it is very dark inside here.  A pungent
+smells fills the den form the beast that lives here.  Scratch marks run
+along the sides of the den.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1934
+0
+EndRoom
+
+#ROOM
+Vnum 1937
+Name Overgrown forest~
+Desc The forest is dark and overgrown, the green seem to reach endlessly for
+the sky.  Echoes of large things can be heard moving through this section of
+the forest.  The temperature cooling off and becoming much dryer.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1953
+0
+Exit
+1
+~
+~
+0
+1938
+0
+Exit
+3
+~
+~
+0
+1935
+0
+EndRoom
+
+#ROOM
+Vnum 1938
+Name Overgrown forest~
+Desc The forest is dark and overgrown, the green seem to reach endlessly for
+the sky.  Echoes of large things can be heard moving through this section of
+the forest.  The temperature cooling off and becoming much dryer.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1951
+0
+Exit
+1
+~
+~
+0
+1939
+0
+Exit
+3
+~
+~
+0
+1937
+0
+EndRoom
+
+#ROOM
+Vnum 1939
+Name Overgrown forest~
+Desc The forest is dark and overgrown, the green seem to reach endlessly for
+the sky.  Echoes of large things can be heard moving through this section of
+the forest.  The temperature cooling off and becoming much dryer.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+1940
+0
+Exit
+3
+~
+~
+0
+1938
+0
+EndRoom
+
+#ROOM
+Vnum 1940
+Name Overgrown forest~
+Desc The forest is dark and overgrown, the green seem to reach endlessly for
+the sky.  Echoes of large things can be heard moving through this section of
+the forest.  The temperature cooling off and becoming much dryer.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1939
+0
+Exit
+1
+~
+~
+0
+1941
+0
+EndRoom
+
+#ROOM
+Vnum 1941
+Name Overgrown forest~
+Desc The forest is dark and overgrown, the green seem to reach endlessly for
+the sky.  Echoes of large things can be heard moving through this section of
+the forest.  The temperature cooling off and becoming much dryer.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1942
+0
+Exit
+3
+~
+~
+0
+1940
+0
+EndRoom
+
+#ROOM
+Vnum 1942
+Name Overgrown forest~
+Desc The forest is dark and overgrown, the green seem to reach endlessly for
+the sky.  Echoes of large things can be heard moving through this section of
+the forest.  The temperature cooling off and becoming much dryer.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1943
+0
+Exit
+1
+~
+~
+0
+1976
+0
+Exit
+3
+~
+~
+0
+1941
+0
+EndRoom
+
+#ROOM
+Vnum 1943
+Name Overgrown forest~
+Desc The forest is dark and overgrown, the green seem to reach endlessly for
+the sky.  Echoes of large things can be heard moving through this section of
+the forest.  The temperature cooling off and becoming much dryer.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 30 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1944
+0
+Exit
+2
+~
+~
+0
+1942
+0
+Exit
+3
+~
+~
+0
+1945
+0
+EndRoom
+
+#ROOM
+Vnum 1944
+Name ~
+Desc ~
+Room_flags 67108864
+Sector_type 3
+X 0 0 30 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+1943
+0
+EndRoom
+
+#ROOM
+Vnum 1945
+Name Overgrown forest~
+Desc The forest is dark and overgrown, the green seem to reach endlessly for
+the sky.  Echoes of large things can be heard moving through this section of
+the forest.  The temperature cooling off and becoming much dryer.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1946
+0
+Exit
+1
+~
+~
+0
+1943
+0
+EndRoom
+
+#ROOM
+Vnum 1946
+Name Overgrown forest~
+Desc The forest is dark and overgrown, the green seem to reach endlessly for
+the sky.  Echoes of large things can be heard moving through this section of
+the forest.  The temperature cooling off and becoming much dryer.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1947
+0
+Exit
+2
+~
+~
+0
+1945
+0
+Exit
+3
+~
+~
+0
+1952
+0
+EndRoom
+
+#ROOM
+Vnum 1947
+Name Overgrown forest~
+Desc The forest is dark and overgrown, the green seem to reach endlessly for
+the sky.  Echoes of large things can be heard moving through this section of
+the forest.  The temperature cooling off and becoming much dryer.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1948
+0
+Exit
+2
+~
+~
+0
+1946
+0
+Exit
+3
+~
+~
+0
+1949
+0
+EndRoom
+
+#ROOM
+Vnum 1948
+Name Overgrown forest~
+Desc The forest is dark and overgrown, the green seem to reach endlessly for
+the sky.  Echoes of large things can be heard moving through this section of
+the forest.  The temperature cooling off and becoming much dryer.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+1947
+0
+EndRoom
+
+#ROOM
+Vnum 1949
+Name Overgrown forest~
+Desc The forest is dark and overgrown, the green seem to reach endlessly for
+the sky.  Echoes of large things can be heard moving through this section of
+the forest.  The temperature cooling off and becoming much dryer.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1947
+0
+Exit
+2
+~
+~
+0
+1952
+0
+Exit
+3
+~
+~
+0
+1950
+0
+EndRoom
+
+#ROOM
+Vnum 1950
+Name Overgrown forest~
+Desc The forest is dark and overgrown, the green seem to reach endlessly for
+the sky.  Echoes of large things can be heard moving through this section of
+the forest.  The temperature cooling off and becoming much dryer.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1949
+0
+Exit
+2
+~
+~
+0
+1951
+0
+EndRoom
+
+#ROOM
+Vnum 1951
+Name Overgrown forest~
+Desc The forest is dark and overgrown, the green seem to reach endlessly for
+the sky.  Echoes of large things can be heard moving through this section of
+the forest.  The temperature cooling off and becoming much dryer.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1950
+0
+Exit
+1
+~
+~
+0
+1952
+0
+Exit
+2
+~
+~
+0
+1938
+0
+EndRoom
+
+#ROOM
+Vnum 1952
+Name Overgrown forest~
+Desc The forest is dark and overgrown, the green seem to reach endlessly for
+the sky.  Echoes of large things can be heard moving through this section of
+the forest.  The temperature cooling off and becoming much dryer.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1949
+0
+Exit
+1
+~
+~
+0
+1946
+0
+Exit
+3
+~
+~
+0
+1951
+0
+EndRoom
+
+#ROOM
+Vnum 1953
+Name Overgrown forest~
+Desc The forest is dark and overgrown, the green seem to reach endlessly for
+the sky.  Echoes of large things can be heard moving through this section of
+the forest.  The temperature cooling off and becoming much dryer.  
+~
+Room_flags 67108864
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+1937
+0
+Exit
+3
+~
+~
+0
+1934
+0
+EndRoom
+
+#ROOM
+Vnum 1954
+Name Heavily wooded area~
+Desc ~
+Room_flags 67108868
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1927
+0
+Exit
+2
+~
+~
+0
+1959
+0
+Exit
+3
+~
+~
+0
+1955
+0
+EndRoom
+
+#ROOM
+Vnum 1955
+Name Heavily wooded area~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1954
+0
+Exit
+3
+~
+~
+0
+1956
+0
+EndRoom
+
+#ROOM
+Vnum 1956
+Name Heavily wooded area~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1960
+0
+Exit
+1
+~
+~
+0
+1955
+0
+Exit
+2
+~
+~
+0
+1957
+0
+EndRoom
+
+#ROOM
+Vnum 1957
+Name Heavily wooded area~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1956
+0
+Exit
+1
+~
+~
+0
+1958
+0
+EndRoom
+
+#ROOM
+Vnum 1958
+Name Heavily wooded area~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1959
+0
+Exit
+3
+~
+~
+0
+1957
+0
+EndRoom
+
+#ROOM
+Vnum 1959
+Name Heavily wooded area~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1954
+0
+Exit
+3
+~
+~
+0
+1958
+0
+EndRoom
+
+#ROOM
+Vnum 1960
+Name Heavily wooded area~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1961
+0
+Exit
+2
+~
+~
+0
+1956
+0
+EndRoom
+
+#ROOM
+Vnum 1961
+Name Heavily wooded area~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1962
+0
+Exit
+2
+~
+~
+0
+1960
+0
+EndRoom
+
+#ROOM
+Vnum 1962
+Name Heavily wooded area~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1963
+0
+Exit
+3
+~
+~
+0
+1961
+0
+EndRoom
+
+#ROOM
+Vnum 1963
+Name The old mine entrance~
+Desc The forest breaks into a clearing here, the trail leading into an
+abandoned mine.  The dark entrance has a few spider webs along the top or of
+entrance.  Fain echoing of something moving around inside can be heard.  
+~
+Room_flags 67108868
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1964
+0
+Exit
+2
+~
+~
+0
+1962
+0
+EndRoom
+
+#ROOM
+Vnum 1964
+Name The old mine~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1965
+0
+Exit
+2
+~
+~
+0
+1963
+0
+EndRoom
+
+#ROOM
+Vnum 1965
+Name The old mine~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1971
+0
+Exit
+1
+~
+~
+0
+1966
+0
+Exit
+3
+~
+~
+0
+1964
+0
+EndRoom
+
+#ROOM
+Vnum 1966
+Name The old mine~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1967
+0
+Exit
+2
+~
+~
+0
+1975
+0
+Exit
+3
+~
+~
+0
+1965
+0
+EndRoom
+
+#ROOM
+Vnum 1967
+Name The old mine~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1968
+0
+Exit
+3
+~
+~
+0
+1966
+0
+EndRoom
+
+#ROOM
+Vnum 1968
+Name The old mine~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1969
+0
+Exit
+2
+~
+~
+0
+1967
+0
+Exit
+3
+~
+~
+0
+1970
+0
+EndRoom
+
+#ROOM
+Vnum 1969
+Name ~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+1968
+0
+EndRoom
+
+#ROOM
+Vnum 1970
+Name The old mine~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1968
+0
+Exit
+3
+~
+~
+0
+1971
+0
+EndRoom
+
+#ROOM
+Vnum 1971
+Name The old mine~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1970
+0
+Exit
+2
+~
+~
+0
+1965
+0
+Exit
+3
+~
+~
+0
+1972
+0
+EndRoom
+
+#ROOM
+Vnum 1972
+Name The old mine~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1971
+0
+Exit
+3
+~
+~
+0
+1973
+0
+EndRoom
+
+#ROOM
+Vnum 1973
+Name The old mine~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1972
+0
+Exit
+3
+~
+~
+0
+1974
+0
+EndRoom
+
+#ROOM
+Vnum 1974
+Name The old mine~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1973
+0
+EndRoom
+
+#ROOM
+Vnum 1975
+Name The old mine~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1966
+0
+EndRoom
+
+#ROOM
+Vnum 1976
+Name The tree dragon's lair~
+Desc This little clearing is surrounded by a large nest made of branches and
+other forest foliage.  Around the next is fine dirt, as if its constantly
+walks on.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+1942
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 1913 3 1
+D 0 1914 1 1
+M 0 1902 1 1902 3
+M 0 1907 1 1907 1
+M 0 1902 1 1909 3
+M 0 1914 1 1914 3
+G 0 5602 0
+M 0 1934 1 1934 3
+M 0 1936 1 1936 3
+M 0 1942 1 1942 3
+M 0 1955 2 1955 3
+M 0 1955 2 1955 3
+M 0 1967 1 1967 3
+M 0 1946 1 1976 3
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#1902
+emote backs into a near by bush, huddling close to the floor.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

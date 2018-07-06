@@ -1,0 +1,5560 @@
+#AREADATA
+Name Bridgewater~
+Builders Khalandar~
+VNUMs 5600 5800
+Credits (null)~
+Security 5
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 5600
+Name no name~
+Short (no short description)~
+Long (no long description)
+~
+Description ~
+Race human~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#MOB
+Vnum 5601
+Name Large horned owl~
+Short A large horned owl~
+Long A large horned owl stands here
+~
+Description The horned owl is a graying color with black and white highlights on its
+feathers.  The underside is a light grey with dark bars and a white band of
+feathers on the upper breast.  Large staring yellow-orange eyes look
+vigilantly for prey.  Large feet are feathered to the ends of the toes.  
+~
+Race song bird~
+Act_flags AI
+Aff T
+Align 0
+Group 0
+Level 1
+Hitroll 1
+Hit_dice 3d2+11
+Mana_dice 3d2+11
+Dam_dice 1d2+5
+Dam_type none
+Armor -8 -8 -8 -7
+Clevel0
+Cability 1
+Off FH
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AGW
+Parts ACDEFHKP
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5602
+Name Naoise Dagda~
+Short Naoise Dagda~
+Long Naoise Dagda Stand here, selling pets
+~
+Description ~
+Race human~
+Act_flags AB
+Aff 0
+Align 0
+Group 0
+Level 250
+Hitroll 1000
+Hit_dice 1d1+10000
+Mana_dice 1d1+10000
+Dam_dice 1d1+1100
+Dam_type none
+Armor -50 -50 -50 -50
+Clevel0
+Cability 0
+Off H
+Imm ABCD
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5603
+Name Bridgewater guard~
+Short A Bridgewater guard~
+Long A Bridgewater guard stands here
+~
+Description ~
+Race human~
+Act_flags A
+Aff J
+Align 1000
+Group 0
+Level 100
+Hitroll 96
+Hit_dice 205d34+1991
+Mana_dice 209d34+2059
+Dam_dice 103d98+48
+Dam_type slice
+Armor -79 -85 -82 -72
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res B
+Vuln Z
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+MobTrig GREET 5603 100~
+EndMob
+
+#MOB
+Vnum 5608
+Name Thorgood~
+Short Thorgood the baker.~
+Long Thorgood the baker stands behind the counter.
+~
+Description ~
+Race human~
+Act_flags AB
+Aff 0
+Align 0
+Group 0
+Level 150
+Hitroll 157
+Hit_dice 313d52+4529
+Mana_dice 304d52+4543
+Dam_dice 149d143+71
+Dam_type none
+Armor -101 -102 -100 -90
+Clevel0
+Cability 0
+Off 0
+Imm B
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#MOB
+Vnum 5610
+Name Jadranko Neelam~
+Short Jadranko Neelam the armorer~
+Long Jadranko Neelam the armorer stand here
+~
+Description ~
+Race elf~
+Act_flags ABDG
+Aff J
+Align 0
+Group 0
+Level 250
+Hitroll 1000
+Hit_dice 1d1+10000
+Mana_dice 1d1+10000
+Dam_dice 1d1+1100
+Dam_type slash
+Armor -50 -50 -50 -50
+Clevel0
+Cability 0
+Off H
+Imm ABCD
+Res B
+Vuln Z
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5618
+Name Hestia Decima~
+Short Hestia Decima the healer~
+Long Hestia Decima the healer strolls along, healing people's wounds
+~
+Description Her thick, wavy, long hair is the color of varnished wood, and is worn in
+a complex style with various braids and hair decorations.  She is very tall
+and has an elegant build.  
+~
+Race elf~
+Act_flags ABa
+Aff J
+Align 9999
+Group 0
+Level 250
+Hitroll 1000
+Hit_dice 1d1+10000
+Mana_dice 1d1+10000
+Dam_dice 1d1+1100
+Dam_type none
+Armor -50 -50 -50 -50
+Clevel0
+Cability 0
+Off H
+Imm ABCD
+Res B
+Vuln Z
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5666
+Name test~
+Short test mob~
+Long Test mob stands ehre
+~
+Description ~
+Race human~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level 100
+Hitroll 97
+Hit_dice 201d33+1816
+Mana_dice 197d33+1855
+Dam_dice 34d2+73
+Dam_type none
+Armor -56 -53 -54 -51
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar ABCDEFGHIJK
+MobTrig GREET 5603 100~
+EndMob
+
+#MOB
+Vnum 5689
+Name narzigg~
+Short narzigg the sage~
+Long Narzigg the sage stands here
+~
+Description ~
+Race orc~
+Act_flags AB
+Aff J
+Align 1000
+Group 0
+Level 250
+Hitroll 1000
+Hit_dice 1d1+10000
+Mana_dice 1d1+10000
+Dam_dice 1d1+1100
+Dam_type punch
+Armor -50 -50 -50 -50
+Clevel0
+Cability 0
+Off H
+Imm ABCDK
+Res Q
+Vuln S
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5691
+Name Xesar Starkiller~
+Short Xesar Starkiller The bounty hunter~
+Long Xesar Starkiller the bounty hunter stands here, passing out bountys
+~
+Description ~
+Race elf~
+Act_flags ABE
+Aff J
+Align 1000
+Group 0
+Level 150
+Hitroll 1000
+Hit_dice 1d1+10000
+Mana_dice 1d1+10000
+Dam_dice 1d1+1100
+Dam_type punch
+Armor -50 -50 -50 -50
+Clevel0
+Cability 0
+Off H
+Imm ABCD
+Res B
+Vuln Z
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5692
+Name Asklepios Damon~
+Short Asklepios Damon the summoner~
+Long Asklepios Damon the summoner stands here
+~
+Description ~
+Race human~
+Act_flags AB
+Aff 0
+Align 1000
+Group 0
+Level 250
+Hitroll 1000
+Hit_dice 1d1+10000
+Mana_dice 1d1+10000
+Dam_dice 1d1+1100
+Dam_type none
+Armor -50 -50 -50 -50
+Clevel0
+Cability 0
+Off H
+Imm ABCD
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5693
+Name Osotitael~
+Short Osotitael the trainer~
+Long Osotitael the trainer stands here, helping everyone train
+~
+Description An angelic being, his piercing blue eyes and blonde and white hair roll
+over his shoulders.  Feathery wings are folding behind his back.  His build
+is that of a warrior who seems as if he has seen many battles.  
+~
+Race elf~
+Act_flags ABJ
+Aff HJ
+Align 0
+Group 0
+Level 250
+Hitroll 1000
+Hit_dice 1d1+10000
+Mana_dice 1d1+10000
+Dam_dice 1d1+1100
+Dam_type punch
+Armor -50 -50 -50 -50
+Clevel0
+Cability 0
+Off H
+Imm ABCD
+Res B
+Vuln Z
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5694
+Name Nxalian Darkpanther~
+Short Nxalian Darkpanther the leveler~
+Long Nxalian Darkpanther the leveler stand here
+~
+Description ~
+Race cat~
+Act_flags ABe
+Aff Z
+Align 1000
+Group 0
+Level 250
+Hitroll 1000
+Hit_dice 1d1+10000
+Mana_dice 1d1+10000
+Dam_dice 1d1+1100
+Dam_type scratch
+Armor -50 -50 -50 -50
+Clevel0
+Cability 0
+Off FH
+Imm ABCD
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AGV
+Parts ACDEFHJKQUV
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5695
+Name Orpheus Loki ~
+Short Orpheus Loki the teacher~
+Long Orpheus Loki the teacher stands here, teaching everyone about everything
+~
+Description ~
+Race human~
+Act_flags ABK
+Aff 0
+Align 0
+Group 0
+Level 250
+Hitroll 1000
+Hit_dice 1d1+10000
+Mana_dice 1d1+10000
+Dam_dice 1d1+1100
+Dam_type none
+Armor -50 -50 -50 -50
+Clevel0
+Cability 0
+Off H
+Imm ABCD
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5696
+Name Lilith Ophelia~
+Short Lilith Ophelia the Restringer~
+Long Lilith Ophelia the Restringer busily engraves diffrent items
+~
+Description ~
+Race human~
+Act_flags AB
+Aff 0
+Align 1000
+Group 0
+Level 250
+Hitroll 1000
+Hit_dice 1d1+10000
+Mana_dice 1d1+10000
+Dam_dice 1d1+1100
+Dam_type none
+Armor -50 -50 -50 -50
+Clevel0
+Cability 0
+Off H
+Imm ABCD
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5701
+Name Muir Kettil~
+Short Muir Kettil the blacksmith~
+Long Muir Kettil the blacksmith works away making a sword
+~
+Description ~
+Race dwarf~
+Act_flags ABD
+Aff J
+Align 0
+Group 0
+Level 150
+Hitroll 1000
+Hit_dice 1d1+10000
+Mana_dice 1d1+10000
+Dam_dice 1d1+1100
+Dam_type none
+Armor -50 -50 -50 -50
+Clevel0
+Cability 0
+Off H
+Imm ABCD
+Res LQ
+Vuln R
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5702
+Name Ryota Dragomir~
+Short Ryota Dragomir the weapon shop keeper~
+Long Ryota Dragomir the weapon shop keeper stand here
+~
+Description This boorish woman has round eyes the color of pine needles.  Her thick,
+straight, yellow hair is worn in a style that flows over her shoulder and
+down her back.  She is tall and has a voluptuous build.  Her skin is
+deeply-tanned.  
+~
+Race human~
+Act_flags AB
+Aff 0
+Align 0
+Group 0
+Level 250
+Hitroll 1000
+Hit_dice 1d1+10000
+Mana_dice 1d1+10000
+Dam_dice 1d1+1100
+Dam_type slash
+Armor -50 -50 -50 -50
+Clevel0
+Cability 0
+Off H
+Imm ABCDK
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 5710
+Name no name~
+Short (no short description)~
+Long (no long description)
+~
+Description ~
+Race human~
+Act_flags A
+Aff 0
+Align 0
+Group 0
+Level 0
+Hitroll 0
+Hit_dice 0d0+0
+Mana_dice 0d0+0
+Dam_dice 0d0+0
+Dam_type none
+Armor 0 0 0 0
+Clevel0
+Cability 0
+Off 0
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form 0
+Parts 0
+Size medium
+Material unknown
+Aggression 0
+Ffor AHMV
+Fpar ABCDEFGHIJK
+EndMob
+
+#MOB
+Vnum 5751
+Name Gwrtheyrn Vercingetorix~
+Short Gwrtheyrn Vercingetorix the Quest Master~
+Long Gwrtheyrn Vercingetorix the Quest Master sits on a rock, passing out quests
+~
+Description ~
+Race human~
+Act_flags AB
+Aff 0
+Align 1000
+Group 0
+Level 250
+Hitroll 1000
+Hit_dice 1d1+10000
+Mana_dice 1d1+10000
+Dam_dice 1d1+1100
+Dam_type punch
+Armor -50 -50 -50 -50
+Clevel0
+Cability 0
+Off H
+Imm ABCD
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 5600
+Name no name~
+Short (no short description)~
+Desc (no description)~
+Material unknown~
+Item_type potion
+Extra 0
+Extra2 0
+Wear 0
+Values 5 '' 'reserved' 'reserved' 'reserved'
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5601
+Name Whole apple pie~
+Short a Whole apple pie~
+Desc A whole apple pie lays here.~
+Material bread~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values EF AD 0 0 0
+Level 1
+Weight 1
+Cost 50
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5602
+Name Gleaming shortsword~
+Short a {wG{Wl{we{Wa{wm{Wi{wn{wg{x shortsword~
+Desc A {wG{Wl{we{Wa{wm{Wi{wn{wg{x shortsword lays here~
+Material unknown~
+Item_type weapon
+Extra A
+Extra2 0
+Wear AN
+Values sword 2 6 none 0
+Level 10
+Weight 11
+Cost 650
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5608
+Name Bakers apron~
+Short a bakers apron~
+Desc A white and red checkered bakers apron~
+Material cloth~
+Item_type armor
+Extra 0
+Extra2 0
+Wear ADU
+Values A A A 0 0
+Level 1
+Weight 2
+Cost 5
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5609
+Name Plain crescent~
+Short a Plain crescent.~
+Desc A Plain crescent lays here.~
+Material bread~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values EF C 0 0 0
+Level 1
+Weight 1
+Cost 5
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5610
+Name Fountian~
+Short the fountian of Bridgewater~
+Desc The flowing fountian of Bridgewater flows of traquil, clear water~
+Material unknown~
+Item_type fountain
+Extra 0
+Extra2 0
+Wear 0
+Values 0 0 'water' 0 0
+Level 0
+Weight 10000
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5620
+Name Blue flamed candle~
+Short a blue flamed candle~
+Desc A blue flamed candle floats above the ground~
+Material unknown~
+Item_type light
+Extra a
+Extra2 0
+Wear AQ
+Values 0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+Level 1
+Weight 0
+Cost 40000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5621
+Name bridgewater guard's sword~
+Short a bridgewater guard's sword~
+Desc A Bridgewater guard's sword lays here~
+Material Metal~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values sword 11 12 none 0
+Level 100
+Weight 2
+Cost 5780
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+19 9
+AffectObj
+18 9
+EndObj
+
+#OBJ
+Vnum 5622
+Name Bridgewater guard's plate armor~
+Short a Bridgewater guard's plate armor~
+Desc A Bridgewater guard's plate armor lays here~
+Material unknown~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AU
+Values CF CF CF ABF 0
+Level 100
+Weight 101
+Cost 96
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5623
+Name Bridgewater guard's plated greaves~
+Short a pair of Bridgewater guard's plated greaves~
+Desc A pair ofBridgewater guard's plated greaves lays here~
+Material unknown~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AV
+Values CF CF CF ABF 0
+Level 100
+Weight 101
+Cost 96
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5624
+Name Bridgewater guard's rivited steel helm~
+Short a Bridgewater guard's rivited steel helm~
+Desc A Bridgewater guard's rivited steel helm lays here~
+Material unknown~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AE
+Values CF CF CF ABF 0
+Level 100
+Weight 101
+Cost 96
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5625
+Name Bridgewater guard's plated bracers~
+Short a Bridgewater guard's plated bracers~
+Desc A pair of Bridgewater guard's plated bracers lay here~
+Material unknown~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AI
+Values CF CF CF ABF 0
+Level 100
+Weight 101
+Cost 96
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5631
+Name quilted blue leggings~
+Short a pair of quilted blue leggings~
+Desc A pair of quilted blue leggings lays here~
+Material unknown~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AF
+Values B B B A 0
+Level 5
+Weight 6
+Cost 1
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5632
+Name A blue aketon~
+Short a blue aketon~
+Desc A blue aketon lays here~
+Material unknown~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values B B B A 0
+Level 5
+Weight 6
+Cost 1
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5633
+Name padded leather boots~
+Short padded leather boots~
+Desc A pair of padded leather boots lays here~
+Material unknown~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AG
+Values B B B A 0
+Level 5
+Weight 6
+Cost 1
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5708
+Name Semi finished sword~
+Short a Semi finished sword~
+Desc A Semi finished sword lays here~
+Material unknown~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values sword 1 10 none 0
+Level 7
+Weight 8
+Cost 100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5712
+Name vest of hunting leather~
+Short a vest of hunting leather~
+Desc A vest of hunting leather lays here~
+Material leather~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values AB AB AB B 0
+Level 7
+Weight 8
+Cost 150
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 5718
+Name Engraved Dragon Ring~
+Short an engraved {Rdr{Bag{Gon{x ring~
+Desc An engraved {Rdr{Bag{Gon{x ring hovers above the ground~
+Material light~
+Item_type jewelry
+Extra ABa
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 154
+Weight 0
+Cost 100000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 20000
+AffectObj
+14 20000
+AffectObj
+13 20000
+EndObj
+
+#OBJ
+Vnum 5777
+Name gold pill~
+Short a gold pill~
+Desc A gold pill lays here~
+Material unknown~
+Item_type pill
+Extra 0
+Extra2 0
+Wear A
+Values 0 'reserved' 'reserved' 'reserved' 'reserved'
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+15 400
+EndObj
+
+#OBJ
+Vnum 5800
+Name Radiant candle~
+Short a Radiant candle~
+Desc A Radiant candle hovers here~
+Material unknown~
+Item_type light
+Extra 0
+Extra2 0
+Wear AQ
+Values 0 0 ABCFGHIJ 0 0
+Level 1
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 5600
+Name Bridgewater city square~
+Desc The city square bustles with activity, people walking every witch way
+into shops and down the paths of the city.  Stone columns adorn the four
+corners of the square, each with a ball carved of rare marble atop them. 
+The ground is made of neatly placed granite bricks, making walking a
+pleasure down the streets.  A small grassy area to the northeast provides a
+place for little children to play games.  
+~
+Room_flags 67108868
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5601
+0
+Exit
+1
+~
+~
+0
+5622
+0
+Exit
+2
+~
+~
+0
+5612
+0
+Exit
+3
+~
+~
+0
+5661
+0
+EndRoom
+
+#ROOM
+Vnum 5601
+Name North of Bridgewater square~
+Desc The granite bricks continue north, to the east, the general store
+entrance, to the west is a deli.  The general store has many items the
+adventure needs hanging outside.  The deli has a delivery wagon to the side
+of the entrance, and a few barrels of water rest on the opposite side of the
+door.  
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5606
+0
+Exit
+1
+~
+~
+0
+5609
+0
+Exit
+2
+~
+~
+0
+5600
+0
+Exit
+3
+~
+~
+0
+5608
+0
+EndRoom
+
+#ROOM
+Vnum 5602
+Name North of Bridgewater square~
+Desc The path branches off in all four directions here, South leading to the
+Bridgewater Square.  East and west lead down the outer walls of Bridgewater.
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5607
+0
+Exit
+1
+~
+~
+0
+5652
+0
+Exit
+2
+~
+~
+0
+5603
+0
+Exit
+3
+~
+~
+0
+5640
+0
+EndRoom
+
+#ROOM
+Vnum 5603
+Name North of Bridgewater square~
+Desc The granite path leads north and south form here, on either side is a
+small garden areas.  Trees and shrubs line the paths to the small gardens.  
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5602
+0
+Exit
+1
+~
+~
+0
+5699
+0
+Exit
+2
+~
+~
+0
+5604
+0
+Exit
+3
+~
+~
+0
+5621
+0
+EndRoom
+
+#ROOM
+Vnum 5604
+Name North of Bridgewater square~
+Desc The granite path continues north and south from here, is also heads east.
+East leads onto the path to masters square.  A large, green grassy field
+lays off to the west.  
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5603
+0
+Exit
+1
+~
+~
+0
+5698
+0
+Exit
+2
+~
+~
+0
+5605
+0
+EndRoom
+
+#ROOM
+Vnum 5605
+Name North of Bridgewater square~
+Desc On either side of the path are two shops.  The shop on the east side of
+the trail has a sign hanging form it saying "The Bridgewater Armory".  The
+western side is the pet shop.  The main road continues north and south.  
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5604
+0
+Exit
+1
+~
+~
+0
+5610
+0
+Exit
+2
+~
+~
+0
+5606
+0
+Exit
+3
+~
+~
+0
+5611
+0
+EndRoom
+
+#ROOM
+Vnum 5606
+Name North of Bridgewater square~
+Desc Simi well kept grass lines the pathway through this area of the city.  To
+the north, two signs hang off the buildings on either side of the path.  A
+few storage barrels rest against one of the buildings.  South also has two
+building on either side of the road, a sigh hanging in front of each,
+advertising what goods the shops have to sell.  
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5605
+0
+Exit
+2
+~
+~
+0
+5601
+0
+EndRoom
+
+#ROOM
+Vnum 5607
+Name Northern gate of Bridgewater~
+Desc This area is covered by the gatehouse to the city.  North enters the
+Drykndra forest, south leads into the city of Bridgewater.  The gatehouse is
+built of stones and mortar, the roof of the house creating an arch.  Massive
+chains connect to the main gate, the gate built to move up and down when
+needed.  
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1900
+0
+Exit
+2
+~
+~
+0
+5602
+0
+EndRoom
+
+#ROOM
+Vnum 5608
+Name The Bridgewater bakery~
+Desc The bakery smells of baking bread in the brick over in the back.  Pies,
+cakes and cookies lay behind the glass of the redwood counter.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5601
+0
+EndRoom
+
+#ROOM
+Vnum 5609
+Name the Apothecary shop~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+5601
+0
+EndRoom
+
+#ROOM
+Vnum 5610
+Name The Bridgewater Armory ~
+Desc The hot, red bricked shop smells of molten metal.  Suits of armor and
+different armor parts hang on stands.  Two smithies work in the back
+creating the next suit of armor to go on display.  An etched wood board
+provides information on what armor is available and their cost.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+5605
+0
+EndRoom
+
+#ROOM
+Vnum 5611
+Name the pet shop~
+Desc ~
+Room_flags 67112960
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5605
+0
+EndRoom
+
+#ROOM
+Vnum 5612
+Name South of Bridgewater square~
+Desc The granite path leads everyone quickly through the heart of the city. 
+Golden flecks shine in any light.  A few patches of grass sprout through the
+space between the granite blocks.  
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5600
+0
+Exit
+1
+~
+~
+0
+5745
+0
+Exit
+2
+~
+~
+0
+5613
+0
+Exit
+3
+~
+~
+0
+5746
+0
+EndRoom
+
+#ROOM
+Vnum 5613
+Name South of Bridgewater square~
+Desc The granite path leads everyone quickly through the heart of the city. 
+Golden flecks shine in any light.  A few patches of grass sprout through the
+space between the granite blocks.  
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5612
+0
+Exit
+2
+~
+~
+0
+5614
+0
+EndRoom
+
+#ROOM
+Vnum 5614
+Name South of Bridgewater square~
+Desc The granite path leads everyone quickly through the heart of the city. 
+Golden flecks shine in any light.  A few patches of grass sprout through the
+space between the granite blocks.  
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5613
+0
+Exit
+2
+~
+~
+0
+5615
+0
+Exit
+3
+~
+~
+0
+5744
+0
+EndRoom
+
+#ROOM
+Vnum 5615
+Name South of Bridgewater square~
+Desc The granite path leads everyone quickly through the heart of the city. 
+Golden flecks shine in any light.  A few patches of grass sprout through the
+space between the granite blocks.  
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5614
+0
+Exit
+1
+~
+~
+0
+5616
+0
+Exit
+2
+~
+~
+0
+5620
+0
+Exit
+3
+~
+~
+0
+5742
+0
+EndRoom
+
+#ROOM
+Vnum 5616
+Name ~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+5617
+0
+Exit
+3
+~
+~
+0
+5615
+0
+EndRoom
+
+#ROOM
+Vnum 5617
+Name ~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5616
+0
+Exit
+1
+~
+~
+0
+5618
+0
+Exit
+3
+~
+~
+0
+5620
+0
+EndRoom
+
+#ROOM
+Vnum 5618
+Name The bridgewater healers room~
+Desc The surrounding walls of the room are white with a certain energy that
+can be felt throughout the room.  Glowing orbs floating above discs attached
+to the wall give off a pure white light.  A step to the west side of the
+room leads to a small fountain flowing with mysterious blue liquid.  A large
+window lets in some sunlight, out of the window can be seen the river of
+bridgewater, and part of the bridge itself.  Chairs and beds also line the
+hall for the wounded to rest in.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5619
+0
+Exit
+3
+~
+~
+0
+5617
+0
+EndRoom
+
+#ROOM
+Vnum 5619
+Name The Bridgewater morgue~
+Desc Here is where the entire slain are stored.  The long room has sections
+upon sections of marble walls each wall has a cut out big enough for a body.
+Each cut out has a plaque below it, inscribed with the name of every person
+alive and dead.  Ethereal balls of light hover over tall winding stands with
+a flat disc topping each stand.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5752
+0
+Exit
+2
+~
+~
+0
+5618
+0
+EndRoom
+
+#ROOM
+Vnum 5620
+Name South of Bridgewater square~
+Desc The granite path leads everyone quickly through the heart of the city. 
+Golden flecks shine in any light.  A few patches of grass sprout through the
+space between the granite blocks.  
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5615
+0
+Exit
+1
+~
+~
+0
+5617
+0
+Exit
+2
+~
+~
+0
+5662
+0
+Exit
+3
+~
+~
+0
+5741
+0
+EndRoom
+
+#ROOM
+Vnum 5621
+Name A small garden~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5603
+0
+EndRoom
+
+#ROOM
+Vnum 5622
+Name East of Bridgewater square~
+Desc The road leads east and west form here, each granite brick neatly and
+precisely placed next to each other.  The river running through Bridgewater
+can clear be seen flowing to the east.  
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5623
+0
+Exit
+3
+~
+~
+0
+5600
+0
+EndRoom
+
+#ROOM
+Vnum 5623
+Name East of Bridgewater square~
+Desc The road leads east and west form here, each granite brick neatly and
+precisely placed next to each other.  The river running through Bridgewater
+can clear be seen flowing to the east.  
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5733
+0
+Exit
+1
+~
+~
+0
+5624
+0
+Exit
+3
+~
+~
+0
+5622
+0
+EndRoom
+
+#ROOM
+Vnum 5624
+Name East of Bridgewater square~
+Desc The road leads west form here, each granite brick neatly and precisely
+placed next to each other.  The granite path tapers off into a massive
+bridge to the east.  The bridge has a slight arc to it.  
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5734
+0
+Exit
+1
+~
+~
+0
+5625
+0
+Exit
+2
+~
+~
+0
+5736
+0
+Exit
+3
+~
+~
+0
+5623
+0
+EndRoom
+
+#ROOM
+Vnum 5625
+Name East of Bridgewater square~
+Desc The massive wooden bridge continues west and east form here.  Over the
+side of the bridge, the river flows quickly, the clear water sparkling.  
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5626
+0
+Exit
+3
+~
+~
+0
+5624
+0
+EndRoom
+
+#ROOM
+Vnum 5626
+Name East of Bridgewater square~
+Desc The massive wooden bridge continues west and east form here.  Over the
+side of the bridge, the river flows quickly, the clear water sparkling.  
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5627
+0
+Exit
+3
+~
+~
+0
+5625
+0
+EndRoom
+
+#ROOM
+Vnum 5627
+Name East of Bridgewater square~
+Desc The massive wooden bridge continues west and east form here.  Over the
+side of the bridge, the river flows quickly, the clear water sparkling.  
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5628
+0
+Exit
+3
+~
+~
+0
+5626
+0
+EndRoom
+
+#ROOM
+Vnum 5628
+Name East of Bridgewater square~
+Desc The eastern road of Bridgewater branches off in four directions form
+here.  East leading to the eastern gate, north and south run along the
+eastern areas of Bridgewater.  
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5641
+0
+Exit
+1
+~
+~
+0
+5629
+0
+Exit
+2
+~
+~
+0
+5675
+0
+Exit
+3
+~
+~
+0
+5627
+0
+EndRoom
+
+#ROOM
+Vnum 5629
+Name Eastern gate of Bridgewater ~
+Desc This area is covered by the gatehouse to the city.  West leads into the
+city of Bridgewater.  The gatehouse is built of stones and mortar, the roof
+of the house creating an arch.  Massive chains connect to the main gate, the
+gate built to move up and down when needed.  
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+5628
+0
+EndRoom
+
+#ROOM
+Vnum 5630
+Name Along the western wall~
+Desc The granite pathway buts up against the wall.  The west wall raising high
+into the air to keep all the creatures in the on the outside out of the
+city.  The wall is constructed of large stones, the cracks between each rock
+has mortar expertly placed.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5631
+0
+Exit
+1
+~
+~
+0
+5713
+0
+Exit
+2
+~
+~
+0
+5653
+0
+EndRoom
+
+#ROOM
+Vnum 5631
+Name Along the western wall~
+Desc The granite pathway buts up against the wall.  The west wall raising high
+into the air to keep all the creatures in the on the outside out of the
+city.  The wall is constructed of large stones, the cracks between each rock
+has mortar expertly placed.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5632
+0
+Exit
+1
+~
+~
+0
+5701
+0
+Exit
+2
+~
+~
+0
+5630
+0
+EndRoom
+
+#ROOM
+Vnum 5632
+Name Along the western wall~
+Desc The granite pathway buts up against the wall.  The west wall raising high
+into the air to keep all the creatures in the on the outside out of the
+city.  The wall is constructed of large stones, the cracks between each rock
+has mortar expertly placed.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5633
+0
+Exit
+2
+~
+~
+0
+5631
+0
+EndRoom
+
+#ROOM
+Vnum 5633
+Name Along the western wall~
+Desc The granite pathway buts up against the wall.  The west wall raising high
+into the air to keep all the creatures in the on the outside out of the
+city.  The wall is constructed of large stones, the cracks between each rock
+has mortar expertly placed.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5634
+0
+Exit
+2
+~
+~
+0
+5632
+0
+EndRoom
+
+#ROOM
+Vnum 5634
+Name A curve in the path~
+Desc The wall and path bends around a curve here.  A ladder former into the
+wall leads up to the top of the wall.  South around the corner leads to the
+western wall of Bridgewater.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5635
+0
+Exit
+3
+~
+~
+0
+5633
+0
+EndRoom
+
+#ROOM
+Vnum 5635
+Name Along the northern wall~
+Desc The northern wall of Bridgewater is constructed of huge gray stones,
+with mortar between every crack, keeping all the creatures out that would
+normally wander into town.  The granite bricked path is built right against
+the wall.  South leds around a bent to a path leading to a path that runs
+along the western wall of the city.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5636
+0
+Exit
+2
+~
+~
+0
+5634
+0
+EndRoom
+
+#ROOM
+Vnum 5636
+Name Along the northern wall~
+Desc The northern wall of Bridgewater is constructed of huge gray stones, with
+mortar between every crack, keeping all the creatures out that would
+normally wander into town.  The granite bricked path is built right against
+the wall.  A large, grassy clearing to the south has a few trees and places
+for people to enjoy the outdoors in.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5637
+0
+Exit
+3
+~
+~
+0
+5635
+0
+EndRoom
+
+#ROOM
+Vnum 5637
+Name Along the northern wall~
+Desc The northern wall of Bridgewater is constructed of huge gray stones,
+with mortar between every crack, keeping all the creatures out that would
+normally wander into town.  The granite bricked path is built right against
+the wall.  South leads down into the industrial part of the city.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5638
+0
+Exit
+2
+~
+~
+0
+5707
+0
+Exit
+3
+~
+~
+0
+5636
+0
+EndRoom
+
+#ROOM
+Vnum 5638
+Name Along the northern wall~
+Desc The northern wall of Bridgewater is constructed of huge gray stones, with
+mortar between every crack, keeping all the creatures out that would
+normally wander into town.  The granite bricked path is built right against
+the wall.  A large, grassy clearing to the south has a few trees and places
+for people to enjoy the outdoors in.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5639
+0
+Exit
+3
+~
+~
+0
+5637
+0
+EndRoom
+
+#ROOM
+Vnum 5639
+Name Along the northern wall~
+Desc The northern wall of Bridgewater is constructed of huge gray stones, with
+mortar between every crack, keeping all the creatures out that would
+normally wander into town.  The granite bricked path is built right against
+the wall.  A large, grassy clearing to the south has a few trees and places
+for people to enjoy the outdoors in.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5640
+0
+Exit
+3
+~
+~
+0
+5638
+0
+EndRoom
+
+#ROOM
+Vnum 5640
+Name Along the northern wall~
+Desc The northern wall of Bridgewater is constructed of huge gray stones, with
+mortar between every crack, keeping all the creatures out that would
+normally wander into town.  The granite bricked path is built right against
+the wall.  A large, grassy clearing to the south has a few trees and places
+for people to enjoy the outdoors in.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5602
+0
+Exit
+3
+~
+~
+0
+5639
+0
+EndRoom
+
+#ROOM
+Vnum 5641
+Name On the northeastern bridge~
+Desc A large wooden bridge lays over the rushing river that continues north
+from here.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5642
+0
+Exit
+2
+~
+~
+0
+5628
+0
+EndRoom
+
+#ROOM
+Vnum 5642
+Name On the northeasten bridge~
+Desc The bridge continues north and south.  Over the side the clear water run
+freely down the river, the water clean, giving a wonderful view straight
+down into the river bed.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5643
+0
+Exit
+2
+~
+~
+0
+5641
+0
+EndRoom
+
+#ROOM
+Vnum 5643
+Name On the northeasten bridge~
+Desc The bridge continues north and south.  Over the side the clear water run
+freely down the river, the water clean, giving a wonderful view straight
+down into the river bed.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5644
+0
+Exit
+2
+~
+~
+0
+5642
+0
+EndRoom
+
+#ROOM
+Vnum 5644
+Name On the northeasten bridge~
+Desc The bridge continues north and south.  Over the side the clear water run
+freely down the river, the water clean, giving a wonderful view straight
+down into the river bed.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5645
+0
+Exit
+2
+~
+~
+0
+5643
+0
+EndRoom
+
+#ROOM
+Vnum 5645
+Name On the northeasten bridge~
+Desc The bridge continues west and south.  Over the side the clear water run
+freely down the river, the water clean and clear, giving a wonderful view
+straight down into the river bed.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+5644
+0
+Exit
+3
+~
+~
+0
+5646
+0
+EndRoom
+
+#ROOM
+Vnum 5646
+Name On the northeasten bridge~
+Desc The bridge continues north and east.  Over the side the clear water run
+freely down the river, the water clean and clear, giving a wonderful view
+straight down into the river bed.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5647
+0
+Exit
+1
+~
+~
+0
+5645
+0
+EndRoom
+
+#ROOM
+Vnum 5647
+Name On the northeasten bridge~
+Desc The bridge continues west and south.  Over the side the clear water run
+freely down the river, the water clean and clear, giving a wonderful view
+straight down into the river bed.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+5646
+0
+Exit
+3
+~
+~
+0
+5648
+0
+EndRoom
+
+#ROOM
+Vnum 5648
+Name The entrance to the Northeastern bridge~
+Desc The bridge tails off into a road leading west continuing east leads into
+the northeastern bridge.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5647
+0
+Exit
+2
+~
+~
+0
+5695
+0
+Exit
+3
+~
+~
+0
+5649
+0
+EndRoom
+
+#ROOM
+Vnum 5649
+Name Along the Northeast wall of Bridgewater~
+Desc The Northeast wall of Bridgewater continues west and east, keeping out
+any unwanted creatures out, The granite path following the wall both
+directions.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5648
+0
+Exit
+2
+~
+~
+0
+5696
+0
+Exit
+3
+~
+~
+0
+5650
+0
+EndRoom
+
+#ROOM
+Vnum 5650
+Name Along the Northeast wall of Bridgewater~
+Desc The Northeast wall of Bridgewater continues west and east, keeping out
+any unwanted creatures out, The granite path following the wall both
+directions.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5649
+0
+Exit
+2
+~
+~
+0
+5688
+0
+Exit
+3
+~
+~
+0
+5651
+0
+EndRoom
+
+#ROOM
+Vnum 5651
+Name Along the Northeast wall of Bridgewater~
+Desc The Northeast wall of Bridgewater continues west and east, keeping out
+any unwanted creatures out, The granite path following the wall both
+directions.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5650
+0
+Exit
+3
+~
+~
+0
+5652
+0
+EndRoom
+
+#ROOM
+Vnum 5652
+Name Along the Northeast wall of Bridgewater~
+Desc The Northeast wall of Bridgewater continues west and east, keeping out
+any unwanted creatures out, The granite path following the wall both
+directions.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5651
+0
+Exit
+3
+~
+~
+0
+5602
+0
+EndRoom
+
+#ROOM
+Vnum 5653
+Name Along the western wall~
+Desc The granite pathway buts up against the wall.  The west wall raising high
+into the air to keep all the creatures in the on the outside out of the
+city.  The wall is constructed of large stones, the cracks between each rock
+has mortar expertly placed.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5630
+0
+Exit
+1
+~
+~
+0
+5714
+0
+Exit
+2
+~
+~
+0
+5654
+0
+EndRoom
+
+#ROOM
+Vnum 5654
+Name West of Bridgewater square~
+Desc The granite pathway buts up against the wall.  The west wall raising high
+into the air to keep all the creatures in the on the outside out of the
+city.  The wall is constructed of large stones, the cracks between each rock
+has mortar expertly placed.  The white granite path continues east and west
+from here.  Well groomed foliage lines either side of the main road.  Small
+wooden posts line the road, neatly separating the grass and bushes from the
+road.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5653
+0
+Exit
+1
+~
+~
+0
+5656
+0
+Exit
+2
+~
+~
+0
+5676
+0
+Exit
+3
+~
+~
+0
+5655
+0
+EndRoom
+
+#ROOM
+Vnum 5655
+Name Western gate of Bridgewater ~
+Desc This area is covered by the gatehouse to the city.  East leads into the
+city of Bridgewater.  The gatehouse is built of stones and mortar, the roof
+of the house creating an arch.  Massive chains connect to the main gate, the
+gate built to move up and down when needed.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5654
+0
+EndRoom
+
+#ROOM
+Vnum 5656
+Name West of Bridgewater square~
+Desc The white granite path continues east and west from here.  Well groomed
+foliage lines either side of the main road.  Small wooden posts line the
+road, neatly separating the grass and bushes from the road.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5714
+0
+Exit
+1
+~
+~
+0
+5657
+0
+Exit
+2
+~
+~
+0
+5721
+0
+Exit
+3
+~
+~
+0
+5654
+0
+EndRoom
+
+#ROOM
+Vnum 5657
+Name West of Bridgewater square~
+Desc The white granite path continues east and west from here.  Well groomed
+foliage lines either side of the main road.  Small wooden posts line the
+road, neatly separating the grass and bushes from the road.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5712
+0
+Exit
+1
+~
+~
+0
+5658
+0
+Exit
+2
+~
+~
+0
+5716
+0
+Exit
+3
+~
+~
+0
+5656
+0
+EndRoom
+
+#ROOM
+Vnum 5658
+Name Northwestern block~
+Desc The white granite path continues east and west from here.  Well groomed
+foliage lines either side of the main road.  Small wooden posts line the
+road, neatly separating the grass and bushes from the road.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5709
+0
+Exit
+1
+~
+~
+0
+5659
+0
+Exit
+2
+~
+~
+0
+5727
+0
+Exit
+3
+~
+~
+0
+5657
+0
+EndRoom
+
+#ROOM
+Vnum 5659
+Name West of Bridgewater square~
+Desc The white granite path continues east and west from here.  Well groomed
+foliage lines either side of the main road.  Small wooden posts line the
+road, neatly separating the grass and bushes from the road.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5739
+0
+Exit
+1
+~
+~
+0
+5660
+0
+Exit
+3
+~
+~
+0
+5658
+0
+EndRoom
+
+#ROOM
+Vnum 5660
+Name West of Bridgewater square~
+Desc The white granite path continues east and west from here.  Well groomed
+foliage lines either side of the main road.  Small wooden posts line the
+road, neatly separating the grass and bushes from the road.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5740
+0
+Exit
+1
+~
+~
+0
+5661
+0
+Exit
+3
+~
+~
+0
+5659
+0
+EndRoom
+
+#ROOM
+Vnum 5661
+Name West of Bridgewater square~
+Desc The white granite path continues east and west from here.  Well groomed
+foliage lines either side of the main road.  Small wooden posts line the
+road, neatly separating the grass and bushes from the road.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5600
+0
+Exit
+3
+~
+~
+0
+5660
+0
+EndRoom
+
+#ROOM
+Vnum 5662
+Name Southern Gate intersection~
+Desc Here both southern paths cross.  The soil constantly damp due to the near
+by river.  The surrounding foliage benefiting from it.  The southern
+gatehouse towers above everything in the immediate area.  
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5620
+0
+Exit
+1
+~
+~
+0
+5664
+0
+Exit
+2
+~
+~
+0
+5663
+0
+Exit
+3
+~
+~
+0
+5687
+0
+EndRoom
+
+#ROOM
+Vnum 5663
+Name Southern gate of Bridgewater ~
+Desc This area is covered by the gatehouse to the city.  North leads into the
+city of Bridgewater.  The gatehouse is built of stones and mortar, the roof
+of the house creating an arch.  Massive chains connect to the main gate, the
+gate built to move up and down when needed.  
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5662
+0
+EndRoom
+
+#ROOM
+Vnum 5664
+Name Southeast of bridgewater square~
+Desc The granite path continues west and east 
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5665
+0
+Exit
+3
+~
+~
+0
+5662
+0
+EndRoom
+
+#ROOM
+Vnum 5665
+Name Southeast of bridgewater square~
+Desc The granite path continues west and east 
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5666
+0
+Exit
+3
+~
+~
+0
+5664
+0
+EndRoom
+
+#ROOM
+Vnum 5666
+Name Southeast of bridgewater square~
+Desc The granite path continues west and east 
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5667
+0
+Exit
+3
+~
+~
+0
+5665
+0
+EndRoom
+
+#ROOM
+Vnum 5667
+Name Southeast of bridgewater square~
+Desc The granite path continues west and east 
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5668
+0
+Exit
+3
+~
+~
+0
+5666
+0
+EndRoom
+
+#ROOM
+Vnum 5668
+Name Southeast of bridgewater square~
+Desc The granite path continues west and east 
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5669
+0
+Exit
+3
+~
+~
+0
+5667
+0
+EndRoom
+
+#ROOM
+Vnum 5669
+Name Southeast of bridgewater square~
+Desc The granite path continues west and east 
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5670
+0
+Exit
+3
+~
+~
+0
+5668
+0
+EndRoom
+
+#ROOM
+Vnum 5670
+Name Southeast of bridgewater square~
+Desc The path curves to the east and south
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5671
+0
+Exit
+2
+~
+~
+0
+5669
+0
+EndRoom
+
+#ROOM
+Vnum 5671
+Name Southeast of bridgewater square~
+Desc The granite path continues north and south from here 
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5672
+0
+Exit
+3
+~
+~
+0
+5670
+0
+EndRoom
+
+#ROOM
+Vnum 5672
+Name Southeast of bridgewater square~
+Desc The granite path continues north and south from here 
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5673
+0
+Exit
+2
+~
+~
+0
+5671
+0
+EndRoom
+
+#ROOM
+Vnum 5673
+Name Southeast of bridgewater square~
+Desc The granite path continues north and south from here 
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5674
+0
+Exit
+2
+~
+~
+0
+5672
+0
+EndRoom
+
+#ROOM
+Vnum 5674
+Name Southeast of bridgewater square~
+Desc The granite path continues north and south from here 
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5675
+0
+Exit
+2
+~
+~
+0
+5673
+0
+EndRoom
+
+#ROOM
+Vnum 5675
+Name Southeast of bridgewater square~
+Desc The granite path continues north and south from here 
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5628
+0
+Exit
+2
+~
+~
+0
+5674
+0
+EndRoom
+
+#ROOM
+Vnum 5676
+Name Along the western wall~
+Desc The granite pathway buts up against the wall.  The west wall raising high
+into the air to keep all the creatures in the on the outside out of the
+city.  The wall is constructed of large stones, the cracks between each rock
+has mortar expertly placed.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5654
+0
+Exit
+1
+~
+~
+0
+5721
+0
+Exit
+2
+~
+~
+0
+5677
+0
+EndRoom
+
+#ROOM
+Vnum 5677
+Name Along the western wall~
+Desc The granite pathway buts up against the wall.  The west wall raising high
+into the air to keep all the creatures in the on the outside out of the
+city.  The wall is constructed of large stones, the cracks between each rock
+has mortar expertly placed.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5676
+0
+Exit
+1
+~
+~
+0
+5720
+0
+Exit
+2
+~
+~
+0
+5678
+0
+EndRoom
+
+#ROOM
+Vnum 5678
+Name Along the western wall~
+Desc The granite pathway buts up against the wall.  The west wall raising high
+into the air to keep all the creatures in the on the outside out of the
+city.  The wall is constructed of large stones, the cracks between each rock
+has mortar expertly placed.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5677
+0
+Exit
+1
+~
+~
+0
+5719
+0
+Exit
+2
+~
+~
+0
+5679
+0
+EndRoom
+
+#ROOM
+Vnum 5679
+Name Along the western wall~
+Desc The granite pathway buts up against the wall.  The west wall raising high
+into the air to keep all the creatures in the on the outside out of the
+city.  The wall is constructed of large stones, the cracks between each rock
+has mortar expertly placed.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5678
+0
+Exit
+2
+~
+~
+0
+5680
+0
+EndRoom
+
+#ROOM
+Vnum 5680
+Name South of Bridgewater square~
+Desc The granite pathway buts up against the wall.  The west wall raising high
+into the air to keep all the creatures in the on the outside out of the
+city.  The wall is constructed of large stones, the cracks between each rock
+has mortar expertly placed.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5679
+0
+Exit
+1
+~
+~
+0
+5681
+0
+EndRoom
+
+#ROOM
+Vnum 5681
+Name South of Bridgewater square~
+Desc The Granit path curs here, heading south and west.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+5682
+0
+Exit
+3
+~
+~
+0
+5680
+0
+EndRoom
+
+#ROOM
+Vnum 5682
+Name South of Bridgewater square~
+Desc The granite path continues west and east 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5681
+0
+Exit
+1
+~
+~
+0
+5683
+0
+EndRoom
+
+#ROOM
+Vnum 5683
+Name South of Bridgewater square~
+Desc The granite path continues west and east 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5684
+0
+Exit
+3
+~
+~
+0
+5682
+0
+EndRoom
+
+#ROOM
+Vnum 5684
+Name South of Bridgewater square~
+Desc The granite path continues west and east 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5685
+0
+Exit
+3
+~
+~
+0
+5683
+0
+EndRoom
+
+#ROOM
+Vnum 5685
+Name Southwest of bridgewater square~
+Desc The granite path continues west and east 
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5686
+0
+Exit
+3
+~
+~
+0
+5684
+0
+EndRoom
+
+#ROOM
+Vnum 5686
+Name Southwest of bridgewater square~
+Desc The granite path continues west and east 
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5687
+0
+Exit
+3
+~
+~
+0
+5685
+0
+EndRoom
+
+#ROOM
+Vnum 5687
+Name Southwest of bridgewater square~
+Desc The granite path continues west and east 
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5741
+0
+Exit
+1
+~
+~
+0
+5662
+0
+Exit
+3
+~
+~
+0
+5686
+0
+EndRoom
+
+#ROOM
+Vnum 5688
+Name Master's square: Warmaster~
+Desc Warmaste's area
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5650
+0
+Exit
+1
+~
+~
+0
+5696
+0
+Exit
+2
+~
+~
+0
+5689
+0
+Exit
+3
+~
+~
+0
+5700
+0
+EndRoom
+
+#ROOM
+Vnum 5689
+Name Master's square: Sage~
+Desc Sage area
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5688
+0
+Exit
+1
+~
+~
+0
+5694
+0
+Exit
+2
+~
+~
+0
+5690
+0
+Exit
+3
+~
+~
+0
+5697
+0
+EndRoom
+
+#ROOM
+Vnum 5690
+Name Master's square: Trivia~
+Desc Trivia area
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5689
+0
+Exit
+1
+~
+~
+0
+5691
+0
+EndRoom
+
+#ROOM
+Vnum 5691
+Name Master's square: Bounty~
+Desc This outdoor area is where the bounty hunter is set up.  Various bounties
+are posted on signs.  Another, signboard has all the bounties served on it. 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5694
+0
+Exit
+1
+~
+~
+0
+5692
+0
+Exit
+3
+~
+~
+0
+5690
+0
+EndRoom
+
+#ROOM
+Vnum 5692
+Name Master's square: Summoner~
+Desc Summoner's area
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5693
+0
+Exit
+3
+~
+~
+0
+5691
+0
+EndRoom
+
+#ROOM
+Vnum 5693
+Name Master's square: Trainer~
+Desc There are various weights to practice strength, targets to practice
+dexterity and other things for everyone to better themselves in their
+skills.  The area is set up on a wooden pier that is built over the River of
+Bridgewater.  The pier extends out to the west where it meets land, and
+north to the Practicer 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5695
+0
+Exit
+2
+~
+~
+0
+5692
+0
+Exit
+3
+~
+~
+0
+5694
+0
+EndRoom
+
+#ROOM
+Vnum 5694
+Name Master's square: Leveler~
+Desc Leveler's area
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5696
+0
+Exit
+1
+~
+~
+0
+5693
+0
+Exit
+2
+~
+~
+0
+5691
+0
+Exit
+3
+~
+~
+0
+5689
+0
+EndRoom
+
+#ROOM
+Vnum 5695
+Name Master's square: Practicer~
+Desc All around on this large area of the Bridgewater bridge are places to
+practice skills.  From places to practice swords to places to learn to cook.
+Over the eastern edge the water can be seen rushing by as well as the pier
+that joins the main road further south.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5648
+0
+Exit
+2
+~
+~
+0
+5693
+0
+Exit
+3
+~
+~
+0
+5696
+0
+EndRoom
+
+#ROOM
+Vnum 5696
+Name Master's square: Restringer~
+Desc Restringer's area
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5649
+0
+Exit
+1
+~
+~
+0
+5695
+0
+Exit
+2
+~
+~
+0
+5694
+0
+Exit
+3
+~
+~
+0
+5688
+0
+EndRoom
+
+#ROOM
+Vnum 5697
+Name ~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5689
+0
+Exit
+2
+~
+~
+0
+5751
+0
+Exit
+3
+~
+~
+0
+5698
+0
+EndRoom
+
+#ROOM
+Vnum 5698
+Name ~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5697
+0
+Exit
+3
+~
+~
+0
+5604
+0
+EndRoom
+
+#ROOM
+Vnum 5699
+Name A small garden~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+5603
+0
+EndRoom
+
+#ROOM
+Vnum 5700
+Name ~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5688
+0
+EndRoom
+
+#ROOM
+Vnum 5701
+Name the Bridgewater blacksmith~
+Desc The blacksmith is off to the corner of the four-way street.  The
+blacksmith's helper pounds away at a red hot armor plate, taking the dents
+out of it.  Here is where one gets all your items in need of repair repaired
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5702
+0
+Exit
+2
+~
+~
+0
+5713
+0
+Exit
+3
+~
+~
+0
+5631
+0
+EndRoom
+
+#ROOM
+Vnum 5702
+Name The Bridgewater Weaponry~
+Desc The weapon shop is mostly outdoors, a storeroom off to the side has other
+weapons stored in it.  Three sturdy tables make up the shop, weapons of all
+type lays on them, some leans up against the table.  A sign propped up on
+some pieces of wood provide the prices to the weapons.  
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5710
+0
+Exit
+1
+~
+~
+0
+5703
+0
+Exit
+2
+~
+~
+0
+5711
+0
+Exit
+3
+~
+~
+0
+5701
+0
+EndRoom
+
+#ROOM
+Vnum 5703
+Name Northwestern block~
+Desc The northwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5706
+0
+Exit
+1
+~
+~
+0
+5704
+0
+Exit
+2
+~
+~
+0
+5708
+0
+Exit
+3
+~
+~
+0
+5702
+0
+EndRoom
+
+#ROOM
+Vnum 5704
+Name Northwestern block~
+Desc The northwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5715
+0
+Exit
+1
+~
+~
+0
+5705
+0
+Exit
+3
+~
+~
+0
+5703
+0
+EndRoom
+
+#ROOM
+Vnum 5705
+Name Northwestern block~
+Desc The northwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+5704
+0
+EndRoom
+
+#ROOM
+Vnum 5706
+Name Northwestern block~
+Desc The northwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5707
+0
+Exit
+2
+~
+~
+0
+5703
+0
+EndRoom
+
+#ROOM
+Vnum 5707
+Name Northwestern block~
+Desc The northwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5637
+0
+Exit
+2
+~
+~
+0
+5706
+0
+EndRoom
+
+#ROOM
+Vnum 5708
+Name Northwestern block~
+Desc The northwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5703
+0
+Exit
+2
+~
+~
+0
+5709
+0
+Exit
+3
+~
+~
+0
+5711
+0
+EndRoom
+
+#ROOM
+Vnum 5709
+Name Northwestern block~
+Desc The northwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5708
+0
+Exit
+2
+~
+~
+0
+5658
+0
+Exit
+3
+~
+~
+0
+5712
+0
+EndRoom
+
+#ROOM
+Vnum 5710
+Name The Bank~
+Desc The bank The northwestern area of Bridgewater 
+~
+Room_flags 67108928
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+5702
+0
+EndRoom
+
+#ROOM
+Vnum 5711
+Name Northwestern block~
+Desc The northwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5702
+0
+Exit
+1
+~
+~
+0
+5708
+0
+Exit
+2
+~
+~
+0
+5712
+0
+Exit
+3
+~
+~
+0
+5713
+0
+EndRoom
+
+#ROOM
+Vnum 5712
+Name Northwestern block~
+Desc The northwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5711
+0
+Exit
+1
+~
+~
+0
+5709
+0
+Exit
+2
+~
+~
+0
+5657
+0
+Exit
+3
+~
+~
+0
+5714
+0
+EndRoom
+
+#ROOM
+Vnum 5713
+Name Northwestern block~
+Desc The northwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5701
+0
+Exit
+1
+~
+~
+0
+5711
+0
+Exit
+2
+~
+~
+0
+5714
+0
+Exit
+3
+~
+~
+0
+5630
+0
+EndRoom
+
+#ROOM
+Vnum 5714
+Name Northwestern block~
+Desc The northwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5713
+0
+Exit
+1
+~
+~
+0
+5712
+0
+Exit
+2
+~
+~
+0
+5656
+0
+Exit
+3
+~
+~
+0
+5653
+0
+EndRoom
+
+#ROOM
+Vnum 5715
+Name Northwestern block~
+Desc The northwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+5704
+0
+EndRoom
+
+#ROOM
+Vnum 5716
+Name Southwestern block~
+Desc The southwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5657
+0
+Exit
+1
+~
+~
+0
+5727
+0
+Exit
+2
+~
+~
+0
+5717
+0
+Exit
+3
+~
+~
+0
+5721
+0
+EndRoom
+
+#ROOM
+Vnum 5717
+Name Southwestern block~
+Desc The southwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5716
+0
+Exit
+1
+~
+~
+0
+5722
+0
+Exit
+2
+~
+~
+0
+5718
+0
+Exit
+3
+~
+~
+0
+5720
+0
+EndRoom
+
+#ROOM
+Vnum 5718
+Name Southwestern block~
+Desc The southwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5717
+0
+Exit
+1
+~
+~
+0
+5728
+0
+Exit
+3
+~
+~
+0
+5719
+0
+EndRoom
+
+#ROOM
+Vnum 5719
+Name Southwestern block~
+Desc The southwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5720
+0
+Exit
+1
+~
+~
+0
+5718
+0
+Exit
+3
+~
+~
+0
+5678
+0
+EndRoom
+
+#ROOM
+Vnum 5720
+Name Southwestern block~
+Desc The southwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5721
+0
+Exit
+1
+~
+~
+0
+5717
+0
+Exit
+2
+~
+~
+0
+5719
+0
+Exit
+3
+~
+~
+0
+5677
+0
+EndRoom
+
+#ROOM
+Vnum 5721
+Name Southwestern block~
+Desc The southwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5656
+0
+Exit
+1
+~
+~
+0
+5716
+0
+Exit
+2
+~
+~
+0
+5720
+0
+Exit
+3
+~
+~
+0
+5676
+0
+EndRoom
+
+#ROOM
+Vnum 5722
+Name Southwestern block~
+Desc The southwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5727
+0
+Exit
+1
+~
+~
+0
+5723
+0
+Exit
+2
+~
+~
+0
+5728
+0
+Exit
+3
+~
+~
+0
+5717
+0
+EndRoom
+
+#ROOM
+Vnum 5723
+Name Southwestern block~
+Desc The southwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5724
+0
+Exit
+2
+~
+~
+0
+5726
+0
+Exit
+3
+~
+~
+0
+5722
+0
+Exit
+4
+~
+~
+0
+5747
+0
+EndRoom
+
+#ROOM
+Vnum 5724
+Name Southwestern block~
+Desc The southwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+5725
+0
+Exit
+3
+~
+~
+0
+5723
+0
+EndRoom
+
+#ROOM
+Vnum 5725
+Name Southwestern block~
+Desc The southwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5724
+0
+Exit
+3
+~
+~
+0
+5726
+0
+EndRoom
+
+#ROOM
+Vnum 5726
+Name Southwestern block~
+Desc The southwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5723
+0
+Exit
+1
+~
+~
+0
+5725
+0
+EndRoom
+
+#ROOM
+Vnum 5727
+Name Southwestern block~
+Desc The northwestern area of Bridgewater The southwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5658
+0
+Exit
+2
+~
+~
+0
+5722
+0
+Exit
+3
+~
+~
+0
+5716
+0
+EndRoom
+
+#ROOM
+Vnum 5728
+Name Southwestern block~
+Desc The southwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5722
+0
+Exit
+2
+~
+~
+0
+5729
+0
+Exit
+3
+~
+~
+0
+5718
+0
+EndRoom
+
+#ROOM
+Vnum 5729
+Name Southwestern block~
+Desc The southwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5728
+0
+Exit
+1
+~
+~
+0
+5732
+0
+Exit
+2
+~
+~
+0
+5730
+0
+EndRoom
+
+#ROOM
+Vnum 5730
+Name Southwestern block~
+Desc The southwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5729
+0
+Exit
+1
+~
+~
+0
+5731
+0
+EndRoom
+
+#ROOM
+Vnum 5731
+Name Southwestern block~
+Desc The southwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5732
+0
+Exit
+3
+~
+~
+0
+5730
+0
+EndRoom
+
+#ROOM
+Vnum 5732
+Name Southwestern block~
+Desc The southwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+5731
+0
+Exit
+3
+~
+~
+0
+5729
+0
+EndRoom
+
+#ROOM
+Vnum 5733
+Name ~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+5623
+0
+EndRoom
+
+#ROOM
+Vnum 5734
+Name ~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5735
+0
+Exit
+2
+~
+~
+0
+5624
+0
+EndRoom
+
+#ROOM
+Vnum 5735
+Name ~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+5734
+0
+EndRoom
+
+#ROOM
+Vnum 5736
+Name ~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5624
+0
+Exit
+1
+~
+~
+0
+5738
+0
+Exit
+3
+~
+~
+0
+5737
+0
+EndRoom
+
+#ROOM
+Vnum 5737
+Name The donation room~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5736
+0
+EndRoom
+
+#ROOM
+Vnum 5738
+Name The post office~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+5736
+0
+EndRoom
+
+#ROOM
+Vnum 5739
+Name Northwestern block~
+Desc The northwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+5659
+0
+EndRoom
+
+#ROOM
+Vnum 5740
+Name Northwestern block~
+Desc The northwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+5660
+0
+EndRoom
+
+#ROOM
+Vnum 5741
+Name ~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5742
+0
+Exit
+1
+~
+~
+0
+5620
+0
+Exit
+2
+~
+~
+0
+5687
+0
+Exit
+3
+~
+~
+0
+5743
+0
+EndRoom
+
+#ROOM
+Vnum 5742
+Name ~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5615
+0
+Exit
+2
+~
+~
+0
+5741
+0
+EndRoom
+
+#ROOM
+Vnum 5743
+Name ~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5741
+0
+EndRoom
+
+#ROOM
+Vnum 5744
+Name ~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5614
+0
+EndRoom
+
+#ROOM
+Vnum 5745
+Name ~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+5612
+0
+EndRoom
+
+#ROOM
+Vnum 5746
+Name ~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5612
+0
+EndRoom
+
+#ROOM
+Vnum 5747
+Name Southwestern block~
+Desc The southwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+5748
+0
+Exit
+2
+~
+~
+0
+5750
+0
+Exit
+5
+~
+~
+0
+5723
+0
+EndRoom
+
+#ROOM
+Vnum 5748
+Name Southwestern block~
+Desc The southwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+5749
+0
+Exit
+3
+~
+~
+0
+5747
+0
+EndRoom
+
+#ROOM
+Vnum 5749
+Name Southwestern block~
+Desc The southwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5748
+0
+Exit
+3
+~
+~
+0
+5750
+0
+EndRoom
+
+#ROOM
+Vnum 5750
+Name Southwestern block~
+Desc The southwestern area of Bridgewater 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5747
+0
+Exit
+1
+~
+~
+0
+5749
+0
+EndRoom
+
+#ROOM
+Vnum 5751
+Name The Quest Master~
+Desc This little clearing is covered in green grass, with a few rocks resting
+heavily on the ground.  Trees line the southern part of the clearing 
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+5697
+0
+EndRoom
+
+#ROOM
+Vnum 5752
+Name Ressurection room~
+Desc The souls of everyone that die pass through this area as balls of light,
+those who are meant to come back to here spawn on a hard, white marble slab.
+The room hums with the souls that pass though, the combined energies
+audible.  To the south is where the bodies of the deceased lie along with
+their possessions.  
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+5619
+0
+EndRoom
+
+#ROOM
+Vnum 5799
+Name Khalandar's Cabin~
+Desc The cabin is lit by like that comes from nowhere, but is everywhere.  A
+large window provides a view out into a large, endless green field, spotted
+with trees.  
+~
+Room_flags 1028
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 5618 spec_cast_cleric
+M 5689 spec_sage
+M 5692 spec_summoner
+M 5696 spec_restringer
+M 5701 spec_blacksmith
+M 5751 spec_questmaster
+S
+
+
+
+#RESETS
+O 0 5610 0 5600
+M 0 5608 1 5608 3
+G 0 5601 0
+E 0 5608 0 17
+G 0 5609 0
+M 0 5610 1 5610 3
+G 0 5712 0
+G 0 1901 0
+G 0 1900 0
+M 0 5602 1 5611 3
+M 0 5618 1 5618 3
+M 0 5603 1 5673 3
+M 0 5689 1 5689 3
+M 0 5691 1 5691 3
+M 0 5692 1 5692 3
+M 0 5693 1 5693 3
+M 0 5695 1 5695 3
+M 0 5696 1 5696 3
+M 0 5701 1 5701 3
+M 0 5702 1 5702 3
+G 0 5708 0
+G 0 1914 0
+G 0 1900 0
+G 0 1907 0
+M 0 5751 1 5751 3
+S
+
+
+
+#SHOPS
+5608 0 0 0 0 0 100 100 0 23
+5610 0 0 0 0 0 100 100 0 23
+5702 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#5600
+say Help! Anyone!
+emote exhales as his eyes glaze over, dieing before you.
+~
+#5603
+if name $n == Khalandar
+emote nods to Khalandar
+say Hail sir Khalandar!
+endif
+~
+#5608
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,253 @@
+#AREADATA
+Name house~
+Builders None~
+VNUMs 20700 20800
+Credits Synon house Code~
+Security 5
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 20700
+Name Davion's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+20702
+0
+Exit
+1
+~
+~
+0
+20703
+0
+Exit
+2
+~
+~
+0
+20704
+0
+Exit
+3
+~
+~
+0
+20701
+0
+EndRoom
+
+#ROOM
+Vnum 20701
+Name Davion's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+20700
+0
+EndRoom
+
+#ROOM
+Vnum 20702
+Name Davion's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+20700
+0
+EndRoom
+
+#ROOM
+Vnum 20703
+Name Davion's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+20700
+0
+EndRoom
+
+#ROOM
+Vnum 20704
+Name Davion's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+20700
+0
+EndRoom
+
+#ROOM
+Vnum 20705
+Name Synon's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+20707
+0
+Exit
+1
+~
+~
+0
+20708
+0
+Exit
+2
+~
+~
+0
+20709
+0
+Exit
+3
+~
+~
+0
+20706
+0
+EndRoom
+
+#ROOM
+Vnum 20706
+Name Synon's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+20705
+0
+EndRoom
+
+#ROOM
+Vnum 20707
+Name Synon's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+20705
+0
+EndRoom
+
+#ROOM
+Vnum 20708
+Name Synon's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+20705
+0
+EndRoom
+
+#ROOM
+Vnum 20709
+Name Synon's Home~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+20705
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

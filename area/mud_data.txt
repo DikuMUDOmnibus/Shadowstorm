@@ -1,0 +1,36 @@
+
+Mudinfo Database Entry
+Average Online Users       2
+Mccp Ratio                 66 %
+Amount of MB send          37 MB
+Datatransfer Average       0.0
+
+Mudinfo Database Entry
+Average Online Users       1
+Mccp Ratio                 80 %
+Amount of MB send          4 MB
+Datatransfer Average       0.0
+
+Mudinfo Database Entry
+Average Online Users       1
+Mccp Ratio                 72 %
+Amount of MB send          11 MB
+Datatransfer Average       0.0
+
+Mudinfo Database Entry
+Average Online Users       1
+Mccp Ratio                 67 %
+Amount of MB send          11 MB
+Datatransfer Average       0.0
+
+Mudinfo Database Entry
+Average Online Users       0
+Mccp Ratio                 62 %
+Amount of MB send          2 MB
+Datatransfer Average       0.0
+
+Mudinfo Database Entry
+Average Online Users       0
+Mccp Ratio                 86 %
+Amount of MB send          2 MB
+Datatransfer Average       0.0

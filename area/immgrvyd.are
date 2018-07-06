@@ -1,0 +1,89 @@
+#AREADATA
+Name Immortal Graveyard~
+Builders Gigi~
+VNUMs 7500 7524
+Credits (null)~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 7500
+Name Entrace to the Great Beyond~
+Desc {DA dark and dreary place, this is the entrance to where the greatest of
+souls rest.  A large iron gate demands attention with the heading {RImmortal
+Graveyard{D.  This is the place where those great immortals of the past,
+present and some day have come to life, to kill those who dare to brave
+them.  {x 
+~
+Room_flags 1028
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+7501
+0
+EndRoom
+
+#ROOM
+Vnum 7501
+Name ~
+Desc ~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+7500
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

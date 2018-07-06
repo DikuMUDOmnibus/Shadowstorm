@@ -1,0 +1,274 @@
+#AREADATA
+Name Quifael's~
+Builders None~
+VNUMs 6900 6999
+Credits {31 35} Quifael Quifael's Area~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 6900
+Name Quifael's monster pen~
+Desc You are in a big, subterranean room with heavy massive stone walls and no
+windows whatsoever.  A virtual ladder leads upwards.
+~
+Room_flags 520
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+The ladder leads to the laboratory.
+~
+~
+-1
+6902
+0
+EndRoom
+
+#ROOM
+Vnum 6901
+Name Quifael's study~
+Desc You are in a small, comfortable study room.  The walls are lined with
+bookcases filled with dusty volumes of all sizes.  In the fireplace burns a
+crackling fire that makes the room warm and cosy, and in front of an oakwood
+reading desk is a large old-fashioned chair.
+~
+Room_flags 524
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+chair~
+It is big and old-fashioned, but quite comfortable nevertheless.
+~
+ExtraDesc
+desk~
+It is very massive and but seems worn from many years of use.
+~
+ExtraDesc
+fireplace~
+The fireplace isn't particularly big, but the fire crackles merrily in it.
+~
+ExtraDesc
+bookcase bookcases volume volumes book books~
+Most of the books are heavy, leatherbound and covered in a thin layer of dust.
+There are many titles on necromancy, conjuring and other spheres of Magick,
+but also some on computer science (although these seem to be VERY dusty
+indeed) and a fair collection of horror literature, ranging from Bram Stoker
+and H. P. Lovecraft to Anne Rice and Stephen King.
+~
+Exit
+2
+The corridor leads south to the hall.
+~
+~
+-1
+6904
+0
+EndRoom
+
+#ROOM
+Vnum 6902
+Name Quifael's laboratory~
+Desc You are in a room filled with shelves containing all sorts of weird equipment.
+The walls are lined with numerous shelves and a massive working desk is by
+the north wall.  The air smells of rare chemicals and spices.
+A virtual ladder leads downwards.
+A magical portal is hovering in the air just in front of the east wall.
+~
+Room_flags 524
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+desk~
+On the desk is a peculiar apparatus of glass bottles and globes connected by
+small pipelines.  The green liquid inside the apparatus' globes and pipelines
+is bubbling steadily.
+~
+ExtraDesc
+shelves~
+The shelves contain a mass of bottles, jars and boxes of different shapes and
+sizes, of which some contain powders and liquids in various colours.  Others
+contain dragon's claws, giant's eyes, rabbit's ears and other body parts of
+different monsters.
+~
+Exit
+1
+To the east is the magical portal.
+~
+~
+-1
+6903
+0
+Exit
+3
+To the west is the hall.
+~
+~
+-1
+6904
+0
+Exit
+5
+The virtual ladder leads down to the monster pen.
+~
+~
+-1
+6900
+0
+EndRoom
+
+#ROOM
+Vnum 6903
+Name Quifael's virtual balcony~
+Desc You are on a transparent balcony hanging in mid-air.  You notice a faint blue
+glow surrounding everything, even yourself, making it seem as transparent as
+the balcony itself.  From here, you have a terrific view of the whole Forest
+of Haon-Dor.
+A transparent bronze plate has been bolted to the balcony railing.
+A magical portal is hovering in the air to the west.
+~
+Room_flags 520
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+forest Haon-Dor view~
+Through the tree crowns, you see fellow adventurers walking around in the
+forest, gathering mushrooms, eating blackberries, committing rabbit genocide
+and generally having a good time.
+~
+ExtraDesc
+plate~
+The transparent bronze plate looks quite strange, but the engraved letters are
+quite easy to read, nevertheless :-
+ 
+              Quifael's Virtual Balcony
+ 
+                   Do not lean out!
+ 
+  Please do not try to attract the attention of any
+      adventurers in the forest, as you are not
+         really in existence at the moment.
+ 
+        (This could possibly mess up Reality,
+      and we wouldn't want to do that, would we?)
+~
+ExtraDesc
+balcony railing~
+Quite transparent, but visible anyway, because of the blue glow that surrounds
+the whole place.
+~
+Exit
+3
+The magical portal is to the west.
+~
+~
+-1
+6902
+0
+EndRoom
+
+#ROOM
+Vnum 6904
+Name Quifael's hall~
+Desc You are in sparsely decorated and quite dusty hall.  Old wooden doors lead
+north, east and south and to the west is the front door.
+An old mirror hangs on the wall.
+~
+Room_flags 520
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+mirror~
+You see yourself looking back at you.
+~
+Exit
+0
+The study is to the north.~
+~
+-1
+6901
+0
+Exit
+1
+The laboratory is to the east.~
+~
+-1
+6902
+0
+Exit
+2
+The kitchen is to the south.~
+~
+-1
+6905
+0
+Exit
+3
+The front door leads to Park Road.~
+door~
+3301
+3126
+AF
+EndRoom
+
+#ROOM
+Vnum 6905
+Name Quifael's kitchen~
+Desc You are in an old-fashioned kitchen.
+~
+Room_flags 520
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The hall is to the north.~
+~
+-1
+6904
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

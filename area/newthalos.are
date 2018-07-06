@@ -1,0 +1,13466 @@
+#AREADATA
+Name New Thalos~
+Builders None~
+VNUMs 9500 9799
+Credits {10 35} Conner  New Thalos~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 9500
+Name mage guildmaster~
+Short the guildmaster~
+Long Your guildmaster stands here.
+~
+Description An old man peering through ancient tomes rests here.
+~
+Race human~
+Act_flags ABJKRVb
+Aff DF
+Align 0
+Group 0
+Level 40
+Hitroll 10
+Hit_dice 1d1+30000
+Mana_dice 1d1+499
+Dam_dice 5d8+5
+Dam_type pierce
+Armor -15 -15 -15 -15
+Clevel0
+Cability 0
+Off FHN
+Imm ABCD
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 15000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9501
+Name cleric guildmaster~
+Short the guildmaster~
+Long Your guildmaster stands here.
+~
+Description An older man wrapped in purple, long-flowing robes meditates here.
+~
+Race human~
+Act_flags ABJKQVb
+Aff DFH
+Align 250
+Group 0
+Level 40
+Hitroll 10
+Hit_dice 1d1+30000
+Mana_dice 1d1+499
+Dam_dice 6d7+8
+Dam_type bite
+Armor -15 -15 -15 -15
+Clevel0
+Cability 0
+Off EFGIK
+Imm ABCD
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 15000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9502
+Name warrior guildmaster~
+Short the guildmaster~
+Long Your guildmaster stands here.
+~
+Description A smaller man dressed in nothing but a tunic stands here waiting to train you.
+~
+Race human~
+Act_flags ABJKTVb
+Aff DF
+Align 0
+Group 0
+Level 40
+Hitroll 20
+Hit_dice 1d1+30000
+Mana_dice 1d1+99
+Dam_dice 2d4+30
+Dam_type digestion
+Armor -15 -15 -15 -15
+Clevel0
+Cability 0
+Off ACEFHIK
+Imm ABCD
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 15000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9503
+Name thief guildmaster~
+Short the guildmaster~
+Long Your guildmaster stands here.
+~
+Description A small elf dressed in black rests in the corner. As you enter he grabs
+a knife an throws it at you. It lands the wall next to your left ear. We
+will now begin, is all he says.
+~
+Race elf~
+Act_flags ABJKTVb
+Aff DFJ
+Align -100
+Group 0
+Level 40
+Hitroll 15
+Hit_dice 1d1+30000
+Mana_dice 1d1+99
+Dam_dice 1d4+10
+Dam_type digestion
+Armor -15 -15 -15 -15
+Clevel0
+Cability 0
+Off BEFHJKN
+Imm ABCD
+Res B
+Vuln Z
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 35000
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9504
+Name oldstyle receptionist~
+Short the receptionist~
+Long A dark skinned, veiled woman greets you from behind the desk.
+~
+Description This arabian beauty is obviously the daughter of some high ranking
+official. As you attempt to sneak a peek under her veil you notice
+a small moon-shaped birthmark on her left cheek.
+~
+Race human~
+Act_flags AB
+Aff 0
+Align 800
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos sit
+Sex female
+Wealth 505
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9505
+Name oldstyle bartender~
+Short the withered mage/bartender~
+Long An old withered mage/bartender leans against the bar.
+~
+Description He looks distracted as he pours five drinks at once without error.
+~
+Race human~
+Act_flags ABRVXYZ
+Aff D
+Align 800
+Group 0
+Level 23
+Hitroll 0
+Hit_dice 5d10+450
+Mana_dice 11d9+100
+Dam_dice 3d6+6
+Dam_type none
+Armor -6 -6 -6 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 505
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9506
+Name oldstyle john brother singer lead~
+Short Brother John~
+Long Brother John, lead singer for the Lokettes, stands on stage.
+~
+Description You see the lead singer of the Lokettes lip synching to an old Zeppelin tune.
+~
+Race human~
+Act_flags ABG
+Aff D
+Align 0
+Group 0
+Level 18
+Hitroll 0
+Hit_dice 3d9+283
+Mana_dice 9d9+100
+Dam_dice 2d7+4
+Dam_type none
+Armor -3 -3 -3 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 250
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9507
+Name oldstyle panhandler~
+Short a panhandler~
+Long A panhandler rests here.
+~
+Description A small skinny man rests here hoping to find a warm heart.
+~
+Race human~
+Act_flags ACGH
+Aff 0
+Align -20
+Group 0
+Level 2
+Hitroll 0
+Hit_dice 2d7+21
+Mana_dice 1d9+100
+Dam_dice 1d5+0
+Dam_type none
+Armor 8 8 8 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos rest
+Default_pos rest
+Sex male
+Wealth 1
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9508
+Name oldstyle panhandler~
+Short a panhandler~
+Long A panhandler rests here.
+~
+Description A small skinny man rests here staring at your clothes.
+~
+Race human~
+Act_flags ACGH
+Aff 0
+Align -20
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d6+35
+Mana_dice 1d9+100
+Dam_dice 1d6+0
+Dam_type none
+Armor 7 7 7 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos rest
+Default_pos rest
+Sex male
+Wealth 2
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9509
+Name oldstyle beggar~
+Short a beggar~
+Long A grubby beggar sits here in the filth.
+~
+Description This poor soul seems down on his luck, perhaps you might spare a dime?
+~
+Race human~
+Act_flags ACGHS
+Aff 0
+Align -20
+Group 0
+Level 1
+Hitroll 0
+Hit_dice 2d6+10
+Mana_dice 0d9+100
+Dam_dice 1d4+0
+Dam_type none
+Armor 9 9 9 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9510
+Name oldstyle baker~
+Short the baker~
+Long The baker stands here playing solitaire.
+~
+Description You see a large man in a white apron covered in flour from head to toe.
+~
+Race human~
+Act_flags ABVXYZ
+Aff D
+Align 800
+Group 0
+Level 23
+Hitroll 0
+Hit_dice 5d10+450
+Mana_dice 11d9+100
+Dam_dice 3d6+6
+Dam_type none
+Armor -6 -6 -6 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 505
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9511
+Name oldstyle shopkeeper~
+Short the shopkeeper~
+Long The shopkeeper stands here.
+~
+Description You see a half-elf sitting on a stool behind his counter.
+~
+Race human~
+Act_flags ABVXYZ
+Aff D
+Align 800
+Group 0
+Level 23
+Hitroll 0
+Hit_dice 5d10+450
+Mana_dice 11d9+100
+Dam_dice 3d6+6
+Dam_type none
+Armor -6 -6 -6 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 505
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9512
+Name oldstyle Nabil shopkeeper~
+Short Nabil~
+Long Nabil, purveyor of exotic pets, is waiting to serve you.
+~
+Description A large, well-fed shopkeeper, Nabil is adept at finding animals from all 
+parts of the world. He welcomes you warmly and offers to show you a pair
+of priceless parrots.
+~
+Race human~
+Act_flags AB
+Aff D
+Align 800
+Group 0
+Level 23
+Hitroll 0
+Hit_dice 5d10+450
+Mana_dice 11d9+100
+Dam_dice 3d6+6
+Dam_type none
+Armor -6 -6 -6 6
+Clevel0
+Cability 0
+Off EFNU
+Imm ABCD
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 505
+Form AHMV
+Parts ABCDEF
+Size medium
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9513
+Name oldstyle ahkeem tailor~
+Short Ahkeem the tailor~
+Long Ahkeem the tailor welcomes you to his store.
+~
+Description This middle-aged man looks over you with disdain and quickly suggests a new
+wardrobe.
+~
+Race human~
+Act_flags ABVXYZ
+Aff D
+Align 800
+Group 0
+Level 23
+Hitroll 0
+Hit_dice 5d10+450
+Mana_dice 11d9+100
+Dam_dice 3d6+6
+Dam_type none
+Armor -6 -6 -6 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 505
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9514
+Name oldstyle vera~
+Short Vera the veggie lady~
+Long Vera the veggie lady beams as you look over her stand.
+~
+Description A tall slender elf stands before you smiling broadly.
+~
+Race human~
+Act_flags ABVXYZ
+Aff D
+Align 800
+Group 0
+Level 23
+Hitroll 0
+Hit_dice 5d10+450
+Mana_dice 11d9+100
+Dam_dice 3d6+6
+Dam_type none
+Armor -6 -6 -6 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 505
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9515
+Name oldstyle butch~
+Short Butch the meatcutter~
+Long Butch the meatcutter stands here in his bloodied apron.
+~
+Description This stocky dwarf has a mad glint in his eye as he twirls his cleaver
+carelessly into the air.
+~
+Race human~
+Act_flags ABTVXYZ
+Aff D
+Align 800
+Group 0
+Level 23
+Hitroll 0
+Hit_dice 5d10+450
+Mana_dice 11d9+100
+Dam_dice 3d6+6
+Dam_type none
+Armor -6 -6 -6 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 505
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9516
+Name oldstyle abdul armorer~
+Short Abdul the armorer~
+Long Abdul stands here, waiting to help you.
+~
+Description Abdul returns your gaze with a steady eye. You quickly glance away under
+his cold stare and place your order.
+~
+Race human~
+Act_flags ABTVXYZ
+Aff D
+Align 800
+Group 0
+Level 23
+Hitroll 0
+Hit_dice 5d10+450
+Mana_dice 11d9+100
+Dam_dice 3d6+6
+Dam_type none
+Armor -6 -6 -6 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 505
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9517
+Name oldstyle igor weaponsmith~
+Short Igor the weaponsmith~
+Long Igor stands here doing... something.
+~
+Description You see a small dwarf with a large hump on his left shoulder.
+~
+Race human~
+Act_flags ABTVXYZ
+Aff D
+Align 800
+Group 0
+Level 23
+Hitroll 0
+Hit_dice 5d10+450
+Mana_dice 11d9+100
+Dam_dice 3d6+6
+Dam_type none
+Armor -6 -6 -6 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 505
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9518
+Name oldstyle cassandra~
+Short Cassandra~
+Long Cassandra stands proudly over her selection.
+~
+Description You see a happy weather-worn face whose lines suggest many years on the
+open sea. It is only through years of fishing that she is able to withstand
+the smell that permeates the air.
+~
+Race human~
+Act_flags AB
+Aff D
+Align 800
+Group 0
+Level 23
+Hitroll 0
+Hit_dice 5d10+450
+Mana_dice 11d9+100
+Dam_dice 3d6+6
+Dam_type none
+Armor -6 -6 -6 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 505
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9519
+Name oldstyle foreman man~
+Short the foreman~
+Long The foreman stands here screaming at the workers.
+~
+Description A worried working dwarf stands here constantly making notes in his
+book and looking at his watch.
+~
+Race human~
+Act_flags ABGT
+Aff 0
+Align 0
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 7d9+100
+Dam_dice 2d6+3
+Dam_type none
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 125
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9520
+Name oldstyle construction worker~
+Short a construction worker~
+Long A construction worker steadily works here.
+~
+Description A large sweaty looking man doesn't even return your glance.
+~
+Race human~
+Act_flags ABGT
+Aff 0
+Align 10
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d7+121
+Mana_dice 5d9+100
+Dam_dice 2d4+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 45
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9521
+Name oldstyle statue~
+Short the statue of Nati~
+Long The statue of Nati stands here.
+~
+Description ~
+Race human~
+Act_flags ABQTX
+Aff 0
+Align 1000
+Group 0
+Level 35
+Hitroll 0
+Hit_dice 10d10+1300
+Mana_dice 35d9+100
+Dam_dice 6d4+11
+Dam_type none
+Armor -11 -11 -11 3
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 1150
+Form AHMV
+Parts ABCDEF
+Size huge
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9522
+Name oldstyle statue~
+Short the statue of Alander~
+Long The statue of Alander stands here.
+~
+Description Alander has been caught in the pose of casting a bolt of flame
+down to some hapless victim.  He is dressed in the robes of a mage,
+yet bears a sword carved into the glittering stone of his statue.
+~
+Race human~
+Act_flags ABQTX
+Aff 0
+Align 1000
+Group 0
+Level 31
+Hitroll 0
+Hit_dice 6d12+928
+Mana_dice 31d9+100
+Dam_dice 2d12+9
+Dam_type none
+Armor -10 -10 -10 4
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1150
+Form AHMV
+Parts ABCDEF
+Size huge
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9523
+Name oldstyle statue~
+Short the statue of Zump~
+Long The statue of Zump stands here.
+~
+Description A statue of a stocky, angry looking dwarf with a cigarette in his mouth.
+~
+Race human~
+Act_flags ABQTX
+Aff 0
+Align 1000
+Group 0
+Level 31
+Hitroll 0
+Hit_dice 6d12+928
+Mana_dice 31d9+100
+Dam_dice 2d12+9
+Dam_type none
+Armor -10 -10 -10 4
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1150
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9524
+Name oldstyle statue~
+Short the statue of Nightshade~
+Long The statue of Nightshade stands here.
+~
+Description A tall, swirling dark stone formed this statue.  As you peer at him
+longer, it seems to chuckle.
+~
+Race human~
+Act_flags ABQTX
+Aff 0
+Align 1000
+Group 0
+Level 31
+Hitroll 0
+Hit_dice 6d12+928
+Mana_dice 31d9+100
+Dam_dice 2d12+9
+Dam_type none
+Armor -10 -10 -10 4
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1190
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9525
+Name oldstyle statue~
+Short the statue of Satin~
+Long The statue of Satin stands here.
+~
+Description The statue of Satin, a small elven woman in mage robes, smiles serenely
+and her eyes twinkle with gentle humour.  You take a step back in fear.
+~
+Race human~
+Act_flags ABQTX
+Aff 0
+Align 1000
+Group 0
+Level 31
+Hitroll 0
+Hit_dice 6d12+928
+Mana_dice 31d9+100
+Dam_dice 2d12+9
+Dam_type none
+Armor -10 -10 -10 4
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 1150
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9526
+Name oldstyle statue~
+Short the statue of Shandra~
+Long The statue of Shandra stands here.
+~
+Description This statue poses the Lady of the Mountains in a simple robe, with
+her long tresses sensibly pulled back from her smooth, smiling face.
+~
+Race human~
+Act_flags ABQTX
+Aff 0
+Align 1000
+Group 0
+Level 31
+Hitroll 0
+Hit_dice 6d12+928
+Mana_dice 31d9+100
+Dam_dice 2d12+9
+Dam_type none
+Armor -10 -10 -10 4
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 1150
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9527
+Name oldstyle statue~
+Short the statue of Furey~
+Long There a statue of Furey standing here.
+~
+Description A statue of Furey.
+~
+Race human~
+Act_flags ABQRTX
+Aff 0
+Align 1000
+Group 0
+Level 34
+Hitroll 0
+Hit_dice 10d10+1200
+Mana_dice 34d9+100
+Dam_dice 6d4+10
+Dam_type none
+Armor -11 -11 -11 3
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 3250
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9528
+Name oldstyle statue~
+Short the statue of Landru~
+Long The statue of Landru stands here.
+~
+Description Landru is carved from shimmering polished hematite, and a smile seems
+to flicker over his face.  A pair of dice are enclosed in one hand.
+~
+Race human~
+Act_flags ABQRTUWX
+Aff 0
+Align 1000
+Group 0
+Level 35
+Hitroll 0
+Hit_dice 10d10+1300
+Mana_dice 35d9+100
+Dam_dice 6d4+11
+Dam_type none
+Armor -11 -11 -11 3
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 3250
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9529
+Name oldstyle aziz~
+Short Aziz~
+Long Aziz the Human Canon stands here.
+~
+Description You see nothing special...
+~
+Race human~
+Act_flags ACGHQR
+Aff D
+Align 0
+Group 0
+Level 11
+Hitroll 0
+Hit_dice 2d7+121
+Mana_dice 11d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 1 1 1 6
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 65
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9530
+Name oldstyle mustafah~
+Short Mustafah~
+Long Mustafah the Human Robber stands here.
+~
+Description You see nothing special...
+~
+Race human~
+Act_flags ACGHS
+Aff DF
+Align 0
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 3d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 4 4 4 8
+Clevel0
+Cability 0
+Off BEFJNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 11
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9531
+Name oldstyle fatima~
+Short Fatima~
+Long Fatima the Elven Invoker stands here.
+~
+Description You see nothing special...
+~
+Race human~
+Act_flags ACGHRU
+Aff D
+Align 0
+Group 0
+Level 9
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 9d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 3 3 3 7
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 30
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9532
+Name oldstyle kareem~
+Short Kareem~
+Long Kareem the Dwarven Mercenary stands here.
+~
+Description You see nothing special...
+~
+Race human~
+Act_flags ACGHT
+Aff D
+Align 0
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+170
+Mana_dice 6d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor 0 0 0 8
+Clevel0
+Cability 0
+Off CDEIKLU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 60
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9533
+Name oldstyle nomad merchant~
+Short A nomad merchant~
+Long A nomad merchant looks you over.
+~
+Description This robust fellow returns your gaze with a smile, but something inside
+tells you not to trust him very far.
+~
+Race human~
+Act_flags ACFHT
+Aff 0
+Align -100
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d7+121
+Mana_dice 5d9+100
+Dam_dice 2d4+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 45
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9534
+Name oldstyle bodyguard~
+Short A bodyguard~
+Long A bodyguard sizes you up.
+~
+Description The large half-orc quickly glances you over and returns to his duties.
+~
+Race human~
+Act_flags AGT
+Aff 0
+Align 0
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 6d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor 0 0 0 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 60
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9535
+Name oldstyle kid thief~
+Short the skinny kid~
+Long A skinny kid wanders around.
+~
+Description This small child sees you looking at him and quickly looks away.
+~
+Race human~
+Act_flags ACHS
+Aff DF
+Align 100
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 3d9+100
+Dam_dice 1d7+1
+Dam_type none
+Armor 4 4 4 8
+Clevel0
+Cability 0
+Off BEFJNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 11
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9536
+Name oldstyle dockworker~
+Short the dockworker~
+Long A strong dockworker walks by moving crates.
+~
+Description Although seemingly dull witted, this hulking mass carries the huge
+crates from the boats like so many lilies.
+~
+Race human~
+Act_flags AGT
+Aff 0
+Align 0
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 6d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor 0 0 0 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 60
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9537
+Name oldstyle man tax collector~
+Short the tax collector~
+Long A small man walks around scribbling in a notebook.
+~
+Description The city's tax collector walks from store to store collecting the
+Sultan's fee for living in his grand city.
+~
+Race human~
+Act_flags AGH
+Aff 0
+Align 0
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 3
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9538
+Name oldstyle gord~
+Short Gord~
+Long Gord the Rogue stands here.
+~
+Description You see nothing special.
+~
+Race human~
+Act_flags ACGSTU
+Aff DF
+Align -200
+Group 0
+Level 25
+Hitroll 0
+Hit_dice 5d10+500
+Mana_dice 12d9+100
+Dam_dice 2d10+6
+Dam_type none
+Armor -6 -6 -6 5
+Clevel0
+Cability 0
+Off BEFJNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 615
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9539
+Name oldstyle caramon~
+Short Caramon~
+Long Caramon the Knight stands here.
+~
+Description You see nothing special.
+~
+Race human~
+Act_flags AGTU
+Aff 0
+Align -200
+Group 0
+Level 25
+Hitroll 0
+Hit_dice 5d10+600
+Mana_dice 12d9+100
+Dam_dice 2d10+7
+Dam_type none
+Armor -7 -7 -7 6
+Clevel0
+Cability 0
+Off CDEIKLU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 615
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9540
+Name oldstyle raistlin~
+Short Raistlin~
+Long Raistlin, the Arch-Magician stands here.
+~
+Description You see nothing special.
+~
+Race human~
+Act_flags ACGHR
+Aff D
+Align 200
+Group 0
+Level 25
+Hitroll 0
+Hit_dice 5d10+500
+Mana_dice 25d9+100
+Dam_dice 4d4+6
+Dam_type none
+Armor -6 -6 -6 2
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 615
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9541
+Name oldstyle curley greenleaf~
+Short Curley GreenLeaf~
+Long Curley GreenLeaf stands here.
+~
+Description You see nothing special.
+~
+Race human~
+Act_flags AGQT
+Aff D
+Align 0
+Group 0
+Level 25
+Hitroll 0
+Hit_dice 5d10+550
+Mana_dice 25d9+100
+Dam_dice 3d6+7
+Dam_type none
+Armor -7 -7 -7 5
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 615
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9542
+Name oldstyle man wandering prophet~
+Short the wandering prophet~
+Long A small grey-haired man walks around spouting gospel.
+~
+Description This sad case may have been an evangelist in another lifetime. He is known
+to stand on corners and accost passers-by with his doomsday preaching.
+~
+Race human~
+Act_flags AHQ
+Aff 0
+Align 0
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 2d6+85
+Mana_dice 7d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 4 4 4 8
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 11
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9543
+Name oldstyle alley cat feline~
+Short the alley cat~
+Long A small harmless feline searches for food.
+~
+Description You see a small starved cat.
+~
+Race human~
+Act_flags ACHU
+Aff 0
+Align -10
+Group 0
+Level 2
+Hitroll 0
+Hit_dice 2d7+21
+Mana_dice 1d9+100
+Dam_dice 1d5+0
+Dam_type none
+Armor 8 8 8 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9544
+Name oldstyle vulture~
+Short the vulture~
+Long A vulture circles above you.
+~
+Description As you look up at this bird, you see the only thing it wants is a corpse.
+~
+Race human~
+Act_flags AGH
+Aff 0
+Align -200
+Group 0
+Level 2
+Hitroll 0
+Hit_dice 2d7+21
+Mana_dice 1d9+100
+Dam_dice 1d5+0
+Dam_type none
+Armor 8 8 8 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 0
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9545
+Name oldstyle old man~
+Short the old man~
+Long An old man sits here playing chess.
+~
+Description He seems intent on winning.
+~
+Race human~
+Act_flags AH
+Aff 0
+Align 200
+Group 0
+Level 4
+Hitroll 0
+Hit_dice 2d7+46
+Mana_dice 2d9+100
+Dam_dice 1d5+1
+Dam_type none
+Armor 6 6 6 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 3
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9546
+Name oldstyle conan librarian~
+Short Conan the Librarian~
+Long Conan the Librarian sits behind a desk.
+~
+Description The huge hulking mass rises as someone asks him a question.
+~
+Race human~
+Act_flags ABETU
+Aff 0
+Align 300
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sit
+Default_pos sit
+Sex male
+Wealth 345
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9547
+Name oldstyle dirt devil~
+Short the dirt devil~
+Long The wind kicks up some dust.
+~
+Description What you see before you is really a baby air elemental.
+~
+Race human~
+Act_flags ACFU
+Aff 0
+Align -1000
+Group 0
+Level 1
+Hitroll 0
+Hit_dice 2d6+10
+Mana_dice 0d9+100
+Dam_dice 1d4+0
+Dam_type none
+Armor 9 9 9 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9548
+Name oldstyle lamia~
+Short the lamia~
+Long A lamia stands here.
+~
+Description A half snake half woman creature rears back to attack you.
+~
+Race human~
+Act_flags ACFRT
+Aff 0
+Align -500
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d6+85
+Mana_dice 8d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 4 4 4 7
+Clevel0
+Cability 0
+Off FU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 18
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9549
+Name oldstyle dervish~
+Short the raggety dervish~
+Long A raggety dervish stands here.
+~
+Description This man looks like he could use a lot of rest.
+~
+Race human~
+Act_flags AEFR
+Aff U
+Align -750
+Group 0
+Level 9
+Hitroll 0
+Hit_dice 2d6+110
+Mana_dice 4d9+100
+Dam_dice 1d8+2
+Dam_type none
+Armor 2 2 2 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 30
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9550
+Name oldstyle sultan~
+Short The Sultan~
+Long The Sultan rests here on his throne.
+~
+Description You see a large wealthy man in red robes smiling at you.
+~
+Race human~
+Act_flags ABTW
+Aff D
+Align 200
+Group 0
+Level 35
+Hitroll 0
+Hit_dice 10d10+1300
+Mana_dice 17d9+100
+Dam_dice 4d7+11
+Dam_type none
+Armor -11 -11 -11 5
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos rest
+Default_pos rest
+Sex male
+Wealth 2200
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9551
+Name oldstyle harem girl~
+Short a harem girl~
+Long A lovely, veiled harem girl stands here.
+~
+Description You see a dark skinned beauty, wearing almost transparent silks and 
+light blue viel. Her loyalty to the sultan is unwavering.
+~
+Race human~
+Act_flags AB
+Aff 0
+Align 0
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 2d6+35
+Mana_dice 1d9+100
+Dam_dice 1d6+0
+Dam_type none
+Armor 7 7 7 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 2
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9552
+Name oldstyle jailer~
+Short the jailer~
+Long The Jailer sleeps here, snoring loudly.
+~
+Description You see a pathetic soul lying here. Some ex-nobleman that has fallen
+out of grace with the Sultan.
+~
+Race human~
+Act_flags ABCHT
+Aff D
+Align -100
+Group 0
+Level 18
+Hitroll 0
+Hit_dice 3d9+283
+Mana_dice 9d9+100
+Dam_dice 2d7+4
+Dam_type none
+Armor -3 -3 -3 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos sleep
+Default_pos sleep
+Sex male
+Wealth 250
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9553
+Name oldstyle eunuch~
+Short a eunuch~
+Long A eunuch stands here watching over the girls.
+~
+Description You see a large man whose only duty is to protect the harem. He has been
+castrated for the ladies' safety.
+~
+Race human~
+Act_flags ABFT
+Aff D
+Align 0
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 7d9+100
+Dam_dice 2d6+3
+Dam_type none
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 125
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9554
+Name oldstyle sultans favorite girl nichole~
+Short Nichole, the sultan's favorite~
+Long Nichole, the sultan's favorite girl rests on a mound of pillows.
+~
+Description You see the most beautiful arabian girl that has ever met your eyes. Too
+bad she's about to kill you.
+~
+Race human~
+Act_flags AET
+Aff D
+Align 100
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos rest
+Default_pos rest
+Sex female
+Wealth 345
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9555
+Name oldstyle allah~
+Short Allah~
+Long Allah is here.
+~
+Description You see the all-knowing Allah.
+~
+Race human~
+Act_flags ABQRTUWX
+Aff DHU
+Align 1000
+Group 0
+Level 32
+Hitroll 0
+Hit_dice 10d10+1000
+Mana_dice 32d9+100
+Dam_dice 4d6+9
+Dam_type none
+Armor -10 -10 -10 4
+Clevel0
+Cability 0
+Off EIKU
+Imm 0
+Res 0
+Vuln 0
+Start_pos rest
+Default_pos rest
+Sex none
+Wealth 1400
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9556
+Name oldstyle mage guildguard~
+Short the guildguard~
+Long The Guard for the Guild of Mages stand here.
+~
+Description This man looks like a mage/warrior, i wouldn't mess with him.
+~
+Race human~
+Act_flags ABRT
+Aff D
+Align 0
+Group 0
+Level 21
+Hitroll 0
+Hit_dice 4d10+360
+Mana_dice 10d9+100
+Dam_dice 4d4+5
+Dam_type none
+Armor -5 -5 -5 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 395
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9557
+Name oldstyle cleric guildguard~
+Short the guildguard~
+Long The Guard for the Guild of Clerics stands here.
+~
+Description This man looks like a cleric/warrior, I wouldn't mess with him.
+~
+Race human~
+Act_flags ABQT
+Aff D
+Align 0
+Group 0
+Level 21
+Hitroll 0
+Hit_dice 4d10+360
+Mana_dice 10d9+100
+Dam_dice 4d4+5
+Dam_type none
+Armor -5 -5 -5 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 395
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9558
+Name oldstyle warrior guildguard~
+Short the guildguard~
+Long The Guard for the Guild of Warriors stands here.
+~
+Description The man looks like Conan's cousin, I wouldn't mess with him.
+~
+Race human~
+Act_flags ABTU
+Aff D
+Align 0
+Group 0
+Level 21
+Hitroll 0
+Hit_dice 4d10+360
+Mana_dice 10d9+100
+Dam_dice 4d4+5
+Dam_type none
+Armor -5 -5 -5 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 395
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9559
+Name oldstyle thief guildguard~
+Short the guildguard~
+Long The Guard for the Guild of theives stands here.
+~
+Description You see a thief dressed all in black, he quickly stands as you enter
+and steps to bar your way. You notice his hands resting on two sheafs.
+~
+Race human~
+Act_flags ABST
+Aff D
+Align 0
+Group 0
+Level 21
+Hitroll 0
+Hit_dice 4d10+360
+Mana_dice 10d9+100
+Dam_dice 4d4+5
+Dam_type none
+Armor -5 -5 -5 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 395
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9560
+Name oldstyle servant boy~
+Short a servant boy~
+Long A servant boy is here running errands.
+~
+Description You see a small boy running around the halls of the palace.
+~
+Race human~
+Act_flags AG
+Aff 0
+Align 0
+Group 0
+Level 2
+Hitroll 0
+Hit_dice 2d7+21
+Mana_dice 1d9+100
+Dam_dice 1d5+0
+Dam_type none
+Armor 8 8 8 10
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9561
+Name oldstyle sultans guard~
+Short the sultan's guard~
+Long A guard stands here, protecting the innocent.
+~
+Description You see a trained fighter, ready to help those in need.
+~
+Race human~
+Act_flags AGHT
+Aff 0
+Align 1000
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d8+134
+Mana_dice 5d9+100
+Dam_dice 2d4+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off CDEIKLU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 45
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9562
+Name oldstyle sultans guard~
+Short the sultans guard~
+Long A guard stands here, watching the gate.
+~
+Description You see a trained fighter, ready to defend the city.
+~
+Race human~
+Act_flags ABGT
+Aff 0
+Align 1000
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d8+134
+Mana_dice 5d9+100
+Dam_dice 2d4+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off CDEIKLU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 45
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9563
+Name oldstyle sultans guard chief~
+Short The chief guard~
+Long The chief of the sultan's guard stands here.
+~
+Description You see a large man skilled in hunting and killing.
+~
+Race human~
+Act_flags ABGTU
+Aff D
+Align 1000
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 345
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9564
+Name oldstyle mercenary~
+Short the mercenary~
+Long A mercenary stands here waiting for a job.
+~
+Description You see an assassin down on his luck looking to be freelanced out.
+~
+Race human~
+Act_flags ABTU
+Aff 0
+Align 0
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d7+71
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off CDEIKLU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 3
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9565
+Name oldstyle shipwright captain~
+Short the shipwright~
+Long An old captain rests here carving on a stick.
+~
+Description You see the shipwright of New Thalos, waiting to make someone a boat. He
+beams a smile at you through his beard as you walk in.
+~
+Race human~
+Act_flags ABVXYZ
+Aff 0
+Align 0
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+853
+Mana_dice 15d9+100
+Dam_dice 4d6+8
+Dam_type none
+Armor -9 -9 -9 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1150
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9566
+Name oldstyle blacksmith~
+Short the blacksmith~
+Long The blacksmith stands here pumping air into his fire.
+~
+Description You see a large human, dripping in sweat, standing before you. He takes a
+break from his swealtering work to bid you welcome.
+~
+Race human~
+Act_flags ABVXYZ
+Aff 0
+Align 0
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+853
+Mana_dice 15d9+100
+Dam_dice 4d6+8
+Dam_type none
+Armor -9 -9 -9 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1150
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9567
+Name oldstyle horse~
+Short a horse~
+Long A horse stands here.
+~
+Description You see one of the fine arabian beasts known about the land.
+~
+Race human~
+Act_flags ACGHU
+Aff 0
+Align 0
+Group 0
+Level 4
+Hitroll 0
+Hit_dice 2d7+46
+Mana_dice 2d9+100
+Dam_dice 1d5+1
+Dam_type none
+Armor 6 6 6 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 3
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9568
+Name oldstyle tourist~
+Short a tourist~
+Long A tourist stands here looking lost.
+~
+Description You see a small round japanese man, with a camera around his neck and
+a nose guard. He's looking at a small road map that he seems to be holding
+upside down.
+~
+Race human~
+Act_flags ACGH
+Aff 0
+Align 0
+Group 0
+Level 4
+Hitroll 0
+Hit_dice 2d7+46
+Mana_dice 2d9+100
+Dam_dice 1d5+1
+Dam_type none
+Armor 6 6 6 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 3
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9569
+Name oldstyle shelbye~
+Short Shelbye~
+Long Shelbye stands here.
+~
+Description You see nothing special.
+~
+Race human~
+Act_flags A
+Aff 0
+Align -1000
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+853
+Mana_dice 15d9+100
+Dam_dice 4d6+8
+Dam_type none
+Armor -9 -9 -9 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1150
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9570
+Name oldstyle cryohydra~
+Short the cryohydra~
+Long The cryohydra stands here.
+~
+Description A grey-brown reptillian creature with amber eyes stands before you.
+~
+Race human~
+Act_flags AFGTW
+Aff 0
+Align 0
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 18
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9571
+Name oldstyle giant minotaur lizard~
+Short the minotaur lizard~
+Long The minotaur lizard stands here.
+~
+Description A huge lizard like reptile with horns like a minotaur.
+~
+Race giant~
+Act_flags AFGT
+Aff 0
+Align 0
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res HI
+Vuln JP
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 18
+Form AHMV
+Parts ABCDEFGHIJK
+Size tiny
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9572
+Name oldstyle dog death~
+Short the death dog~
+Long The death dog stands here.
+~
+Description A large two-headed hound barks at you viciously.
+~
+Race dog~
+Act_flags AFGU
+Aff 0
+Align 0
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off EFHNR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 18
+Form AGV
+Parts ACDEFHJKUV
+Size tiny
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9573
+Name oldstyle lion spotted~
+Short the spotted lion~
+Long The spotted lion stands here.
+~
+Description A large fierce dapple skinned lion glares at you.
+~
+Race human~
+Act_flags AFGU
+Aff 0
+Align 0
+Group 0
+Level 8
+Hitroll 0
+Hit_dice 2d7+96
+Mana_dice 4d9+100
+Dam_dice 1d7+2
+Dam_type none
+Armor 3 3 3 9
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 18
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9574
+Name oldstyle behir~
+Short the behir~
+Long A behir slithers on the ground.
+~
+Description You see a large snake like reptile with more than a dozen legs.
+~
+Race human~
+Act_flags ABFT
+Aff D
+Align -300
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 6d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor 0 0 0 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 60
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9575
+Name oldstyle chimera~
+Short the chimera~
+Long A creature with three heads: lion, goat, and dragon stands here.
+~
+Description The chimera is still a mystery, better left unexplored. This creature has
+the hindquarters of a goat, the forepaws of a lion and the body of a red
+dragon.
+~
+Race human~
+Act_flags ABFT
+Aff D
+Align -500
+Group 0
+Level 9
+Hitroll 0
+Hit_dice 2d6+110
+Mana_dice 4d9+100
+Dam_dice 1d8+2
+Dam_type none
+Armor 2 2 2 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 30
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9576
+Name oldstyle couatl~
+Short the couatl~
+Long A couatl hovers here.
+~
+Description A beautiful creature with the body of a serpent and feathered wings the
+color of the rainbow.
+~
+Race human~
+Act_flags ABEQU
+Aff B
+Align 300
+Group 0
+Level 15
+Hitroll 0
+Hit_dice 3d9+208
+Mana_dice 7d9+100
+Dam_dice 2d6+3
+Dam_type none
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 125
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9577
+Name oldstyle giant hornet~
+Short the giant hornet~
+Long The giant hornet hovers here.
+~
+Description The giant hornet hits you very hard!
+You wish you wounds would stop BLEEDING so much!
+~
+Race giant~
+Act_flags AFGU
+Aff 0
+Align 0
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 2d6+60
+Mana_dice 2d9+100
+Dam_dice 1d6+1
+Dam_type none
+Armor 5 5 5 9
+Clevel0
+Cability 0
+Off EFNR
+Imm 0
+Res HI
+Vuln JP
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 3
+Form AHMV
+Parts ABCDEFGHIJK
+Size tiny
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9578
+Name oldstyle pegasus~
+Short the pegasus~
+Long The pegasus stands here, flexing its wings.
+~
+Description A magnificant winged steed, this horse looks much like the arabian
+thoroughbred you've seen in the stables.
+~
+Race human~
+Act_flags ABHU
+Aff 0
+Align 1000
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d7+121
+Mana_dice 5d9+100
+Dam_dice 2d4+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 45
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9579
+Name oldstyle elvira~
+Short Elvira~
+Long Elvira stands here mixing a love potion.
+~
+Description You see a very healthy female dressed in black, with long flowing
+hair to match her outfit.
+~
+Race human~
+Act_flags ABRVXYZ
+Aff 0
+Align 0
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+853
+Mana_dice 15d9+100
+Dam_dice 4d6+8
+Dam_type none
+Armor -9 -9 -9 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 1190
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9580
+Name oldstyle braheem~
+Short Braheem~
+Long Braheem stands here talking to the walls.
+~
+Description You see a powerful but slighty insane mage.
+~
+Race human~
+Act_flags ABRVXYZ
+Aff 0
+Align 0
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+853
+Mana_dice 15d9+100
+Dam_dice 4d6+8
+Dam_type none
+Armor -9 -9 -9 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1190
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9581
+Name oldstyle high priest~
+Short the high priest~
+Long The high priest rests here meditating, well he WAS meditating.
+~
+Description He does NOT look real happy that you have disturbed him.
+~
+Race human~
+Act_flags ABEQ
+Aff DH
+Align 1000
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+853
+Mana_dice 15d9+100
+Dam_dice 4d6+8
+Dam_type none
+Armor -9 -9 -9 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1190
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9582
+Name oldstyle royal guard elite~
+Short The Royal Guard~
+Long An Elite Royal Guard stands here smiling happily.
+~
+Description You see one of the Royal Guards from Midgaard who seems to have gone
+through some training.
+~
+Race human~
+Act_flags AGHTU
+Aff D
+Align 1000
+Group 0
+Level 31
+Hitroll 0
+Hit_dice 10d10+1000
+Mana_dice 15d9+100
+Dam_dice 4d6+9
+Dam_type none
+Armor -10 -10 -10 5
+Clevel0
+Cability 0
+Off CDEIKLU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1250
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9583
+Name oldstyle patch bartender~
+Short Patch the bartender~
+Long A large half-orc with a patch over one eye pours beer behind the counter
+~
+Description You see a really big guy here who seems to have lost an eye in one manner
+or another.
+~
+Race human~
+Act_flags ABHVXYZ
+Aff D
+Align -500
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 345
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9584
+Name oldstyle stitch~
+Short Stitch, the leather dude.~
+Long Stitch, the leather dude reclines in his chair.
+~
+Description You see a small hobbit with his feet kicked up on his desk waiting for
+some sucker, um, customer to walk in his store.
+~
+Race human~
+Act_flags ABHVXYZ
+Aff D
+Align -500
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 345
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9585
+Name oldstyle gardener small elf~
+Short the gardener~
+Long A small elf stands here tending the garden.
+~
+Description A young elf stands here in dirt covered overalls. He seems to be weeding
+his garden.
+~
+Race human~
+Act_flags ABU
+Aff 0
+Align 0
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 345
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9586
+Name oldstyle nightmare demon horse~
+Short the nightmare~
+Long A large horse, black as night, stands here.
+~
+Description You see the largest horse you have ever seen before. Standing 10' at the
+shoulder he breathes flame from his nostrils and leaps to protect
+his love.
+~
+Race human~
+Act_flags ABGTU
+Aff BDU
+Align 1000
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 6d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor 0 0 0 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 60
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9587
+Name oldstyle wolverine~
+Short the wolverine~
+Long A large wolf like creature leaps out from the darkness.
+~
+Description You see a half wolf- half human beast wearing a glove with long thin
+blades on it.
+~
+Race human~
+Act_flags ABETUW
+Aff D
+Align 0
+Group 0
+Level 12
+Hitroll 0
+Hit_dice 2d10+150
+Mana_dice 6d9+100
+Dam_dice 1d10+3
+Dam_type none
+Armor 0 0 0 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex female
+Wealth 60
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9588
+Name oldstyle mimic painting~
+Short the mimic~
+Long You see an incredibly life-like painting of the Sultan's mother.
+~
+Description Boy is she ugly.
+~
+Race human~
+Act_flags ABR
+Aff 0
+Align 0
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d7+121
+Mana_dice 5d9+100
+Dam_dice 2d4+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 45
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9589
+Name oldstyle mayor~
+Short the mayor~
+Long The Mayor of New Thalos stands here.
+~
+Description You see a chubby hobbit dressed in his best suit.
+~
+Race human~
+Act_flags AG
+Aff 0
+Align 1000
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 345
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9590
+Name oldstyle chef~
+Short the chef~
+Long The chef stands here making dinner.
+~
+Description You see a very large human who seems to taste everything he makes.
+~
+Race human~
+Act_flags AB
+Aff 0
+Align 400
+Group 0
+Level 20
+Hitroll 0
+Hit_dice 3d9+333
+Mana_dice 10d9+100
+Dam_dice 2d8+5
+Dam_type none
+Armor -4 -4 -4 7
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 345
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9591
+Name oldstyle ixitxachitl~
+Short the Ixitxachitl~
+Long A very large ray with a wicked looking tail swims here.
+~
+Description You see a large ray with sharp fangs and a barbed tail.
+~
+Race human~
+Act_flags ABEQT
+Aff D
+Align -500
+Group 0
+Level 30
+Hitroll 0
+Hit_dice 6d12+853
+Mana_dice 15d9+100
+Dam_dice 4d6+8
+Dam_type none
+Armor -9 -9 -9 6
+Clevel0
+Cability 0
+Off EFNU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 1190
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9592
+Name oldstyle guard bodyguard~
+Short the bodyguard~
+Long A bodyguard stands here.
+~
+Description A big, strong, helpful, trustworthy guard.
+~
+Race human~
+Act_flags AT
+Aff 0
+Align 1000
+Group 0
+Level 10
+Hitroll 0
+Hit_dice 2d8+134
+Mana_dice 5d9+100
+Dam_dice 2d4+2
+Dam_type none
+Armor 1 1 1 8
+Clevel0
+Cability 0
+Off CDEIKLU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 45
+Form AHMV
+Parts ABCDEF
+Size tiny
+Material unknown
+Aggression 0
+Fpar GHIJK
+EndMob
+
+#MOB
+Vnum 9593
+Name tiger pet~
+Short the tiger~
+Long A great, loyal tiger is here.
+~
+Description The large, striped tiger looks like a savage fighter.
+~
+Race cat~
+Act_flags ABIU
+Aff FZ
+Align 0
+Group 0
+Level 20
+Hitroll 3
+Hit_dice 4d9+325
+Mana_dice 1d1+99
+Dam_dice 4d4+5
+Dam_type claw
+Armor -4 -4 -4 6
+Clevel0
+Cability 0
+Off CFHMN
+Imm 0
+Res C
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 0
+Form AGV
+Parts ACDEFHJKQUV
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9594
+Name lion pet~
+Short the lion~
+Long A large, faithful lion is here.
+~
+Description The great lion looks very fierce.
+~
+Race cat~
+Act_flags ABIU
+Aff FZ
+Align 0
+Group 0
+Level 15
+Hitroll 2
+Hit_dice 4d9+205
+Mana_dice 1d1+99
+Dam_dice 2d9+3
+Dam_type chomp
+Armor -2 -2 -2 7
+Clevel0
+Cability 0
+Off CFH
+Imm 0
+Res C
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 0
+Form AGV
+Parts ACDEFHJKQUV
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 9595
+Name eagle bird pet~
+Short the eagle~
+Long A loyal eagle circles overhead.
+~
+Description The eagle looks like a strong fierce fighter.
+~
+Race song bird~
+Act_flags ABIU
+Aff FTZ
+Align 0
+Group 0
+Level 12
+Hitroll 3
+Hit_dice 6d10+130
+Mana_dice 1d1+99
+Dam_dice 2d5+3
+Dam_type claw
+Armor 0 0 0 8
+Clevel0
+Cability 0
+Off FHN
+Imm 0
+Res C
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 0
+Form AGW
+Parts ACDEFHKP
+Size small
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 9500
+Name palace key~
+Short the palace key of New Thalos~
+Desc A large key bearing the crest of New Thalos lies here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear A
+Values A 0 0 0 0
+Level 0
+Weight 30
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9501
+Name city key~
+Short the Key to the City of New Thalos~
+Desc The heavy city key lies here in the dust~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear ACO
+Values A 0 0 0 0
+Level 0
+Weight 30
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9503
+Name morning star morningstar~
+Short a morningstar~
+Desc A small spiked metal ball connected to a rod by links of chain lies here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values flail 2 6 blast 0
+Level 10
+Weight 50
+Cost 620
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9504
+Name awl pike awl-pike~
+Short an awl-pike~
+Desc An awl pike lies here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values exotic 1 10 pierce 0
+Level 6
+Weight 30
+Cost 108
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9505
+Name bardiche~
+Short a bardiche~
+Desc A bardiche lies here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values polearm 2 6 cleave F
+Level 8
+Weight 40
+Cost 270
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9506
+Name bec corbin~
+Short a bec de corbine~
+Desc A bec de corbine lies here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values polearm 1 8 pierce F
+Level 2
+Weight 30
+Cost 148
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9507
+Name bill guisarme~
+Short a bill-guisarme~
+Desc A bill-guisarme lies here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values polearm 1 8 slash F
+Level 2
+Weight 30
+Cost 148
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9508
+Name fauchard~
+Short a fauchard~
+Desc A fauchard lies here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values polearm 1 8 slash F
+Level 2
+Weight 30
+Cost 148
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9509
+Name glaive~
+Short a glaive~
+Desc A glaive lies here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values polearm 1 10 chop F
+Level 4
+Weight 30
+Cost 192
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9510
+Name guisarme~
+Short a guisarme~
+Desc A guisarme lies here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values polearm 2 4 slash F
+Level 3
+Weight 40
+Cost 169
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9511
+Name sickle~
+Short a sickle~
+Desc A sickle lies here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values sword 1 4 slash 0
+Level 0
+Weight 10
+Cost 210
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9512
+Name bastard two sword~
+Short a two-handed bastard sword~
+Desc A two handed bastard sword lies here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values sword 3 5 cleave F
+Level 13
+Weight 160
+Cost 1190
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9513
+Name scimitar~
+Short a scimitar~
+Desc A scimitar lies here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values sword 1 9 slash 0
+Level 5
+Weight 100
+Cost 490
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9514
+Name rapier~
+Short a rapier~
+Desc A rapier lies here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values sword 3 4 slash 0
+Level 11
+Weight 100
+Cost 850
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9515
+Name banded mail suit~
+Short a suit of banded mail~
+Desc A suit of banded mail lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values ABC ABC ABC 0 0
+Level 20
+Weight 250
+Cost 2900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9516
+Name brigandine suit~
+Short a suit of brigandine~
+Desc A suit of brigandine lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values ABC ABC ABC 0 0
+Level 20
+Weight 200
+Cost 2900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9517
+Name field plate suit~
+Short a suit of field plate~
+Desc A suit of field plate lies here.~
+Material oldstyle~
+Item_type armor
+Extra FGIKL
+Extra2 0
+Wear AD
+Values D D D 0 0
+Level 25
+Weight 280
+Cost 3900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9518
+Name ringmail ring mail suit~
+Short a suit of ringmail~
+Desc A suit of ringmail lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values AB AB AB 0 0
+Level 0
+Weight 360
+Cost 176
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 -20
+EndObj
+
+#OBJ
+Vnum 9519
+Name splintmail splint mail suit~
+Short a suit of splintmail~
+Desc A suit of splintmail armor lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values AC AC AC 0 0
+Level 8
+Weight 450
+Cost 1280
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+12 -10
+EndObj
+
+#OBJ
+Vnum 9520
+Name wooden shield~
+Short a wooden shield~
+Desc A wooden shield lies here~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AJ
+Values B B B 0 0
+Level 0
+Weight 10
+Cost 250
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9521
+Name splinted shield~
+Short a splinted shield~
+Desc A splinted shield lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AJ
+Values C C C 0 0
+Level 5
+Weight 80
+Cost 710
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9522
+Name buckler shield~
+Short a buckler~
+Desc A buckler lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AJ
+Values A A A 0 0
+Level 0
+Weight 60
+Cost 108
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9523
+Name jacket leather~
+Short a leather jacket~
+Desc A leather jacket lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values A A A 0 0
+Level 0
+Weight 60
+Cost 144
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9524
+Name sleeves leather~
+Short a pair of leather sleeves~
+Desc A pair of leather sleeves lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AI
+Values A A A 0 0
+Level 0
+Weight 20
+Cost 72
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9525
+Name cap leather~
+Short a leather cap~
+Desc A leather cap lies here~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AE
+Values A A A 0 0
+Level 0
+Weight 20
+Cost 72
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9526
+Name leather pants~
+Short a pair of leather pants~
+Desc A pair of leather pants lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AF
+Values A A A 0 0
+Level 0
+Weight 20
+Cost 72
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9527
+Name leather gloves~
+Short a pair of leather gloves~
+Desc A pair of leather gloves lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AH
+Values A A A 0 0
+Level 0
+Weight 20
+Cost 72
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9528
+Name padded leather boots~
+Short a pair of padded leather boots~
+Desc A pair of padded leather boots lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AG
+Values A A A 0 0
+Level 0
+Weight 20
+Cost 72
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9529
+Name studded leather jacket~
+Short a studded leather jacket~
+Desc A studded leather jacket lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AD
+Values B B B 0 0
+Level 0
+Weight 100
+Cost 340
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9530
+Name studded leather sleeves~
+Short a pair of studded leather sleeves~
+Desc A pair of studded leather sleeves lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AI
+Values B B B 0 0
+Level 0
+Weight 30
+Cost 168
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9531
+Name studded leather pants~
+Short a pair of studded leather pants~
+Desc A pair of studded leather pants lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AF
+Values B B B 0 0
+Level 0
+Weight 30
+Cost 168
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9532
+Name studded leather gloves~
+Short a pair of studded leather gloves~
+Desc A pair of studded leather gloves lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AH
+Values B B B 0 0
+Level 0
+Weight 30
+Cost 168
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9533
+Name leather shield~
+Short a leather shield~
+Desc A leather shield lies here.~
+Material oldstyle~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AJ
+Values B B B 0 0
+Level 0
+Weight 30
+Cost 250
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9534
+Name sack~
+Short a sack~
+Desc A sack lies here~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear AO
+Values 0 0 -1 0 0
+Level 0
+Weight 10
+Cost 12
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9535
+Name oil lamp oillamp~
+Short an oil lamp~
+Desc An oil lamp lies here~
+Material oldstyle~
+Item_type light
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 CFG 0 0
+Level 0
+Weight 10
+Cost 50
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9536
+Name backpack back pack~
+Short a backpack~
+Desc A backpack lies here~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear AK
+Values 0 0 -1 0 0
+Level 0
+Weight 40
+Cost 50
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9537
+Name basket~
+Short a basket~
+Desc A basket lies here.~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 -1 0 0
+Level 0
+Weight 40
+Cost 8
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9538
+Name belt pouch~
+Short a belt pouch~
+Desc A belt pouch lies here~
+Material oldstyle~
+Item_type container
+Extra 0
+Extra2 0
+Wear AL
+Values 0 0 -1 0 0
+Level 0
+Weight 10
+Cost 27
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9539
+Name candle~
+Short a candle~
+Desc A candle lies here~
+Material oldstyle~
+Item_type light
+Extra 0
+Extra2 0
+Wear AO
+Values 0 0 BEF 0 0
+Level 0
+Weight 10
+Cost 4
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9540
+Name cheese~
+Short a hunk of cheese~
+Desc A hunk of cheese lies here.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values AC AC 0 0 0
+Level 0
+Weight 10
+Cost 4
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9541
+Name bread~
+Short a bread~
+Desc A bread lies here.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values AC AB 0 0 0
+Level 0
+Weight 10
+Cost 6
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9542
+Name dry rations~
+Short some dry rations~
+Desc Some dry rations lie here.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values ABCD CE 0 0 0
+Level 0
+Weight 20
+Cost 24
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9543
+Name iron rations~
+Short some iron rations~
+Desc A tin of iron rations lies here.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values BE BCDE 0 0 0
+Level 0
+Weight 10
+Cost 50
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9545
+Name nuts~
+Short some nuts~
+Desc Some nuts lies scattered on the ground.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values A A 0 0 0
+Level 0
+Weight 10
+Cost 3
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9546
+Name belt~
+Short a belt~
+Desc A nicely made belt lies here.~
+Material oldstyle~
+Item_type clothing
+Extra 0
+Extra2 0
+Wear AM
+Values 0 0 0 0 0
+Level 0
+Weight 20
+Cost 8
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9547
+Name hiking boots~
+Short a pair of hiking boots~
+Desc A nicely made pair of boots lies here.~
+Material oldstyle~
+Item_type clothing
+Extra 0
+Extra2 0
+Wear AG
+Values 0 0 0 0 0
+Level 0
+Weight 30
+Cost 12
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9548
+Name fur cloak~
+Short a fur cloak~
+Desc A nicely made fur cloak lies here.~
+Material oldstyle~
+Item_type clothing
+Extra 0
+Extra2 0
+Wear AK
+Values 0 0 0 0 0
+Level 0
+Weight 20
+Cost 200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9549
+Name girdle~
+Short a girdle~
+Desc A nicely made girdle lies here.~
+Material oldstyle~
+Item_type clothing
+Extra 0
+Extra2 0
+Wear AL
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 12
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9550
+Name hose~
+Short a pair of hose~
+Desc A nicely made pair of hose lie here.~
+Material oldstyle~
+Item_type clothing
+Extra 0
+Extra2 0
+Wear AF
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 8
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9551
+Name common robe~
+Short a common robe~
+Desc A nicely made robe of common cloth lies here.~
+Material oldstyle~
+Item_type clothing
+Extra 0
+Extra2 0
+Wear AD
+Values 0 0 0 0 0
+Level 0
+Weight 20
+Cost 36
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9552
+Name embroidered robe~
+Short an embroidered robe~
+Desc A nicely made robe of embroidered cloth lies here.~
+Material oldstyle~
+Item_type clothing
+Extra 0
+Extra2 0
+Wear ADK
+Values 0 0 0 0 0
+Level 0
+Weight 20
+Cost 200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9553
+Name sandles~
+Short a pair of sandles~
+Desc A nicely made pair of sandles lies here.~
+Material oldstyle~
+Item_type clothing
+Extra 0
+Extra2 0
+Wear AG
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 20
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9554
+Name sash~
+Short a sash~
+Desc A nicely made sash lies here.~
+Material oldstyle~
+Item_type clothing
+Extra 0
+Extra2 0
+Wear AL
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 8
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9555
+Name silk jacket~
+Short a silk jacket~
+Desc A nicely made silk jacket lies here.~
+Material oldstyle~
+Item_type clothing
+Extra 0
+Extra2 0
+Wear AK
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 320
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9556
+Name egg~
+Short an egg~
+Desc An egg lies here.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values B B 0 0 0
+Level 0
+Weight 10
+Cost 4
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9557
+Name carrot~
+Short a carrot~
+Desc A carrot lies here.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values AB AB 0 0 0
+Level 0
+Weight 10
+Cost 6
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9558
+Name tomato~
+Short a tomato~
+Desc A tomato lies here.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values B B 0 0 0
+Level 0
+Weight 10
+Cost 12
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9559
+Name fig~
+Short a fig~
+Desc A fig lies here.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values B A 0 0 0
+Level 0
+Weight 10
+Cost 3
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9560
+Name dates~
+Short some dates~
+Desc A bunch of dates lies here.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values B B 0 0 0
+Level 0
+Weight 10
+Cost 6
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9561
+Name leg lamb~
+Short a leg of lamb~
+Desc A leg of land lies here.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values BD CD 0 0 0
+Level 0
+Weight 20
+Cost 10
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9562
+Name side beef~
+Short a side of beef~
+Desc A side of beef lies here.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values ABCD ABCD 0 0 0
+Level 0
+Weight 50
+Cost 20
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9563
+Name whole chicken~
+Short a whole chicken~
+Desc A whole skinned chicken lies here.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values CD CD 0 0 0
+Level 0
+Weight 30
+Cost 12
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9564
+Name herring salted~
+Short a salted herring~
+Desc A salted herring lies here.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values D D 0 0 0
+Level 0
+Weight 10
+Cost 8
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9565
+Name mussel~
+Short a mussel~
+Desc A mussel lies here.~
+Material oldstyle~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values C C 0 0 0
+Level 0
+Weight 10
+Cost 4
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9567
+Name liquor glass blue oasis~
+Short a glass of blue oasis~
+Desc A glass of blue alcohol rests here.~
+Material oldstyle~
+Item_type drink
+Extra 0
+Extra2 0
+Wear A
+Values 2 2 'whisky' 0 0
+Level 0
+Weight 10
+Cost 10
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9568
+Name wine glass~
+Short a glass of wine~
+Desc A glass rests here.~
+Material oldstyle~
+Item_type drink
+Extra 0
+Extra2 0
+Wear A
+Values 6 6 'red wine' 0 0
+Level 0
+Weight 10
+Cost 13
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9569
+Name bottle grog~
+Short a bottle of grog~
+Desc A bottle lies here.~
+Material oldstyle~
+Item_type drink
+Extra 0
+Extra2 0
+Wear A
+Values 16 16 'ale' 0 0
+Level 0
+Weight 10
+Cost 8
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9570
+Name glowing vial blue~
+Short a glowing blue vial~
+Desc A glowing blue vial lies here.~
+Material oldstyle~
+Item_type potion
+Extra AG
+Extra2 0
+Wear AO
+Values 12 'sleep' '' '' ''
+Level 1
+Weight 10
+Cost 270
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9571
+Name potion green~
+Short a deep-green potion~
+Desc A deep-green potion lies here.~
+Material oldstyle~
+Item_type potion
+Extra G
+Extra2 0
+Wear AO
+Values 10 'stone skin' 'blindness' '' ''
+Level 12
+Weight 10
+Cost 950
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9572
+Name potion crystal clear~
+Short a crystal clear potion~
+Desc A crystal clear potion lies here.~
+Material oldstyle~
+Item_type potion
+Extra G
+Extra2 0
+Wear AO
+Values 10 'detect invis' '' '' ''
+Level 0
+Weight 10
+Cost 200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9573
+Name white potion~
+Short an off white potion~
+Desc An off white potion lies here.~
+Material oldstyle~
+Item_type potion
+Extra G
+Extra2 0
+Wear AO
+Values 21 'haste' '' '' ''
+Level 11
+Weight 10
+Cost 820
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9574
+Name potion dark blue~
+Short a dark blue potion~
+Desc A dark blue potion lies here.~
+Material oldstyle~
+Item_type potion
+Extra G
+Extra2 0
+Wear AO
+Values 10 'detect evil' 'refresh' '' ''
+Level 0
+Weight 10
+Cost 200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9575
+Name beer bottle scorpion flaming~
+Short a flaming scorpion~
+Desc A bottle of strong beer lies here.~
+Material oldstyle~
+Item_type drink
+Extra 0
+Extra2 0
+Wear A
+Values 16 16 'beer' 0 0
+Level 0
+Weight 10
+Cost 6
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9576
+Name barrel beer~
+Short a barrel of beer~
+Desc A barrel of beer lies here.~
+Material oldstyle~
+Item_type drink
+Extra 0
+Extra2 0
+Wear A
+Values 150 150 'beer' 0 0
+Level 0
+Weight 80
+Cost 120
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9577
+Name whisky shot~
+Short a shot~
+Desc A shot of strong liquor lies here.~
+Material oldstyle~
+Item_type drink
+Extra 0
+Extra2 0
+Wear A
+Values 2 2 'whisky' 0 0
+Level 0
+Weight 10
+Cost 12
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9578
+Name scroll recall~
+Short a scroll of recall~
+Desc A scroll of recall lies here.~
+Material oldstyle~
+Item_type scroll
+Extra G
+Extra2 0
+Wear AO
+Values 12 'word of recall' '' '' ''
+Level 17
+Weight 40
+Cost 2700
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9579
+Name wand call lightning~
+Short a grey-silver wand~
+Desc A grey-silver wand lies here.~
+Material oldstyle~
+Item_type wand
+Extra AG
+Extra2 0
+Wear AO
+Values 15 3 3 'call lightning' 0
+Level 13
+Weight 10
+Cost 2800
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+wand~
+You see a small engraved storm cloud at the base of this wand.
+~
+EndObj
+
+#OBJ
+Vnum 9580
+Name wand detect invis~
+Short a wand of glinting yellow~
+Desc A wand of glinting yellow lies here.~
+Material oldstyle~
+Item_type wand
+Extra G
+Extra2 0
+Wear AO
+Values 1 15 15 'detect invis' 0
+Level 5
+Weight 10
+Cost 580
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+wand~
+You see a shape slowly fading into exsistance at the base of this wand.
+~
+EndObj
+
+#OBJ
+Vnum 9581
+Name wand armor~
+Short a wand of oak~
+Desc A wand of oak lies here.~
+Material oldstyle~
+Item_type wand
+Extra G
+Extra2 0
+Wear AO
+Values 5 10 10 'armor' 0
+Level 3
+Weight 10
+Cost 410
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9582
+Name wand faerie fire~
+Short a pink wand~
+Desc A pink wand lies here~
+Material oldstyle~
+Item_type wand
+Extra G
+Extra2 0
+Wear AO
+Values 3 3 3 'faerie fire' 0
+Level 2
+Weight 10
+Cost 250
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9583
+Name sewing shears~
+Short a pair of sewing shears~
+Desc A pair of sewing shears lies here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values dagger 2 4 chop 0
+Level 5
+Weight 20
+Cost 360
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9584
+Name meat cleaver~
+Short a meat cleaver~
+Desc A meat cleaver lies here~
+Material oldstyle~
+Item_type weapon
+Extra KL
+Extra2 0
+Wear AN
+Values dagger 1 5 cleave 0
+Level 0
+Weight 50
+Cost 190
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9585
+Name fountain pen~
+Short a fountain pen~
+Desc A fountain pen lies here.~
+Material oldstyle~
+Item_type weapon
+Extra B
+Extra2 0
+Wear AN
+Values dagger 3 4 stab 0
+Level 11
+Weight 10
+Cost 640
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+fountain pen~
+Well, then pen IS mightier than the sword...
+~
+EndObj
+
+#OBJ
+Vnum 9586
+Name sledge hammer~
+Short a sledge hammer~
+Desc A sledge hammer lies here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values mace 2 7 smash F
+Level 10
+Weight 240
+Cost 660
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9587
+Name horse shoe~
+Short a horse shoe~
+Desc A horse shoe lies here.~
+Material oldstyle~
+Item_type armor
+Extra BG
+Extra2 0
+Wear ACO
+Values A A A 0 0
+Level 5
+Weight 20
+Cost 300
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 9588
+Name saddle~
+Short a saddle~
+Desc A saddle lies here.~
+Material oldstyle~
+Item_type furniture
+Extra 0
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 40
+Cost 600
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9589
+Name crop riding~
+Short a riding crop~
+Desc A riding crop lies here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values whip 1 4 whip 0
+Level 0
+Weight 10
+Cost 105
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9590
+Name chessboard~
+Short a chessboard~
+Desc A heavy marble chessboard lies here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values exotic 1 5 thwack 0
+Level 0
+Weight 100
+Cost 380
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9591
+Name sesame seed~
+Short a sesame seed~
+Desc A sesame seed lies here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 0
+Weight 30
+Cost 1
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9592
+Name something~
+Short something~
+Desc Something lies here.~
+Material oldstyle~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear N
+Values exotic 2 5 drain 0
+Level 7
+Weight 0
+Cost 920
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9593
+Name key~
+Short the jail key~
+Desc The key to the jail lies here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 0
+Weight 30
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9594
+Name key~
+Short the dungeon key~
+Desc The dungeon key lies here.~
+Material oldstyle~
+Item_type key
+Extra 0
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 0
+Weight 30
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9595
+Name shirt tie dye~
+Short a tie-dye shirt~
+Desc A multi-colored shirt lies here.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AD
+Values ABC ABC ABC 0 0
+Level 20
+Weight 10
+Cost 2900
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9596
+Name bugle boy jeans~
+Short a pair of Bugle Boy jeans~
+Desc A pair of jeans lie here.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AF
+Values AC AC AC 0 0
+Level 10
+Weight 10
+Cost 730
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9597
+Name sneakers reeboks reebok pumps~
+Short a pair of Reebok Pumps~
+Desc A pair of nifty sneakers lie here.~
+Material oldstyle~
+Item_type armor
+Extra G
+Extra2 0
+Wear AG
+Values A A A 0 0
+Level 7
+Weight 10
+Cost 770
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+2 1
+AffectObj
+14 10
+EndObj
+
+#OBJ
+Vnum 9598
+Name daemon claw~
+Short the Daemon Claw~
+Desc A glove with blades mounted on it lies here~
+Material oldstyle~
+Item_type weapon
+Extra B
+Extra2 0
+Wear AN
+Values exotic 2 8 claw 0
+Level 14
+Weight 200
+Cost 1520
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 -2
+EndObj
+
+#OBJ
+Vnum 9599
+Name wolverine claw~
+Short the wolverine claw~
+Desc A claw from some animal lies here.~
+Material oldstyle~
+Item_type weapon
+Extra B
+Extra2 0
+Wear AN
+Values exotic 3 5 claw 0
+Level 15
+Weight 200
+Cost 1680
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9600
+Name halberd~
+Short the halberd~
+Desc A mighty halberd lies against the wall.~
+Material oldstyle~
+Item_type weapon
+Extra GI
+Extra2 0
+Wear AN
+Values polearm 3 7 chop F
+Level 22
+Weight 160
+Cost 1240
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+AffectObj
+18 2
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 9601
+Name fountain water~
+Short a fountain~
+Desc A large fountain is here gurgling out an endless stream of water.~
+Material oldstyle~
+Item_type fountain
+Extra G
+Extra2 0
+Wear 0
+Values 100000 100000 'water' 0 0
+Level 0
+Weight 0
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 9602
+Name pearl~
+Short a beautiful white pearl~
+Desc A well-formed pearl sits upon the ground, looking for an oyster.~
+Material oldstyle~
+Item_type warp_stone
+Extra T
+Extra2 0
+Wear AO
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 1000
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+pearl~
+It's a nicely-formed pearl, should be worth a fair amount at the jewellers.
+You look around to see if there are any others nearby.
+~
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 9500
+Name The Entrance to the Dancing Daemon Inn~
+Desc You find yourself in an entrance foyer to the Dancing Daemon Inn. Chrome
+plated stairs spiral up to the reception area. To the south you hear the
+sounds of merriment and drinking and from the west you hear the bustling
+activity of New Thalos.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see people dancing and drinking.
+~
+~
+-1
+9502
+0
+Exit
+3
+You see people walking by on Sultan's Walk.
+~
+~
+-1
+9520
+0
+Exit
+4
+The spiral stairs lead up to the reception area.
+~
+~
+-1
+9501
+0
+EndRoom
+
+#ROOM
+Vnum 9501
+Name The Reception Area~
+Desc You are now standing in the reception of New Thalos. A huge mahogany
+desk is here along with two sofas and a coffee table covered in magazines.
+The plush carpeting under your feet is a nice change from the rugged paths
+you are used to travelling. A chrome stairway spirals downstairs to the
+tavern of the Dancing Daemon Inn, and your future adventures in New Thalos.
+~
+Room_flags 124
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+4.picture~
+You see a picture of Loki... at least you think it's Loki.
+He seems to be hiding from the camera.
+~
+ExtraDesc
+3.picture~
+You see a picture of Hammor on the front porch of the Danjerhaus,
+drinking a guinness stout and petting Big Guy the Cat.
+~
+ExtraDesc
+2.picture~
+You see a picture of Shark standing behind his desk screaming at a newbie.
+Through a window in the back you see a large aquarium. The newbie seems to
+be cowering in fear.
+~
+ExtraDesc
+1.1picture~
+You see a picture of Felix here, standing before the arena.
+He seems to be doing a body count.
+~
+Exit
+5
+The stairs lead down to the Daemon.
+~
+~
+-1
+9500
+0
+EndRoom
+
+#ROOM
+Vnum 9502
+Name The Dancing Daemon Inn~
+Desc A huge circling wet-bar takes up most of the east end of the Daemon. An
+old mage reclines against the mirror behind the bar absentmindedly pouring
+several drinks at once with his refined telekinesis. The Lokettes, a local
+band, are playing their usual gig on the stage. The large booths along the
+wall are filled with people drinking and having a grand time. You feel like
+partying here.
+The only obvious exit is to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+bar~
+The bar looks slightly out of place and you can only assume the powerful
+magic of the bartender allows it to revolve.
+~
+Exit
+0
+You see the entrance to the Daemon.
+~
+~
+-1
+9500
+0
+EndRoom
+
+#ROOM
+Vnum 9503
+Name The Medina~
+Desc You stand on the Medina, on the larger open areas in New Thalos. People
+walk to and fro carrying on their day to day business. The Common Square
+of the people opens up to the south and the Medina continues north.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see medina.
+~
+~
+-1
+9504
+0
+Exit
+2
+You see the Common square.
+~
+~
+-1
+9510
+0
+EndRoom
+
+#ROOM
+Vnum 9504
+Name The Medina~
+Desc You are walking along a wide open expanse of road connecting the market
+square to the common square. Panhandlers, beggars, and other such riff-
+raff wander about hoping to catch those few who with open hearts.
+The medina continues to the south and the market spreads out to the north.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the market.
+~
+~
+-1
+9505
+0
+Exit
+2
+You see the medina.
+~
+~
+-1
+9503
+0
+EndRoom
+
+#ROOM
+Vnum 9505
+Name The Southern Market Square~
+Desc The large square of markets fills your vision. Strange sights and sounds,
+those known only to the New Thalos market, barrage your senses. The only
+hope of making any sense of what's going on here is to wander around. The
+Market continues north, west, and east, with the Medina trailing off south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9506
+0
+Exit
+1
+~
+~
+-1
+9507
+0
+Exit
+2
+~
+~
+-1
+9504
+0
+Exit
+3
+~
+~
+-1
+9508
+0
+EndRoom
+
+#ROOM
+Vnum 9506
+Name The Center of Market Square~
+Desc You are standing on the Center of Market Square, the famous square of
+New Thalos. A large, peculiar looking statue is standing in the middle
+of the square. The square extends in every direction.
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+statue~
+Before you is a statue of the Mighty Beholder!
+A great beast with multiple eyes and wicked... wicked... um.... eyes...
+The Mighty Beholder is in Excellent condition.
+~
+Exit
+0
+~
+~
+-1
+9515
+0
+Exit
+1
+~
+~
+-1
+9517
+0
+Exit
+2
+~
+~
+-1
+9505
+0
+Exit
+3
+~
+~
+-1
+9509
+0
+EndRoom
+
+#ROOM
+Vnum 9507
+Name The Southeastern Market Square~
+Desc In this corner of the market some of the largest warriors in the land
+tower over you. It's easy to understand why they hangout here once you
+notice the weapon shop and the armory close by. Perhaps you might stop
+in and take a look at the wares these shops have to offer.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9517
+0
+Exit
+1
+~
+~
+-1
+9629
+0
+Exit
+2
+~
+~
+-1
+9636
+0
+Exit
+3
+~
+~
+-1
+9505
+0
+EndRoom
+
+#ROOM
+Vnum 9508
+Name The Southwestern Market Square~
+Desc This area of the market seems relatively quiet, save the high-pitched
+banter of the shopkeeps attempting to lure you into their stores.  South
+you see the bread stand and west is the entrance to the general store.
+The market's sprawl continues east and north of here.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9509
+0
+Exit
+1
+~
+~
+-1
+9505
+0
+Exit
+2
+You see the grocer's.
+~
+~
+-1
+9635
+0
+Exit
+3
+You see the general store.
+~
+~
+-1
+9628
+0
+EndRoom
+
+#ROOM
+Vnum 9509
+Name The Western Market Square~
+Desc This area of the square seems a bit more subdued than the rest. You
+notice that most of the outland adventurers mill around the southern
+end of the market, while the townfolk seem to keep their business in
+the northern end.  West Main Street begins here and heads for the
+gate. The market's expanse fills the other directions.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9514
+0
+Exit
+1
+~
+~
+-1
+9506
+0
+Exit
+2
+~
+~
+-1
+9508
+0
+Exit
+3
+~
+~
+-1
+9526
+0
+EndRoom
+
+#ROOM
+Vnum 9510
+Name The Common Square~
+Desc People pass by talking to each other, or rest their weary bones on this
+grassy field. You can hear faint sounds of the river to the south of you
+as it passes through the city. Ishtar drive heads east and west from here
+and the medina is to the north. South lies the Ishtar River bridge and the
+southern gate.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see the medina.
+~
+~
+-1
+9503
+0
+Exit
+1
+~
+~
+-1
+9537
+0
+Exit
+2
+You see the bridge over the river.
+~
+~
+-1
+9512
+0
+Exit
+3
+~
+~
+-1
+9536
+0
+EndRoom
+
+#ROOM
+Vnum 9511
+Name Outside the Southern Gate of New Thalos~
+Desc You see before you the expanse of the Sands of Sorrow.  The shifting sands 
+stretch on endlessly to the south, hiding treasure and adventure.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+gate~
+9501
+9513
+AB
+EndRoom
+
+#ROOM
+Vnum 9512
+Name The Southern Bridge~
+Desc Walking over the bridge you see the rushing waters of the Ishtar River.
+To the south you see the Southern Gate of New Thalos and the Common
+Square stretches out to the north.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9510
+0
+Exit
+2
+~
+~
+-1
+9513
+0
+Exit
+5
+~
+~
+-1
+9585
+0
+EndRoom
+
+#ROOM
+Vnum 9513
+Name Inside the South Gate of New Thalos~
+Desc Two large stone towers rise up to greet you with the massive iron gate
+swinging on ornately crafted hinges and emblazoned with the crest of
+New Thalos. The makers of the city spared no expense in rebuilding the
+defenses or their home. The Ishtar River bridge lies to the north and
+wilderness to the south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9512
+0
+Exit
+2
+~
+gate~
+9501
+9511
+AB
+EndRoom
+
+#ROOM
+Vnum 9514
+Name The Northwestern Market Square~
+Desc This corner of the market contains some of the most civilized folk in
+New Thalos. To the north lies the humble store of the merchant Ahkeem, his
+weavings known to be the best in the city. West of here is the entrance
+to Nabil's Exotic Animals.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9614
+0
+Exit
+1
+~
+~
+-1
+9515
+0
+Exit
+2
+~
+~
+-1
+9509
+0
+Exit
+3
+~
+~
+-1
+9621
+0
+EndRoom
+
+#ROOM
+Vnum 9515
+Name The Northern Market Square~
+Desc You stand in one of the most heavily used parts of town. To the north lies
+the Palace of New Thalos and the Casbah; east west and south of here the
+busy market thrives with life.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9518
+0
+Exit
+1
+~
+~
+-1
+9516
+0
+Exit
+2
+~
+~
+-1
+9506
+0
+Exit
+3
+~
+~
+-1
+9514
+0
+EndRoom
+
+#ROOM
+Vnum 9516
+Name The Northeastern Market Square~
+Desc Pandemonium. Chaos. Madness. A few other choice words come to mind as you
+gaze into this corner of the market. The vegetable stand seems quiet enough
+so you have to assume the noise comes from the Butchery. You have to
+think for a while before you muster the will to enter this shop.
+The market continues to the south and west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9615
+0
+Exit
+1
+~
+~
+0
+9706
+0
+Exit
+2
+~
+~
+-1
+9517
+0
+Exit
+3
+~
+~
+-1
+9515
+0
+EndRoom
+
+#ROOM
+Vnum 9517
+Name The Eastern Market Square~
+Desc You stand in the market of New Thalos, the gem of the desert. The
+market is the hub of the city; all trade and commerce of any significance is
+carried on here. The market spreads out in all directions save east; here
+Main Street heads for the eastern gate.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9516
+0
+Exit
+1
+~
+~
+-1
+9527
+0
+Exit
+2
+~
+~
+-1
+9507
+0
+Exit
+3
+~
+~
+-1
+9506
+0
+EndRoom
+
+#ROOM
+Vnum 9518
+Name Sultan's Walk~
+Desc This cobblestone road aides your journey through town. Traveling north will
+take you by the palace and the Dancing Daemon Inn, and south will put you on
+the market square.
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9519
+0
+Exit
+2
+~
+~
+-1
+9515
+0
+EndRoom
+
+#ROOM
+Vnum 9519
+Name Sultan's Walk~
+Desc This part of the road travels between one of the sturdy walls of the
+Palace and the Dancing Daemon. To the east you peer through a small
+window into the Daemon, seeing many people dancing and drinking. After
+you tend to your other chores you plan on visiting the Daemon.
+The walk continues north and south from here.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9520
+0
+Exit
+2
+~
+~
+-1
+9518
+0
+EndRoom
+
+#ROOM
+Vnum 9520
+Name Sultan's Walk~
+Desc The road here between the palace and the Dancing Daemon Inn seems well
+worn by the travel of horses, carts, and leather boots. From the west you
+hear the faint sound of trumpets announcing the arrival of some duke or
+duchess to the palace. Safe haven awaits you to the east in the halls
+of the Daemon, and Sultan's Walk continues north and south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9521
+0
+Exit
+1
+~
+~
+-1
+9500
+0
+Exit
+2
+~
+~
+-1
+9519
+0
+Exit
+3
+~
+~
+-1
+9658
+0
+EndRoom
+
+#ROOM
+Vnum 9521
+Name Sultan's Walk~
+Desc The main road north from the square continues here, surrounded by the walls
+of the palace and the Daemon. To the north you see the heavily guarded gate
+and can make out faint sounds of trade to the south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9522
+0
+Exit
+2
+~
+~
+-1
+9520
+0
+EndRoom
+
+#ROOM
+Vnum 9522
+Name Inside the Northern Gate of New Thalos~
+Desc Two large stone towers rise up to greet you with a massive iron gate
+swinging between on ornately crafted hinges and emblazend with the crest of
+New Thalos. The makers of this city spared no costs in rebuilding the
+defenses of their home. Sultan's Walk runs to the south and the Casbah
+stretches out east and west. To the north lay wilderness of the desert.
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+gate~
+9501
+9667
+AB
+Exit
+1
+~
+~
+-1
+9549
+0
+Exit
+2
+~
+~
+-1
+9521
+0
+Exit
+3
+~
+~
+-1
+9548
+0
+EndRoom
+
+#ROOM
+Vnum 9523
+Name Inside the West Gate of New Thalos~
+Desc Two large stone towers embedded in the wall loom over you. The massive
+iron gate, emblazoned with the crest of New Thalos, swings easily on
+four ornately crafted hinges. It is obvious the makers of this city
+spared no expense to protect their home.  Main street heads towards
+the market eastward and the eastern road passes through the Sands of
+Sorrow to your west. To the south lies the entrance of the warrior's guild.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9524
+0
+Exit
+2
+~
+~
+-1
+9626
+0
+Exit
+3
+~
+gate~
+9501
+9669
+AB
+EndRoom
+
+#ROOM
+Vnum 9524
+Name West Main Street~
+Desc This is the main road traveling though the city. To the south you hear
+the hammering of the repair shop and to the north is the grassy field
+known as the temple square. Main street continues east and west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9620
+0
+Exit
+1
+~
+~
+-1
+9525
+0
+Exit
+2
+~
+~
+-1
+9627
+0
+Exit
+3
+~
+~
+-1
+9523
+0
+EndRoom
+
+#ROOM
+Vnum 9525
+Name West Main Street~
+Desc A foreman stands stand here watching over two construction workers
+fixing a pothole. The road here branches off north and south into
+two alleys behind the stores of the market. The main street continues
+east and west from here.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9571
+0
+Exit
+1
+~
+~
+-1
+9526
+0
+Exit
+2
+~
+~
+-1
+9572
+0
+Exit
+3
+~
+~
+-1
+9524
+0
+EndRoom
+
+#ROOM
+Vnum 9526
+Name West Main Street~
+Desc You are strolling on the street between Nabil's Exotic Animals and the general
+store. To the west you hear a roadcrew at work and to the East, the sounds of
+commerce taking place.  The air is filled with the smell of gold and riches.
+On the wall of the store is a poster.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+poster~
+A wealthy man in red robes is smiling at you.  The caption reads:
+
+THE SULTAN REMINDS YOU TO PAY YOUR TAXES!
+
+~
+Exit
+1
+~
+~
+-1
+9509
+0
+Exit
+3
+~
+~
+-1
+9525
+0
+EndRoom
+
+#ROOM
+Vnum 9527
+Name East Main Street~
+Desc Here on East Main, you smell the odor of freshly slaughtered meat and
+hear the pounding of new metal from the armory.  The Square is to
+the west and a junction is to the East.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9528
+0
+Exit
+3
+~
+~
+-1
+9517
+0
+EndRoom
+
+#ROOM
+Vnum 9528
+Name East Main Street~
+Desc You are on East Main Street.  To the North is the beginning of
+Guildsman's Row.  To the South is a dark alley.  The road also
+continues to the East. There is a small sign on a wire hanging
+across the junction.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+NO LOITERING!
+
+(by order of the Sultan of New Thalos)
+~
+Exit
+0
+~
+~
+-1
+9564
+0
+Exit
+1
+~
+~
+-1
+9529
+0
+Exit
+2
+~
+~
+-1
+9565
+0
+Exit
+3
+~
+~
+-1
+9527
+0
+EndRoom
+
+#ROOM
+Vnum 9529
+Name East Main Street~
+Desc As you walk by the mercenary guild a cold chill causes you to shiver
+uncontrollably. You see some shady looking characters lurking about the
+entrance to this house of 'helpful' people. Perhaps curiosity gets the
+best of you, but you wonder what could be going on inside. To the north
+you see the open doors of the apothecary shop where one may buy many
+magical livations.
+Main Street continues east and west from here.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9623
+0
+Exit
+1
+~
+~
+-1
+9530
+0
+Exit
+2
+~
+~
+-1
+9630
+0
+Exit
+3
+~
+~
+-1
+9528
+0
+EndRoom
+
+#ROOM
+Vnum 9530
+Name East Main Street~
+Desc The Main street through eastern New Thalos begins here and heads westward
+towards the marketplace. One of the main gates can be seen to the east, and
+Braheem's Magic Shop awaits your business to the north.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9624
+0
+Exit
+1
+~
+~
+-1
+9531
+0
+Exit
+3
+~
+~
+-1
+9529
+0
+EndRoom
+
+#ROOM
+Vnum 9531
+Name Inside the Eastern Gate of New Thalos~
+Desc Two large stone towers imbedded in the wall loom over you. The massive
+iron gate, emblazened with the crest of New Thalos, swings easily on
+four ornately crafted hinges. It is obvious the makers of this city spared no
+expense in protecting their home.  Main street heads towards the market
+westward and the wilderness beckons from the east. To the north lies the
+entrance to the mages' guild.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9625
+0
+Exit
+1
+~
+gate~
+9501
+9668
+AB
+Exit
+3
+~
+~
+-1
+9530
+0
+EndRoom
+
+#ROOM
+Vnum 9532
+Name Cassandra's Catch of the Day~
+Desc Nothing in your life has prepared you for the odor which fills your lungs.
+Not wanting to offend the beautiful shopkeeper you hold your tongue and
+quietly look over her selection.
+~
+Room_flags 56
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+9541
+0
+EndRoom
+
+#ROOM
+Vnum 9533
+Name West Ishtar Drive~
+Desc This is the warehouse district of New Thalos. Strong men walk back and
+forth from the docks to the warehouse carrying large crates loading
+and unloading the boats as they sail down the river. To the north is
+one of the entrances of the warehouse and West Ishtar leads east.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9640
+0
+Exit
+1
+~
+~
+-1
+9534
+0
+EndRoom
+
+#ROOM
+Vnum 9534
+Name West Ishtar Drive~
+Desc A few men walk by almost pushing you out of the way as they go about
+their business of loading and unloading the boats. An entrance to the
+huge warehouses of New Thalos is to the north and the Ishtar River
+quietly flows by to the south. Ishtar Drive continues east and west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9641
+0
+Exit
+1
+~
+~
+-1
+9535
+0
+Exit
+3
+~
+~
+-1
+9533
+0
+EndRoom
+
+#ROOM
+Vnum 9535
+Name West Ishtar Drive~
+Desc The cobblestone road is moist here, the trail of water heading down to
+the boat ramp. Catching your balance as you start to slide on the slick
+pavement you grab on to the handrail someone has conveniently placed here.
+To the north is the Shipwright and Ishtar Drive continues east and west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9642
+0
+Exit
+1
+~
+~
+-1
+9536
+0
+Exit
+2
+~
+~
+-1
+9543
+0
+Exit
+3
+~
+~
+-1
+9534
+0
+EndRoom
+
+#ROOM
+Vnum 9536
+Name West Ishtar Drive~
+Desc A cool breeze blows up off the river chilling the sweat otherwise present
+on you skin. Orders and sometimes curses can be heard from the west
+in the direction of the warehouses. The common square opens up to the east
+and Ishtar Drive continues west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9510
+0
+Exit
+3
+~
+~
+-1
+9535
+0
+EndRoom
+
+#ROOM
+Vnum 9537
+Name East Ishtar Drive~
+Desc Loud hammering and the sound of red hot iron cooling in water reaches
+your ears as you stand in front of the blacksmith. A small boy runs up
+to you with big eyes and as you return his gaze runs off down the road.
+The common square can be seen to the west and Ishtar Drive continues
+to the east.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9644
+0
+Exit
+1
+~
+~
+-1
+9539
+0
+Exit
+3
+~
+~
+-1
+9510
+0
+EndRoom
+
+#ROOM
+Vnum 9538
+Name East Ishtar Drive~
+Desc The wide road bordering the south of town continues to the east and
+west here, bordered only by the hay-loft to the north and the Ishtar
+River to the south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9540
+0
+Exit
+3
+~
+~
+-1
+9539
+0
+EndRoom
+
+#ROOM
+Vnum 9539
+Name East Ishtar Drive~
+Desc Small clumps of hay strewn about the ground alerts you to the fact that
+you have reached the stables. Arabian stallions as well as many other
+fine breeds of horses can be purchased for a price. Ishtar road continues
+east and west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9645
+0
+Exit
+1
+~
+~
+-1
+9538
+0
+Exit
+3
+~
+~
+-1
+9537
+0
+EndRoom
+
+#ROOM
+Vnum 9540
+Name East Ishtar Drive~
+Desc Even in broad daylight, you can hardly see into the back alley that begins
+here and heads north. Sounds of loud drunken folk and the occasional
+screaming cat emenate from the direction. Luckily you have the choice of
+going east or west down the drive as well.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+You see murky darkness.
+~
+~
+-1
+9568
+0
+Exit
+1
+~
+~
+-1
+9541
+0
+Exit
+3
+~
+~
+-1
+9538
+0
+EndRoom
+
+#ROOM
+Vnum 9541
+Name East Ishtar Drive~
+Desc Your highly acute sense of smell reports you have reached the entrance
+to the fish market. Although renowned for it fresh catches and
+wide selection of aquarian delicacies you wonder how much longer you
+can endure the smell! The Ishtar River flows alongside to the south
+with the drive running alongside it east to west.
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9532
+0
+Exit
+1
+~
+~
+-1
+9542
+0
+Exit
+3
+~
+~
+-1
+9540
+0
+EndRoom
+
+#ROOM
+Vnum 9542
+Name East Ishtar Drive~
+Desc The sound of squawking gulls and the smell of rotting fish gives you a hint
+of your location. The Ishtar River flows south of you, but looks crystal
+clear, so it cannot be the source of this putrid smell. Looking north you
+notice a small sign hanging over the dump.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+==========================================================================
+                       THE DUMP OF NEW THALOS
+
+
+                              -----
+
+  Enter at your own risk.
+       -the management
+
+=========================================================================
+~
+Exit
+0
+~
+~
+-1
+9647
+0
+Exit
+3
+~
+~
+-1
+9541
+0
+EndRoom
+
+#ROOM
+Vnum 9543
+Name Boat Ramp~
+Desc This sloped slab of stone allows easy passage to and from the Ishtar.
+Boats are moored to the docks here awaiting their masters to return from
+the warehouses and the pubs. The waters of the Ishtar lap at your feet
+to the south and Ishtar Drive is to the north.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9535
+0
+Exit
+2
+~
+~
+-1
+9586
+0
+EndRoom
+
+#ROOM
+Vnum 9544
+Name West Casbah~
+Desc The air takes on a somber note as you stand before the entrance to the
+jailhouse of New Thalos. Hopefully you won't ever see this structure from
+the inside. The northwest tower stands here with a spiral staircase
+leading up. The avenue ends here, only exiting to the east.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9545
+0
+Exit
+2
+~
+~
+-1
+9653
+0
+Exit
+4
+~
+~
+-1
+9659
+0
+EndRoom
+
+#ROOM
+Vnum 9545
+Name West Casbah~
+Desc You have almost reached the end of the avenue in this direction, the
+number of guards in this part of town is nearly doubled. To the north
+the familiar city wall protects you from the wilderness. Looking south
+marble stairs rise towards the entrance of city hall surrounded by
+massive white pillars. The avenue continues west and south from here.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9546
+0
+Exit
+2
+~
+~
+-1
+9654
+0
+Exit
+3
+~
+~
+-1
+9544
+0
+EndRoom
+
+#ROOM
+Vnum 9546
+Name The Casbah~
+Desc The wall of the palace curves south from here, a darkened alley runs along
+it in that direction. West of here you see the steps of the city hall
+and notice the increase in the number of guards. To the east the avenue
+continues.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9547
+0
+Exit
+2
+~
+~
+-1
+9558
+0
+Exit
+3
+~
+~
+-1
+9545
+0
+EndRoom
+
+#ROOM
+Vnum 9547
+Name The Casbah~
+Desc As you travel down the road towards towards the city hall you look up
+at the guards walking along the wall keeping watch. South of you stands
+the great walls of the palace and the avenue goes east and west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9548
+0
+Exit
+3
+~
+~
+-1
+9546
+0
+EndRoom
+
+#ROOM
+Vnum 9548
+Name The Casbah~
+Desc The cobblestone pavement runs along the north wall here. South of you
+stand the great walls of the palace and the avenue goes east and west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9522
+0
+Exit
+3
+~
+~
+-1
+9547
+0
+EndRoom
+
+#ROOM
+Vnum 9549
+Name The Casbah~
+Desc The activity here is only slightly less than chaotic. Young boys run to
+and fro with stern intent, and older gentleman swagger down the street
+towards the library. To the west you can see the tall towers of the
+northern gate, and the avenue continues east.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9550
+0
+Exit
+3
+~
+~
+-1
+9522
+0
+EndRoom
+
+#ROOM
+Vnum 9550
+Name The Casbah~
+Desc Walking along the cobblestone path you feel secure with the walls of the
+city towering over you. You hear the scraping sounds of metal on stone
+and look up to see a large, strong guard looking out to the north. To the
+east lies the intersection on Guildsman's Row and the northern gate is
+a short walk to the west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9551
+0
+Exit
+3
+~
+~
+-1
+9549
+0
+EndRoom
+
+#ROOM
+Vnum 9551
+Name The Casbah~
+Desc The din of the guilds assaults your senses as you reach this intersection;
+the sound of hammering, the smell of tanned leather, and the smoke rising
+from the smithy all rush up to greet you. The avenue continues east and
+west form here and the row leads south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9552
+0
+Exit
+2
+~
+~
+-1
+9560
+0
+Exit
+3
+~
+~
+-1
+9550
+0
+EndRoom
+
+#ROOM
+Vnum 9552
+Name The Casbah~
+Desc You walk between the solid stone wall of the city and that of the Mason's
+guild. Young children and their nannys walk around enjoying the safety
+of the city. The avenue runs east and west from here.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9553
+0
+Exit
+3
+~
+~
+-1
+9551
+0
+EndRoom
+
+#ROOM
+Vnum 9553
+Name The Casbah~
+Desc You have almost reached the end of the avenue in this direction. Walking
+towards the north-east corner of the city you notice the population density
+here is much less then the rest of the town. A few old men hobbling on
+canes and young men intent on studies are the only travelers of the path
+to the library on a regular basis. The avenue continues east and west from
+here
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9554
+0
+Exit
+3
+~
+~
+-1
+9552
+0
+EndRoom
+
+#ROOM
+Vnum 9554
+Name The Casbah~
+Desc The avenue ends here, turning south to become Kali Row. Traveling in that
+direction will take you to the library and the grand dance hall of the city.
+The Northeast Tower of the wall is accessible here up a spiral staircase.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+9555
+0
+Exit
+3
+~
+~
+-1
+9553
+0
+Exit
+4
+~
+~
+-1
+9662
+0
+EndRoom
+
+#ROOM
+Vnum 9555
+Name Kali Row~
+Desc This is a small, newly added section of the town. The city's library
+can be entered through the door to the west and The Casbah
+begins it's journey a little ways north of here. The row and the
+entrance to the dance hall is to the south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9554
+0
+Exit
+2
+~
+~
+-1
+9556
+0
+Exit
+3
+~
+~
+-1
+9651
+0
+EndRoom
+
+#ROOM
+Vnum 9556
+Name Kali Row~
+Desc The short row ends abruptly here at the entrance to the dance hall of
+New Thalos. The entrance to the hall is to the west and the row continues
+northward.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9555
+0
+Exit
+3
+~
+~
+-1
+9652
+0
+EndRoom
+
+#ROOM
+Vnum 9557
+Name Underground~
+Desc The small passage continues north and south.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9578
+0
+Exit
+2
+~
+~
+-1
+9580
+0
+EndRoom
+
+#ROOM
+Vnum 9558
+Name Alley~
+Desc This is a dark alley running between the palace and city hall. Not a lot
+here, unless you're partial to spiders and rats.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9546
+0
+Exit
+2
+~
+~
+-1
+9559
+0
+EndRoom
+
+#ROOM
+Vnum 9559
+Name Alley~
+Desc The alley ends here.
+~
+Room_flags 1
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9558
+0
+Exit
+5
+You see a manhole covering an opening in the road.
+~
+manhole hole man~
+-1
+9575
+AB
+EndRoom
+
+#ROOM
+Vnum 9560
+Name Guildsman's Row~
+Desc This row is a hive of activity second only to the actual market
+square itself. Along this row stands all the guilds of the working
+class citizens of New Thalos;  here all the items sold in the square
+are made. Along this particular stretch of the row lie the Bowyer/
+Fletcher to the west and the Mason's to the east. The row leads
+off to the south and East Casbah is to the north.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9551
+0
+Exit
+1
+~
+~
+-1
+9656
+0
+Exit
+2
+~
+~
+-1
+9561
+0
+Exit
+3
+~
+~
+-1
+9655
+0
+EndRoom
+
+#ROOM
+Vnum 9561
+Name Guildsman's Row~
+Desc The guilds continue here, to the west is the Weaver's guild, and to the
+east stands the Craftsman's Guild. The row of guilds continues north
+and south from here.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9560
+0
+Exit
+1
+~
+~
+-1
+9607
+0
+Exit
+2
+~
+~
+-1
+9562
+0
+Exit
+3
+~
+~
+-1
+9606
+0
+EndRoom
+
+#ROOM
+Vnum 9562
+Name Guildsman's Row~
+Desc Only one guild offers its door to this stretch of the row; the Tanner's
+Guild, to the west. To the east is a beautifully sculpted marble door
+allowing entrance to the Museum of the Greater Gods. The row of
+Guilds leads north and south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9561
+0
+Exit
+1
+~
+~
+-1
+9611
+0
+Exit
+2
+~
+~
+-1
+9563
+0
+Exit
+3
+~
+~
+-1
+9664
+0
+EndRoom
+
+#ROOM
+Vnum 9563
+Name Guildsman's Row~
+Desc After the guilds were built the people of the city used some of the extra
+space to erect a shrine to their patron saints. The result of this labor
+became the Museum of the greater gods. You may enter the sacred hall to
+the east.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9562
+0
+Exit
+1
+~
+~
+-1
+9616
+0
+Exit
+2
+~
+~
+-1
+9564
+0
+EndRoom
+
+#ROOM
+Vnum 9564
+Name Guildsman's Row~
+Desc This small cramped road is worn with travel as apprentices to the guilds
+run merchandise from the guildhouses to the shops on market square. The
+guildhouses lie to the north and Main street is to the south.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9563
+0
+Exit
+2
+~
+~
+-1
+9528
+0
+EndRoom
+
+#ROOM
+Vnum 9565
+Name Alley~
+Desc Even with your light you cannot seem to penetrate the magical cloak of
+darkness covering this alley.
+~
+Room_flags 1
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9528
+0
+Exit
+2
+~
+~
+-1
+9566
+0
+EndRoom
+
+#ROOM
+Vnum 9566
+Name Alley~
+Desc Even with your light you cannot seem to penetrate the magical cloak of
+darkness covering this alley.
+~
+Room_flags 1
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9565
+0
+Exit
+1
+~
+~
+-1
+9567
+0
+Exit
+3
+~
+~
+-1
+9637
+0
+EndRoom
+
+#ROOM
+Vnum 9567
+Name Alley~
+Desc Even with your light you cannot seem to penetrate the magical cloak of
+darkness covering this alley.
+~
+Room_flags 1
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9638
+0
+Exit
+2
+~
+~
+-1
+9568
+0
+Exit
+3
+~
+~
+-1
+9566
+0
+EndRoom
+
+#ROOM
+Vnum 9568
+Name Alley~
+Desc Even with your light you cannot seem to penetrate the magical cloak of
+darkness covering this alley.
+~
+Room_flags 1
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9567
+0
+Exit
+2
+~
+~
+-1
+9540
+0
+EndRoom
+
+#ROOM
+Vnum 9569
+Name Alley~
+Desc This is a tiny corner in the alley.  The temple walls are North and West.
+You notice a fair amount of footprints to the east.
+~
+Room_flags 1
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+footprint~
+Kind of looks like a yeti has been here....  Hmmmm.
+~
+Exit
+1
+~
+~
+-1
+9570
+0
+Exit
+2
+~
+~
+-1
+9571
+0
+EndRoom
+
+#ROOM
+Vnum 9570
+Name Alley~
+Desc This is a dead end to the tiny alley.  There is an unusual amount of wear
+appearent on the ground.
+~
+Room_flags 1
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+9569
+0
+Exit
+5
+You see a small iron circle imbedded in the ground.
+~
+manhole man hole~
+-1
+9578
+AB
+EndRoom
+
+#ROOM
+Vnum 9571
+Name Alley~
+Desc You are in a tiny ally between the temple and Nabil's Exotic Animals. You hear
+some shouting and general roadwork to the south.  The ground is rough and
+in need of repair.  In the road is a small pothole.
+~
+Room_flags 1
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+pothole~
+Why are you looking in a pothole??????
+You poor or something?
+~
+Exit
+0
+~
+~
+-1
+9569
+0
+Exit
+2
+~
+~
+-1
+9525
+0
+EndRoom
+
+#ROOM
+Vnum 9572
+Name Alley~
+Desc You are on a small alley between the repair shop and the general store.
+Nothing much here but small rodents and dust.
+~
+Room_flags 1
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9525
+0
+Exit
+2
+~
+~
+-1
+9573
+0
+EndRoom
+
+#ROOM
+Vnum 9573
+Name Alley~
+Desc This is a small corner in the alley behind the warehouses and the guild
+of warrior's. You notice  some small scrapings to the west.
+~
+Room_flags 1
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9572
+0
+Exit
+1
+~
+~
+-1
+9574
+0
+EndRoom
+
+#ROOM
+Vnum 9574
+Name Alley~
+Desc The alley ends here as do the footprints you had noticed earlier.
+~
+Room_flags 1
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+9573
+0
+Exit
+5
+You see a small round iron plate set in the ground.
+~
+manhole man hole~
+-1
+9581
+AB
+EndRoom
+
+#ROOM
+Vnum 9575
+Name Underground~
+Desc You are in a small underground passage beneath the city. You see a small
+glint of light from above and the passage continues south.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+9576
+0
+Exit
+4
+~
+man hole manhole~
+-1
+9559
+AB
+EndRoom
+
+#ROOM
+Vnum 9576
+Name Underground~
+Desc The passage continues north and south.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9575
+0
+Exit
+2
+~
+~
+-1
+9577
+0
+EndRoom
+
+#ROOM
+Vnum 9577
+Name Underground~
+Desc The tunnel branches here going north, east, and west.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9576
+0
+Exit
+1
+~
+~
+-1
+9578
+0
+Exit
+3
+~
+~
+-1
+9579
+0
+EndRoom
+
+#ROOM
+Vnum 9578
+Name Underground~
+Desc The alley turns again here and heads south and west. You notice a small
+glint of light from above.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+9557
+0
+Exit
+3
+~
+~
+-1
+9577
+0
+Exit
+4
+~
+manhole man hole~
+-1
+9570
+AB
+EndRoom
+
+#ROOM
+Vnum 9579
+Name Underground~
+Desc The passage ends here and you hear some low chanting from the west.
+You also notice the clearing of dust on the ground but can't seem to
+find any door in that direction.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9577
+0
+EndRoom
+
+#ROOM
+Vnum 9580
+Name Underground~
+Desc The small passage continues north and south from here.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9557
+0
+Exit
+2
+~
+~
+-1
+9581
+0
+EndRoom
+
+#ROOM
+Vnum 9581
+Name Underground~
+Desc The small passage heads north and east from here. You here the sounds
+of the city above you.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9580
+0
+Exit
+1
+~
+~
+-1
+9582
+0
+Exit
+4
+~
+manhole man hole~
+-1
+9574
+AB
+EndRoom
+
+#ROOM
+Vnum 9582
+Name Underground~
+Desc The tunnel continues you west and east. Hopefully you have a good sense
+of direction.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9592
+0
+Exit
+3
+~
+~
+-1
+9581
+0
+EndRoom
+
+#ROOM
+Vnum 9583
+Name Ishtar River~
+Desc High above you on the top of the city wall guards look down to see if you
+wish to exit the city via water. To do so they must open the iron grating
+in front of you from above. The horrid smell of the dump wafts down from
+the shore.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9724
+0
+Exit
+3
+~
+~
+-1
+9584
+0
+EndRoom
+
+#ROOM
+Vnum 9584
+Name Ishtar River~
+Desc The gentle flow of the river carries you eastward;  looking up you see
+couples strolling along the road. To the west you see the southern
+bridge and to the east you see the iron grating protecting the city from
+unwanted guests.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9583
+0
+Exit
+3
+~
+~
+-1
+9585
+0
+EndRoom
+
+#ROOM
+Vnum 9585
+Name Ishtar River~
+Desc You hear your voice echo as you float under the bridge above. The city
+construction crews have just recently finished the small ladder giving
+common-folk easy access to the river.  From here, the river flows east and
+west.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9584
+0
+Exit
+3
+~
+~
+-1
+9586
+0
+Exit
+4
+~
+~
+-1
+9512
+0
+EndRoom
+
+#ROOM
+Vnum 9586
+Name Ishtar River~
+Desc This part of the river seems alive with activity. Boats moored to the
+docks near the ramp north of here make navigation a bit more trying.
+As the river flows eastward you can see the southern bridge in that
+direction.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9543
+0
+Exit
+1
+~
+~
+-1
+9585
+0
+Exit
+3
+~
+~
+-1
+9587
+0
+EndRoom
+
+#ROOM
+Vnum 9587
+Name Ishtar River~
+Desc The river flows through a huge iron grating from the wilderness through
+the city. Strong guards above await word to open the portal
+should any citizen require exit or entry.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9586
+0
+Exit
+3
+~
+~
+-1
+9723
+0
+EndRoom
+
+#ROOM
+Vnum 9588
+Name Dark Passage~
+Desc You seem to have stumbled into a small hand made passage. The wall to
+the west  doesn't look quite right but searching it reveals no secret
+doors. The only exit it seems is east.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9589
+0
+EndRoom
+
+#ROOM
+Vnum 9589
+Name Dark Passage~
+Desc The small passage continues east and west from here. Again you notice
+something peculiar about the wall, this time to the north, but you
+fail to find any secret doors. Voices can be faintly heard from the north.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9590
+0
+Exit
+3
+~
+~
+-1
+9588
+0
+EndRoom
+
+#ROOM
+Vnum 9590
+Name Dark Passage~
+Desc The small passage continues west and east from here.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+boulder~
+A huge boulder stands here. In its center someone has carved out a
+perfect round hole.
+~
+Exit
+1
+~
+~
+-1
+9591
+0
+Exit
+3
+~
+~
+-1
+9589
+0
+EndRoom
+
+#ROOM
+Vnum 9591
+Name Dark Passage~
+Desc The small passage ends here for no apparent reason. Looking around you
+find a small ladder half buried in the dirt. setting it up you find a
+trap door in the ceiling. The passage continues west from here.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+fire~
+Moving closer you see this fire is actually FROZEN in place. The
+flames still radiate heat, but are not actually burning. Looking
+around you notice a small hole about the size of a piece of charcoal
+at the base of the flames.
+~
+Exit
+3
+~
+~
+-1
+9590
+0
+Exit
+4
+~
+secret~
+-1
+9670
+A
+EndRoom
+
+#ROOM
+Vnum 9592
+Name Underground~
+Desc The small passage continues west and east.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+cloud~
+Peering into the misty cloud the form a huge conch shell seems to fade
+in and out. Perhaps this is somehow the entrance to the next challenge
+~
+Exit
+1
+~
+~
+-1
+9593
+0
+Exit
+3
+~
+~
+-1
+9582
+0
+EndRoom
+
+#ROOM
+Vnum 9593
+Name Underground~
+Desc The small passage continues west and east.
+~
+Room_flags 9
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9600
+0
+Exit
+3
+~
+~
+-1
+9592
+0
+EndRoom
+
+#ROOM
+Vnum 9594
+Name Common Room of the Clan MacCleod~
+Desc You have entered a large hall with passages leading off in all directions.
+A large table dominates the center of this hall with many chairs were
+the clan gathers for feasting, merriment, and meetings. On the walls
+hang large tapestries paying homage to their leader Conner MacCleod.
+~
+Room_flags 40
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+iron gate~
+-1
+9599
+A
+Exit
+1
+~
+door east~
+-1
+9596
+A
+Exit
+2
+~
+drawbridge draw bridge door~
+7901
+6100
+ABCF
+Exit
+3
+~
+door west~
+-1
+9597
+A
+Exit
+4
+~
+door up~
+-1
+9595
+A
+Exit
+5
+~
+door down~
+-1
+9598
+A
+EndRoom
+
+#ROOM
+Vnum 9595
+Name Zippoii's Room~
+Desc Climbing up the staircase you enter the hovel of a curious mage. A small
+uncomfortable looking bed rests in the corner, surrounded by ancient
+tomes. On the worn desk next to the window candles burn low, casting
+strange shadows on the walls. The only noticeable decor is the mounted
+head of the Demi-Lich.
+~
+Room_flags 120
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+~
+door~
+-1
+9594
+A
+EndRoom
+
+#ROOM
+Vnum 9596
+Name Ice's Room~
+Desc Brrrrrr, it's COLD in here. Must be 30 below. It would seem the cleric
+Ice lives up to his name. Healing herbs and other such things line
+the walls in racks, holy symbols and pictures cover the walls, and
+the smiley face button stuck on his bedpost tells you he'll probably
+help you out all he can. As you turn to leave the room the mounted head
+of Kalas stares past you into emptiness.
+~
+Room_flags 120
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+door~
+-1
+9594
+A
+EndRoom
+
+#ROOM
+Vnum 9597
+Name Naazgul's Room~
+Desc Three Rings for the Elven-kings under the sky,
+  Seven for the Dwarf-lords in their halls of stone,
+Nine for Mortal Men doomed to die,
+  One for the Dark Lord on his Dark Throne
+In the Land of Mordor where Shadows lie.
+  One ring to rule them all, One ring to find them,
+  One ring to bring them all and in the darkness bind them
+In the Land of Mordor where the Shadows lie.
+
+If I have to explain, you wouldn't understand.
+~
+Room_flags 120
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9710
+0
+Exit
+1
+~
+door~
+-1
+9594
+A
+EndRoom
+
+#ROOM
+Vnum 9598
+Name Tank's Room~
+Desc Now here's a room that is easy to understand. A bed, a dresser, and a
+rack for weapons and armor are all that occupy it. Some posters adorn
+the walls, to add color, proclaiming things such as Live fast, Die Young,
+and a homemade one in the corner with a picture of Ice and under it the
+inscription, "I LOVE the resurrection spell". The only thing out of
+place in this happy-go-lucky room is mounted head of Crimson Death.
+~
+Room_flags 120
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+door~
+-1
+9594
+A
+EndRoom
+
+#ROOM
+Vnum 9599
+Name Inside the Castle of Clan MacCleod~
+Desc You have entered the grand hall of the castle. A huge throne dominates a
+raised area in the northern part of then room. In front of this stands a
+drafting table.
+~
+Room_flags 120
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+iron gate~
+-1
+9594
+A
+EndRoom
+
+#ROOM
+Vnum 9600
+Name Underground~
+Desc The small passage continues west and east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9601
+0
+Exit
+3
+~
+~
+-1
+9593
+0
+EndRoom
+
+#ROOM
+Vnum 9601
+Name Underground~
+Desc The small passage continues west and east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9602
+0
+Exit
+3
+~
+~
+-1
+9600
+0
+EndRoom
+
+#ROOM
+Vnum 9602
+Name Underground~
+Desc The small passage continues west and east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9588
+0
+Exit
+3
+~
+~
+-1
+9601
+0
+EndRoom
+
+#ROOM
+Vnum 9603
+Name Cleric's Sanctum~
+Desc You walk down the staircase into the silent inner sanctum. Here sits
+your guildmaster ready to assist you when the time is right. The room
+is completely silent. The only obvious exit is back up the staircase
+into the the Nectar.
+~
+Room_flags 124
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You notice the floor at the base of the eastern wall has some faint
+scratches in it.
+~
+secret door~
+-1
+9579
+AB
+Exit
+4
+~
+~
+-1
+9619
+0
+EndRoom
+
+#ROOM
+Vnum 9604
+Name Chamber of the High Priest~
+Desc You have entered the chamber of the most holy man in New Thalos. The
+High Priest advises the Sultan on all matters in the world of the sacred.
+From what you have heard however, this holy man has a bit of a temper,
+and he doesn't look very happy that you've disturbed his prayers.
+The only obvious exit is south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+9608
+0
+EndRoom
+
+#ROOM
+Vnum 9605
+Name By the Altar~
+Desc You are by the temple altar in the northern end of Temple of New
+Thalos. A huge altar made of highly polished black onyx is standing
+in front of you. Behind this altar sits a twelve foot tall statue of
+Loki, the highest god in all the lands.
+~
+Room_flags 76
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+statue~
+Looking up the huge statue you see Loki calmly gazing out across his
+lands.  He seems pleased.
+~
+Exit
+2
+~
+~
+-1
+9609
+0
+EndRoom
+
+#ROOM
+Vnum 9606
+Name The Weaver's Guild~
+Desc Rows and rows of uncut cloth lie about waiting to be hemmed up into
+tailored clothes. Cotton is brought in from the countryside and
+spun up into cloth and dyed different colors. A young boy walks
+in, grabs a pile of clothing and leaves.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9561
+0
+EndRoom
+
+#ROOM
+Vnum 9607
+Name The Craftsman's Guild~
+Desc You have entered a busy workshop filled with people running amok
+with various tools and materials.  The air is tense with the rush to
+complete various projects and creations.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+9561
+0
+EndRoom
+
+#ROOM
+Vnum 9608
+Name Inside the Temple~
+Desc The temple continues here, but not on such a grand scale. The place
+still looks immaculate. To the north you see the chamber of the High
+Priest and a sign on the door in BIG letters thats says DO NOT DISTURB.
+To the south is the entrance to the Cleric's Guild.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9604
+0
+Exit
+1
+~
+~
+-1
+9609
+0
+Exit
+2
+~
+~
+-1
+9612
+0
+EndRoom
+
+#ROOM
+Vnum 9609
+Name Inside the Temple~
+Desc Huge marble pillars rise on either side of you and grab hold of the ceiling.
+Between each of these, fine softstone frescoes have been carved depicting
+scenes from the religous history of New Thalos. Rows of pews face forward
+giving their full attention to the pulpit rising high  above the ground. The
+deep red carpeting underfoot shows not a speck of wear or dirt. It's obvious
+that New Thalonians take religion seriously.
+~
+Room_flags 120
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9605
+0
+Exit
+1
+~
+~
+-1
+9610
+0
+Exit
+2
+~
+~
+-1
+9613
+0
+Exit
+3
+~
+~
+-1
+9608
+0
+EndRoom
+
+#ROOM
+Vnum 9610
+Name Donation Room~
+Desc This room is new to the temple.  It was created during the hard times
+that have struck the city in recent decades.  Luckily for them the sultan
+had been hoarding some of the basic necessities for just such an occasion.
+These days the donation room depends on the generosity of wealthy
+adventureres, and a curse on any that walk in to get all.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+9609
+0
+EndRoom
+
+#ROOM
+Vnum 9611
+Name The Museum of the Greater Gods~
+Desc Four large stone statues reside in the museum. They were constructed by
+the people of New Thalos to pay homage to the saints they believe to
+have saved all their lives.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+9616
+0
+Exit
+3
+~
+~
+-1
+9562
+0
+EndRoom
+
+#ROOM
+Vnum 9612
+Name Entrance to the Guild of Clerics~
+Desc This hall pales in comparison to that of the main hall, but is beautiful
+in its own right. Shaven heads and brown robes can be seen milling about
+quitely talking to each other. North is back inside the temple proper,
+and south is the entrance to the cleric's bar.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9608
+0
+Exit
+2
+~
+~
+-1
+9619
+0
+EndRoom
+
+#ROOM
+Vnum 9613
+Name The Temple Gates~
+Desc You stand before the entrance way to the Temple of New Thalos. Two large
+wrought iron gates lie open before you. Although they might not ever be
+used, the priests in the temple are ready to defend themselves, should
+their city ever come under siege again.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9609
+0
+Exit
+2
+~
+~
+-1
+9620
+0
+Exit
+5
+~
+~
+-1
+9620
+0
+EndRoom
+
+#ROOM
+Vnum 9614
+Name Ahkeem's Stuff~
+Desc You step into a shop swirling with smoke.  Ahkeem seems to have a liking for
+things not of this world...very strange stuff indeed.  There is a large sign on
+the wall.
+~
+Room_flags 120
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+note sign~
+LIST : gives you a list of items for sale.
+VALUE : tells you how much an item is worth to Ahkeem
+SELL : sells an item to Akheem for a generous sum
+BUY : Akheem's FAVORITE command lets you have an item for his low low price.
+
+                                       ~
+Exit
+2
+~
+~
+-1
+9514
+0
+EndRoom
+
+#ROOM
+Vnum 9615
+Name Vera's Veggies~
+Desc This is a busy place.  Customers shuffle around, bartering for lower prices
+on the wide selection of vegetables.  You can still hear your mother telling
+you 'Eat your Veggies'.  That's probably why you're mudding right now and
+not hanging out with mom.  But wait...Vera looks just like your mother!
+There is a large poster, behind the counter, taped to the wall.
+~
+Room_flags 120
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+note poster~
+LIST : gives you a list of items for sale.
+VALUE : tells you how much an item is worth to Vera
+SELL : sells an item to Vera for a generous sum
+BUY : Vera's FAVORITE command lets you have an item for her low low price.
+
+                                        NEWBEE INTRUCTOR COMITEE
+~
+Exit
+2
+~
+~
+-1
+9516
+0
+EndRoom
+
+#ROOM
+Vnum 9616
+Name The Museum of the Greater Gods~
+Desc This room is identical to the one north of it, but contains four differnt
+statues.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9611
+0
+Exit
+3
+~
+~
+-1
+9563
+0
+EndRoom
+
+#ROOM
+Vnum 9617
+Name Base of the Tower~
+Desc You walk into a cold room whose only feature is an old wooden staircase
+spirling up along the wall to a higher level. Up these stairs, you are
+told, lies the old mage who may be able to help you advance in your
+studies.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9618
+0
+Exit
+2
+You see some small scratches on the floor near the base of the wall.
+~
+secret door~
+-1
+9624
+AB
+Exit
+4
+~
+~
+-1
+9648
+0
+EndRoom
+
+#ROOM
+Vnum 9618
+Name The Mage's Courtyard~
+Desc You enter a small tiled courtyard with a small fountain in the middle.
+Around the sides are four wrought iron benches with cushions where the
+mages of the land sit and exchange ideas. To the west stands a two-story
+tower where the leader of the mage's guild performs his experiments.
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+9625
+0
+Exit
+3
+~
+~
+-1
+9617
+0
+EndRoom
+
+#ROOM
+Vnum 9619
+Name Nectar of the Gods~
+Desc You are startled by the lavishness of this place. From what you know of
+clerics they are supposed to be humble people, giving all their
+material goods to their cause. Perhaps because only clerics are
+allowed to enter this bar they have condoned making it as comfortable
+as possible. In the corner stands a staircase leading down to the
+meditaion chambers.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9612
+0
+Exit
+5
+~
+~
+-1
+9603
+0
+EndRoom
+
+#ROOM
+Vnum 9620
+Name The Temple Square~
+Desc You are standing on the meeting grounds of those with holy intentions.
+Monks, bards, paladins and clerics mill around either preaching or
+listening to their fellows preach. Huge marble steps lead up to the
+gates of the temple and Main Street lies to the south.
+~
+Room_flags 32
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9613
+0
+Exit
+2
+~
+~
+-1
+9524
+0
+Exit
+4
+~
+~
+-1
+9613
+0
+EndRoom
+
+#ROOM
+Vnum 9621
+Name Nabil's Exotic Animals~
+Desc You stand in a large building decorated with black marble and red satin.
+A lavishly flourished sign details several exotics creatures and Nabil's
+smiling face.  Cages crowd the room, some large, some small, and filled with
+animals from the four corners of the world.  Various feeding and grooming
+supplies fill the back half of the room, along with an assortment of 
+leashes for everything from giant rats to minotaur lizards.
+~
+Room_flags 4216
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9514
+0
+EndRoom
+
+#ROOM
+Vnum 9622
+Name Nabil's Back Storage Room~
+Desc This is where all the pets are kept, waiting to be sold in the pet store.
+~
+Room_flags 76
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 9623
+Name The Witch's Brew~
+Desc The first thing you notice as you walk into this spacious shop is the
+hundreds of candles that line the shelves. The swirling mist that surrounds
+your feet makes it seem that you have stepped into a gateway to another
+plane. A tall brunette stands behind her cluttered table unaware of
+your entrance.  An ornately lettered sign floats above your head.
+~
+Room_flags 120
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+note sign~
+LIST : gives you a list of items for sale.
+VALUE : tells you how much an item is worth to Elvira
+SELL : sells an item to Elvira for a generous sum
+BUY : Elvira's FAVORITE command lets you have an item for her low low price.
+
+
+~
+Exit
+2
+~
+~
+-1
+9529
+0
+EndRoom
+
+#ROOM
+Vnum 9624
+Name Braheem's Magic Shop~
+Desc You enter a shop crowded with bookshelves and clutterd with scrolls. The
+owner seems to be hard at work on his latest magical creation. You see a
+small sign on the wall.
+~
+Room_flags 120
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+Welcome to Braheem's.
+LIST -Shows you all of my wonderful creations.
+VAL  -Shows what an item might be worth to me.
+SELL -Allows you to rid yourself of excessive magic items.
+BUY  -Allows you to rid youself of excessive cash.
+~
+Exit
+2
+~
+~
+-1
+9530
+0
+EndRoom
+
+#ROOM
+Vnum 9625
+Name Entrance to the Mage's Tower~
+Desc The entrance hall is a small poorly lit room. It would seem its only
+purpose is to house the powerful sorcerer standing here guarding
+the entrance.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9618
+0
+Exit
+2
+~
+~
+-1
+9531
+0
+EndRoom
+
+#ROOM
+Vnum 9626
+Name Entrance to the Guild of Warriors'~
+Desc This small hall is merely a check point to keep the unwanted out.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9523
+0
+Exit
+2
+~
+~
+-1
+9633
+0
+EndRoom
+
+#ROOM
+Vnum 9627
+Name The Repair Shop~
+Desc One of the most popular shops in New Thalos, this shop is always a hive
+of activity. It is almost inhuman the way one man can fix all the area's
+armor singlehandedly. If you have an item in need of repair simply give
+it to the man behind the counter.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9524
+0
+EndRoom
+
+#ROOM
+Vnum 9628
+Name The General Store~
+Desc The new found wealth of this beautiful city is apearant in the exotic items
+for sale here.  You wonder what would happen if you typed....LIST...
+~
+Room_flags 88
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9508
+0
+EndRoom
+
+#ROOM
+Vnum 9629
+Name Abdul's Armor~
+Desc The sound of hammering metal grows louder as you enter the armory.  Young
+boys run to and fro carrying buckets of water and coal.  A few dwarves work
+on sections of armor in the back of the shop, their hammers working too fast
+to follow.  The walls are adorned with all of Abdul's prize creations.  Here
+you can purchase suits of armor meant to keep monsters from hacking you into
+little pieces.
+A note on the wall beckons newbies.
+~
+Room_flags 120
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+note~
+LIST : gives you a list of items for sale.
+VALUE : tells you how much an item is worth to Abdul
+SELL : sells an item to Abdul for a generous sum
+BUY : Abdul's FAVORITE command lets you have an item for his low low price.
+
+
+~
+Exit
+3
+~
+~
+-1
+9507
+0
+EndRoom
+
+#ROOM
+Vnum 9630
+Name The Mercenary's Guild~
+Desc This guild is frowned upon by most of the population of New Thalos, but
+the laws of supply and demand are irresistable. People come here when
+they feel unable or are unwilling to fight their own battles. For a
+small fee you may hire henchman.
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9529
+0
+Exit
+1
+You notice some small scratches in the floor next to the eastern wall.
+~
+secret door~
+-1
+9632
+AB
+EndRoom
+
+#ROOM
+Vnum 9631
+Name The Mercenary's Guild~
+Desc This is the storage room for the mercenaries to be hired.
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 9632
+Name Entrance to the Thieves' Guild~
+Desc This small, dark room has a single torch mounted in the wall for light.
+There is a small wooden bench and a book lying on it. The assassin
+guarding the entrance from 'outsiders' stands as you walk in.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+9639
+0
+Exit
+3
+~
+secret door~
+-1
+9630
+A
+EndRoom
+
+#ROOM
+Vnum 9633
+Name The Whet Stone~
+Desc Very large men with very large swords drink beer from very large mugs. Every-
+thing in this room is BIG. The large round tables are scuffed and nicked from
+the numerous bar brawls that have sprung up. It might be a good idea to hold
+your tounge for a while as you soak up the atmosphere. There is an exit to
+the east where the master swordsman awaits pupils to train with.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9626
+0
+Exit
+1
+~
+~
+-1
+9634
+0
+EndRoom
+
+#ROOM
+Vnum 9634
+Name Tournament and Practice Yard~
+Desc This is a wide expanse of grass filled with dummies, punching bags and
+swordpupils. To the north you see a man dressed in black robes, unlike
+his iron clad comrades, who you assume to be your master.
+~
+Room_flags 124
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+You see the grass near the base of the wall here is slightly torn.
+~
+secret door~
+-1
+9573
+AB
+Exit
+3
+~
+~
+-1
+9633
+0
+EndRoom
+
+#ROOM
+Vnum 9635
+Name The Bread Stand~
+Desc A small stand has been set up here, showing the shopkeep's humble
+selection. You notice he has added a few things to his list.
+~
+Room_flags 120
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9508
+0
+EndRoom
+
+#ROOM
+Vnum 9636
+Name Igor's Implements of Destruction~
+Desc You can't help but shiver as you look at the selection of vicious weapons.
+Huge swords and wicked looking axes hang on pegs around the room.  A dwarf
+sits at a bench in the back hammering away on his latest creation.  It is
+here you can buy rare and exotic items not found in other parts of the world.
+A note catches your eye.
+~
+Room_flags 104
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+note~
+LIST : gives you a list of items for sale.
+VALUE : tells you how much an item is worth to Igor
+SELL : sells an item to Igor for a generous sum
+BUY : Igor's FAVORITE command lets you have an item for his low low price.
+
+                                        NEWBEE INTRUCTOR COMITEE
+~
+Exit
+0
+~
+~
+-1
+9507
+0
+Exit
+5
+~
+secret sesame~
+9591
+9750
+ABCF
+EndRoom
+
+#ROOM
+Vnum 9637
+Name Ye Old Leather Shoppe~
+Desc You are standing on a thick oriental rug surrounded on all sides by racks
+of numerous leather goods. A few women sit on leather cushions sewing in
+some detail work on custom ordered jackets.  There is a note on the counter.
+~
+Room_flags 120
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+note~
+LIST : gives you a list of items for sale.
+VALUE : tells you how much an item is worth
+SELL : sells an item for a generous sum
+BUY :  buy an item for an outrageous price.
+
+
+~
+Exit
+1
+~
+~
+-1
+9566
+0
+EndRoom
+
+#ROOM
+Vnum 9638
+Name Smuggler's Inn~
+Desc You are inside a filthy inn, that seemingly hasn't  been cleaned in decades.
+Poker tables line the walls and everyone stares at you as you walk in.
+You don't feel very welcome. The bar has numerous knife holes in it
+and the bartender leans over waiting for your order.  A large sign, pinned
+to the wall by a knife, awaits your inspection.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+LIST : gives you a list of items for sale.
+BUY :  buy something drinkable.
+
+
+~
+Exit
+3
+~
+~
+-1
+9567
+0
+EndRoom
+
+#ROOM
+Vnum 9639
+Name The Filthy Unicorn~
+Desc A draft chills your bones as you enter, though you see no open window or
+door. Hooded figures lurk around in the shadows and speak in low voices.
+A flash of steel lets you know that weapons are in great abundance
+in this crowd. As you quickly check your beltpouch you notice
+a small staircase leading down.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9632
+0
+Exit
+5
+~
+~
+-1
+9646
+0
+EndRoom
+
+#ROOM
+Vnum 9640
+Name Warehouse~
+Desc You are standing in a large room used to store merchandise made in the
+city before it is shipped off. All the items here are made in New Thalos
+and shipped to other parts of the land.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9641
+0
+Exit
+2
+~
+~
+-1
+9533
+0
+EndRoom
+
+#ROOM
+Vnum 9641
+Name Warehouse~
+Desc Men walk to and fro counting crates and writing down their findings. This
+area of the warehouse is used for storing the raw materials brought in
+from areas outside the city. These goods are then delivered to the various
+guilds. The export area of the warehouses is to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+9534
+0
+Exit
+3
+~
+~
+-1
+9640
+0
+EndRoom
+
+#ROOM
+Vnum 9642
+Name Shipwright~
+Desc The wood under you feet creaks from years of being soaked in saltwater. An
+old man with a curly, grey beard stand behind a small counter waiting to
+take your order. Behind him are mounted various model sailboats and large
+fish.  There is a large poster stapled to the counter.
+~
+Room_flags 120
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+note poster~
+LIST : gives you a list of items for sale.
+VALUE : tells you how much an item is worth to the shipwright
+SELL : sells an item to the shipwright for a generous sum
+BUY : The shipwright's FAVORITE command lets you have an item for his low low pr
+ice.
+
+
+~
+Exit
+1
+~
+~
+-1
+9643
+0
+Exit
+2
+~
+~
+-1
+9535
+0
+EndRoom
+
+#ROOM
+Vnum 9643
+Name Drafting Room~
+Desc The walls are covered with paper sketchings of hull designs. This room is
+used by the shipwright to build his creations on paper before making
+a single cut in wood.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+9642
+0
+EndRoom
+
+#ROOM
+Vnum 9644
+Name The Forge~
+Desc Very much like the weaponsmith this man deals in the molding of metal. It
+seems that most of his creations deal with horses. On the walls you see
+several horseshoes made of iron. The room is hot, hotter than the desert
+just south of here, and one wonders how the smithy can stand it.  Some
+letters have been burned into the wooden wall.
+~
+Room_flags 124
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+letters wall~
+LIST : gives you a list of items for sale.
+VALUE : tells you how much the blacksmith will give you for his merchandise
+SELL : sells an item to the blacksmith
+BUY : buy an item from the blacksmith for a fair price
+
+
+~
+Exit
+2
+~
+~
+-1
+9537
+0
+EndRoom
+
+#ROOM
+Vnum 9645
+Name The Royal Stables~
+Desc Nothing you wouldn't expect is here. Several stalls hold the Sultan's
+choice Arabian Stallions, and each has its own trough for drinking.
+A small boy wanders in sometimes with a shovel to remove the offensive
+by-product of such beasts.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9649
+0
+Exit
+2
+~
+~
+-1
+9539
+0
+EndRoom
+
+#ROOM
+Vnum 9646
+Name The Secret Yard~
+Desc This is a hidden yard known to only a few people in New Thalos. Here you
+may train in the arts of stealing, picking locks, and becoming almost
+invisible. A small staircase leads back up to the unicorn.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+You see some small scratches in the wall to the south.
+~
+secret door~
+-1
+9589
+AB
+Exit
+4
+~
+~
+-1
+9639
+0
+EndRoom
+
+#ROOM
+Vnum 9647
+Name The Dump~
+Desc This is the place where the people of the city dump their trash. Due to
+the constant winds blowing down the moutains the smell is usually blown
+outside the walls and over the desert.
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+9542
+0
+EndRoom
+
+#ROOM
+Vnum 9648
+Name The Mage's Laboratory~
+Desc You stand in the top of an old stone tower. Along the walls hundreds of
+potions, scroll, and wands lie in disarray. The man you see before you
+sits hunched over a small wooden table with two beakers of bubbling
+liquid in front of him. He looks up as you enter and smiles broadly.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+~
+~
+-1
+9617
+0
+EndRoom
+
+#ROOM
+Vnum 9649
+Name The Hay Loft~
+Desc Not as big as the ones you see on farms in the country, this hay loft
+serves as a storage area for the horses in the stables. The young boy
+you saw with the shovel seems to have taken up residence on the second
+story.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+9645
+0
+EndRoom
+
+#ROOM
+Vnum 9650
+Name The Grand Entrance~
+Desc Nowhere have you seen such an obscene display of wealth than in this
+corridor. The shag carpeting under your feet makes it seem as if you are
+walking on a cloud. Platinum candelabras hang delicately from the ceiling
+casting light on the ancient tapestries adorning the walls. The crick
+in your neck tells you it's time to stop staring. To the west the
+numerous halls of the palace begin and the gate lies to the east.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9660
+0
+Exit
+1
+~
+gate~
+9500
+9658
+AF
+Exit
+2
+~
+~
+-1
+9657
+0
+Exit
+3
+~
+~
+-1
+9705
+0
+EndRoom
+
+#ROOM
+Vnum 9651
+Name The Library~
+Desc This building holds the vast collection of books and documents that
+have been brought here by the committee appointed to recover the
+lost knowledge of Thalos.  Rows of shelves, filled with book in every
+condition, lines the walls.  The air has the aroma of old parchment and
+glue.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9555
+0
+EndRoom
+
+#ROOM
+Vnum 9652
+Name The Dance Hall~
+Desc You seem to have missed a huge party.  The janitors are here cleaning up
+the confetti and cigarette butts.  Hundreds of empty beer mugs on the
+tables surrounding the dance floor suggest that the citizens love their
+drink.  There is still a banner on the wall.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+banner~
+========================================================================
+
+		H A P P Y   B I R T H D A Y   T O   U S
+
+========================================================================
+~
+Exit
+1
+~
+~
+-1
+9556
+0
+EndRoom
+
+#ROOM
+Vnum 9653
+Name Jail~
+Desc You are in jail. For some reason the god's feel you've screwed up
+pretty bad and should be put away safely for a while.
+~
+Room_flags 120
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+secret gate~
+9593
+9544
+AF
+EndRoom
+
+#ROOM
+Vnum 9654
+Name City Hall~
+Desc You stand inside the administrative head of the city. Here the decisions
+regarding city policy are made. Although the Sultan's word is law, he
+usually spends his time on affairs outside the city wall.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9545
+0
+EndRoom
+
+#ROOM
+Vnum 9655
+Name The Boyer/Fletcher's~
+Desc The walls in this room are covered with pegs that hold various types of
+bows.  There are few people working here, lending to the fact that
+the skills are rare to come by in the general populous.  A few boys are
+busy in the corner preparing feathers for the fine shafts used in making
+arrows.  Some Elven craftsmen are carefuly inspecting each bow as it is
+finished.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9560
+0
+EndRoom
+
+#ROOM
+Vnum 9656
+Name The Mason's~
+Desc There is no doubt that the Dwarves here know what they're doing.  They
+have been invaluable in the building of this beautiful city.  Here they
+are hard at work doing what they do best.  The hammers fly in a blur as
+these talented craftsmen work the stone into ornate bricks, pillars, trim,
+and many other forms.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+-1
+9560
+0
+EndRoom
+
+#ROOM
+Vnum 9657
+Name Guard House~
+Desc You stand inside the southern of the two main guard houses. The stone
+interior has a spartan look to it, only the bare neccesities. A few
+weapons are mounted on the walls in case they might be needed.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9650
+0
+EndRoom
+
+#ROOM
+Vnum 9658
+Name The Palace Gate~
+Desc You stand before a magnificantly crafted gate wrought in solid gold. You
+gape in awe at the splendor of the spiraling towers beyond the portal. The
+ruler of all the eastern lands resides in this fine palace, and he is not
+a poor man. The grand entrance lies byond the gate, and Sultan's walk is
+to the east.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9520
+0
+Exit
+3
+~
+gate~
+9500
+9650
+AF
+EndRoom
+
+#ROOM
+Vnum 9659
+Name North-West Tower~
+Desc You stand on one of the four towers guarding the city. The view from here
+is great! To the west you see the tall mountains that make up the divide
+between here an Midgaard. The Ishtar river slowly flows from that direction.
+South you can see the entire city of New Thalos and the Sands of Sorrow 
+to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+~
+~
+-1
+9544
+0
+EndRoom
+
+#ROOM
+Vnum 9660
+Name Guard House~
+Desc You stand inside the northern of the two main guard houses. Strong
+guards are seated here, playing cards. The stone interior is clean
+but bare walled save the weapons and armor mounted in the walls.
+The only exit is south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+9650
+0
+EndRoom
+
+#ROOM
+Vnum 9661
+Name Kitchen~
+Desc Your footsteps echo off the stone tiles of the kitchen. On the south wall
+you see the large fireplace and a huge copper pot bubbling merrily. The
+chef is busy chopping up greens and other vegetables at the wooden table
+for tonight's meal. Servants scurry about grabbing utensils and preparing
+fresh hares. A small door leads out into the hall northward and the door
+to the dining hall is west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door~
+-1
+9663
+AB
+Exit
+3
+~
+~
+-1
+9671
+0
+EndRoom
+
+#ROOM
+Vnum 9662
+Name North-East Tower~
+Desc You stand on one of the four towers guarding the city. To the north you
+see the wide plains and then the forest. South of here you see the city
+and the great eastern desert beyond.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+5
+~
+~
+-1
+9554
+0
+EndRoom
+
+#ROOM
+Vnum 9663
+Name Hall~
+Desc You are at the eastern end of the southern hallway. A small servants'
+entrance give access to the kitchen and the hall continues west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+door small~
+-1
+9661
+AB
+Exit
+3
+~
+~
+-1
+9672
+0
+EndRoom
+
+#ROOM
+Vnum 9664
+Name The Tanner's Guild~
+Desc You first notice the pungent smell of freshly tanned leather goods as
+you enter this strange place.  The next thing that grabs your attention
+is the many colors that these people have transformed the beautiful
+skins into.  The people are stretching the leather and cutting it into
+the shapes they need.  You notice a small message on a wall.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+message~
+I hate being a Tanner
+~
+Exit
+1
+~
+~
+-1
+9562
+0
+EndRoom
+
+#ROOM
+Vnum 9665
+Name Hall~
+Desc You have come to the eastern end of the northern hallway. The only exit
+is west except for the simple wooden door to the north. There is a
+golden plaque above the door.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+plaque~
+The Holy Shrine of Allah
+
+
+                           (remember Allah is a god, I wouldn't attack him)
+~
+Exit
+0
+~
+door~
+-1
+9666
+A
+Exit
+3
+~
+~
+-1
+9674
+0
+EndRoom
+
+#ROOM
+Vnum 9666
+Name Shrine of Allah~
+Desc As you step into this room you seem to leave the material plane. The
+walls here are decorated with beautiful, multi-colored tiles. There
+is a strange stillness about the air. You sense the presence of an
+almighty being.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+door~
+-1
+9665
+A
+EndRoom
+
+#ROOM
+Vnum 9667
+Name Outside the Northern Gate of New Thalos~
+Desc You stand outside the gate of New Thalos. The city lies to the south, and
+wilderness to the north.  The Sands of Sorrow continues to the east
+and west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9781
+0
+Exit
+2
+~
+~
+-1
+9522
+0
+EndRoom
+
+#ROOM
+Vnum 9668
+Name Outside the Eastern Gate of New Thalos~
+Desc You stand outside the protective walls of the city. The massive iron gate
+sits to the west and the unknown awaits you eastward.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9790
+0
+Exit
+2
+~
+~
+-1
+9670
+0
+Exit
+3
+~
+~
+-1
+9531
+0
+EndRoom
+
+#ROOM
+Vnum 9669
+Name Outside the West Gate of New Thalos~
+Desc You stand outside the city walls, the iron gate to the east. The city lies
+in that direction and the road to Midgaard lies west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+gate~
+9501
+9523
+A
+Exit
+3
+~
+~
+-1
+3532
+0
+EndRoom
+
+#ROOM
+Vnum 9670
+Name Outside the wall~
+Desc You are in a small clearing outside the east wall of the city. The
+ground seems well trodden but you can see no apparent exit save that
+north.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9668
+0
+EndRoom
+
+#ROOM
+Vnum 9671
+Name Grand Dining Hall~
+Desc A long oaken table, coverd with silverware, plates, and a tablecloth
+with gold trim, dominates the room. Although no diners occupy the room
+as of yet, servants sprint about setting the table and placing condiments.
+The kitchen entrance is to the east, and two huge double doors open into
+the hallway north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9672
+0
+Exit
+1
+~
+~
+-1
+9661
+0
+EndRoom
+
+#ROOM
+Vnum 9672
+Name Hall~
+Desc You stand at a T-crossing in the long hallways. There are two
+large double doors to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9673
+0
+Exit
+1
+~
+~
+-1
+9663
+0
+Exit
+2
+~
+double doors~
+-1
+9671
+A
+Exit
+3
+~
+~
+-1
+9677
+0
+EndRoom
+
+#ROOM
+Vnum 9673
+Name Hall~
+Desc You stand at an intersection of the hallways. Wooden corridors lead off in
+all directions except west; the garden of the palace can be entered there.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9674
+0
+Exit
+1
+~
+~
+-1
+9705
+0
+Exit
+2
+~
+~
+-1
+9672
+0
+Exit
+3
+~
+~
+-1
+9678
+0
+EndRoom
+
+#ROOM
+Vnum 9674
+Name Hall~
+Desc You have come to a T-crossing on the hallways. The wooden corridors
+continue east, west and south. There is a large iron door to the north.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+iron heavy~
+-1
+9675
+A
+Exit
+1
+~
+~
+-1
+9665
+0
+Exit
+2
+~
+~
+-1
+9673
+0
+Exit
+3
+~
+~
+-1
+9679
+0
+EndRoom
+
+#ROOM
+Vnum 9675
+Name Entrance to the Dungeon~
+Desc You enter a cold damp room with bare, roughly hewn stone walls. This
+room seems very out of place compared to the splender of the rest of the
+palace. A large steel grating leads down into darkness, and an iron door
+returns you to the hallway.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+iron~
+-1
+9674
+A
+Exit
+5
+~
+steel~
+-1
+9691
+AB
+EndRoom
+
+#ROOM
+Vnum 9676
+Name Guest Room~
+Desc This is a simple room used for visiting noblemen. A small dresser stands
+on the east wall with a mirror hung right above it. A queen sized bed made
+up in satin sheets stands in the middle of the room against the south
+wall under a window. The only obvious exit is north back out into the
+hallway.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+window~
+Looking out this window you can see the grounds of the palace that
+seperate the walls of the palace from the building itself.
+~
+ExtraDesc
+mirror~
+You see a the fighting image of some armor clad humanoid wielding a weapon.
+~
+Exit
+0
+~
+~
+-1
+9677
+0
+EndRoom
+
+#ROOM
+Vnum 9677
+Name Hall~
+Desc The long hall continues here with a wooden door in the south wall. On the
+north wall hangs the picture of some forgotten nobleman who once ruled
+the land.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9672
+0
+Exit
+2
+~
+door~
+-1
+9676
+A
+Exit
+3
+~
+~
+-1
+9682
+0
+EndRoom
+
+#ROOM
+Vnum 9678
+Name Garden~
+Desc You have entered the Sultan's private gardens. A light sweat breaks out
+on your skin from the humidity here. All around you are thousands of
+exotic plants and flowers. The sweet smell of jasmine and honeysuckle
+reminds you of happier days at home. Off to the north, through the palm
+trees, you see a delicate white gazebo. To your right stands a gold sign.
+A path leads out into the hallway and west towards the gazebo.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+=========================================================================
+=========================================================================
+||                                                                     ||
+||                                                                     ||
+||                                                                     ||
+||                                                                     ||
+||        Welcome to my humble garden. I have created this             ||
+||        tiny bit of paradise for the pleasure of my people.          ||
+||        Take only pictures... Leave only footprints...               ||
+||                                                                     ||
+||                                                                     ||
+||                                                                     ||
+||                                 The Sultan                          ||
+||                                                                     ||
+||                                                                     ||
+||                                                                     ||
+=========================================================================
+=========================================================================
+~
+Exit
+1
+~
+~
+-1
+9673
+0
+Exit
+3
+~
+~
+-1
+9683
+0
+EndRoom
+
+#ROOM
+Vnum 9679
+Name Hall~
+Desc The long stretch of hallway continues east and west from here. The small
+red carpet covering the centerline is always underfoot and an occasional
+bench or potted plant lines the wall. There is a door here to the north
+with a plaque mounted over it.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+plaque~
+ART EXHIBIT
+                                of
+                            NEW THALOS
+
+
+                               -management is not responsible for lost items.
+~
+Exit
+0
+~
+door~
+-1
+9680
+A
+Exit
+1
+~
+~
+-1
+9674
+0
+Exit
+3
+~
+~
+-1
+9684
+0
+EndRoom
+
+#ROOM
+Vnum 9680
+Name Art Exhibit~
+Desc You are standing in the Sultan's tribute to the finer virtues. Large
+paintings hang from the walls displaying nature scenes, nudes, and
+glorious victories in battle. Strange scupltures rest on pedestals
+at each corner of the room and mirrors are placed in strategic
+locations so the viewer may see an entire sculpture at a glance. Your
+eyes, however, are pulled towards a painting that dominates the far wall.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+door~
+-1
+9679
+A
+EndRoom
+
+#ROOM
+Vnum 9681
+Name Guest Room~
+Desc This is another room made up for visiting nobles. There is a dresser up
+against the eastern wall with a mirror above it and a queen sized bed,
+made up in satin sheets, against the south wall.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9682
+0
+EndRoom
+
+#ROOM
+Vnum 9682
+Name Hall~
+Desc You have reached the western end of the southern hallway. The only exit
+is east except for the doors in the southern and western walls.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9677
+0
+Exit
+2
+~
+door south~
+-1
+9681
+A
+Exit
+3
+~
+door west~
+9601
+9687
+AF
+EndRoom
+
+#ROOM
+Vnum 9683
+Name Garden Gazebo~
+Desc Walking through the gardens you come across a small white wooden structure.
+The sounds of birds, the smell of flowers, ahhh paradise. You believe
+you have never been in a more peaceful setting.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9678
+0
+EndRoom
+
+#ROOM
+Vnum 9684
+Name Hall~
+Desc This is the western end of the northern hallway. Two doors are set in the
+walls here, one to the north, another to the west.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+door north~
+-1
+9685
+A
+Exit
+1
+~
+~
+-1
+9679
+0
+Exit
+3
+~
+door west~
+-1
+9689
+A
+EndRoom
+
+#ROOM
+Vnum 9685
+Name Guard Room~
+Desc You stand in a barren chamber lined with nothing but cots and footlockers.
+The guards come here when off duty to sleep, for they may only leave the
+palace grounds with special permission. The only exit is to the south.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+door~
+-1
+9684
+A
+EndRoom
+
+#ROOM
+Vnum 9686
+Name Guard Room~
+Desc This is living quarters for the guards of the palace. Barren compared to
+the rest of the palace, you see only cots and footlockers here. On the
+walls you see pictures of well known knights who have given a proud name
+to the Sultan's Guard.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9687
+0
+EndRoom
+
+#ROOM
+Vnum 9687
+Name Harem~
+Desc This is the room where the Sultan keeps the beautiful women of his palace.
+There are ten girls here lying about the room dressed in silks you can
+almost see through. In the western end of the room stands a large mound
+of pillows and a beautiful young maiden sits perched atop. It is
+unfortunate for you that only the Sultan is allowed in here.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+secret door~
+-1
+9688
+A
+Exit
+1
+~
+~
+-1
+9682
+0
+Exit
+2
+~
+~
+-1
+9686
+0
+EndRoom
+
+#ROOM
+Vnum 9688
+Name Small room~
+Desc This is secret chamber allowing the Sultan direct access to his harem
+at any time he chooses.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9689
+0
+Exit
+2
+~
+~
+-1
+9687
+0
+EndRoom
+
+#ROOM
+Vnum 9689
+Name Throne Room~
+Desc You stand in the throne room of the mighty Sultan of New Thalos. Guards
+stand at attention near his side ready to make the ultimate sacrifice for
+their beloved leader. The gold inlaid throne studded with jewels stands
+upon a mable dias. The Sultan is not a man to be trifled with.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+secret throne~
+9600
+9690
+AF
+Exit
+1
+~
+door~
+-1
+9684
+A
+Exit
+2
+~
+secret door
+
+~
+-1
+9688
+A
+EndRoom
+
+#ROOM
+Vnum 9690
+Name Treasure Room~
+Desc You have somhow managed to gain access to the treaure vault of the Sultan.
+The alarm sounding in the background tells you that you must have
+tripped off some kind of alarm system. It might be adviseable to grab
+as much stuff as you possibly can and run for the door.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9685
+0
+Exit
+2
+~
+~
+-1
+9689
+0
+EndRoom
+
+#ROOM
+Vnum 9691
+Name Jailer's Room~
+Desc Climbing down the old wooden ladder you enter a small cave-like
+room. There is a small bench with some old magazines and a low
+burning candle sitting off to one side. A door is set into the
+stone on the east wall, and the steel grating opens up above.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+door~
+-1
+9692
+AB
+Exit
+4
+~
+steel~
+-1
+9675
+AB
+EndRoom
+
+#ROOM
+Vnum 9692
+Name Tunnel in the Dungeon~
+Desc You stand in a roughly hewn stone tunnel with cells to the north and
+south. The tunnel continues east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+cell north~
+9593
+9697
+ABCF
+Exit
+1
+~
+~
+-1
+9693
+0
+Exit
+2
+~
+cell south~
+9593
+9701
+ABCF
+Exit
+3
+~
+door~
+-1
+9691
+AB
+EndRoom
+
+#ROOM
+Vnum 9693
+Name Tunnel in the Dungeon~
+Desc You stand in a roughly hewn stone tunnel with cells to the north and
+south. The tunnel continues east and west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+cell north~
+9593
+9698
+ABCF
+Exit
+1
+~
+~
+-1
+9694
+0
+Exit
+2
+~
+cell south~
+9593
+9702
+ABCF
+Exit
+3
+~
+~
+-1
+9692
+0
+EndRoom
+
+#ROOM
+Vnum 9694
+Name Tunnel in the Dungeon~
+Desc You stand in a roughly hewn stone tunnel with cells to the north and
+south. The tunnel continues east and west.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+cell north~
+9593
+9699
+ABCF
+Exit
+1
+~
+~
+-1
+9695
+0
+Exit
+2
+~
+cell south~
+9593
+9703
+ABCF
+Exit
+3
+~
+~
+-1
+9693
+0
+EndRoom
+
+#ROOM
+Vnum 9695
+Name Tunnel in the Dungeon~
+Desc You stand in a roughly hewn stone tunnel with cells to the north and
+south. The tunnel continues west and you notice a small crack in the
+stone to the east.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+cell north~
+9593
+9700
+ABCF
+Exit
+1
+~
+crack~
+9500
+9696
+AB
+Exit
+2
+~
+cell south~
+9593
+9704
+ABCF
+Exit
+3
+~
+~
+-1
+9694
+0
+EndRoom
+
+#ROOM
+Vnum 9696
+Name Secret Cell~
+Desc This room seems more like a lair than a cell. Small bits of hay lie
+strewn about the floor covering bones of unkown origin. Spatterd blood
+and tufts of grey hair lie matted in one corner. As you turn to leave
+you notice a pair of small red eyes peering at you from the darkness.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+crack~
+9500
+9695
+ABF
+EndRoom
+
+#ROOM
+Vnum 9697
+Name Cell~
+Desc You are in a cold, cramped chamber with only one exit.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+cell~
+9593
+9692
+ABCF
+EndRoom
+
+#ROOM
+Vnum 9698
+Name Cell~
+Desc You are in a cold, cramped chamber with only one exit.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+cell~
+9593
+9693
+ABCF
+EndRoom
+
+#ROOM
+Vnum 9699
+Name Cell~
+Desc You are in a cold, cramped chamber with only one exit.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+cell~
+9593
+9694
+ABCF
+EndRoom
+
+#ROOM
+Vnum 9700
+Name Cell~
+Desc You are in a cold, cramped chamber with only one exit.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+cell~
+9593
+9695
+ABCF
+EndRoom
+
+#ROOM
+Vnum 9701
+Name Cell~
+Desc You are in a cold, cramped chamber with only one exit.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+cell~
+9593
+9692
+ABCF
+EndRoom
+
+#ROOM
+Vnum 9702
+Name Cell~
+Desc You are in a cold, cramped chamber with only one exit.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+cell~
+9593
+9693
+ABCF
+EndRoom
+
+#ROOM
+Vnum 9703
+Name Cell~
+Desc You are in a cold, cramped chamber with only one exit.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+cell
+
+cell~
+9593
+9694
+ABCF
+EndRoom
+
+#ROOM
+Vnum 9704
+Name Cell~
+Desc You are in a cold, cramped chamber with only one exit.
+~
+Room_flags 9
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+cell
+
+cell~
+9593
+9695
+ABCF
+EndRoom
+
+#ROOM
+Vnum 9705
+Name Hall~
+Desc You stand in a large cedar wood hall leading east and west. On the floor
+lies a thin and narrow purple rug. The hall leads west inside the palace
+and east to the Grand Entrance.
+~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9650
+0
+Exit
+3
+~
+~
+-1
+9673
+0
+EndRoom
+
+#ROOM
+Vnum 9706
+Name The Butchery~
+Desc This shop has the aroma of freshly slaughterd beasts.  You feel right at
+home.  You see a fairly simple set up.  The corpses..  Er...  Selections
+hang on hooks, still bleeding into catch pans that drain into a single
+underground vat.  You wonder where that leads....  Taped to the counter,
+almost obscured by blood, there is a barely readable sign.  
+~
+Room_flags 4
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+9516
+0
+EndRoom
+
+#ROOM
+Vnum 9710
+Name Saska's Library~
+Desc Fine, golden dust swirls and then settles as you enter Saska's
+library. Leatherbound volumes of Shakespeare rest next to paperbacks by
+Tom Robbins, and Toni Morrison's _Sula_ is open on the striking table: an
+antique birdbath of polished blond wood, with glass set over the waterwell
+to give the appearance of a perfectly still pool.  Trinkets, lightly
+lifted from the mantles of the wealthy whose chimneys she cleaned, line
+the windowsills and create space between the different sections of books.
+A crystal oil lamp seems to float on the table; a piece of paper on the
+wall, written in Saska's own lingering script, reads: "For what is your friend
+that you would seek him with hours to kill?  Seek him always with hours to
+live.  --Kahlil Gibran."
+    A cat purrs somewhere, though you cannot see the source, and you feel
+yourself tugged into the softened space. Have a seat in one of the enormous
+papasan chairs, and choose a title that strikes you.
+~
+Room_flags 12
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+9597
+0
+EndRoom
+
+#ROOM
+Vnum 9719
+Name Headwaters of the River of Lost Souls~
+Desc The waters of the swamp pool in this low area and begin to flow southward.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+9734
+0
+EndRoom
+
+#ROOM
+Vnum 9720
+Name Ishtar River~
+Desc The river calms a bit after being thrashed in the interior of
+the mountain. Although still deep within the rocks you can see
+faint traces of green to the east.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9721
+0
+Exit
+3
+~
+~
+-1
+9739
+0
+EndRoom
+
+#ROOM
+Vnum 9721
+Name Ishtar River~
+Desc The river flows east and west through the hills. To the north you can
+see a large volcano.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9722
+0
+Exit
+3
+~
+~
+-1
+9720
+0
+EndRoom
+
+#ROOM
+Vnum 9722
+Name Ishtar River~
+Desc The river begins its decent out of the mountains now and continues
+its flow to the east.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9744
+0
+Exit
+3
+~
+~
+-1
+9721
+0
+EndRoom
+
+#ROOM
+Vnum 9723
+Name Ishtar River~
+Desc The river flows under the wall of the city to the east and stretches
+off towards high snow capped mountains far far to the west.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9587
+0
+Exit
+3
+~
+~
+-1
+9749
+0
+EndRoom
+
+#ROOM
+Vnum 9724
+Name Ishtar River~
+Desc The river flows out from the city down a long winding gully towards
+the Sea of Dragons. To the south of you lies the great eastern desert
+and north a wide open expanse of grass. You can just barely make out
+a road that seems to be traveling alongside the river but the banks are
+too steep for you to see very far.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9725
+0
+Exit
+3
+~
+~
+-1
+9583
+0
+EndRoom
+
+#ROOM
+Vnum 9725
+Name Ishtar River~
+Desc The river continues its descent down the lowlands flowing
+ever so gently south. It's hard to believe this is the same river that
+came cascading down the mountainside.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9726
+0
+Exit
+3
+~
+~
+-1
+9724
+0
+EndRoom
+
+#ROOM
+Vnum 9726
+Name Ishtar River~
+Desc Small animals and herd animals can be heard in the distance, though
+you don't actually see any near the river. Perhaps the steep slopes
+pervent them from using the river.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9784
+0
+Exit
+3
+~
+~
+-1
+9725
+0
+EndRoom
+
+#ROOM
+Vnum 9734
+Name The River of Lost Souls~
+Desc The river flows south through a valley in the mountains. You can see a
+small village to the west.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9719
+0
+Exit
+2
+~
+~
+-1
+9735
+0
+EndRoom
+
+#ROOM
+Vnum 9735
+Name The River of Lost Souls~
+Desc The river flows south in the southern end of this wide valley. The walls
+of the valley close in to the south.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9734
+0
+Exit
+2
+~
+~
+-1
+9736
+0
+EndRoom
+
+#ROOM
+Vnum 9736
+Name The River of Lost Souls~
+Desc The river begins to speed up as it cascades down this mountain
+crevase. High above you a small rope bridge sways in the wind.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+9737
+0
+EndRoom
+
+#ROOM
+Vnum 9737
+Name The River of Lost Souls~
+Desc The river rapidly flows down this crack in the side of the mountain
+to the south. Hopefully you will hear any aproaching rapids.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9736
+0
+Exit
+2
+~
+~
+-1
+9738
+0
+EndRoom
+
+#ROOM
+Vnum 9738
+Name The River of Lost Souls~
+Desc The river seems to calm a bit as the crevase widens lessens its
+stranglehold on the waters. The river continues to the north
+through a crack and flows to the south.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9737
+0
+Exit
+2
+~
+~
+-1
+9739
+0
+EndRoom
+
+#ROOM
+Vnum 9739
+Name A Split in the River~
+Desc The waters of the river crash down upon a rock and split into
+two bodies of water. The river you are on continues its southern
+course and the new river heads off to the east. To the west you notice
+a flat area in the sheer rock where it would be possible to shore your
+craft. The River of lost souls also continues to the north.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9738
+0
+Exit
+1
+~
+~
+-1
+9720
+0
+Exit
+2
+~
+~
+-1
+9740
+0
+EndRoom
+
+#ROOM
+Vnum 9740
+Name The River of Lost Souls~
+Desc The river continues north and south from here through a water
+eroded valley.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9739
+0
+Exit
+2
+~
+~
+-1
+9741
+0
+EndRoom
+
+#ROOM
+Vnum 9741
+Name The River of Lost Souls~
+Desc The river continues north and south from here through a water
+eroded valley.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9740
+0
+Exit
+2
+~
+~
+-1
+9742
+0
+EndRoom
+
+#ROOM
+Vnum 9742
+Name The River of Lost Souls~
+Desc The river continues north and south from here through a water
+eroded valley.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9741
+0
+Exit
+2
+~
+~
+-1
+9743
+0
+EndRoom
+
+#ROOM
+Vnum 9743
+Name The River of Lost Souls~
+Desc The river makes a sharp bend here and heads east towards a large
+mountain and north through a valley.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9742
+0
+EndRoom
+
+#ROOM
+Vnum 9744
+Name Ishtar River~
+Desc The river widens here, no longer bounded by rock, and flows east
+towards a plain.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9745
+0
+Exit
+3
+~
+~
+-1
+9722
+0
+EndRoom
+
+#ROOM
+Vnum 9745
+Name Ishtar River~
+Desc The river continues here east to west.  There is a landing area to the
+north where you can gain access to the shore.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9746
+0
+Exit
+3
+~
+~
+-1
+9744
+0
+EndRoom
+
+#ROOM
+Vnum 9746
+Name Ishtar River~
+Desc The river meanders through the foothills of the eastern mountains.
+The air is dryer on this side of the continental divide and it seems
+a bit warmer.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9747
+0
+Exit
+3
+~
+~
+-1
+9745
+0
+EndRoom
+
+#ROOM
+Vnum 9747
+Name Ishtar River~
+Desc The river continues its journey eastward flowing through the
+plains. To the west you see the peaks of large snow capped
+mountains and to the east you see the outline of a large city.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9748
+0
+Exit
+3
+~
+~
+-1
+9746
+0
+EndRoom
+
+#ROOM
+Vnum 9748
+Name Ishtar River~
+Desc The river flows east and west from here.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9749
+0
+Exit
+3
+~
+~
+-1
+9747
+0
+EndRoom
+
+#ROOM
+Vnum 9749
+Name Ishtar River~
+Desc The river slows as it widens and meanders through the lowlands. A
+small dock give access to the north shore.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9723
+0
+Exit
+3
+~
+~
+-1
+9748
+0
+EndRoom
+
+#ROOM
+Vnum 9750
+Name Igor's Secret Chamber~
+Desc ~
+Room_flags 8
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+4
+~
+secret sesame~
+9591
+9636
+ABCF
+EndRoom
+
+#ROOM
+Vnum 9772
+Name On the Dark River~
+Desc The river flows to the east under the walls of Midgaard and west
+snaking through a dark forest.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+3200
+0
+Exit
+3
+~
+~
+-1
+9773
+0
+EndRoom
+
+#ROOM
+Vnum 9773
+Name On the Dark River~
+Desc The river continues east and west meandering through the woods.
+~
+Room_flags 1
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9772
+0
+Exit
+3
+~
+~
+-1
+9774
+0
+EndRoom
+
+#ROOM
+Vnum 9774
+Name On the Dark River~
+Desc The river continues east and west meandering through the woods. You
+hear the sounds of chopping wood far off in the distance.
+~
+Room_flags 1
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+6123
+0
+Exit
+1
+~
+~
+-1
+9773
+0
+Exit
+3
+~
+~
+-1
+9775
+0
+EndRoom
+
+#ROOM
+Vnum 9775
+Name On the Dark River~
+Desc The river continues east meandering through the woods.
+~
+Room_flags 1
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9774
+0
+EndRoom
+
+#ROOM
+Vnum 9778
+Name Freefall~
+Desc As your fingers slowly slip from the handguides you feel a sudden
+euphoria as you freefall the 200 + feet to your death.
+~
+Room_flags 6
+Sector_type 5
+X 0 0 0 0 0 0 0 0 0 0 0
+EndRoom
+
+#ROOM
+Vnum 9781
+Name On the Plains~
+Desc You stand on an open expanse of grass extending in all directions. To
+the south of you stand the might northern gates of New Thalos. East
+and west of you the grassy fields continue and north, in the distance,
+you see a line of trees.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9782
+0
+Exit
+1
+~
+~
+-1
+9781
+0
+Exit
+2
+~
+~
+-1
+9667
+0
+Exit
+3
+~
+~
+-1
+9781
+0
+EndRoom
+
+#ROOM
+Vnum 9782
+Name On the Plains~
+Desc You stand on an open field of grass. The forest to the north is
+closer but still a good distance away. To the south a small dirt
+path has been trodden into the ground heading towards New Thalos.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9783
+0
+Exit
+1
+~
+~
+-1
+9782
+0
+Exit
+2
+~
+~
+-1
+9781
+0
+Exit
+3
+~
+~
+-1
+9782
+0
+EndRoom
+
+#ROOM
+Vnum 9783
+Name Edge of the forest~
+Desc You stand at the edge of a huge forest. The line of trees
+continues as far as the eye can see to the east and west. A large
+expanse of grass spreads out to the south.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9783
+0
+Exit
+2
+~
+~
+-1
+9782
+0
+Exit
+3
+~
+~
+-1
+9783
+0
+EndRoom
+
+#ROOM
+Vnum 9784
+Name Ishtar River~
+Desc The river broadens even more here and the waters become murky. The
+smell of saltwater has reached you from the east. The Dragon Sea
+cannot be far away. To the east you can see the faint outline
+of a city and to the north you see a large expanse of grass.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9785
+0
+Exit
+3
+~
+~
+-1
+9726
+0
+EndRoom
+
+#ROOM
+Vnum 9785
+Name The river delta~
+Desc This is where the river empties out into the Dragon Sea. The backrush
+of water has kicked up a lot of sand and the blue sea is stained where
+the river empties. Looking east, all you can see is water....all the way
+to the horizon. North of here is a small dock you think you should be
+able to reach with out too much trouble. The river stretches off to
+the west back towards New Thalos.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9786
+0
+Exit
+3
+~
+~
+-1
+9784
+0
+EndRoom
+
+#ROOM
+Vnum 9786
+Name The Dragon Sea~
+Desc You are on the clear blue seas of the Dragon Sea.
+ Water extends in all directions as far as the eye
+ can see. Off in the distance you think you might
+ see a small dock to the north.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9787
+0
+Exit
+3
+~
+~
+-1
+9785
+0
+EndRoom
+
+#ROOM
+Vnum 9787
+Name The Dragon Sea~
+Desc The Dragon Sea comes up along the shore here, the deep blue waters
+rolling in and crashing against the beach. To the north you see a
+small dock jutting out into the surf.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9795
+0
+Exit
+1
+~
+~
+-1
+9796
+0
+Exit
+2
+~
+~
+-1
+9786
+0
+EndRoom
+
+#ROOM
+Vnum 9788
+Name The Dragon Sea~
+Desc You are on the clear blue seas of the Dragon Sea.
+ Water extends in all directions as far as the eye
+ can see. Off in the distance you think you might
+ see a small dock to the south.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9797
+0
+Exit
+2
+~
+~
+-1
+9795
+0
+EndRoom
+
+#ROOM
+Vnum 9789
+Name The Dragon Sea~
+Desc You are on the clear blue seas of the Dragon Sea.
+ Water extends in all directions as far as the eye
+ can see. Off in the distance you think you might
+ see a small dock to the west.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+9796
+0
+Exit
+3
+~
+~
+-1
+9795
+0
+Exit
+5
+~
+~
+-1
+9798
+0
+EndRoom
+
+#ROOM
+Vnum 9790
+Name On a road~
+Desc The people of New Thalos take great pride in the services their
+city may provide. One of these services is the construction crews
+that go to great lengths to keep all the roads in order. Although
+the taxes in New Thalos are higher than other cities in the realm
+most of the money is used for the good of the people.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9791
+0
+Exit
+3
+~
+~
+-1
+9668
+0
+EndRoom
+
+#ROOM
+Vnum 9791
+Name On a road~
+Desc You walk along a well used road with beautiful scenery. To the north
+tall pine trees form a wall that goes on for miles. Between the road
+and the trees lies a great expanse of grassy plains. South of here,
+beyond the river, lie the Sands of Sorrow. The road continues
+east and west.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9792
+0
+Exit
+3
+~
+~
+-1
+9790
+0
+EndRoom
+
+#ROOM
+Vnum 9792
+Name On a road~
+Desc The Dragon Sea can be seen to the east now spreading out to unkown
+lands. The road continues east and west. To the south you hear the
+sounds of boats traveling the Ishtar delivering goods.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9793
+0
+Exit
+3
+~
+~
+-1
+9791
+0
+EndRoom
+
+#ROOM
+Vnum 9793
+Name On a road~
+Desc This is the main land route through the land. Merchants can bring their goods
+to the coastline and have them ferried onto ships for export. Travel
+by foot west will take you through New Thalos up and over the Eastern
+Mountains and down into Midgaard.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9794
+0
+Exit
+3
+~
+~
+-1
+9792
+0
+EndRoom
+
+#ROOM
+Vnum 9794
+Name Near the shore~
+Desc The road ends here turning into a small dirt path leading down the
+beach and onto a dock. To the north and south you see the coastline
+stretching out before you. West of here the lowlands roll up into
+huge snow capped mountains.
+~
+Room_flags 0
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+-1
+9795
+0
+Exit
+3
+~
+~
+-1
+9793
+0
+EndRoom
+
+#ROOM
+Vnum 9795
+Name On a dock~
+Desc You stand on a simple wooden dock that acts as an extension of the road
+to the west. The dock seems to have been here for quite a long time
+but is still sturdy. A small ladder has been built on the eastern end
+to allow easy access to and from ships.
+~
+Room_flags 0
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9788
+0
+Exit
+1
+~
+~
+-1
+9789
+0
+Exit
+2
+~
+~
+-1
+9787
+0
+Exit
+3
+~
+~
+-1
+9794
+0
+EndRoom
+
+#ROOM
+Vnum 9796
+Name The Dragon Sea~
+Desc You are on the clear blue seas of the Dragon Sea.
+ Water extends in all directions as far as the eye
+ can see. Off in the distance you think you might
+ see a small dock to the west.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+-1
+9789
+0
+Exit
+3
+~
+~
+-1
+9787
+0
+EndRoom
+
+#ROOM
+Vnum 9797
+Name The Dragon Sea~
+Desc The ocean spreads out in all directions rolling gently. In the distance
+you can see an island on the horizon. To the west you see the mainland.
+~
+Room_flags 0
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+-1
+9789
+0
+Exit
+3
+~
+~
+-1
+9788
+0
+EndRoom
+
+#ROOM
+Vnum 9798
+Name Under the dock~
+Desc You are swimming underneath the dock. You can see the four wooden
+pylons that support the structure. The murky water clouds your vision
+as you gaze westward, but you think you can make out an iron grating in
+that direction.
+~
+Room_flags 1
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+grate~
+1
+9799
+A
+Exit
+4
+~
+~
+-1
+9789
+0
+EndRoom
+
+#ROOM
+Vnum 9799
+Name Lair of the Ixitxachitl~
+Desc Blood swirls around in the water as the Ixitxachitl devours the
+last of its meal. Swirling around quickly as you intrude upon
+its meal the large sting ray attacks!
+~
+Room_flags 1
+Sector_type 7
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+grate~
+-1
+9798
+A
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 9521 spec_cast_cleric
+M 9522 spec_cast_cleric
+M 9523 spec_cast_cleric
+M 9524 spec_cast_cleric
+M 9525 spec_cast_cleric
+M 9526 spec_cast_cleric
+M 9527 spec_cast_cleric
+M 9528 spec_cast_cleric
+M 9529 spec_cast_mage
+M 9530 spec_thief
+M 9531 spec_cast_mage
+M 9535 spec_thief
+M 9538 spec_thief
+M 9540 spec_cast_mage
+M 9541 spec_cast_cleric
+M 9542 spec_cast_cleric
+M 9544 spec_fido
+M 9548 spec_cast_mage
+M 9555 spec_cast_cleric
+M 9561 spec_guard
+M 9562 spec_guard
+M 9566 spec_blacksmith
+M 9570 spec_breath_frost
+M 9574 spec_breath_lightning
+M 9575 spec_breath_fire
+M 9577 spec_poison
+M 9582 spec_guard
+M 9592 spec_guard
+S
+
+
+
+#RESETS
+D 0 9511 0 1
+D 0 9513 2 1
+D 0 9522 0 1
+D 0 9523 3 1
+D 0 9531 1 1
+D 0 9559 5 1
+D 0 9570 5 1
+D 0 9574 5 1
+D 0 9575 4 1
+D 0 9578 4 1
+D 0 9581 4 1
+D 0 9594 2 2
+D 0 9603 1 1
+D 0 9617 2 1
+D 0 9630 1 1
+D 0 9634 1 1
+D 0 9636 5 2
+D 0 9646 2 1
+D 0 9661 0 1
+D 0 9663 2 1
+D 0 9675 5 1
+D 0 9691 1 1
+D 0 9691 4 1
+D 0 9692 0 2
+D 0 9692 2 2
+D 0 9692 3 1
+D 0 9693 0 2
+D 0 9693 2 2
+D 0 9694 0 2
+D 0 9694 2 2
+D 0 9695 0 2
+D 0 9695 1 1
+D 0 9695 2 2
+D 0 9696 3 1
+D 0 9697 2 2
+D 0 9698 2 2
+D 0 9699 2 2
+D 0 9700 2 2
+D 0 9701 0 2
+D 0 9702 0 2
+D 0 9703 0 2
+D 0 9704 0 2
+D 0 9750 4 2
+M 0 9504 1 9501 1
+M 0 9505 1 9502 1
+G 0 9569 0
+G 0 9568 0
+G 0 9567 0
+M 0 9506 1 9502 1
+O 0 3200 0 9502
+M 0 9507 1 9503 1
+M 0 9508 1 9504 1
+M 0 9539 1 9505 1
+E 0 9515 0 5
+E 0 9600 0 16
+M 0 9537 2 9506 2
+G 0 9500 0
+M 0 9540 1 9506 1
+O 0 9601 0 9506
+M 0 9582 16 9507 2
+M 0 9582 16 9508 2
+M 0 9592 14 9509 2
+M 0 9592 14 9509 2
+M 0 9533 20 9509 11
+M 0 9542 22 9510 3
+M 0 9509 20 9510 20
+M 0 9547 1 9511 1
+M 0 9549 1 9511 1
+M 0 9548 1 9511 1
+M 0 9561 32 9512 2
+E 0 9513 0 16
+E 0 9519 0 5
+E 0 9521 0 11
+M 0 9562 20 9513 5
+E 0 9513 0 16
+E 0 9519 0 5
+E 0 9521 0 11
+M 0 9562 20 9513 5
+E 0 9513 0 16
+E 0 9519 0 5
+E 0 9521 0 11
+M 0 9582 16 9514 2
+M 0 9541 1 9515 1
+M 0 9538 1 9515 1
+M 0 9582 16 9516 2
+M 0 9592 14 9517 4
+M 0 9592 14 9517 4
+M 0 9533 20 9517 1
+M 0 9561 32 9518 2
+E 0 9519 0 5
+E 0 9521 0 11
+M 0 9561 32 9519 2
+E 0 9513 0 16
+E 0 9519 0 5
+E 0 9521 0 11
+M 0 9561 32 9520 2
+E 0 9513 0 16
+E 0 9519 0 5
+E 0 9521 0 11
+M 0 9562 20 9522 5
+E 0 9513 0 16
+E 0 9519 0 5
+E 0 9521 0 11
+M 0 9562 20 9522 5
+E 0 9513 0 16
+E 0 9519 0 5
+E 0 9521 0 11
+M 0 9562 20 9523 5
+E 0 9513 0 16
+E 0 9519 0 5
+E 0 9521 0 11
+M 0 9562 20 9523 5
+E 0 9513 0 16
+E 0 9519 0 5
+E 0 9521 0 11
+M 0 9542 22 9524 4
+M 0 9520 2 9525 2
+E 0 9586 0 16
+M 0 9520 2 9525 2
+E 0 9586 0 16
+M 0 9519 1 9525 1
+E 0 9585 0 16
+M 0 9568 15 9527 8
+M 0 9568 15 9528 8
+M 0 9544 20 9529 2
+M 0 9544 20 9530 2
+M 0 9562 20 9531 5
+E 0 9519 0 5
+E 0 9521 0 11
+M 0 9562 20 9531 5
+E 0 9519 0 5
+E 0 9521 0 11
+M 0 9518 1 9532 1
+G 0 9564 0
+G 0 9565 0
+M 0 9536 18 9533 6
+M 0 9536 18 9533 6
+M 0 9536 18 9533 6
+M 0 9536 18 9534 6
+M 0 9536 18 9534 6
+M 0 9536 18 9535 3
+M 0 9536 18 9543 3
+M 0 9582 16 9544 2
+M 0 9561 32 9544 2
+M 0 9582 16 9545 2
+M 0 9561 32 9545 2
+M 0 9561 32 9546 2
+M 0 9561 32 9547 2
+M 0 9582 16 9550 2
+M 0 9582 16 9552 2
+M 0 9544 20 9553 2
+M 0 9545 2 9555 2
+E 0 9590 0 16
+M 0 9545 2 9555 2
+E 0 9590 0 16
+M 0 9544 20 9563 1
+M 0 9543 13 9565 1
+M 0 9530 1 9566 1
+M 0 9532 1 9566 1
+M 0 9531 1 9566 1
+M 0 9529 1 9566 1
+M 0 9543 13 9567 1
+M 0 9535 3 9568 3
+M 0 9535 3 9568 3
+M 0 9535 3 9568 3
+M 0 9543 13 9569 3
+M 0 9543 13 9573 3
+M 0 9569 1 9599 1
+M 0 9501 1 9603 1
+M 0 9581 1 9604 1
+M 0 9544 20 9607 2
+M 0 9542 22 9608 2
+M 0 9542 22 9609 2
+M 0 9592 14 9611 1
+M 0 9524 1 9611 1
+M 0 9528 1 9611 1
+M 0 9521 1 9611 1
+M 0 9526 1 9611 1
+M 0 9533 20 9612 2
+M 0 9557 1 9612 1
+M 0 9542 22 9613 6
+M 0 9592 14 9613 2
+M 0 9542 22 9613 6
+M 0 9543 13 9614 3
+M 0 9542 22 9614 3
+M 0 9513 1 9614 1
+E 0 9583 0 16
+G 0 9555 0
+G 0 9554 0
+G 0 9553 0
+G 0 9552 0
+G 0 9551 0
+G 0 9550 0
+G 0 9549 0
+G 0 9548 0
+G 0 9547 0
+G 0 9546 0
+M 0 9592 14 9615 2
+M 0 9514 1 9615 1
+G 0 9560 0
+G 0 9559 0
+G 0 9558 0
+G 0 9557 0
+G 0 9556 0
+M 0 9523 1 9616 1
+M 0 9522 1 9616 1
+M 0 9527 1 9616 1
+M 0 9525 1 9616 1
+M 0 9512 1 9621 1
+M 0 9593 1 9622 1
+M 0 9594 1 9622 1
+M 0 9595 1 9622 1
+M 0 9544 20 9623 2
+M 0 9579 1 9623 1
+G 0 9574 0
+G 0 9573 0
+G 0 9572 0
+G 0 9571 0
+G 0 9570 0
+M 0 9544 20 9624 2
+M 0 9592 14 9624 2
+M 0 9580 1 9624 1
+G 0 9582 0
+G 0 9581 0
+G 0 9579 0
+G 0 9578 0
+M 0 9556 1 9625 1
+M 0 9533 20 9626 2
+M 0 9558 1 9626 1
+M 0 9511 1 9628 1
+G 0 9538 0
+G 0 9539 0
+G 0 9537 0
+G 0 9536 0
+G 0 9535 0
+G 0 9534 0
+M 0 9516 1 9629 1
+G 0 9521 0
+G 0 9520 0
+G 0 9519 0
+G 0 9518 0
+G 0 9517 0
+G 0 9516 0
+G 0 9515 0
+M 0 9564 1 9631 1
+M 0 9544 20 9632 2
+M 0 9559 1 9632 1
+M 0 9502 1 9634 1
+M 0 9510 1 9635 1
+G 0 9545 0
+G 0 9543 0
+G 0 9542 0
+G 0 9541 0
+G 0 9540 0
+M 0 9533 20 9636 2
+M 0 9517 1 9636 1
+E 0 9591 0 17
+G 0 9514 0
+G 0 9513 0
+G 0 9512 0
+G 0 9511 0
+G 0 9510 0
+G 0 9509 0
+G 0 9508 0
+G 0 9507 0
+G 0 9506 0
+G 0 9505 0
+G 0 9504 0
+G 0 9503 0
+M 0 9584 1 9637 1
+G 0 9533 0
+G 0 9532 0
+G 0 9531 0
+G 0 9530 0
+G 0 9529 0
+G 0 9528 0
+G 0 9527 0
+G 0 9526 0
+G 0 9525 0
+G 0 9524 0
+G 0 9523 0
+G 0 9522 0
+M 0 9583 1 9638 1
+G 0 9577 0
+G 0 9576 0
+G 0 9575 0
+O 0 3200 0 9638
+M 0 9565 1 9642 1
+G 0 3061 0
+G 0 3060 0
+M 0 9566 1 9644 1
+G 0 9589 0
+G 0 9588 0
+G 0 9587 0
+M 0 9567 6 9645 6
+M 0 9567 6 9645 6
+M 0 9567 6 9645 6
+M 0 9567 6 9645 6
+M 0 9567 6 9645 6
+M 0 9567 6 9645 6
+M 0 9503 1 9646 1
+M 0 9500 1 9648 1
+M 0 9544 20 9649 2
+M 0 9589 1 9654 1
+G 0 9501 0
+M 0 9544 20 9655 1
+M 0 9560 2 9661 2
+M 0 9560 2 9661 2
+M 0 9590 1 9661 1
+M 0 9555 1 9666 1
+M 0 9544 20 9667 1
+M 0 9544 20 9668 1
+M 0 9592 14 9668 1
+M 0 9543 13 9669 2
+M 0 9561 32 9672 1
+M 0 9533 20 9672 2
+M 0 9585 1 9678 1
+M 0 9588 1 9680 1
+M 0 9561 32 9681 5
+M 0 9561 32 9682 5
+M 0 9586 1 9683 1
+M 0 9578 1 9683 1
+M 0 9553 4 9687 4
+M 0 9553 4 9687 4
+M 0 9553 4 9687 4
+M 0 9553 4 9687 4
+M 0 9554 1 9687 1
+M 0 9551 8 9687 8
+M 0 9551 8 9687 8
+M 0 9551 8 9687 8
+M 0 9551 8 9687 8
+M 0 9551 8 9687 8
+M 0 9551 8 9687 8
+M 0 9551 8 9687 8
+M 0 9551 8 9687 8
+M 0 9561 32 9688 5
+M 0 9550 1 9689 1
+M 0 9552 1 9691 1
+G 0 9593 0
+M 0 9587 1 9696 1
+E 0 9599 0 16
+M 0 9575 1 9697 1
+M 0 9574 1 9698 1
+M 0 9572 5 9699 5
+M 0 9572 5 9699 5
+M 0 9572 5 9699 5
+M 0 9572 5 9699 5
+M 0 9572 5 9699 5
+M 0 9570 1 9700 1
+M 0 9577 1 9701 1
+M 0 9576 1 9702 1
+M 0 9573 1 9703 1
+M 0 9571 1 9704 1
+M 0 9544 20 9706 2
+M 0 9515 1 9706 1
+G 0 9584 0
+G 0 9563 0
+G 0 9562 0
+G 0 9561 0
+O 0 9598 0 9750
+M 0 9591 1 9799 1
+G 0 9602 0
+S
+
+
+
+#SHOPS
+9505 0 0 0 0 0 110 90 0 23
+9510 0 0 0 0 0 110 90 0 23
+9511 1 8 12 13 15 200 100 0 23
+9513 8 11 9 16 21 200 40 0 23
+9514 0 0 0 0 0 150 40 0 23
+9515 0 0 0 0 0 100 50 0 23
+9516 9 11 0 0 0 150 10 0 23
+9517 5 6 7 0 0 130 10 0 23
+9518 0 0 0 0 0 150 40 0 23
+9565 22 0 0 0 0 131 86 0 23
+9566 0 0 0 0 0 250 50 0 23
+9579 10 0 0 0 0 187 25 0 23
+9580 2 3 4 0 0 170 30 0 23
+9583 0 0 0 0 0 110 90 0 23
+9584 9 11 0 0 0 105 15 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

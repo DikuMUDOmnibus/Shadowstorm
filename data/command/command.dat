@@ -1,0 +1,5051 @@
+Name north~
+Dofun north~
+Position 8
+Level 0
+Log 2
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name east~
+Dofun east~
+Position 8
+Level 0
+Log 2
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name south~
+Dofun south~
+Position 8
+Level 0
+Log 2
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name west~
+Dofun west~
+Position 8
+Level 0
+Log 2
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name up~
+Dofun up~
+Position 8
+Level 0
+Log 2
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name down~
+Dofun down~
+Position 8
+Level 0
+Log 2
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name at~
+Dofun at~
+Position 0
+Level 151
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name cast~
+Dofun cast~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name buy~
+Dofun buy~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name channels~
+Dofun channels~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name exits~
+Dofun exits~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name get~
+Dofun get~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name goto~
+Dofun goto~
+Position 0
+Level 151
+Log 0
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name group~
+Dofun group~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name hit~
+Dofun do_kill~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name purchase~
+Dofun purchase~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name inventory~
+Dofun inventory~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name insert~
+Dofun insert~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name kill~
+Dofun do_kill~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name look~
+Dofun look~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name clan~
+Dofun clantalk~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name music~
+Dofun music~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name order~
+Dofun order~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name practice~
+Dofun practice~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name rest~
+Dofun rest~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name sit~
+Dofun sit~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name sockets~
+Dofun sockets~
+Position 0
+Level 155
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name stand~
+Dofun stand~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name tell~
+Dofun tell~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name unlock~
+Dofun unlock~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name wield~
+Dofun wear~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name wizhelp~
+Dofun wizhelp~
+Position 0
+Level 151
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name push~
+Dofun push~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name drag~
+Dofun drag~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name donate~
+Dofun donate~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name auction~
+Dofun auction~
+Position 0
+Level 2
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name bid~
+Dofun bid~
+Position 0
+Level 2
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name email~
+Dofun email~
+Position 0
+Level 151
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name affects~
+Dofun affects~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name newaff~
+Dofun affects2~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name areas~
+Dofun areas~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name bug~
+Dofun bug~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name board~
+Dofun board~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name commands~
+Dofun commands~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name compare~
+Dofun compare~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name consider~
+Dofun consider~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name count~
+Dofun count~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name credits~
+Dofun credits~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name equipment~
+Dofun equipment~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name examine~
+Dofun examine~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name help~
+Dofun help~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name groups~
+Dofun groups~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name motd~
+Dofun motd~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name read~
+Dofun read~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name report~
+Dofun report~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name rules~
+Dofun rules~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name score~
+Dofun score~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name skills~
+Dofun skills~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name socials~
+Dofun socials~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name show~
+Dofun show~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name spells~
+Dofun spells~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name story~
+Dofun story~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name time~
+Dofun time~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name typo~
+Dofun typo~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name unread~
+Dofun unread~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name version~
+Dofun version~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name weather~
+Dofun weather~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name who~
+Dofun who~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name whois~
+Dofun whois~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name wizlist~
+Dofun wizlist~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name pinfo~
+Dofun pinfo~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name scan~
+Dofun scan~
+Position 5
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name istat~
+Dofun istat~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name slist~
+Dofun slist~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name lore~
+Dofun lore~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name finger~
+Dofun finger~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name peek~
+Dofun peek~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name note~
+Dofun note~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name mobdeaths~
+Dofun mobdeaths~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name mobkills~
+Dofun mobkills~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name reveal~
+Dofun reveal~
+Position 6
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name alia~
+Dofun alia~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name alias~
+Dofun alias~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name autolist~
+Dofun autolist~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name autoassist~
+Dofun autoassist~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name autodamage~
+Dofun autodamage~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name autoexit~
+Dofun autoexit~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name autogold~
+Dofun autogold~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name autoloot~
+Dofun autoloot~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name autosac~
+Dofun autosac~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name autosplit~
+Dofun autosplit~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name brief~
+Dofun brief~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name colour~
+Dofun colour~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name color~
+Dofun colour~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name combine~
+Dofun combine~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name compact~
+Dofun compact~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name description~
+Dofun description~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name delet~
+Dofun delet~
+Position 0
+Level 0
+Log 1
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name delete~
+Dofun delete~
+Position 0
+Level 0
+Log 1
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name nofollow~
+Dofun nofollow~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name noloot~
+Dofun noloot~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name nosummon~
+Dofun nosummon~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name password~
+Dofun password~
+Position 0
+Level 0
+Log 2
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name prompt~
+Dofun prompt~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name scroll~
+Dofun scroll~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name title~
+Dofun title~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name unalias~
+Dofun unalias~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name wimpy~
+Dofun wimpy~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name stance~
+Dofun stance~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name nickname~
+Dofun nickname~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name afk~
+Dofun afk~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name answer~
+Dofun answer~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name deaf~
+Dofun deaf~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name emote~
+Dofun emote~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name pmote~
+Dofun pmote~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name .~
+Dofun gossip~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name gossip~
+Dofun gossip~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name ,~
+Dofun emote~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name grats~
+Dofun grats~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name gtell~
+Dofun gtell~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name ;~
+Dofun gtell~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name pose~
+Dofun pose~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name quote~
+Dofun quote~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name quiet~
+Dofun quiet~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name reply~
+Dofun reply~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name replay~
+Dofun replay~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name say~
+Dofun say~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name '~
+Dofun say~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name shout~
+Dofun shout~
+Position 0
+Level 3
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name yell~
+Dofun yell~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name pray~
+Dofun pray~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name beep~
+Dofun beep~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name racetalk~
+Dofun racetalk~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name whisper~
+Dofun whisper~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name hero~
+Dofun hero~
+Position 0
+Level 150
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name hint~
+Dofun hint~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name penter~
+Dofun penter~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name ]~
+Dofun ooc~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name ooc~
+Dofun ooc~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name shortdesc~
+Dofun shortdescr~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name newbie~
+Dofun newbie~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name introduce~
+Dofun introduce~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name announce~
+Dofun announce~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name strap~
+Dofun strap~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name unsheath~
+Dofun unsheath~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name sheath~
+Dofun sheath~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name belt~
+Dofun belt~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name cloak~
+Dofun cloak~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name hood~
+Dofun hood~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name brandish~
+Dofun brandish~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name close~
+Dofun close~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name drink~
+Dofun drink~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name drop~
+Dofun drop~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name eat~
+Dofun eat~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name envenom~
+Dofun envenom~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name fill~
+Dofun fill~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name give~
+Dofun give~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name heal~
+Dofun heal~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name hold~
+Dofun wear~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name list~
+Dofun list~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name lock~
+Dofun lock~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name open~
+Dofun open~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name pick~
+Dofun pick~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name pour~
+Dofun pour~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name put~
+Dofun put~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name quaff~
+Dofun quaff~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name recite~
+Dofun recite~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name remove~
+Dofun remove~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name sell~
+Dofun sell~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name take~
+Dofun get~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name sacrifice~
+Dofun sacrifice~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name junk~
+Dofun sacrifice~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name tap~
+Dofun sacrifice~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name value~
+Dofun value~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name wear~
+Dofun wear~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name zap~
+Dofun zap~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name forge~
+Dofun forge~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name brew~
+Dofun brew~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name resize~
+Dofun resize~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name search~
+Dofun search~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name ohide~
+Dofun ohide~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name nforge~
+Dofun newforge~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name demand~
+Dofun demand~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name exchange~
+Dofun exchange~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name boxrent~
+Dofun boxrent~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name store~
+Dofun store~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name retrieve~
+Dofun retrieve~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name smithing~
+Dofun smithing~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name repair~
+Dofun repair~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name tally~
+Dofun tally~
+Position 0
+Level 5
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name sharpen~
+Dofun sharpen~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name butcher~
+Dofun butcher~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name qsmith~
+Dofun qsmith~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name throatchop~
+Dofun throatchop~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name backstab~
+Dofun backstab~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name bash~
+Dofun bash~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name bs~
+Dofun backstab~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name berserk~
+Dofun berserk~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name dirt~
+Dofun dirt~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name disarm~
+Dofun disarm~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name flee~
+Dofun flee~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name kick~
+Dofun kick~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name murde~
+Dofun murde~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name murder~
+Dofun murder~
+Position 0
+Level 5
+Log 1
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name rescue~
+Dofun rescue~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name trip~
+Dofun trip~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name engage~
+Dofun engage~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name whirlwind~
+Dofun whirlwind~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name circle~
+Dofun circle~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name surrender~
+Dofun surrender~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name war~
+Dofun war~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name warcry~
+Dofun warcry~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name assassinate~
+Dofun assassinate~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name bloodlust~
+Dofun bloodlust~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name nature~
+Dofun nature~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name knee~
+Dofun knee~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name srush~
+Dofun srush~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name spin~
+Dofun spin~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name rage~
+Dofun rage~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name draw~
+Dofun draw~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name fire~
+Dofun fire~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name dislodge~
+Dofun dislodge~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name gouge~
+Dofun gouge~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name cleave~
+Dofun cleave~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name blackjack~
+Dofun blackjack~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name stake~
+Dofun stake~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name tail~
+Dofun tail~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name doorbash~
+Dofun doorbash~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name feed~
+Dofun feed~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name rub~
+Dofun rub~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name mob~
+Dofun mob~
+Position 0
+Level 0
+Log 2
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name enter~
+Dofun enter~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name follow~
+Dofun follow~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name gain~
+Dofun gain~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name go~
+Dofun enter~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name groups~
+Dofun groups~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name hide~
+Dofun hide~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name play~
+Dofun play~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name qui~
+Dofun qui~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name quit~
+Dofun quit~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name recall~
+Dofun recall~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name /~
+Dofun recall~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name wpoint~
+Dofun wpoint~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name rent~
+Dofun rent~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name save~
+Dofun save~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name sleep~
+Dofun sleep~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name sneak~
+Dofun sneak~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name split~
+Dofun split~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name steal~
+Dofun steal~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name train~
+Dofun train~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name visible~
+Dofun visible~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name wake~
+Dofun wake~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name where~
+Dofun where~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name throw~
+Dofun throw~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name second~
+Dofun second~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name become~
+Dofun become~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name autoall~
+Dofun autoall~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name study~
+Dofun study~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name travel~
+Dofun travel~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name withdraw~
+Dofun withdraw~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name change~
+Dofun change~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name deposit~
+Dofun deposit~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name account~
+Dofun account~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name share~
+Dofun share~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name btransfer~
+Dofun btransfer~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name gquest~
+Dofun gquest~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name qpgive~
+Dofun qpgive~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name quest~
+Dofun quest~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name tpgive~
+Dofun tpgive~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name tpspend~
+Dofun tpspend~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name restring~
+Dofun restring~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name token~
+Dofun token~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name question~
+Dofun question~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name use~
+Dofun use~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name petlevel~
+Dofun petlevel~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name petname~
+Dofun petname~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name rental~
+Dofun rental~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name track~
+Dofun track~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name mchannel~
+Dofun channel~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name clear~
+Dofun clear~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name splay~
+Dofun splay~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name songs~
+Dofun songs~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name bounty~
+Dofun bounty~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name recl~
+Dofun recl~
+Position 0
+Level 150
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name reclass~
+Dofun reclass~
+Position 0
+Level 150
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name arshow~
+Dofun arshow~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name petcall~
+Dofun petcall~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name mount~
+Dofun mount~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name dismount~
+Dofun dismount~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name beseech~
+Dofun beseech~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name tithe~
+Dofun tithe~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name autolevel~
+Dofun autolevel~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name level~
+Dofun level~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name bite~
+Dofun bite~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name turn~
+Dofun turn~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name familiar~
+Dofun familiar~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name mtsteal~
+Dofun mtsteal~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name petshow~
+Dofun petshow~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name revert~
+Dofun revert~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name convert~
+Dofun convert~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name map~
+Dofun map~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name seize~
+Dofun seize~
+Position 0
+Level 156
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name helptally~
+Dofun helptally~
+Position 0
+Level 155
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name updatechar~
+Dofun updatechar~
+Position 0
+Level 155
+Log 1
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name advance~
+Dofun advance~
+Position 0
+Level 157
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name copyover~
+Dofun copyover~
+Position 0
+Level 158
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name dump~
+Dofun dump~
+Position 0
+Level 158
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name trust~
+Dofun trust~
+Position 0
+Level 159
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name violate~
+Dofun violate~
+Position 0
+Level 159
+Log 1
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name allow~
+Dofun allow~
+Position 0
+Level 158
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name ban~
+Dofun ban~
+Position 0
+Level 158
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name deny~
+Dofun deny~
+Position 0
+Level 158
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name disconnect~
+Dofun disconnect~
+Position 0
+Level 156
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name flag~
+Dofun flag~
+Position 0
+Level 155
+Log 1
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name freeze~
+Dofun freeze~
+Position 0
+Level 156
+Log 1
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name permban~
+Dofun permban~
+Position 0
+Level 158
+Log 1
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name protect~
+Dofun protect~
+Position 0
+Level 158
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name reboo~
+Dofun reboo~
+Position 0
+Level 158
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name reboot~
+Dofun reboot~
+Position 0
+Level 158
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name set~
+Dofun set~
+Position 0
+Level 156
+Log 1
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name shutdow~
+Dofun shutdow~
+Position 0
+Level 158
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name shutdown~
+Dofun shutdown~
+Position 0
+Level 158
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name wizlock~
+Dofun wizlock~
+Position 0
+Level 158
+Log 1
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name force~
+Dofun force~
+Position 0
+Level 152
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name load~
+Dofun load~
+Position 0
+Level 152
+Log 1
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name newlock~
+Dofun newlock~
+Position 0
+Level 158
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name nochannels~
+Dofun nochannels~
+Position 0
+Level 156
+Log 1
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name noemote~
+Dofun noemote~
+Position 0
+Level 156
+Log 1
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name noshout~
+Dofun noshout~
+Position 0
+Level 156
+Log 1
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name notell~
+Dofun notell~
+Position 0
+Level 156
+Log 1
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name silence~
+Dofun silence~
+Position 0
+Level 156
+Log 1
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name pecho~
+Dofun pecho~
+Position 0
+Level 155
+Log 1
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name pardon~
+Dofun pardon~
+Position 0
+Level 155
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name purge~
+Dofun purge~
+Position 0
+Level 152
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name restore~
+Dofun restore~
+Position 0
+Level 151
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name sla~
+Dofun sla~
+Position 0
+Level 156
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name slay~
+Dofun slay~
+Position 0
+Level 156
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name teleport~
+Dofun teleport~
+Position 0
+Level 151
+Log 1
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name transfer~
+Dofun teleport~
+Position 0
+Level 151
+Log 1
+Show 1
+Cat 7
+Disabled 0
+End
+
+Name poofin~
+Dofun poofin~
+Position 0
+Level 153
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name poofout~
+Dofun poofout~
+Position 0
+Level 153
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name gecho~
+Dofun echo~
+Position 0
+Level 155
+Log 1
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name holylight~
+Dofun holylight~
+Position 0
+Level 151
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name incognito~
+Dofun incognito~
+Position 0
+Level 151
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name invis~
+Dofun invis~
+Position 0
+Level 151
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name log~
+Dofun log~
+Position 0
+Level 158
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name memory~
+Dofun memory~
+Position 0
+Level 155
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name mwhere~
+Dofun mwhere~
+Position 0
+Level 152
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name owhere~
+Dofun owhere~
+Position 0
+Level 152
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name peace~
+Dofun peace~
+Position 0
+Level 154
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name echo~
+Dofun recho~
+Position 0
+Level 152
+Log 1
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name return~
+Dofun return~
+Position 0
+Level 154
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name snoop~
+Dofun snoop~
+Position 0
+Level 156
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name stat~
+Dofun stat~
+Position 0
+Level 152
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name statlist~
+Dofun statlist~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name string~
+Dofun string~
+Position 0
+Level 154
+Log 1
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name switch~
+Dofun switch~
+Position 0
+Level 154
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name wizinvis~
+Dofun invis~
+Position 0
+Level 151
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name vnum~
+Dofun vnum~
+Position 0
+Level 154
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name zecho~
+Dofun zecho~
+Position 0
+Level 155
+Log 1
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name clone~
+Dofun clone~
+Position 0
+Level 154
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name wiznet~
+Dofun wiznet~
+Position 0
+Level 151
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name -~
+Dofun immtalk~
+Position 0
+Level 151
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name immtalk~
+Dofun immtalk~
+Position 0
+Level 151
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name imotd~
+Dofun imotd~
+Position 0
+Level 151
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name :~
+Dofun immtalk~
+Position 0
+Level 151
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name smote~
+Dofun smote~
+Position 0
+Level 151
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name prefi~
+Dofun prefi~
+Position 0
+Level 151
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name prefix~
+Dofun prefix~
+Position 0
+Level 151
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name disable~
+Dofun disable~
+Position 0
+Level 158
+Log 1
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name avatar~
+Dofun avatar~
+Position 0
+Level 152
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name fvlist~
+Dofun fvlist~
+Position 0
+Level 152
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name sedit~
+Dofun sedit~
+Position 0
+Level 155
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name ifollow~
+Dofun ifollow~
+Position 0
+Level 155
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name rename~
+Dofun rename~
+Position 0
+Level 157
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name pwipe~
+Dofun pwipe~
+Position 0
+Level 158
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name omni~
+Dofun omni~
+Position 0
+Level 154
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name imp~
+Dofun imp~
+Position 0
+Level 159
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name implag~
+Dofun implag~
+Position 0
+Level 159
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name unrestore~
+Dofun unrestore~
+Position 0
+Level 156
+Log 1
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name scatter~
+Dofun scatter~
+Position 0
+Level 155
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name pload~
+Dofun pload~
+Position 0
+Level 157
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name punload~
+Dofun punload~
+Position 0
+Level 157
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name wpeace~
+Dofun wpeace~
+Position 0
+Level 155
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name skillstat~
+Dofun skillstat~
+Position 0
+Level 155
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name spellstat~
+Dofun spellstat~
+Position 0
+Level 155
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name olevel~
+Dofun olevel~
+Position 0
+Level 152
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name mlevel~
+Dofun mlevel~
+Position 0
+Level 152
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name double~
+Dofun double~
+Position 0
+Level 157
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name divine~
+Dofun divine~
+Position 0
+Level 157
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name astrip~
+Dofun astrip~
+Position 0
+Level 156
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name arealinks~
+Dofun arealinks~
+Position 0
+Level 157
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name fremove~
+Dofun fremove~
+Position 0
+Level 156
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name security~
+Dofun security~
+Position 0
+Level 157
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name repeat~
+Dofun repeat~
+Position 0
+Level 154
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name repop~
+Dofun repop~
+Position 0
+Level 153
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name award~
+Dofun reward~
+Position 0
+Level 155
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name check~
+Dofun check~
+Position 0
+Level 157
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name ftick~
+Dofun ftick~
+Position 0
+Level 157
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name openvlist~
+Dofun openvlist~
+Position 0
+Level 157
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name olist~
+Dofun olist~
+Position 0
+Level 152
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name rlist~
+Dofun rlist~
+Position 0
+Level 152
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name mlist~
+Dofun mlist~
+Position 0
+Level 152
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name immtitle~
+Dofun immtitle~
+Position 0
+Level 151
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name otype~
+Dofun otype~
+Position 0
+Level 154
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name grantbp~
+Dofun grantbp~
+Position 0
+Level 157
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name xpreset~
+Dofun xpreset~
+Position 0
+Level 157
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name munique~
+Dofun munique~
+Position 0
+Level 159
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name prand~
+Dofun prand~
+Position 0
+Level 155
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name gpoint~
+Dofun gpoint~
+Position 0
+Level 151
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name timeout~
+Dofun timeout~
+Position 0
+Level 156
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name mobslay~
+Dofun mobslay~
+Position 0
+Level 153
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name wiznetall~
+Dofun wiznetall~
+Position 0
+Level 151
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name admin~
+Dofun admin~
+Position 0
+Level 159
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name ibeep~
+Dofun ibeep~
+Position 0
+Level 155
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name edit~
+Dofun olc~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name aedit~
+Dofun aedit~
+Position 0
+Level 157
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name redit~
+Dofun redit~
+Position 0
+Level 152
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name medit~
+Dofun medit~
+Position 0
+Level 152
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name oedit~
+Dofun oedit~
+Position 0
+Level 152
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name asave~
+Dofun asave~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name alist~
+Dofun alist~
+Position 0
+Level 5
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name resets~
+Dofun resets~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name mpdump~
+Dofun mpdump~
+Position 0
+Level 153
+Log 2
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name mpstat~
+Dofun mpstat~
+Position 0
+Level 153
+Log 2
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name hedit~
+Dofun hedit~
+Position 0
+Level 155
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name opedit~
+Dofun opedit~
+Position 0
+Level 152
+Log 1
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name rpedit~
+Dofun rpedit~
+Position 0
+Level 152
+Log 1
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name opdump~
+Dofun opdump~
+Position 0
+Level 153
+Log 2
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name opstat~
+Dofun opstat~
+Position 0
+Level 153
+Log 2
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name rpdump~
+Dofun rpdump~
+Position 0
+Level 153
+Log 2
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name rpstat~
+Dofun rpstat~
+Position 0
+Level 153
+Log 2
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name instaroom~
+Dofun instaroom~
+Position 0
+Level 152
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name skedit~
+Dofun skedit~
+Position 0
+Level 157
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name cmdedit~
+Dofun cmdedit~
+Position 0
+Level 157
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name cmdlist~
+Dofun cmdlist~
+Position 0
+Level 153
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name mine~
+Dofun mine~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name @~
+Dofun at~
+Position 0
+Level 153
+Log 0
+Show 0
+Cat 4
+Disabled 0
+End
+
+Name =~
+Dofun admin~
+Position 0
+Level 159
+Log 0
+Show 0
+Cat 3
+Disabled 0
+End
+
+Name godchat~
+Dofun godchat~
+Position 0
+Level 157
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name gc~
+Dofun godchat~
+Position 0
+Level 157
+Log 0
+Show 0
+Cat 3
+Disabled 0
+End
+
+Name autoweather~
+Dofun autoweather~
+Position 0
+Level 1
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name wset~
+Dofun wset~
+Position 0
+Level 157
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name build~
+Dofun build~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name isignal~
+Dofun isignal~
+Position 0
+Level 159
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name fquit~
+Dofun fquit~
+Position 0
+Level 157
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name saveconst~
+Dofun saveconst~
+Position 0
+Level 159
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name constval~
+Dofun constval~
+Position 0
+Level 157
+Log 1
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name checkvnum~
+Dofun checkvnum~
+Position 0
+Level 157
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name petlist~
+Dofun petlist~
+Position 5
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name rlgedit~
+Dofun rlgedit~
+Position 0
+Level 1
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name rescind~
+Dofun rescind~
+Position 8
+Level 1
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name exalt~
+Dofun exalt~
+Position 8
+Level 1
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name initiate~
+Dofun initiate~
+Position 5
+Level 1
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name denounce~
+Dofun denounce~
+Position 5
+Level 1
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name purify~
+Dofun purify~
+Position 8
+Level 0
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name trivia~
+Dofun trivia~
+Position 0
+Level 1
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name objbuy~
+Dofun east~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name mobbuy~
+Dofun east~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name invite~
+Dofun invite~
+Position 5
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name home~
+Dofun home~
+Position 5
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name hometown~
+Dofun hometown~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name hname~
+Dofun hname~
+Position 5
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name hdesc~
+Dofun hdesc~
+Position 5
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name join~
+Dofun join~
+Position 5
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name boot~
+Dofun boot~
+Position 5
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name mrelic~
+Dofun mrelic~
+Position 0
+Level 155
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name pack~
+Dofun pack~
+Position 0
+Level 151
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name sstep~
+Dofun sstep~
+Position 8
+Level 0
+Log 0
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name shadowstep~
+Dofun east~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name frecall~
+Dofun frecall~
+Position 0
+Level 151
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name away~
+Dofun away~
+Position 4
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name permshow~
+Dofun east~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name tfunc~
+Dofun tfunc~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name create~
+Dofun pcforge~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name unlink~
+Dofun unlink~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name pshow~
+Dofun pshow~
+Position 5
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name mpedit~
+Dofun mpedit~
+Position 0
+Level 152
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name post~
+Dofun post~
+Position 8
+Level 0
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name chmail~
+Dofun chmail~
+Position 5
+Level 0
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name plist~
+Dofun plist~
+Position 0
+Level 158
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name info~
+Dofun info~
+Position 5
+Level 0
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name guild~
+Dofun guild~
+Position 0
+Level 158
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name promote~
+Dofun promote~
+Position 0
+Level 158
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name roster~
+Dofun roster~
+Position 0
+Level 1
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name homeb~
+Dofun homeb~
+Position 5
+Level 1
+Log 0
+Show 1
+Cat 2
+Disabled 0
+End
+
+Name gedit~
+Dofun gedit~
+Position 0
+Level 157
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name timer~
+Dofun timer~
+Position 0
+Level 158
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name sound~
+Dofun sound~
+Position 0
+Level 1
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name testsound~
+Dofun testsound~
+Position 0
+Level 100
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name click~
+Dofun click~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name oclick~
+Dofun do_null~
+Position 0
+Level 159
+Log 1
+Show 0
+Cat 0
+Disabled 0
+End
+
+Name compression~
+Dofun compress~
+Position 0
+Level 0
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name mudinfo~
+Dofun mudinfo~
+Position 0
+Level 158
+Log 0
+Show 1
+Cat 0
+Disabled 0
+End
+
+Name showcompress~
+Dofun showcompress~
+Position 0
+Level 152
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name image~
+Dofun image~
+Position 8
+Level 25
+Log 0
+Show 0
+Cat 4
+Disabled 0
+End
+
+Name clist~
+Dofun clist~
+Position 5
+Level 5
+Log 0
+Show 1
+Cat 4
+Disabled 0
+End
+
+Name inlay~
+Dofun inlay~
+Position 5
+Level 1
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name consent~
+Dofun do_null~
+Position 5
+Level 20
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name spousetalk~
+Dofun spousetalk~
+Position 5
+Level 20
+Log 0
+Show 1
+Cat 3
+Disabled 0
+End
+
+Name marry~
+Dofun marry~
+Position 4
+Level 158
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name divorce~
+Dofun divorce~
+Position 4
+Level 158
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+Name spgate~
+Dofun spgate~
+Position 5
+Level 20
+Log 0
+Show 1
+Cat 6
+Disabled 0
+End
+
+Name trade~
+Dofun trade~
+Position 5
+Level 10
+Log 0
+Show 1
+Cat 5
+Disabled 0
+End
+
+Name mxp~
+Dofun mxp~
+Position 5
+Level 1
+Log 0
+Show 1
+Cat 1
+Disabled 0
+End
+
+$

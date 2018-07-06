@@ -1,0 +1,715 @@
+#AREADATA
+Name Hallawood~
+Builders Hallafang~
+VNUMs 1800 1899
+Credits (null)~
+Security 5
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#END
+
+
+
+#OBJECTSNEW
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 1800
+Name Entrance to the Cathedrall of Hate~
+Desc You stand before a dark gate with two collums made of rotting corpse
+The foul smell of  decay fills your sense.
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+1801
+0
+EndRoom
+
+#ROOM
+Vnum 1801
+Name The Chappell of First Born Sacrafice~
+Desc This place is filled with the ancient bones of infants.
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1800
+0
+Exit
+1
+~
+~
+0
+1803
+0
+Exit
+3
+~
+~
+0
+1802
+0
+EndRoom
+
+#ROOM
+Vnum 1802
+Name A Dark Hall~
+Desc This hall is musky and cold. The floor feels like it's covered in
+broken glass. A closer look shows it's actually fragments of shattered skulls.
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1801
+0
+Exit
+3
+~
+~
+0
+1804
+0
+EndRoom
+
+#ROOM
+Vnum 1803
+Name A Dark Hall ~
+Desc The smell of foul decay lingers here.
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1823
+0
+Exit
+3
+~
+~
+0
+1801
+0
+EndRoom
+
+#ROOM
+Vnum 1804
+Name The Dining Hall~
+Desc A huge table sits in the middle of this room under a chandaleer made of bone.
+The table is set for a full corse meal....but the cobwebs are a sign that
+no one has dined here in many years.
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1802
+0
+Exit
+2
+~
+~
+0
+1805
+0
+EndRoom
+
+#ROOM
+Vnum 1805
+Name The Prayer Room~
+Desc An unholy temple....benches made of flesh and bone line this room.
+The altar at the front of the room apears to be writhing and bleeding.
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1804
+0
+Exit
+2
+~
+~
+0
+1806
+0
+EndRoom
+
+#ROOM
+Vnum 1806
+Name A Narrow, Dim Walkway~
+Desc You almost have enough light in this walkway to see where you're going.
+The faint scent of burnig air fills your lungs.
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1805
+0
+Exit
+2
+~
+~
+0
+1807
+0
+EndRoom
+
+#ROOM
+Vnum 1807
+Name The Silent Room~
+Desc As you look around you realize you can't hear anything whatsoever.
+When you try to speek, your mouth opens but no sound can be heard.
+~
+Room_flags 67110912
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1806
+0
+Exit
+1
+~
+~
+0
+1808
+0
+EndRoom
+
+#ROOM
+Vnum 1808
+Name The Toy Room~
+Desc You enter a room filled with all manner of stuffed animals and wooden toys.
+Most are layered in dust and cobwebs....but some look as though they've been moving 
+about the room on their own recently.
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1809
+0
+Exit
+3
+~
+~
+0
+1807
+0
+EndRoom
+
+#ROOM
+Vnum 1809
+Name A Dim Hall~
+Desc You enter a dimlit hallway with cobwebs lining the cieling.
+You feel a cold draft hit your face an feel as though something is watching you.
+The debris on the floor has been disturbed recently, in the northwest corner you see
+something starring at you,but can't make out what it is.
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1810
+0
+Exit
+3
+~
+~
+0
+1808
+0
+EndRoom
+
+#ROOM
+Vnum 1810
+Name A Very Dark Passageway~
+Desc This passage is too dark to make anything out.
+Though you try to light the room the black just seems to swallow it.
+Something evil and unnatural lurkes here.
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1811
+0
+Exit
+3
+~
+~
+0
+1809
+0
+EndRoom
+
+#ROOM
+Vnum 1811
+Name The Theatre~
+Desc A huge stage fills the front of this room. The curtain is tattered and torn, falling from the cielling in 
+most places.Row upon row of seats fill the room. A corpse sill sits in the front row, it's head missing and nowhere to 
+be found.
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1812
+0
+Exit
+3
+~
+~
+0
+1810
+0
+EndRoom
+
+#ROOM
+Vnum 1812
+Name The Kitchen~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1813
+0
+Exit
+2
+~
+~
+0
+1811
+0
+EndRoom
+
+#ROOM
+Vnum 1813
+Name A Dim Hall~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1814
+0
+Exit
+2
+~
+~
+0
+1812
+0
+EndRoom
+
+#ROOM
+Vnum 1814
+Name The Screeming Room~
+Desc This is a room filled with devices meant to
+make even the fiercest warrior screem
+And devices to keep the weekest ones from being allowed to
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1822
+0
+Exit
+2
+~
+~
+0
+1813
+0
+Exit
+3
+~
+~
+0
+1815
+0
+EndRoom
+
+#ROOM
+Vnum 1815
+Name A Dark Passageway~
+Desc These dim lit halls seem to be everywher
+And all smell of vile death and hatred
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1814
+0
+Exit
+2
+~
+~
+0
+1816
+0
+EndRoom
+
+#ROOM
+Vnum 1816
+Name A Dim hall~
+Desc Another dark passage filled with rotting
+flesh beniethe your feet
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1815
+0
+Exit
+2
+~
+~
+0
+1817
+0
+EndRoom
+
+#ROOM
+Vnum 1817
+Name The Chamber of Misbegotten Torment~
+Desc No words in any language could describe
+the evil that breathes within this room
+The wall seem to poor as if bleeding themselves
+All manner of machines for the bringing of pain and
+ultamite suffering line this place
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1816
+0
+Exit
+3
+~
+~
+0
+1818
+0
+EndRoom
+
+#ROOM
+Vnum 1818
+Name A Narrow Walkway~
+Desc A foul smell lingers here
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1817
+0
+Exit
+3
+~
+~
+0
+1819
+0
+EndRoom
+
+#ROOM
+Vnum 1819
+Name The Ballroom~
+Desc done
+A beutifull, yet dark room with all manner of evil party favors.
+The walls are covered whith the markings of demaon gods
+scrolled in blood and fecal matter.
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1820
+0
+Exit
+1
+~
+~
+0
+1818
+0
+EndRoom
+
+#ROOM
+Vnum 1820
+Name The Concubine's Chambers~
+Desc Whoah...Keep walkin and try not to touch ANYTHING.
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1821
+0
+Exit
+2
+~
+~
+0
+1819
+0
+EndRoom
+
+#ROOM
+Vnum 1821
+Name A Very Dark Hall~
+Desc ~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+1820
+0
+EndRoom
+
+#ROOM
+Vnum 1822
+Name A Bloody Hall~
+Desc blah
+look
+A foul smelling room filled with the taste
+of decaying flesh and blood.
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+1814
+0
+EndRoom
+
+#ROOM
+Vnum 1823
+Name The Furnace~
+Desc Huge fireplaces and rusting pipes maze this area.
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+1824
+0
+Exit
+3
+~
+~
+0
+1803
+0
+EndRoom
+
+#ROOM
+Vnum 1824
+Name The Slaves chambers~
+Desc You are standing in a room filled with make-shift beds and latrines.
+The smell of urine and rotting fruit fill the stale air
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1823
+0
+Exit
+2
+~
+~
+0
+1825
+0
+EndRoom
+
+#ROOM
+Vnum 1825
+Name A dark passage~
+Desc As you enter this hall you get the feeling you're being watched
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+1824
+0
+Exit
+3
+~
+~
+0
+1826
+0
+EndRoom
+
+#ROOM
+Vnum 1826
+Name The Hurt Locker~
+Desc You find yourself in a very confined room.
+The walls are coverd in bloody spikes and scratch marks.
+~
+Room_flags 67108864
+Sector_type 0
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+1825
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

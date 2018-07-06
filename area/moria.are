@@ -1,0 +1,5514 @@
+#AREADATA
+Name Moria~
+Builders None~
+VNUMs 3900 4199
+Credits { 5 15} Alfa    Moria~
+Security 9
+Soundfile ~
+Continent 0
+End
+
+
+
+#MOBILESNEW
+#MOB
+Vnum 4000
+Name python snake~
+Short the huge python~
+Long The huge python rears its head and hisses at you. 
+~
+Description It sways back and forth contemplating whether or not to eat you.
+~
+Race snake~
+Act_flags ABF
+Aff D
+Align -200
+Group 0
+Level 11
+Hitroll 2
+Hit_dice 11d9+110
+Mana_dice 1d1+99
+Dam_dice 3d4+2
+Dam_type bite
+Armor -1 0 3 6
+Clevel0
+Cability 0
+Off FHNOR
+Imm 0
+Res FL
+Vuln I
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 0
+Form AGXYc
+Parts ADEFKLQVX
+Size large
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4001
+Name garter snake~
+Short the garter snake~
+Long A small green garter snake slithers along the floor.
+~
+Description It looks harmless enough.  Or is it?
+~
+Race snake~
+Act_flags ABU
+Aff 0
+Align -100
+Group 0
+Level 7
+Hitroll 0
+Hit_dice 7d7+60
+Mana_dice 1d1+99
+Dam_dice 1d10+1
+Dam_type bite
+Armor 2 3 5 8
+Clevel0
+Cability 0
+Off FHR
+Imm 0
+Res EL
+Vuln I
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 0
+Form AGXYc
+Parts ADEFKLQVX
+Size small
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4002
+Name centipede~
+Short the centipede~
+Long A small centipede here is looking for vegetation.
+~
+Description It looks completely harmless but who knows for sure?
+~
+Race centipede~
+Act_flags ABU
+Aff Z
+Align 100
+Group 0
+Level 3
+Hitroll 0
+Hit_dice 3d3+30
+Mana_dice 1d1+99
+Dam_dice 1d6+0
+Dam_type sting
+Armor 6 7 9 10
+Clevel0
+Cability 0
+Off FR
+Imm 0
+Res FI
+Vuln E
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form ABGO
+Parts ACK
+Size tiny
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4003
+Name kobold~
+Short the kobold~
+Long An ugly kobold mumbles something under its breath.
+~
+Description It looks ugly enough to scare its own mother.
+~
+Race unused~
+Act_flags ACGT
+Aff 0
+Align -100
+Group 0
+Level 4
+Hitroll 0
+Hit_dice 4d4+40
+Mana_dice 1d1+99
+Dam_dice 1d4+1
+Dam_type claw
+Armor 7 7 7 10
+Clevel0
+Cability 0
+Off R
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 18
+Form 0
+Parts 0
+Size small
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4004
+Name orc~
+Short the orc~
+Long This orc is frothing around the mouth.  Better stay away.
+~
+Description You notice a slight tinge of madness in his eyes.
+~
+Race orc~
+Act_flags ACFGT
+Aff J
+Align -400
+Group 0
+Level 5
+Hitroll 2
+Hit_dice 6d5+50
+Mana_dice 1d1+199
+Dam_dice 1d6+3
+Dam_type beating
+Armor 7 7 7 10
+Clevel0
+Cability 0
+Off CDNR
+Imm 0
+Res CQ
+Vuln S
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 60
+Form ABHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4005
+Name orc~
+Short the large orc~
+Long This large orc is looking for someone small to pick on.
+~
+Description The orc says, "Whatcha look'n at?"
+~
+Race orc~
+Act_flags ACGT
+Aff J
+Align -500
+Group 0
+Level 7
+Hitroll 1
+Hit_dice 6d7+70
+Mana_dice 1d1+99
+Dam_dice 1d8+2
+Dam_type punch
+Armor 4 5 5 8
+Clevel0
+Cability 0
+Off CJR
+Imm 0
+Res Q
+Vuln S
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 120
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4050
+Name warrior~
+Short the warrior~
+Long This tall warrior has more scars than even you!
+~
+Description He's surely a strong, brainless fighter.  Like you.
+~
+Race human~
+Act_flags ABCFT
+Aff 0
+Align -300
+Group 0
+Level 12
+Hitroll 3
+Hit_dice 10d12+120
+Mana_dice 1d1+149
+Dam_dice 1d8+4
+Dam_type punch
+Armor 1 -1 2 5
+Clevel0
+Cability 0
+Off CIQR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 300
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4051
+Name warrior~
+Short the warrior~
+Long This veteran warrior is old enough to be your father.
+~
+Description He seems to know his way with weapons.  And he wants
+to show you what he can do!
+~
+Race human~
+Act_flags ACFT
+Aff 0
+Align -400
+Group 0
+Level 7
+Hitroll 2
+Hit_dice 8d7+70
+Mana_dice 1d1+99
+Dam_dice 1d7+2
+Dam_type punch
+Armor 4 5 4 8
+Clevel0
+Cability 0
+Off CIQR
+Imm 0
+Res 0
+Vuln C
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 140
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4052
+Name hobgoblin~
+Short the hobgoblin~
+Long A small beat-up hobgoblin cringes in the corner.
+~
+Description Looking into the eyes of this poor soul makes you feel
+sad as you see the terror and fear in its eyes.  Why
+don't you put it out of its misery?
+~
+Race hobgoblin~
+Act_flags ACGHT
+Aff J
+Align -300
+Group 0
+Level 6
+Hitroll 0
+Hit_dice 6d6+40
+Mana_dice 1d1+99
+Dam_dice 1d6+1
+Dam_type beating
+Armor 6 5 5 8
+Clevel0
+Cability 0
+Off N
+Imm 0
+Res LQ
+Vuln C
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 12
+Form AHMV
+Parts ABCDEFGHIJKY
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4053
+Name snake~
+Short the snake~
+Long A sickly brown snake watches you with caution.
+~
+Description A closer look reveals a hungry demeanor.  Don't get too close!
+~
+Race snake~
+Act_flags ABFU
+Aff 0
+Align -600
+Group 0
+Level 10
+Hitroll 1
+Hit_dice 4d10+100
+Mana_dice 1d1+99
+Dam_dice 2d6+1
+Dam_type bite
+Armor 0 2 2 5
+Clevel0
+Cability 0
+Off FGNR
+Imm 0
+Res EFL
+Vuln I
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 0
+Form AGXYc
+Parts ADEFKLQVX
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4054
+Name centipede~
+Short the centipede~
+Long A white centipede crawls along the cave floors randomly.
+~
+Description The centipede doesn't really seem to notice you.
+~
+Race centipede~
+Act_flags ABU
+Aff Z
+Align -100
+Group 0
+Level 5
+Hitroll 0
+Hit_dice 5d5+50
+Mana_dice 1d1+99
+Dam_dice 1d8+0
+Dam_type sting
+Armor 4 7 5 10
+Clevel0
+Cability 0
+Off FR
+Imm 0
+Res FI
+Vuln E
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form ABGO
+Parts ACK
+Size small
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4055
+Name hobgoblin~
+Short the large hobgoblin~
+Long A large hobgoblin is here wondering if he should tear you apart.
+~
+Description Red, bloodshot eyes and drool dripping from its mouth makes you
+wonder just how far away you should be.
+~
+Race hobgoblin~
+Act_flags ACGT
+Aff J
+Align -500
+Group 0
+Level 10
+Hitroll 2
+Hit_dice 2d10+120
+Mana_dice 1d1+149
+Dam_dice 2d4+3
+Dam_type punch
+Armor 2 2 1 5
+Clevel0
+Cability 0
+Off CDJR
+Imm 0
+Res CLQ
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 210
+Form AHMV
+Parts ABCDEFGHIJKY
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4056
+Name orc~
+Short the orc~
+Long An orc is here, looking for something (or perhaps someone) to eat.
+~
+Description As you already know, orcs have quite a ravenous appetite.  
+Care to be dinner?
+~
+Race orc~
+Act_flags ACFGT
+Aff J
+Align -800
+Group 0
+Level 8
+Hitroll 1
+Hit_dice 3d10+90
+Mana_dice 1d1+99
+Dam_dice 1d8+2
+Dam_type beating
+Armor 3 3 2 5
+Clevel0
+Cability 0
+Off CNR
+Imm 0
+Res Q
+Vuln S
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 60
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4057
+Name lion mountain~
+Short the mountain lion~
+Long A mountain lion bears its teeth at the sight of more food.
+~
+Description Huge claws and big teeth make quite a fearsome opponent for
+the weary.  Are you next?
+~
+Race cat~
+Act_flags AFG
+Aff Z
+Align -100
+Group 0
+Level 9
+Hitroll 2
+Hit_dice 4d10+100
+Mana_dice 1d1+99
+Dam_dice 2d6+1
+Dam_type claw
+Armor 0 0 0 4
+Clevel0
+Cability 0
+Off EFHR
+Imm 0
+Res E
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 0
+Form AGV
+Parts ACDEFHJKQUV
+Size large
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4058
+Name giant hill~
+Short the hill giant~
+Long A hill giant is here tossing rocks around.  Marbles perhaps?
+~
+Description The hill giant looks like he's about 9 feet tall. By his actions you
+come to the conclusion that he's not very intelligent.  A perfect
+playmate for you.
+~
+Race giant~
+Act_flags AGT
+Aff 0
+Align 0
+Group 0
+Level 13
+Hitroll 2
+Hit_dice 10d10+150
+Mana_dice 10d10+100
+Dam_dice 2d6+6
+Dam_type smash
+Armor 0 -2 0 4
+Clevel0
+Cability 0
+Off DOR
+Imm 0
+Res DHI
+Vuln JP
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 500
+Form AHMV
+Parts ABCDEFGHIJK
+Size huge
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4100
+Name mage~
+Short the Mage~
+Long A small intelligent looking mage is standing here. It looks like he
+knows his way with magic. 
+~
+Description This guy can ace the SAT with his frontal lobe tied behind his back.
+~
+Race human~
+Act_flags ABCFR
+Aff D
+Align -100
+Group 0
+Level 13
+Hitroll 1
+Hit_dice 7d5+130
+Mana_dice 13d10+100
+Dam_dice 1d6+2
+Dam_type punch
+Armor -2 -2 -2 2
+Clevel0
+Cability 0
+Off FQ
+Imm 0
+Res C
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 400
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4101
+Name troll~
+Short the troll~
+Long This large mean-looking troll wants to take a closer look at you.
+~
+Description Whilst you look at this troll, you realize he is trying to
+figure just how tender you are.
+~
+Race unused~
+Act_flags ABCFT
+Aff 0
+Align -800
+Group 0
+Level 12
+Hitroll 2
+Hit_dice 7d10+150
+Mana_dice 5d10+100
+Dam_dice 2d7+3
+Dam_type claw
+Armor 0 -3 2 6
+Clevel0
+Cability 0
+Off CEOR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 200
+Form 0
+Parts 0
+Size large
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4102
+Name guardian snake~
+Short the guardian snake~
+Long A large green snake is guardian for something.
+~
+Description You take a closer look at this large snake while it tries to
+bite your head off!
+~
+Race snake~
+Act_flags ABCF
+Aff 0
+Align -700
+Group 0
+Level 10
+Hitroll 2
+Hit_dice 4d10+100
+Mana_dice 1d1+99
+Dam_dice 2d6+1
+Dam_type bite
+Armor 0 0 2 6
+Clevel0
+Cability 0
+Off HMNOR
+Imm 0
+Res FL
+Vuln GI
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 0
+Form AGXYc
+Parts ADEFKLQVX
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4103
+Name thief~
+Short the thief~
+Long A thief, all dressed in black.
+~
+Description Well COUNT your money!
+~
+Race human~
+Act_flags ACHS
+Aff PQ
+Align -100
+Group 0
+Level 8
+Hitroll 1
+Hit_dice 6d8+80
+Mana_dice 1d1+99
+Dam_dice 1d5+1
+Dam_type punch
+Armor 2 4 3 7
+Clevel0
+Cability 0
+Off EFJN
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 100
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4104
+Name orc~
+Short the orc~
+Long An ugly orc is standing here waiting for someone to practice on.
+~
+Description Yrkk..  He belches in your face!
+~
+Race orc~
+Act_flags ACFGHT
+Aff J
+Align -200
+Group 0
+Level 7
+Hitroll 1
+Hit_dice 7d7+70
+Mana_dice 1d1+99
+Dam_dice 1d8+3
+Dam_type punch
+Armor 4 5 5 8
+Clevel0
+Cability 0
+Off CJR
+Imm 0
+Res Q
+Vuln S
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 150
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4105
+Name centipede~
+Short a centipede~
+Long A small harmless centipede is here looking for some vegetation to eat.
+~
+Description It doesn't seem to pay any attention towards you.  You are probably
+not important.
+~
+Race centipede~
+Act_flags ABU
+Aff Z
+Align 300
+Group 0
+Level 6
+Hitroll 1
+Hit_dice 8d5+50
+Mana_dice 1d1+99
+Dam_dice 2d4+1
+Dam_type sting
+Armor 3 6 4 10
+Clevel0
+Cability 0
+Off FR
+Imm 0
+Res FI
+Vuln E
+Start_pos stand
+Default_pos stand
+Sex none
+Wealth 0
+Form ABGO
+Parts ACK
+Size small
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4106
+Name warrior~
+Short the Warrior~
+Long A human warrior grins an evil grin in your face.
+~
+Description He doesn't look friendly at all...  He is no Mr. Rogers!
+~
+Race human~
+Act_flags ACFGT
+Aff 0
+Align -300
+Group 0
+Level 9
+Hitroll 2
+Hit_dice 4d10+130
+Mana_dice 1d1+99
+Dam_dice 1d8+3
+Dam_type punch
+Armor 3 2 4 6
+Clevel0
+Cability 0
+Off CJQU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 300
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4107
+Name kobold~
+Short the green kobold~
+Long A green kobold hobbles along the cave walls puking periodically.
+~
+Description It looks a little sick.  Something he ate maybe?
+~
+Race unused~
+Act_flags ACFGT
+Aff 0
+Align -100
+Group 0
+Level 7
+Hitroll 1
+Hit_dice 8d4+50
+Mana_dice 1d1+99
+Dam_dice 2d4+1
+Dam_type claw
+Armor 5 5 5 10
+Clevel0
+Cability 0
+Off NR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 25
+Form 0
+Parts 0
+Size small
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4150
+Name bat blue~
+Short the blue bat~
+Long A blue bat flies in circles while electrical charges arc here and there.
+~
+Description Bzzzt.  Zap.  Crackle.  Speak about static electricity!
+~
+Race bat~
+Act_flags ABF
+Aff TZ
+Align -100
+Group 0
+Level 7
+Hitroll 1
+Hit_dice 3d10+70
+Mana_dice 1d1+99
+Dam_dice 1d9+1
+Dam_type shbite
+Armor 4 4 4 6
+Clevel0
+Cability 0
+Off FHR
+Imm J
+Res 0
+Vuln RSYZ
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 0
+Form AGV
+Parts ACDEFHJKP
+Size tiny
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4151
+Name bat red~
+Short the red bat~
+Long A red bat hangs upside down from the ceiling, glowing.
+~
+Description You can definitely feel some heat from this thing.  A fever perhaps?
+~
+Race bat~
+Act_flags ABF
+Aff TZ
+Align -100
+Group 0
+Level 7
+Hitroll 1
+Hit_dice 3d10+70
+Mana_dice 1d1+99
+Dam_dice 1d9+1
+Dam_type flbite
+Armor 4 4 4 6
+Clevel0
+Cability 0
+Off FHR
+Imm H
+Res 0
+Vuln IRS
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 0
+Form AGV
+Parts ACDEFHJKP
+Size tiny
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4152
+Name bat green~
+Short the green bat~
+Long A green bat flies from wall to wall leaving an awful smell.
+~
+Description Whew!  What a stinker!
+~
+Race bat~
+Act_flags ABF
+Aff TZ
+Align -100
+Group 0
+Level 7
+Hitroll 1
+Hit_dice 3d10+70
+Mana_dice 1d1+99
+Dam_dice 1d9+1
+Dam_type bite
+Armor 4 4 4 6
+Clevel0
+Cability 0
+Off FHR
+Imm L
+Res 0
+Vuln S
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 0
+Form ABGV
+Parts ACDEFHJKP
+Size tiny
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4153
+Name bat white~
+Short the white bat~
+Long A white bat rests on the ceiling.  You wonder where the cold is coming from.
+~
+Description Brrr!  You almost can't distinguish this bat from an ice cube.
+~
+Race bat~
+Act_flags ABF
+Aff TZ
+Align -100
+Group 0
+Level 7
+Hitroll 1
+Hit_dice 3d10+70
+Mana_dice 1d1+99
+Dam_dice 1d9+1
+Dam_type frbite
+Armor 4 4 4 6
+Clevel0
+Cability 0
+Off FHR
+Imm I
+Res 0
+Vuln HS
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 0
+Form AGV
+Parts ACDEFHJKP
+Size tiny
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4154
+Name bat black~
+Short the black bat~
+Long A black bat flies from wall to wall leaving something hissing behind.
+~
+Description Amazing!  This bat is grooming itself with acid!
+~
+Race bat~
+Act_flags ABF
+Aff TZ
+Align -100
+Group 0
+Level 7
+Hitroll 1
+Hit_dice 3d10+70
+Mana_dice 1d1+99
+Dam_dice 1d9+1
+Dam_type acbite
+Armor 4 4 4 6
+Clevel0
+Cability 0
+Off FHR
+Imm K
+Res 0
+Vuln S
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 0
+Form AGV
+Parts ACDEFHJKP
+Size tiny
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4155
+Name thief~
+Short the thief~
+Long A sneaky thief appears and disappears within the shadows.
+~
+Description He definitely knows what he's doing.  Trust him.
+~
+Race human~
+Act_flags ACGS
+Aff BQ
+Align 400
+Group 0
+Level 12
+Hitroll 2
+Hit_dice 3d20+130
+Mana_dice 1d1+99
+Dam_dice 2d4+3
+Dam_type punch
+Armor 2 0 0 6
+Clevel0
+Cability 0
+Off BFJNQU
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 500
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4156
+Name troll~
+Short the troll~
+Long A large ugly troll is here mumbling something.
+~
+Description He looks quite mean.  Don't mess with him.
+~
+Race unused~
+Act_flags ABCFT
+Aff 0
+Align -700
+Group 0
+Level 14
+Hitroll 3
+Hit_dice 8d20+140
+Mana_dice 14d4+100
+Dam_dice 3d4+5
+Dam_type claw
+Armor -1 -3 -1 4
+Clevel0
+Cability 0
+Off CEOR
+Imm 0
+Res 0
+Vuln C
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 1000
+Form 0
+Parts 0
+Size huge
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4157
+Name mage~
+Short the Mage~
+Long A small man is here researching magical incantations.
+~
+Description His little head is buried into his magic books.  He'd be very
+angry should you bother his studies.
+~
+Race human~
+Act_flags ACFGR
+Aff 0
+Align -200
+Group 0
+Level 11
+Hitroll 0
+Hit_dice 4d10+100
+Mana_dice 11d12+100
+Dam_dice 1d6+1
+Dam_type beating
+Armor 0 0 0 2
+Clevel0
+Cability 0
+Off QU
+Imm 0
+Res C
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 200
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4158
+Name snake~
+Short the snake~
+Long A brown snake hisses at you.
+~
+Description Sickly brown as it is, you know what it really wants is you
+for dinner.
+~
+Race snake~
+Act_flags ABFU
+Aff 0
+Align 200
+Group 0
+Level 9
+Hitroll 1
+Hit_dice 2d10+100
+Mana_dice 1d1+99
+Dam_dice 1d12+1
+Dam_type bite
+Armor 1 3 3 6
+Clevel0
+Cability 0
+Off FGNR
+Imm 0
+Res EFL
+Vuln I
+Start_pos fight
+Default_pos fight
+Sex either
+Wealth 0
+Form AGXYc
+Parts ADEFKLQVX
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4159
+Name troll~
+Short the small troll~
+Long A 'small' troll is here happily dancing.  Trala-la-la.  La-la.
+~
+Description He is so happy, you are disgusted.  Kill him now!
+~
+Race unused~
+Act_flags ACFGT
+Aff 0
+Align -300
+Group 0
+Level 8
+Hitroll 2
+Hit_dice 3d10+80
+Mana_dice 8d4+100
+Dam_dice 2d5+2
+Dam_type bite
+Armor 3 1 3 6
+Clevel0
+Cability 0
+Off EJR
+Imm 0
+Res 0
+Vuln 0
+Start_pos stand
+Default_pos stand
+Sex male
+Wealth 100
+Form 0
+Parts 0
+Size large
+Material unknown
+Aggression 0
+EndMob
+
+#MOB
+Vnum 4160
+Name orc~
+Short the orc~
+Long A large orc growls in your face.
+~
+Description He is just looking for a fight isn't he?
+~
+Race orc~
+Act_flags ACFGT
+Aff J
+Align -200
+Group 0
+Level 9
+Hitroll 1
+Hit_dice 3d10+100
+Mana_dice 1d1+99
+Dam_dice 1d8+2
+Dam_type beating
+Armor 2 2 1 5
+Clevel0
+Cability 0
+Off CJNR
+Imm 0
+Res Q
+Vuln S
+Start_pos stand
+Default_pos stand
+Sex either
+Wealth 150
+Form AHMV
+Parts ABCDEFGHIJK
+Size medium
+Material unknown
+Aggression 0
+EndMob
+
+#END
+
+
+
+#OBJECTSNEW
+#OBJ
+Vnum 4000
+Name ring yellow green~
+Short a yellow and green ring~
+Desc A ring, with yellow and green ornamentation. It looks very old.~
+Material copper~
+Item_type treasure
+Extra 0
+Extra2 0
+Wear AB
+Values 0 0 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition A
+ExtraDesc
+ring~
+It feels heavy.
+~
+AffectObj
+1 -2
+EndObj
+
+#OBJ
+Vnum 4001
+Name corpse~
+Short a corpse~
+Desc A halfway decayed corpse of a cartographer.~
+Material flesh~
+Item_type npc_corpse
+Extra P
+Extra2 0
+Wear A
+Values 0 0 0 0 0
+Level 0
+Weight 1000
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+corpse~
+Ew.  This must have been the mapper that was lost in Moria.  His rotted hand
+still clutches a partially digested map...
+~
+EndObj
+
+#OBJ
+Vnum 4002
+Name coins~
+Short some coins~
+Desc A small pile of coins.~
+Material silver~
+Item_type money
+Extra 0
+Extra2 0
+Wear A
+Values DGH AB 0 0 0
+Level 0
+Weight 5000
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+EndObj
+
+#OBJ
+Vnum 4003
+Name dagger rusty~
+Short a rusty dagger~
+Desc A worn and rusty dagger is here.~
+Material iron~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values dagger 1 5 stab 0
+Level 0
+Weight 10
+Cost 165
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition W
+ExtraDesc
+dagger~
+It's old and rusted, but it still has a good edge.
+~
+AffectObj
+18 -1
+EndObj
+
+#OBJ
+Vnum 4004
+Name bullwhip whip~
+Short a bullwhip~
+Desc A coiled length of leather is here...looks like a nasty whip!~
+Material leather~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values whip 1 7 whip 0
+Level 3
+Weight 30
+Cost 240
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 4005
+Name club tree huge~
+Short a huge club~
+Desc An uprooted tree leans against the wall.~
+Material wood~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values mace 2 9 crush F
+Level 14
+Weight 250
+Cost 780
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+ExtraDesc
+club tree~
+This is the biggest club you have ever seen!  The giant didn't even bother to
+trim the roots off the end.
+~
+AffectObj
+18 -2
+EndObj
+
+#OBJ
+Vnum 4006
+Name furs smelly~
+Short some smelly furs~
+Desc A heap of smelly furs sit here.~
+Material fur~
+Item_type armor
+Extra 0
+Extra2 0
+Wear AK
+Values AC BC AC A AB
+Level 8
+Weight 100
+Cost 510
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition A
+ExtraDesc
+furs~
+They're heavy and smelly and would probably slow you down...but they do look
+like good armor.
+~
+AffectObj
+2 -1
+EndObj
+
+#OBJ
+Vnum 4050
+Name potion purple~
+Short a purple potion~
+Desc A purple potion is here.~
+Material glass~
+Item_type potion
+Extra 0
+Extra2 0
+Wear AO
+Values 13 'cure blindness' 'sanctuary' '' ''
+Level 11
+Weight 10
+Cost 720
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+ExtraDesc
+potion purple~
+It looks rather strange!
+~
+EndObj
+
+#OBJ
+Vnum 4051
+Name helmet metal~
+Short a metal helmet~
+Desc A metal helmet is here.~
+Material iron~
+Item_type armor
+Extra G
+Extra2 0
+Wear AE
+Values C C AB B A
+Level 5
+Weight 40
+Cost 650
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+AffectObj
+20 -1
+EndObj
+
+#OBJ
+Vnum 4052
+Name mushroom~
+Short a mushroom~
+Desc A small mushroom is here.~
+Material food~
+Item_type food
+Extra 0
+Extra2 0
+Wear A
+Values B B 0 A 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+ExtraDesc
+mushroom~
+Let's put it this way - I wouldn't eat it !
+~
+EndObj
+
+#OBJ
+Vnum 4053
+Name dirk~
+Short a thieves dirk~
+Desc A beautifully crafted dirk is lying here.~
+Material steel~
+Item_type weapon
+Extra G
+Extra2 0
+Wear AN
+Values dagger 2 5 stab 0
+Level 8
+Weight 20
+Cost 590
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+ExtraDesc
+dirk~
+It's a medium sized, beautifully crafted dirk made from grey alloy.
+Its blade is double-edged and very thin ... this looks like a good
+thieves weapon.
+~
+AffectObj
+19 1
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 4054
+Name axe war~
+Short a war axe~
+Desc A razor-sharp war axe rests on the ground.~
+Material steel~
+Item_type weapon
+Extra G
+Extra2 0
+Wear AN
+Values axe 3 4 chop 0
+Level 12
+Weight 70
+Cost 930
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+axe~
+It has an edge sharp enough to cut a passing thought. A good find, this.
+~
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 4055
+Name sword broad~
+Short a broad sword~
+Desc A well-polished broadsword sits here.~
+Material steel~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values sword 1 10 chop 0
+Level 6
+Weight 80
+Cost 550
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+ExtraDesc
+sword~
+It's much heavier than a long sword, but not as well balanced.
+~
+EndObj
+
+#OBJ
+Vnum 4056
+Name flail two two-headed~
+Short a two-headed flail~
+Desc A flail with two heavy, spiked heads is here.~
+Material iron~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values flail 1 7 smash 0
+Level 3
+Weight 70
+Cost 290
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition A
+ExtraDesc
+flail~
+It's a stout wooden rod with two spiked balls attached, each weighing over 2
+pounds.  It's a little worn for wear, but looks most painful.
+~
+AffectObj
+17 1
+AffectObj
+19 2
+EndObj
+
+#OBJ
+Vnum 4057
+Name mace heavy~
+Short a heavy iron mace~
+Desc A large iron mace with a wicked head rests on the ground.~
+Material iron~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values mace 2 4 pound 0
+Level 6
+Weight 100
+Cost 390
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+ExtraDesc
+mace~
+A metal shaft mounted with an iron head, shaped into armor-shattering form.
+~
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 4058
+Name falchion sword~
+Short a falchion~
+Desc A curved sword with a heavy tip sits here.~
+Material iron~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values sword 2 4 chop 0
+Level 5
+Weight 80
+Cost 490
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+ExtraDesc
+falchion~
+It's curved like a scimitar, only with no recurved blade and a tip designed
+for piercing as well as slashing.
+~
+EndObj
+
+#OBJ
+Vnum 4059
+Name voulge polearm~
+Short a voulge~
+Desc A long polearm with a curved blade is here.~
+Material iron~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values polearm 2 6 slash F
+Level 10
+Weight 120
+Cost 520
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition A
+ExtraDesc
+voulge~
+It looks a lot like a staff with a pruning knife tied to the end, but it's
+quite effective.
+~
+AffectObj
+17 -1
+EndObj
+
+#OBJ
+Vnum 4100
+Name blade black demon~
+Short the black demon blade~
+Desc An evil black demon blade is here.~
+Material adamantite~
+Item_type weapon
+Extra GJL
+Extra2 0
+Wear AN
+Values sword 3 4 cleave CF
+Level 11
+Weight 80
+Cost 940
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+blade~
+You'll become as evil as the weapon, if you use it!
+~
+EndObj
+
+#OBJ
+Vnum 4101
+Name gloves~
+Short swordsman's gloves~
+Desc Some gloves are here.  They look like the right equipment for fighting.~
+Material leather~
+Item_type armor
+Extra G
+Extra2 0
+Wear AH
+Values A AB AB A A
+Level 7
+Weight 10
+Cost 730
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+AffectObj
+19 1
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 4102
+Name scroll ysafg~
+Short a scroll which reads "ysafg"~
+Desc A scroll which reads "ysafg", it looks very fragile and quite old.~
+Material parchment~
+Item_type scroll
+Extra G
+Extra2 0
+Wear AO
+Values 10 'identify' '' '' ''
+Level 7
+Weight 10
+Cost 840
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition W
+ExtraDesc
+scroll~
+It looks informative.
+~
+EndObj
+
+#OBJ
+Vnum 4103
+Name slime mold~
+Short a green slime mold~
+Desc A green slime mold is here. It smells REAL bad.~
+Material food~
+Item_type food
+Extra P
+Extra2 0
+Wear A
+Values DE DE 0 0 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+ExtraDesc
+slime mold~
+It wasn't meant to be food, - Certainly not for humans.
+~
+EndObj
+
+#OBJ
+Vnum 4104
+Name slime mold~
+Short a green slime mold~
+Desc A green slime mold is here. It smells REAL bad.~
+Material food~
+Item_type food
+Extra P
+Extra2 0
+Wear A
+Values DE DE 0 A 0
+Level 0
+Weight 10
+Cost 0
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+ExtraDesc
+slime mold~
+It wasn't meant to be food, - Certainly not for humans.
+~
+EndObj
+
+#OBJ
+Vnum 4105
+Name staff iron iron-shod~
+Short an iron-shod staff~
+Desc A long staff capped with iron leans against a wall.~
+Material iron~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values exotic 2 5 pound F
+Level 10
+Weight 60
+Cost 630
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+ExtraDesc
+staff~
+It's a superb weapon for warrior or mage.
+~
+AffectObj
+17 -2
+EndObj
+
+#OBJ
+Vnum 4150
+Name black potion~
+Short a black potion~
+Desc A thick black potion is here.~
+Material glass~
+Item_type potion
+Extra G
+Extra2 0
+Wear AO
+Values 9 'cure critical' '' '' ''
+Level 5
+Weight 10
+Cost 320
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+ExtraDesc
+potion black~
+It looks healthy.
+~
+EndObj
+
+#OBJ
+Vnum 4151
+Name staff oak~
+Short a heavy oak staff~
+Desc A ancient heavy oak staff is here.~
+Material wood~
+Item_type staff
+Extra G
+Extra2 0
+Wear AO
+Values 15 4 2 'harm' 0
+Level 13
+Weight 50
+Cost 5400
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+ExtraDesc
+runes~
+The runes says : Funthark.
+~
+ExtraDesc
+staff oak~
+You see it has some sort of runes on it.
+~
+AffectObj
+12 -20
+EndObj
+
+#OBJ
+Vnum 4152
+Name dagger light silver~
+Short a light silver dagger~
+Desc A light silver dagger is here.~
+Material silver~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values dagger 2 4 stab 0
+Level 7
+Weight 20
+Cost 660
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition P
+ExtraDesc
+dagger light silver~
+It looks like an excellent weapon for thieves.
+~
+AffectObj
+17 -1
+AffectObj
+18 1
+EndObj
+
+#OBJ
+Vnum 4153
+Name star morning morningstar~
+Short a morning star~
+Desc A heavy, spiked morning star is here.~
+Material iron~
+Item_type weapon
+Extra 0
+Extra2 0
+Wear AN
+Values mace 2 6 smash 0
+Level 9
+Weight 120
+Cost 270
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+ExtraDesc
+star morning~
+It's a huge length of wood studded with iron spikes and bands. You wouldn't
+want to meet this in a dark alley...
+~
+AffectObj
+2 -1
+AffectObj
+19 1
+EndObj
+
+#OBJ
+Vnum 4154
+Name map moria second~
+Short a map of the second level of Moria~
+Desc A rolled up map is here.~
+Material paper~
+Item_type map
+Extra 0
+Extra2 0
+Wear A
+Values A 0 0 0 0
+Level 0
+Weight 10
+Cost 100
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition W
+ExtraDesc
+map moria second~
+.
+    * * * MORIA - Map 2 * * *
+     = = =============== = =
+
+Maze--Maze
+ |     |    (Map 1)
+ |    Maze--Tunnel*
+ |
+Maze--Maze--Maze--Maze
+              |
+     Large--Large
+     Cave   Cave
+      |       |
+     Large--Large--Tunnel--End of
+     Cave    Cave    |     Tunnel
+                   *Hole
+                  (Map 3)
+~
+EndObj
+
+#OBJ
+Vnum 4155
+Name map moria third~
+Short a map of the third level of Moria~
+Desc A rolled up map is here.~
+Material paper~
+Item_type map
+Extra 0
+Extra2 0
+Wear A
+Values A 0 0 0 0
+Level 0
+Weight 10
+Cost 200
+Plevel 0
+Exp 0
+Xp_tolevel 0
+Condition G
+ExtraDesc
+map moria third~
+.
+                                                   (Map 1*)
+                             Long                     |
+        Tunnel----Tunnel----Tunnel--Tunnel--Tunnel--Tunnel
+          |                   |
+          |                  Gold--Gold
+          |                  Cave  Cave
+          |                   |      |
+          |                  Gold--Gold---Passage
+          |                  Cave  Cave      |
+          |                   |           Passage--Tunnel--Tunnel--Tunnel
+          |          Dark*---Gold            |
+          |         Passage  Cave            |     Secret
+          |                               Passage  Chamber
+          |                      Hole        |       |
+          |                        |      Passage  Secret
+        Large   Large   Large    Small       |     Chamber--Cave--Cave
+        Tunnel--Tunnel--Tunnel--Passage      |                |      |
+          |                        |      Passage-----------Cave--Cave
+          |                       Long
+          |                      Tunnel
+         Wet    Small  Small       |
+        Tunnel--Maze---Maze   Inscription
+          |       |      |         |
+         Wet    Small--Small-----Small
+        Tunnel  Maze   Maze      Maze
+          |       |                |
+          |      Wet    Wet      End of
+        Water    Maze---Maze-----Tunnel
+          |       |      |
+        Water---Water  End of
+                       Maze*
+                      (Map 2)
+~
+EndObj
+
+#END
+
+
+
+#ROOMSNEW
+#ROOM
+Vnum 4100
+Name The tunnel~
+Desc Suddenly you feel that the tunnel leads slightly down.
+~
+Room_flags 13
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4052
+0
+Exit
+3
+~
+~
+0
+4101
+0
+EndRoom
+
+#ROOM
+Vnum 4101
+Name The long tunnel~
+Desc You are in a long east-west leading tunnel. The tunnel is quite
+wide at this point.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4100
+0
+Exit
+3
+~
+~
+0
+4102
+0
+EndRoom
+
+#ROOM
+Vnum 4102
+Name The long tunnel~
+Desc You are in a long east-west leading tunnel. The tunnel becomes
+narrow to the west.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4101
+0
+Exit
+3
+~
+~
+0
+4103
+0
+EndRoom
+
+#ROOM
+Vnum 4103
+Name The long tunnel~
+Desc You are in a long east-west leading tunnel. The tunnel is quite
+narrow at this point. You notice a small hole leading south.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4102
+0
+Exit
+2
+~
+~
+0
+4106
+0
+Exit
+3
+~
+~
+0
+4104
+0
+EndRoom
+
+#ROOM
+Vnum 4104
+Name The long tunnel~
+Desc You are in a long east-west leading tunnel. The tunnel starts sloping
+down towards the west.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4103
+0
+Exit
+3
+~
+~
+0
+4152
+0
+EndRoom
+
+#ROOM
+Vnum 4105
+Name The golden cave~
+Desc You are in a giant cave, all the walls are shining with a soft golden
+light. The cave continues to the south and west.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+4108
+0
+Exit
+3
+~
+~
+0
+4106
+0
+EndRoom
+
+#ROOM
+Vnum 4106
+Name The golden cave~
+Desc You are in a giant cave, all the walls are shining with a soft golden
+light. The cave continues to the south and east, to the north is a narrow
+tunnel.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4103
+0
+Exit
+1
+~
+~
+0
+4105
+0
+Exit
+2
+~
+~
+0
+4109
+0
+EndRoom
+
+#ROOM
+Vnum 4107
+Name The passage~
+Desc You are in a small passage, it leads south, to the west is a golden
+cave.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+4113
+0
+Exit
+3
+~
+~
+0
+4108
+0
+EndRoom
+
+#ROOM
+Vnum 4108
+Name The golden cave~
+Desc You are in a giant cave, all the walls are shining with a soft golden
+light. The cave continues to the north and west, east from you there is
+a small passage.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4105
+0
+Exit
+1
+~
+~
+0
+4107
+0
+Exit
+3
+~
+~
+0
+4109
+0
+EndRoom
+
+#ROOM
+Vnum 4109
+Name The golden cave~
+Desc You are in a giant cave, all the walls are shining with a soft golden
+light. The cave continues to the south, east and north.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4106
+0
+Exit
+1
+~
+~
+0
+4108
+0
+Exit
+2
+~
+~
+0
+4114
+0
+EndRoom
+
+#ROOM
+Vnum 4110
+Name The tunnel~
+Desc You are at the end of the tunnel.
+~
+Room_flags 13
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+4111
+0
+EndRoom
+
+#ROOM
+Vnum 4111
+Name The tunnel~
+Desc You are in a small tunnel, it leads from east to the west.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4110
+0
+Exit
+3
+~
+~
+0
+4112
+0
+EndRoom
+
+#ROOM
+Vnum 4112
+Name The tunnel~
+Desc You are in a larger tunnel, it leads from west to east.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4111
+0
+Exit
+3
+~
+~
+0
+4113
+0
+EndRoom
+
+#ROOM
+Vnum 4113
+Name The passage~
+Desc You are in a passage that leads towards the south. To the east 
+you see a tunnel.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4107
+0
+Exit
+1
+~
+~
+0
+4112
+0
+Exit
+2
+~
+~
+0
+4116
+0
+EndRoom
+
+#ROOM
+Vnum 4114
+Name The golden cave~
+Desc You are in a giant cave, all the walls are shining with a soft golden
+light. The cave continues to the north, to the west you see a dark 
+passage.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4109
+0
+Exit
+3
+~
+~
+0
+4115
+0
+EndRoom
+
+#ROOM
+Vnum 4115
+Name The dark passage.~
+Desc You are in a dark passage, that leads east. In the ceiling you notice
+a small hole, just big enough to pass through.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4114
+0
+Exit
+4
+~
+~
+0
+4021
+0
+EndRoom
+
+#ROOM
+Vnum 4116
+Name The passage~
+Desc You are in a passage that leads north-south. You notice a small
+light to the south.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4113
+0
+Exit
+2
+~
+~
+0
+4120
+0
+EndRoom
+
+#ROOM
+Vnum 4117
+Name The secret chamber~
+Desc You are in a secret chamber.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+4122
+0
+EndRoom
+
+#ROOM
+Vnum 4118
+Name The cave~
+Desc You are in a light cave, from torches several feet above your
+head fire lights the room. The cave continues to the west and south.
+To the north a small hole leads to a tunnel.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+4123
+0
+Exit
+3
+~
+~
+0
+4119
+0
+EndRoom
+
+#ROOM
+Vnum 4119
+Name The cave~
+Desc You are in a light cave, from torches several feet above your
+head fire lights the room. The cave continues to the east and south.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4118
+0
+Exit
+2
+~
+~
+0
+4124
+0
+Exit
+3
+~
+~
+0
+4121
+0
+EndRoom
+
+#ROOM
+Vnum 4120
+Name The passage~
+Desc You are in a north-south leading passage. To the south you see light.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4116
+0
+Exit
+2
+~
+~
+0
+4125
+0
+EndRoom
+
+#ROOM
+Vnum 4121
+Name The secret tunnel~
+Desc You are in a secret tunnel that leads west, you feel evilness
+approaching you as you continue west.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4119
+0
+Exit
+3
+~
+~
+0
+4122
+0
+EndRoom
+
+#ROOM
+Vnum 4122
+Name The secret chamber~
+Desc You are in a secret chamber, the room is filled with an evil
+feeling.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4117
+0
+Exit
+1
+~
+~
+0
+4121
+0
+EndRoom
+
+#ROOM
+Vnum 4123
+Name The cave~
+Desc You are in a light cave, from torches several feet above your
+head fire lights the room. The cave continues to the north and west.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4118
+0
+Exit
+3
+~
+~
+0
+4124
+0
+EndRoom
+
+#ROOM
+Vnum 4124
+Name The cave~
+Desc You are in a light cave, from torches several feet above your
+head fire lights the room. The cave continues to the east and north.
+To the west a passage leads north.
+~
+Room_flags 8
+Sector_type 1
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4119
+0
+Exit
+1
+~
+~
+0
+4123
+0
+Exit
+3
+~
+~
+0
+4125
+0
+EndRoom
+
+#ROOM
+Vnum 4125
+Name The passage~
+Desc You are in a passage, to the east you see a cave. Light from the
+cave lights up the passage. To the north the passage leads into
+the darkness.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4120
+0
+Exit
+1
+~
+~
+0
+4124
+0
+EndRoom
+
+#ROOM
+Vnum 4150
+Name The dark hole~
+Desc You are standing at a hole, a small passage leads south. You see
+some inscriptions on the wall, most of 'em the usual stuff, like:
+'Super Snude was here' and 'Why does the mayor likes secretaries with
+small hands?' - But one inscription gets your attention, it says:
+The Balrog is ALIVE ...
+~
+Room_flags 13
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+4151
+0
+EndRoom
+
+#ROOM
+Vnum 4151
+Name The small passage~
+Desc You are in a small passage, to the north you see a hole, and to
+the south you see a large tunnel. The air is damp in this area.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4150
+0
+Exit
+2
+~
+~
+0
+4156
+0
+Exit
+3
+~
+~
+0
+4155
+0
+EndRoom
+
+#ROOM
+Vnum 4152
+Name The tunnel~
+Desc You suddenly feel that the tunnel leads down.
+~
+Room_flags 13
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4104
+0
+Exit
+2
+~
+~
+0
+4153
+0
+EndRoom
+
+#ROOM
+Vnum 4153
+Name The large tunnel~
+Desc You are in a large tunnel leading from the south to the east. The
+air is damp in the area.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4152
+0
+Exit
+1
+~
+~
+0
+4154
+0
+Exit
+2
+~
+~
+0
+4157
+0
+EndRoom
+
+#ROOM
+Vnum 4154
+Name The large tunnel~
+Desc You are in a large east-west leading tunnel, the air is damp and
+the floor is wet.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4155
+0
+Exit
+3
+~
+~
+0
+4153
+0
+EndRoom
+
+#ROOM
+Vnum 4155
+Name The large tunnel~
+Desc You are in a large tunnel, the tunnel leads west, and to the east
+you notice a long tunnel. The air is damp in this area.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4151
+0
+Exit
+3
+~
+~
+0
+4154
+0
+EndRoom
+
+#ROOM
+Vnum 4156
+Name The long tunnel~
+Desc You are standing in a long north-south tunnel.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4151
+0
+Exit
+2
+~
+~
+0
+4160
+0
+EndRoom
+
+#ROOM
+Vnum 4157
+Name The wet tunnel~
+Desc You are in a wet, north-south leading tunnel, the floor is
+partly covered by water.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4153
+0
+Exit
+1
+~
+~
+0
+4158
+0
+Exit
+2
+~
+~
+0
+4161
+0
+EndRoom
+
+#ROOM
+Vnum 4158
+Name The small maze~
+Desc You are in a small maze, exits leads off to the east,  south
+and west. The floor is partly covered by water.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4159
+0
+Exit
+2
+~
+~
+0
+4162
+0
+Exit
+3
+~
+~
+0
+4157
+0
+EndRoom
+
+#ROOM
+Vnum 4159
+Name The small maze~
+Desc You are in a small maze, exits leads off only to the south
+and west. The air is damp in this maze.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+4163
+0
+Exit
+3
+~
+~
+0
+4158
+0
+EndRoom
+
+#ROOM
+Vnum 4160
+Name In the tunnel at the inscription~
+Desc You are in a north-south leading tunnel, the air is damp. On
+the wall there is an inscription.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+inscription~
+It says:
+
+    Year 631 after the destruction of the dwarven realm.
+
+  We found the sword of the dwarven king, but it was guarded
+by a large green dragon. All but two died immediately as the
+dragon breathed poison gas; we are also going to die soon.
+
+       Trather and Oralane
+~
+Exit
+0
+~
+~
+0
+4156
+0
+Exit
+2
+~
+~
+0
+4164
+0
+EndRoom
+
+#ROOM
+Vnum 4161
+Name The wet tunnel~
+Desc You are in a north-south leading tunnel.  The floor is fully
+covered by water.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4157
+0
+Exit
+2
+~
+~
+0
+4165
+0
+EndRoom
+
+#ROOM
+Vnum 4162
+Name The small maze~
+Desc You are in a small maze. The floor is mainly covered by
+water, exits leads north, east and south.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4158
+0
+Exit
+1
+~
+~
+0
+4163
+0
+Exit
+2
+~
+~
+0
+4166
+0
+EndRoom
+
+#ROOM
+Vnum 4163
+Name The small maze~
+Desc You are in a small maze, where the air is damp. Exits
+leads to the north and east.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4159
+0
+Exit
+1
+~
+~
+0
+4164
+0
+Exit
+3
+~
+~
+0
+4162
+0
+EndRoom
+
+#ROOM
+Vnum 4164
+Name The entrance to the small maze~
+Desc You are in a north-south leading tunnel, and the air is damp.
+To the west you see a small maze.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4160
+0
+Exit
+2
+~
+~
+0
+4168
+0
+Exit
+3
+~
+~
+0
+4163
+0
+EndRoom
+
+#ROOM
+Vnum 4165
+Name In the water~
+Desc You are standing in water, the tunnel continues both to the
+north and south.
+~
+Room_flags 9
+Sector_type 6
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4161
+0
+Exit
+2
+~
+~
+0
+4169
+0
+EndRoom
+
+#ROOM
+Vnum 4166
+Name The wet maze~
+Desc You are in a part of the maze where the floor is fully covered
+by water. The maze continues to the north, east and south.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4162
+0
+Exit
+1
+~
+~
+0
+4167
+0
+Exit
+2
+~
+~
+0
+4170
+0
+EndRoom
+
+#ROOM
+Vnum 4167
+Name The wet maze~
+Desc You are in a small maze, the floor is covered by water, the
+maze continues east, west and south.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4168
+0
+Exit
+2
+~
+~
+0
+4171
+0
+Exit
+3
+~
+~
+0
+4166
+0
+EndRoom
+
+#ROOM
+Vnum 4168
+Name The end of the tunnel~
+Desc The tunnel suddenly stops here, only exit is to the west.
+The air is damp here.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4164
+0
+Exit
+3
+~
+~
+0
+4167
+0
+EndRoom
+
+#ROOM
+Vnum 4169
+Name In the water~
+Desc You are standing in the water, exits leads both north and east.
+~
+Room_flags 9
+Sector_type 6
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4165
+0
+Exit
+1
+~
+~
+0
+4170
+0
+EndRoom
+
+#ROOM
+Vnum 4170
+Name In the water~
+Desc You are standing in the water, it continues east and west.
+~
+Room_flags 9
+Sector_type 6
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4166
+0
+Exit
+1
+~
+~
+0
+4172
+0
+Exit
+3
+~
+~
+0
+4169
+0
+EndRoom
+
+#ROOM
+Vnum 4171
+Name End of maze~
+Desc You are at the end of the small maze which continues north.
+Above you a hole leads up.
+~
+Room_flags 13
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4167
+0
+Exit
+4
+~
+~
+0
+4074
+0
+EndRoom
+
+#ROOM
+Vnum 4172
+Name At the sand bar~
+Desc You are on a little sand bar in the water.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+4170
+0
+EndRoom
+
+#ROOM
+Vnum 3900
+Name West trail around Midgaard~
+Desc You are on a dusty trail following the outside wall of Midgaard.
+To the east the wall towers over you and to the west you see the
+forest of Haon-Dor. The trail leads north and south along the wall. 
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The dusty trail winds north closely to the wall.
+~
+~
+-1
+3901
+0
+Exit
+2
+The dusty trail leads to outside the west gate of Midgaard.
+~
+~
+-1
+3052
+0
+EndRoom
+
+#ROOM
+Vnum 3901
+Name West trail around Midgaard~
+Desc You are on a dusty trail following the outside wall of Midgaard.
+To the east the wall towers over you and to the west you see the
+forest of Haon-Dor. The trail leads north and south along the wall. 
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+To the north you notice the path makes a turn, following the City wall. 
+~
+~
+-1
+3902
+0
+Exit
+2
+The dusty trail continues towards the south.
+~
+~
+-1
+3900
+0
+EndRoom
+
+#ROOM
+Vnum 3902
+Name Northwest corner of dusty trail.~
+Desc You are standing outside the northwestern corner of the city wall.
+The trail leads east following the north wall and south towards the gate.  
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The dusty trail winds close up to the north wall of Midgaard.
+~
+~
+-1
+3903
+0
+Exit
+2
+The dusty trail leads south towards the gate.
+~
+~
+-1
+3901
+0
+EndRoom
+
+#ROOM
+Vnum 3903
+Name Dusty trail along north wall.~
+Desc You are walking on the trail following the outside of Midgaard's
+northern wall.  
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The dusty trail is winding along the north wall of Midgaard.
+~
+~
+-1
+3904
+0
+Exit
+3
+The dusty trail turns left around the corner of the wall, behind it Haon-Dor. 
+~
+~
+-1
+3902
+0
+EndRoom
+
+#ROOM
+Vnum 3904
+Name The long dusty trail following the north wall.~
+Desc You are just outside the northern gate of Midgaard.  You can continue along
+the trail to the east or west, head onwards to the plains of the north, or
+enter Midgaard to the south.  You can just barely make out the buildings of
+Midgaard from here, the Temple of Mota looks impressive even from this
+distance.  
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+A small path extends into the plains.
+~
+~
+-1
+300
+0
+Exit
+1
+The dusty trail is winding along the north wall of Midgaard. 
+~
+~
+-1
+3905
+0
+Exit
+2
+You see the south gate of Midgaard.
+~
+~
+-1
+3268
+0
+Exit
+3
+The dusty trail is winding along the north wall of Midgaard.
+~
+~
+-1
+3903
+0
+EndRoom
+
+#ROOM
+Vnum 3905
+Name Dusty trail along north wall.~
+Desc You are walking on the trail following the outside of Midgaard's
+northern wall.  
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+The dusty trail turns right around the corner of the wall. 
+You notice some mountains in the distance.
+~
+~
+-1
+3906
+0
+Exit
+3
+The dusty trail is winding along the north wall of Midgaard.
+~
+~
+-1
+3904
+0
+EndRoom
+
+#ROOM
+Vnum 3906
+Name Northeast corner of dusty trail.~
+Desc You are standing outside the northeastern corner of the city wall.
+The trail leads west following the north wall and south towards the gate.  
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+The dusty trail leads south towards the gate.
+~
+~
+-1
+3907
+0
+Exit
+3
+The dusty trail winds close up to the north wall of Midgaard.
+~
+~
+-1
+3905
+0
+EndRoom
+
+#ROOM
+Vnum 3907
+Name East trail around Midgaard~
+Desc You are on a dusty trail following the outside wall of Midgaard.
+To the west the wall towers over you and far to the east you see
+some mountains. The trail leads north and south along the wall. 
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+To the north you notice the path makes a turn, following the City wall. 
+~
+~
+-1
+3906
+0
+Exit
+2
+The dusty trail continues towards the south.
+~
+~
+-1
+3908
+0
+EndRoom
+
+#ROOM
+Vnum 3908
+Name East trail around Midgaard~
+Desc You are on a dusty trail following the outside wall of Midgaard.
+To the west the wall towers over you and far to the east you see
+some mountains. The trail leads north and south along the wall. 
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+The dusty trail winds north closely to the wall.
+~
+~
+-1
+3907
+0
+Exit
+2
+The dusty trail leads to outside the east gate of Midgaard.
+~
+~
+-1
+3053
+0
+EndRoom
+
+#ROOM
+Vnum 4000
+Name The hills~
+Desc You are on a small bewildered path winding its way between the hills in
+lack of better things to do. To the south you have a splendid view over the
+flat, vast, desolate plains. To the north the hills grow steadily darker and
+foreboding. This is the cause of no sunset, it is rather the power of evil
+penetrating these quiet hills. Glancing around you notice only a single bird.
+The mountains of the dwarven kingdom rise up to your east, you can barely
+make out the queen's mines from here.
+~
+Room_flags 4
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4001
+0
+Exit
+1
+You see the mountains of the dwarven kingdom. 
+~
+~
+0
+6562
+0
+Exit
+2
+~
+~
+0
+3500
+0
+EndRoom
+
+#ROOM
+Vnum 4001
+Name The hills~
+Desc You are surrounded by dark and sinister hills. Although they seemed fairly
+small from a distance you now get the feeling that they're closing in on you,
+towering over you, overwhelming you ...  The small path seems to have second
+thoughts about these hills because it starts winding unnecessarily, turning
+several times around itself.  To the south the hills have a lighter hue of
+dark. To the north however, the hills have become nightblack holes in the
+distant mountains.
+~
+Room_flags 4
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4002
+0
+Exit
+2
+~
+~
+0
+4000
+0
+EndRoom
+
+#ROOM
+Vnum 4002
+Name End of the path~
+Desc At this point the path has had enough. With a terrified shudder it cowers
+to the ground, only staying here because you're standing on it. with a slight
+feeling of unease you look around noticing only a few bushes and a large sign
+carved into the mountain.  You feel you can hear the cry of help from a
+thousand silent voices all coming from an even darker hole in the mountain to
+the north marking the entrance to a cave (or a grave :-).
+~
+Room_flags 4
+Sector_type 4
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+sign~
+The sign says:
+
+        /---------------------\
+        | The Mines of Moria! |
+        |                     |
+        | Four levels.        |
+        |                     |
+        | Watch for mages!    |
+        |                     |
+        \---------------------/
+                 | |
+                 | |
+                 | |
+                 | |
+                 | |
+~
+ExtraDesc
+bushes~
+Small crippled bushes desperately trying to grow south.
+~
+Exit
+0
+~
+~
+0
+4010
+0
+Exit
+2
+~
+~
+0
+4001
+0
+EndRoom
+
+#ROOM
+Vnum 4010
+Name The cave~
+Desc You are in a large cave. The ceiling is lost somewhere above the reach of
+your light. The floor, however, is highly illuminated, your light flickering
+over several tombstones. Only one is whole, the rest have been shattered by
+some savage blow. The remaining tombstone looks disturbingly new...
+A small breeze of fresh air enters from the south (probably lost too). Take a
+good breath, it may be your last mouthful of air in a long, long time that
+others haven't breathed before you.
+To the north a small tunnel continues into the mountain.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+tombstone~
+The stone is inscribed with the unfortunate player's famous last words:
+
+  "What are you worrying about, it is just a small harmless snake"
+~
+Exit
+0
+~
+~
+0
+4011
+0
+Exit
+2
+~
+~
+0
+4002
+0
+EndRoom
+
+#ROOM
+Vnum 4011
+Name The tunnel~
+Desc You squeeze your way through a small, narrow tunnel. The sharp-edged rocks
+protruding from the walls threaten to scratch and cut you. 
+To the south you sense a freshness in the air which is rather unusual in these
+damp, stuffy tunnels. To the north the tunnel continues.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4014
+0
+Exit
+2
+~
+~
+0
+4010
+0
+EndRoom
+
+#ROOM
+Vnum 4012
+Name The tunnel~
+Desc You are in a part of the tunnel that looks uncannily like the rest except
+that it goes in a east-north direction. To the north the tunnel widens into
+a cave.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4016
+0
+Exit
+1
+~
+~
+0
+4013
+0
+EndRoom
+
+#ROOM
+Vnum 4013
+Name The tunnel~
+Desc This tunnel, leading east-west, seems seldom used.  A thick layer of dust
+covers the floor, making the air stuffy and dry. 
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4014
+0
+Exit
+3
+~
+~
+0
+4012
+0
+EndRoom
+
+#ROOM
+Vnum 4014
+Name The tunnel~
+Desc You are walking in a narrow tunnel. The walls are only roughly shaped,
+sharp rocks protruding everywhere, even from the floor making you stumble in
+the flickering light. To the south the tunnel narrows even more making it
+almost impossible to pass. To the north it slowly widens into a cave. There
+is a branch of the tunnel going west.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4018
+0
+Exit
+1
+~
+~
+0
+4015
+0
+Exit
+2
+~
+~
+0
+4011
+0
+Exit
+3
+~
+~
+0
+4013
+0
+EndRoom
+
+#ROOM
+Vnum 4015
+Name The tunnel~
+Desc You are in a corner tunnel leading west and north.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4019
+0
+Exit
+3
+~
+~
+0
+4014
+0
+EndRoom
+
+#ROOM
+Vnum 4016
+Name The large cave~
+Desc You are in a large cave, the cave continues east and west, to the south
+you notice a small tunnel.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4017
+0
+Exit
+2
+~
+~
+0
+4012
+0
+Exit
+3
+~
+~
+0
+4023
+0
+EndRoom
+
+#ROOM
+Vnum 4017
+Name The large cave~
+Desc You are in the east end of the large cave.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+4016
+0
+EndRoom
+
+#ROOM
+Vnum 4018
+Name The cave~
+Desc You are in the south end of a cave, to the south you see a tunnel. You
+notice a large pile of bones in the corner.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+pile bones~
+Some of the bones are human!
+~
+Exit
+0
+~
+~
+0
+4025
+0
+Exit
+2
+~
+~
+0
+4014
+0
+EndRoom
+
+#ROOM
+Vnum 4019
+Name The tunnel~
+Desc You are in a north-south leading tunnel.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4026
+0
+Exit
+2
+~
+~
+0
+4015
+0
+EndRoom
+
+#ROOM
+Vnum 4020
+Name The hole~
+Desc You are by a hole in the floor, you can leave down, or north.
+~
+Room_flags 13
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4027
+0
+Exit
+5
+~
+~
+0
+4064
+0
+EndRoom
+
+#ROOM
+Vnum 4021
+Name The hole~
+Desc A hole in the floor leads down here.
+~
+Room_flags 13
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4022
+0
+Exit
+5
+~
+~
+0
+4115
+0
+EndRoom
+
+#ROOM
+Vnum 4022
+Name The damp tunnel~
+Desc You are in a damp tunnel.  Your clothes feel wet.  The tunnel continues
+to the north; to the west you see a hole in the floor; and to the east
+there is a large cave.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4023
+0
+Exit
+1
+~
+~
+0
+4024
+0
+Exit
+3
+~
+~
+0
+4021
+0
+EndRoom
+
+#ROOM
+Vnum 4023
+Name The large cave~
+Desc You are in the western part of the large cave, to the south you see
+a damp tunnel.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4016
+0
+Exit
+2
+~
+~
+0
+4022
+0
+EndRoom
+
+#ROOM
+Vnum 4024
+Name The damp tunnel~
+Desc You are in a corner of a damp tunnel.  You can go west or south.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+4059
+0
+Exit
+3
+~
+~
+0
+4022
+0
+EndRoom
+
+#ROOM
+Vnum 4025
+Name The cave~
+Desc You are in the north end of a cave.  To the east you see many tunnels.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4026
+0
+Exit
+2
+~
+~
+0
+4018
+0
+EndRoom
+
+#ROOM
+Vnum 4026
+Name The many tunnels~
+Desc You are at the intersection of many tunnels.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4028
+0
+Exit
+1
+~
+~
+0
+4027
+0
+Exit
+2
+~
+~
+0
+4019
+0
+Exit
+3
+~
+~
+0
+4025
+0
+EndRoom
+
+#ROOM
+Vnum 4027
+Name The tunnel~
+Desc You are in a north-south leading tunnel, you also notice a tunnel to
+the west. From the north you sense the fresh air!
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4029
+0
+Exit
+2
+~
+~
+0
+4020
+0
+Exit
+3
+~
+~
+0
+4026
+0
+EndRoom
+
+#ROOM
+Vnum 4028
+Name The smelly tunnel~
+Desc You are in a north-south leading tunnel, you see a small light
+to the north. You notice a strange smell from the north..
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4030
+0
+Exit
+2
+~
+~
+0
+4026
+0
+EndRoom
+
+#ROOM
+Vnum 4029
+Name The cave~
+Desc You are in a cave that is filled with fresh air, you sense the
+wind blowing from the north. To the south you see a small tunnel
+continue into the mountain.
+~
+Room_flags 13
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4031
+0
+Exit
+2
+~
+~
+0
+4027
+0
+EndRoom
+
+#ROOM
+Vnum 4030
+Name The light cave~
+Desc You are in a light cave, through a hole large above you, you see 
+the sky. A small tunnel to the south is the only way out.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+4028
+0
+EndRoom
+
+#ROOM
+Vnum 4031
+Name The valley~
+Desc You are in a small valley, surrounded by hills and a mountain to 
+the south. In the mountain there is a cave.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+ExtraDesc
+cave~
+Well it doesn't look nice, but it's the only way out.
+~
+Exit
+0
+~
+~
+0
+4032
+0
+Exit
+2
+~
+~
+0
+4029
+0
+EndRoom
+
+#ROOM
+Vnum 4032
+Name The foothills~
+Desc You are on a winding path that leads through the foothills on the
+other side of the mountain.  The path continues north.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4033
+0
+Exit
+2
+~
+~
+0
+4031
+0
+EndRoom
+
+#ROOM
+Vnum 4033
+Name The intersection in the foothills~
+Desc The small path you are following splits here.  The path continues
+north and south or you can follow a trail east into the mountains.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4034
+0
+Exit
+1
+~
+~
+0
+4037
+0
+Exit
+2
+~
+~
+0
+4032
+0
+EndRoom
+
+#ROOM
+Vnum 4034
+Name The grassy area of the foothills~
+Desc The grass here is unusually high.  You notice several areas where
+someone or something large has crushed spots of the grass down.  Several very
+large rocks litter this area.  You can go north, west or south.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4035
+0
+Exit
+2
+~
+~
+0
+4033
+0
+Exit
+3
+~
+~
+0
+4042
+0
+EndRoom
+
+#ROOM
+Vnum 4035
+Name The foothills end~
+Desc At this point you are leaving the foothills.  You see a plains area
+to the north of here.  You can spot a small city in the distance from
+here.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4036
+0
+Exit
+2
+~
+~
+0
+4034
+0
+EndRoom
+
+#ROOM
+Vnum 4036
+Name The plains~
+Desc The plains.  Exits are south.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+4035
+0
+EndRoom
+
+#ROOM
+Vnum 4037
+Name The foothills path~
+Desc Exits are east and west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4038
+0
+Exit
+3
+~
+~
+0
+4033
+0
+EndRoom
+
+#ROOM
+Vnum 4038
+Name Base of the mountain~
+Desc Exits are east and west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4039
+0
+Exit
+3
+~
+~
+0
+4037
+0
+EndRoom
+
+#ROOM
+Vnum 4039
+Name A trail up the mountain~
+Desc Exits are east and west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4040
+0
+Exit
+3
+~
+~
+0
+4038
+0
+EndRoom
+
+#ROOM
+Vnum 4040
+Name The mountain top.~
+Desc Exits are north, east, and west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4041
+0
+Exit
+1
+It doesn't look safe this way.
+~
+~
+0
+7114
+0
+Exit
+3
+~
+~
+0
+4039
+0
+EndRoom
+
+#ROOM
+Vnum 4041
+Name The lion's den~
+Desc Exits are south.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+4040
+0
+EndRoom
+
+#ROOM
+Vnum 4042
+Name The level foothills~
+Desc Exits are east and west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4034
+0
+Exit
+3
+~
+~
+0
+4043
+0
+EndRoom
+
+#ROOM
+Vnum 4043
+Name The cave entrance~
+Desc Exits are east and west.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4042
+0
+Exit
+3
+~
+~
+0
+4044
+0
+EndRoom
+
+#ROOM
+Vnum 4044
+Name The hill giant cave~
+Desc Exits are east.
+~
+Room_flags 0
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4043
+0
+EndRoom
+
+#ROOM
+Vnum 4050
+Name The tunnel~
+Desc The tunnel turns here, continuing to the east and south.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4051
+0
+Exit
+2
+~
+~
+0
+4053
+0
+EndRoom
+
+#ROOM
+Vnum 4051
+Name The tunnel~
+Desc You are in a narrow east-west tunnel.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4052
+0
+Exit
+3
+~
+~
+0
+4050
+0
+EndRoom
+
+#ROOM
+Vnum 4052
+Name The tunnel~
+Desc You are at a turn, the tunnel continues south and west.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+4100
+0
+Exit
+3
+~
+~
+0
+4051
+0
+EndRoom
+
+#ROOM
+Vnum 4053
+Name The tunnel~
+Desc You are at a turn, the tunnel continues north and east.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4050
+0
+Exit
+1
+~
+~
+0
+4054
+0
+EndRoom
+
+#ROOM
+Vnum 4054
+Name The light cave~
+Desc You are in a cave, to south from you there is a large fire that lights
+the entire cave, to the east and west tunnels leads off.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4055
+0
+Exit
+2
+~
+~
+0
+4056
+0
+Exit
+3
+~
+~
+0
+4053
+0
+EndRoom
+
+#ROOM
+Vnum 4055
+Name The maze~
+Desc You are in a maze of small damp tunnels.  The only exit is west.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+4054
+0
+EndRoom
+
+#ROOM
+Vnum 4056
+Name The light cave~
+Desc You are in a light cave, a large fire in front of you lights the room.
+The cave continues to the north and south.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4054
+0
+Exit
+2
+~
+~
+0
+4061
+0
+EndRoom
+
+#ROOM
+Vnum 4057
+Name The maze~
+Desc You are in a maze of small damp tunnels.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4058
+0
+Exit
+2
+~
+~
+0
+4062
+0
+EndRoom
+
+#ROOM
+Vnum 4058
+Name The maze~
+Desc You are in a maze of small damp tunnels.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+2
+~
+~
+0
+4063
+0
+Exit
+3
+~
+~
+0
+4057
+0
+EndRoom
+
+#ROOM
+Vnum 4059
+Name The tunnel~
+Desc You are in a tunnel, only exit is to the east. You sense that the
+tunnel leads slightly down.
+~
+Room_flags 13
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4024
+0
+Exit
+1
+~
+~
+0
+4060
+0
+EndRoom
+
+#ROOM
+Vnum 4060
+Name The tunnel~
+Desc You are in a small tunnel, to the west the tunnel continues and 
+to the east you see some light.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4061
+0
+Exit
+3
+~
+~
+0
+4059
+0
+EndRoom
+
+#ROOM
+Vnum 4061
+Name The light cave~
+Desc You are in the south end of a light cave.
+~
+Room_flags 8
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4056
+0
+Exit
+3
+~
+~
+0
+4060
+0
+EndRoom
+
+#ROOM
+Vnum 4062
+Name The maze~
+Desc You are in a maze of small damp tunnels.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4057
+0
+Exit
+1
+~
+~
+0
+4065
+0
+EndRoom
+
+#ROOM
+Vnum 4063
+Name The maze~
+Desc You are in a maze of small damp tunnels.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4058
+0
+Exit
+1
+~
+~
+0
+4064
+0
+EndRoom
+
+#ROOM
+Vnum 4064
+Name The tunnel~
+Desc You are at the eastern end of a tunnel.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+4063
+0
+Exit
+4
+~
+~
+0
+4020
+0
+EndRoom
+
+#ROOM
+Vnum 4065
+Name The maze~
+Desc You are in a maze of small damp tunnels.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4066
+0
+Exit
+3
+~
+~
+0
+4062
+0
+EndRoom
+
+#ROOM
+Vnum 4066
+Name The maze~
+Desc You are in a maze of small damp tunnels.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4067
+0
+Exit
+2
+~
+~
+0
+4069
+0
+Exit
+3
+~
+~
+0
+4065
+0
+EndRoom
+
+#ROOM
+Vnum 4067
+Name The maze~
+Desc You are in a maze of small damp tunnels.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+4066
+0
+EndRoom
+
+#ROOM
+Vnum 4068
+Name The large cave~
+Desc You are in the northwest end of a large cave.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4069
+0
+Exit
+2
+~
+~
+0
+4070
+0
+EndRoom
+
+#ROOM
+Vnum 4069
+Name The large cave~
+Desc You are in the northeast end of a large cave. To the north the
+is a small damp tunnel.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4066
+0
+Exit
+2
+~
+~
+0
+4071
+0
+Exit
+3
+~
+~
+0
+4068
+0
+EndRoom
+
+#ROOM
+Vnum 4070
+Name The large cave~
+Desc You are in the southwest end of a large cave.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4068
+0
+Exit
+1
+~
+~
+0
+4071
+0
+EndRoom
+
+#ROOM
+Vnum 4071
+Name The large cave~
+Desc You are in the southeast end of a large cave. To the east you
+notice a small tunnel.
+~
+Room_flags 9
+Sector_type 2
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4069
+0
+Exit
+1
+~
+~
+0
+4072
+0
+Exit
+3
+~
+~
+0
+4070
+0
+EndRoom
+
+#ROOM
+Vnum 4072
+Name The tunnel~
+Desc You are in a narrow tunnel, which leads both to the east and the
+south. There is also an exit towards the west, where you see a large
+cave.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+1
+~
+~
+0
+4073
+0
+Exit
+2
+~
+~
+0
+4074
+0
+Exit
+3
+~
+~
+0
+4071
+0
+EndRoom
+
+#ROOM
+Vnum 4073
+Name End of tunnel~
+Desc The tunnel stops here.
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+3
+~
+~
+0
+4072
+0
+EndRoom
+
+#ROOM
+Vnum 4074
+Name The hole~
+Desc You are at a small hole in the floor, you can either leave north
+or try your luck and leave down into the unknown!
+~
+Room_flags 9
+Sector_type 3
+X 0 0 0 0 0 0 0 0 0 0 0
+Exit
+0
+~
+~
+0
+4072
+0
+Exit
+5
+~
+~
+0
+4171
+0
+EndRoom
+
+#END
+
+
+
+#SPECIALS
+M 4100 spec_cast_mage
+M 4102 spec_poison
+M 4150 spec_breath_lightning
+M 4151 spec_breath_fire
+M 4152 spec_breath_gas
+M 4153 spec_breath_frost
+M 4154 spec_breath_acid
+M 4155 spec_thief
+M 4157 spec_cast_mage
+M 4158 spec_poison
+M 4000 spec_poison
+M 4001 spec_poison
+M 4053 spec_poison
+S
+
+
+
+#RESETS
+M 0 4102 3 4103 1
+G 0 4103 0
+M 0 4103 1 4103 1
+E 0 4053 0 16
+E 0 3068 0 7
+E 0 3066 0 5
+E 0 3069 0 8
+M 0 4105 3 4108 3
+M 0 4102 2 4111 2
+G 0 4103 0
+M 0 4102 2 4111 2
+G 0 4104 0
+M 0 4106 2 4113 2
+E 0 4105 0 16
+E 0 4101 0 9
+M 0 4100 1 4114 1
+G 0 4102 0
+G 0 4155 0
+E 0 3351 0 16
+M 0 4107 1 4119 1
+E 0 3023 0 16
+G 0 4104 0
+M 0 4101 1 4122 1
+E 0 4100 0 16
+M 0 4104 3 4124 3
+E 0 4057 0 16
+G 0 4104 0
+M 0 4156 1 4151 1
+E 0 4105 0 16
+M 0 4159 2 4153 1
+M 0 4150 2 4155 1
+M 0 4152 2 4155 1
+M 0 4151 2 4157 1
+M 0 4154 2 4157 1
+M 0 4155 1 4158 1
+E 0 4152 0 16
+M 0 4151 2 4159 1
+M 0 4152 2 4159 1
+M 0 4160 2 4160 1
+E 0 3045 0 5
+E 0 4055 0 16
+G 0 4150 0
+M 0 4160 2 4161 1
+E 0 3110 0 5
+E 0 3026 0 16
+M 0 4158 2 4162 1
+M 0 4153 2 4164 1
+M 0 4154 2 4164 1
+M 0 4157 2 4167 2
+E 0 3351 0 16
+M 0 4157 2 4167 2
+E 0 4151 0 17
+E 0 3351 0 16
+M 0 4159 2 4168 1
+M 0 4158 2 4169 1
+M 0 4150 2 4170 1
+M 0 4153 2 4170 1
+M 0 4003 6 4013 1
+E 0 3021 0 16
+E 0 3117 0 11
+M 0 4003 6 4013 1
+E 0 3023 0 16
+M 0 4001 2 4015 1
+M 0 4004 3 4015 1
+E 0 3029 0 16
+M 0 4002 3 4017 1
+M 0 4002 3 4020 1
+M 0 4003 6 4021 1
+E 0 4003 0 16
+M 0 4003 6 4021 1
+E 0 3023 0 16
+M 0 4005 1 4022 1
+E 0 4000 0 1
+E 0 3022 0 16
+E 0 3114 0 9
+M 0 4002 3 4023 1
+M 0 4001 2 4025 1
+M 0 4003 6 4027 1
+E 0 3021 0 16
+M 0 4003 6 4027 1
+E 0 3025 0 16
+E 0 3117 0 11
+M 0 4004 3 4028 1
+E 0 4004 0 16
+M 0 4004 3 4028 1
+M 0 4000 1 4030 1
+G 0 4001 0
+P 0 4002 -1 4001 1
+G 0 4154 0
+M 0 4057 2 4042 2
+M 0 4058 1 4044 1
+E 0 4005 0 16
+E 0 4006 0 12
+M 0 4051 4 4050 1
+E 0 4056 0 16
+E 0 3077 0 10
+M 0 4054 3 4052 1
+M 0 4054 3 4053 1
+M 0 4051 4 4055 1
+E 0 4057 0 16
+E 0 3074 0 7
+M 0 4052 3 4056 1
+E 0 3023 0 16
+M 0 4056 2 4057 1
+E 0 3026 0 16
+M 0 4053 2 4058 1
+M 0 4052 3 4059 1
+E 0 3028 0 16
+M 0 4054 3 4060 1
+M 0 4050 1 4062 1
+E 0 4051 0 6
+E 0 4054 0 16
+E 0 3116 0 11
+M 0 4055 2 4064 1
+E 0 4058 0 16
+G 0 4050 0
+M 0 4052 3 4065 1
+E 0 3025 0 16
+M 0 4056 2 4067 1
+E 0 4004 0 16
+E 0 3097 0 11
+M 0 4053 2 4068 1
+O 0 4052 0 4068
+O 0 4052 0 4069
+M 0 4051 4 4070 1
+E 0 3027 0 16
+E 0 3072 0 6
+O 0 4052 0 4070
+M 0 4055 2 4071 1
+E 0 4059 0 16
+G 0 4050 0
+O 0 4052 0 4071
+M 0 4051 4 4073 1
+E 0 4055 0 16
+E 0 3072 0 5
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$
